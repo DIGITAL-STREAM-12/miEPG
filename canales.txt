@@ -3,6 +3,18 @@ La 2,La 2 Super Full HD 8k
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Eleven Sports 1,Eleven Sports 1 Polonia
-Eleven Sports 2,Eleven Sports 2 Polonia
-Canal.11.de.Costa.Rica.cr,Repretel 6
+Canal 4 de Costa Rica,Repretel 4
+Canal 6 de Costa Rica,Repretel 6
+Canal 11 de Costa Rica,Repretel 11
+Canal 7 de Costa Rica (Teletica),Teletica
+Canal Multimedios (Costa Rica),Multimedios 8
+Canal 13 de Costa Rica,Sinart canal 13
+Canal Extra TV 42 de Costa Rica,Extra tv 42
+Canal Tigo Sports (Costa Rica),Tigo Sports
+Canal FUTV,FUTV
+Canal ESPN (Costa Rica),Espn
+Canal ESPN 2 (Costa Rica),Espn 2
+Canal ESPN 3 (Costa Rica),Espn 3
+Canal ESPN 4 (Costa Rica),Espn 4
+Canal ESPN 5 (Costa Rica),Espn 5 A
+Canal ESPN 6 (Costa Rica),Espn 6
