@@ -12,15 +12,36 @@ Canal 13 de Costa Rica,Sinart canal 13
 Canal Extra TV 42 de Costa Rica,Extra tv 42
 Canal Tigo Sports (Costa Rica),Tigo Sports
 Canal FUTV,FUTV
+Tigo Sports CR,Tigo Sports
 Canal ESPN (Costa Rica),Espn
 Canal ESPN 2 (Costa Rica),Espn 2
 Canal ESPN 3 (Costa Rica),Espn 3
 Canal ESPN 4 (Costa Rica),Espn 4
 Canal ESPN 5 (Costa Rica),Espn 5 A
 Canal ESPN 6 (Costa Rica),Espn 6
+Canal ESPN 5 (Sudamérica),Espn 5 Sur
+Canal ESPN 7 (Sudamérica),Espn 7 Sur
+ESPN Premium,ESPN Premium
+Fox Deportes,Fox Deportes
+Fox Sports 2 Sur,Fox Sports 2 Sur
+Fox Sports 3 Sur,Fox Sports 3 Sur
+TUDN,TUDN MX
+TUDN USA,TUDN USA
+Win Sports CO,Win Sports
 Historia 720,Historia
 Odisea 720,Odisea
 Factoría de Ficción 720,FDF
 ESPN Deportes,Espn Deportes
 Fox Sports 2 Latinoamerica,Fox Sports 2
 FOX Sports (Cono Sur Argentina),Fox Sports Sur
+Mi TV Television Clasica,Mi TV Television Clasica
+RetroX TV,RetroX TV
+TeleRed,Telered
+Telesistema,Telesistema
+Tv Retro Palmares,Tv Retro Palmares
+Voice Over Radio TV,Voice Over TV
+Norte Informativo TV,Norte Informativo
+Teleclasica,Teleclasica
+Bein Sport en Espanol,Bein Sport en Espanol
+Cine Sony,Sony Cine
+Universo,NBC Universo
