@@ -18,3 +18,9 @@ Canal ESPN 3 (Costa Rica),Espn 3
 Canal ESPN 4 (Costa Rica),Espn 4
 Canal ESPN 5 (Costa Rica),Espn 5 A
 Canal ESPN 6 (Costa Rica),Espn 6
+Historia 720,Historia
+Odisea 720,Odisea
+Factoría de Ficción 720,FDF
+ESPN Deportes,Espn Deportes
+Fox Sports 2 Latinoamerica,Fox Sports 2
+FOX Sports (Cono Sur Argentina),Fox Sports Sur
