@@ -20,7 +20,7 @@ Canal.FUTV.(Costa.Rica).cr,FUTV
 Canal FUTV,FUTV
 Tigo Sports CR,Tigo Sports 2
 Canal ESPN (Costa Rica),Espn
-Canal ESPN 2 (Costa Rica),Espn 2
+Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte
 Canal ESPN 3 (Costa Rica),Espn 3
 Canal ESPN 4 (Costa Rica),Espn 4
 Canal ESPN 5 (Costa Rica),Espn 5 A
