@@ -16,6 +16,7 @@ Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
 Canal 13 de Costa Rica,Sinart canal 13
 Canal Extra TV 42 de Costa Rica,Extra tv 42
 Canal Tigo Sports (Costa Rica),Tigo Sports
+Canal.FUTV.(Costa.Rica).cr,FUTV
 Canal FUTV,FUTV
 Tigo Sports CR,Tigo Sports 2
 Canal ESPN (Costa Rica),Espn
@@ -32,7 +33,8 @@ Fox Sports 2 Sur,Fox Sports 2 Sur
 Fox Sports 3 Sur,Fox Sports 3 Sur
 TUDN,TUDN MX
 TUDN USA,TUDN USA
-Win Sports CO,Win Sports
+Win.Sports.HD.(COL)(WINHD).co,Win Sports
+Win.Sports.Premium.HD(Win+HD).co,Win Sports +
 Historia,Historia
 Odisea,Odisea
 Factoría de Ficción,FDF
@@ -50,3 +52,19 @@ Teleclasica,Teleclasica
 Bein Sport en Espanol,Bein Sport en Espanol
 Cine Sony,Sony Cine
 Universo,NBC Universo
+Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá
+Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá
+Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá
+Canal.13.de.Panamá.(Telemetro).pa,Telemetro
+AMERICA.TELEVISION.HD.(America.HD).pe,America Perú
+PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe,Panamericana
+ATV.HD.(ATV.HD).pe,ATV Perú
+GOL.PERU.HD.(GOL.PERU.HD).pe,Gol Perú
+LATINA.HD.(Latina.HD).pe,Latina Perú
+M.DEPORTES.HD.(M.Deportes.HD).pe,Movis. Deportes Perú
+Caracol.co,Caracol
+RCN.co,RCN
+DSPORTS.(COL).(DTSC).co,Dsports
+DSPORTS.2.(DTS2).co,Dsports 2
+DSPORTS.+(DTS+).co,Dsports +
+ESPN.co,Espn Colombia
