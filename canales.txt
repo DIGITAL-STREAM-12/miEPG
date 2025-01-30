@@ -17,7 +17,7 @@ Canal 13 de Costa Rica,Sinart canal 13
 Canal Extra TV 42 de Costa Rica,Extra tv 42
 Canal Tigo Sports (Costa Rica),Tigo Sports
 Canal.FUTV.(Costa.Rica).cr,FUTV
-Canal FUTV,FUTV
+Canal FUTV,FUTV cr
 Tigo Sports CR,Tigo Sports 2
 Canal ESPN (Costa Rica),Espn
 Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte
