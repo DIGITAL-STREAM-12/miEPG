@@ -28,9 +28,9 @@ Fox Sports 3 Sur,Fox Sports 3 Sur
 TUDN,TUDN MX
 TUDN USA,TUDN USA
 Win Sports CO,Win Sports
-Historia 720,Historia
-Odisea 720,Odisea
-Factoría de Ficción 720,FDF
+Historia,Historia
+Odisea,Odisea
+Factoría de Ficción,FDF
 ESPN Deportes,Espn Deportes
 Fox Sports 2 Latinoamerica,Fox Sports 2
 FOX Sports (Cono Sur Argentina),Fox Sports Sur
