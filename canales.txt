@@ -1,13 +1,18 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
+La 1 HD,La 1 HD,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
+La 2,La 2
+Antena 3 HD,Antena 3 HD
+Cuatro HD,Cuatro HD
+Telecinco HD,Telecinco HD
+La Sexta HD,La Sexta HD
+TCM HD,TCM HD
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
 Canal 4 de Costa Rica,Repretel 4
 Canal 6 de Costa Rica,Repretel 6
-Canal 11 de Costa Rica,Repretel 11
+Canal.11.de.Costa.Rica.cr,Repretel 11
 Canal 7 de Costa Rica (Teletica),Teletica
-Canal Multimedios (Costa Rica),Multimedios 8
+Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
 Canal 13 de Costa Rica,Sinart canal 13
 Canal Extra TV 42 de Costa Rica,Extra tv 42
 Canal Tigo Sports (Costa Rica),Tigo Sports
@@ -32,8 +37,8 @@ Historia,Historia
 Odisea,Odisea
 Factoría de Ficción,FDF
 ESPN Deportes,Espn Deportes
-Fox Sports 2 Latinoamerica,Fox Sports 2
-FOX Sports (Cono Sur Argentina),Fox Sports Sur
+I306.66365.schedulesdirect.org,Fox Sports 2
+I304.30262.schedulesdirect.org,Fox Sports Sur
 Mi TV Television Clasica,Mi TV Television Clasica
 RetroX TV,RetroX TV
 TeleRed,Telered
