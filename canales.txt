@@ -17,6 +17,7 @@ Canal.13.de.Costa.Rica.cr,Sinart canal 13
 Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
 Canal.Tigo.Sports.(Costa Rica).cr,Tigo Sports P1
 Canal.Tigo.Sports.de.Costa Rica.cr,Tigo Sports P2
+Canal.FUTV.sv,FUTV CR
 Canal.FUTV.(Costa.Rica).cr,FUTV P1
 Canal.FUTV.de.Costa.Rica.cr,FUTV P2
 Canal FUTV,FUTV cr 1
@@ -76,3 +77,5 @@ DSPORTS.2.(DTS2).co,Dsports 2
 DSPORTS.+(DTS+).co,Dsports +
 ESPN.co,Espn Colombia
 Canal.ESPN.(Chile).cl,Espn Chile
+Canal.Sky.Sports.16.sv,SKY Sports La Liga
+Canal.Sky.Sports.24.sv,SKY Sports Bundesliga
