@@ -8,17 +8,24 @@ TCM HD,TCM HD
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Canal 4 de Costa Rica,Repretel 4
-Canal 6 de Costa Rica,Repretel 6
+Canal.4.de.Costa.Rica.cr,Repretel 4
+Canal.6.de.Costa.Rica.cr,Repretel 6
 Canal.11.de.Costa.Rica.cr,Repretel 11
-Canal 7 de Costa Rica (Teletica),Teletica
+Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
 Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
-Canal 13 de Costa Rica,Sinart canal 13
-Canal Extra TV 42 de Costa Rica,Extra tv 42
-Canal Tigo Sports (Costa Rica),Tigo Sports
-Canal.FUTV.(Costa.Rica).cr,FUTV
-Canal FUTV,FUTV cr
-Tigo Sports CR,Tigo Sports 2
+Canal.13.de.Costa.Rica.cr,Sinart canal 13
+Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
+Canal.Tigo.Sports.(Costa Rica).cr,Tigo Sports P1
+Canal.Tigo.Sports.de.Costa Rica.cr,Tigo Sports P2
+Canal.FUTV.(Costa.Rica).cr,FUTV P1
+Canal.FUTV.de.Costa.Rica.cr,FUTV P2
+Canal FUTV,FUTV cr 1
+Canal FUTV CR,FUTV cr 2
+FUTV,FUTV cr 3
+FUTV CR,FUTV cr 4
+Tigo Sports CR,Tigo Sports CR
+Tigo Sports Guatemala,Tigo Sports Guatemala
+Tigo Sports El Salvador,Tigo Sports El Salvador
 Canal ESPN (Costa Rica),Espn
 Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte
 Canal ESPN 3 (Costa Rica),Espn 3
@@ -68,3 +75,4 @@ DSPORTS.(COL).(DTSC).co,Dsports
 DSPORTS.2.(DTS2).co,Dsports 2
 DSPORTS.+(DTS+).co,Dsports +
 ESPN.co,Espn Colombia
+Canal.ESPN.(Chile).cl,Espn Chile
