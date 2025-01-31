@@ -17,6 +17,7 @@ Canal.13.de.Costa.Rica.cr,Sinart canal 13
 Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
 Canal.Tigo.Sports.(Costa Rica).cr,Tigo Sports P1
 Canal.Tigo.Sports.de.Costa Rica.cr,Tigo Sports P2
+Canal Tigo Sports (Costa Rica).cr,Canal Tigo Sports
 Canal.FUTV.sv,FUTV CR
 Canal.FUTV.(Costa.Rica).cr,FUTV P1
 Canal.FUTV.de.Costa.Rica.cr,FUTV P2
