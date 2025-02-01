@@ -1,10 +1,10 @@
-La 1 HD,La 1 HD,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
+La 1 HD,La 1 HD 720,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
 La 2,La 2 720
 Antena 3 HD,Antena 3 720
 Cuatro HD,Cuatro 720
 Telecinco HD,Telecinco 720
 La Sexta HD,La Sexta HD
-TCM HD,TCM HD
+TCM HD,TCM HD 720
 Canal Hollywood HD,Canal Hollywood HD 720
 La Resistencia 24H,La Resistencia 24H 720
 Paramount Network,Paramount Network 720
@@ -21,6 +21,7 @@ XTRM,XTRM 720
 SyFy HD,SyFy HD 720
 Energy,Energy 720
 Factoría de Ficción,FDF 720
+Factoría de Ficción,FDF
 Neox,Neox 720
 Iberalia TV,Iberalia TV 720
 Iberalia pesca,Iberalia pesca 720
@@ -133,7 +134,6 @@ Love TV Trailers,Love TV Trailers 720
 El País,El País 720
 El Confidencial,El Confidencial 720
 Star TVE HD,Star TVE HD 720
-Factoría de Ficción,FDF
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
