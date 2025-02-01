@@ -5,6 +5,135 @@ Cuatro HD,Cuatro 720
 Telecinco HD,Telecinco 720
 La Sexta HD,La Sexta HD
 TCM HD,TCM HD
+Canal Hollywood HD,Canal Hollywood HD 720
+La Resistencia 24H,La Resistencia 24H 720
+Paramount Network,Paramount Network 720
+Be Mad,Be Mad 720
+STAR Channel HD,STAR Channel HD 720
+AXN HD,AXN HD 720
+Warner TV HD,Warner TV HD 720
+Comedy Central HD,Comedy Central HD 720
+Calle 13 HD,Calle 13 HD 720
+Cosmo HD,Cosmo HD 720
+Somos,Somos 720
+Somos Cine,Somos Cine 720
+XTRM,XTRM 720
+SyFy HD,SyFy HD 720
+Energy,Energy 720
+Factoría de Ficción,FDF 720
+Neox,Neox 720
+Iberalia TV,Iberalia TV 720
+Iberalia pesca,Iberalia pesca 720
+Iberalia caza,Iberalia caza 720
+Cazavisión,Cazavisión 720
+National Geographic HD,Natgeo 720
+Nat Geo Wild HD,Nat Geo Wild HD 720
+Discovery,Discovery 720
+Divinity,Divinity 720
+Nova,Nova 720
+Baby TV,Baby TV 720
+Nickelodeon HD,Nickelodeon HD 720
+Boing,Boing 720
+Clan,Clan 720
+MTV España,MTV España 720
+MTV 80s,MTV 80s 720
+MTV 90s,MTV 90s 720
+MTV 00s,MTV 00s 720
+Club MTV,MTV Club 720
+MTV Live,MTV Live 720
+MTV Hits HD,MTV Hits HD 720
+MTV Classic,MTV Classic 720
+HIT TV,HIT TV 720
+NOW 70s,NOW 70s 720
+NOW 80s,NOW 80s 720
+NOW Rock,NOW Rock 720
+24 Horas,24 Horas 720
+Canal Sur Andalucía,Canal Sur Andalucía 720
+Canal Extremadura,Canal Extremadura 720
+Aragón TV,Aragón TV 720
+ETB1,ETB1 720
+TRECE,TRECE 720
+TR3CE,TR3CE 720
+Atreseries,Atreseries 720
+Real Madrid TV,Real Madrid TV 720
+DMAX,DMAX 720
+Mega,Mega 720
+Ten,Ten 720
+CGTN Español,CGTN Español 720
+LaLiga TV BAR HD,LaLiga TV BAR HD 720
+M+ LaLiga TV HD,M+ LaLiga TV HD 720
+DAZN LaLiga HD,DAZN LaLiga HD 720
+DAZN LaLiga 2 HD,DAZN LaLiga 2 HD 720
+DAZN F1 HD,DAZN F1 HD 720
+DAZN 1 HD,DAZN 1 HD 720
+DAZN 2 HD,DAZN 2 HD 720
+DAZN 3 HD,DAZN 3 HD 720
+DAZN 4 HD,DAZN 4 HD 720
+M+ Liga de Campeones HD,M+ Liga de Campeones HD 720
+Eurosport 1 HD,Eurosport 1 HD 720
+Eurosport 2,Eurosport 2 720
+Teledeporte,Teledeporte 720
+Sky Sports 16,Sky Sports 16 720
+Tennis Channel,Tennis Channel 720
+Torolé TV,Torolé TV 720
+Global Telenovelas,Global Telenovelas 720
+tlnovelas,tlnovelas 720
+Squirrel TV,Squirrel TV 720
+En Familia (Rakuten TV),En Familia (Rakuten TV) 720
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV) 720
+Crimen (Rakuten TV),Crimen (Rakuten TV) 720
+Thrillers (Rakuten TV),Thrillers (Rakuten TV) 720
+Cine Español (Rakuten TV),Cine Español (Rakuten TV) 720
+Runtime Thriller-Terror,Runtime Thriller-Terror 720
+Runtime Comedia,Runtime Comedia 720
+Runtime Familia,Runtime Familia 720
+Runtime Cine y Series,Runtime Cine y Series 720
+Runtime Series,Runtime Series 720
+Runtime Acción,Runtime Acción 720
+Runtime Crimen,Runtime Crimen 720
+Runtime Romance,Runtime Romance 720
+Runtime Clásicos,Runtime Clásicos 720
+Cines Verdi TV,Cines Verdi TV 720
+Atrescine,Atrescine 720
+Betis TV,Betis TV 720
+Sevilla FC Televisión,Sevilla FC Televisión 720
+AMC HD,AMC HD 720
+De Viajes,De Viajes 720
+El Hormiguero,El Hormiguero 720
+El club de la comedia,El club de la comedia 720
+Equipo de investigación,Equipo de investigación 720
+Aquí no hay quién viva,Aquí no hay quién viva 720
+FoQ,FoQ 720
+Clásicos atresplayer,Clásicos atresplayer 720
+Multicine atresplayer,Multicine atresplayer 720
+Comedia atresplayer,Comedia atresplayer 720
+Inquietos atresplayer,Inquietos atresplayer 720
+Flooxer,Flooxer 720
+7teleValencia,7teleValencia 720
+Historia,Historia 720
+Odisea,Odisea 720
+AMC Break,AMC Break 720
+NatureTime,NatureTime 720
+BuenViaje,BuenViaje 720
+Canal Cocina,Canal Cocina 720
+Decasa,Decasa 720
+Enfamilia,Enfamilia 720
+Vivir con perros,Vivir con perros 720
+Vivir con gatos,Vivir con gatos 720
+Private,Private 720
+Hustler TV,Hustler TV 720
+Vivid TV,Vivid TV 720
+Ana y los 7,Ana y los 7 720
+Curro Jiménez,Curro Jiménez 720
+Cine Friki,Cine Friki 720
+13 entretención,13 entretención 720
+Love The Planet,Love The Planet 720
+Love Wine,Love Wine 720
+Love TV Trailers,Love TV Trailers 720
+El País,El País 720
+El Confidencial,El Confidencial 720
+Star TVE HD,Star TVE HD 720
+Factoría de Ficción,FDF
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
 Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
@@ -44,9 +173,6 @@ TUDN,TUDN MX
 TUDN USA,TUDN USA
 Win.Sports.HD.(COL)(WINHD).co,Win Sports
 Win.Sports.Premium.HD(Win+HD).co,Win Sports +
-Historia,Historia
-Odisea,Odisea
-Factoría de Ficción,FDF
 ESPN Deportes,Espn Deportes
 I306.66365.schedulesdirect.org,Fox Sports 2
 I304.30262.schedulesdirect.org,Fox Sports Sur
