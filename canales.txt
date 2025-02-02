@@ -140,17 +140,7 @@ Canal.11.de.Costa.Rica.cr,Repretel 11.cr
 Canal.7.de.Costa.Rica.(Teletica).cr,Teletica.cr
 Canal.Multimedios.(Costa.Rica).cr,Multimedios 8.cr
 Canal.13.de.Costa.Rica.cr,Sinart canal 13.cr
-Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42.cr
-Canal.Tigo.Sports.(Costa Rica).cr,Tigo Sports P1
-Canal.Tigo.Sports.de.Costa Rica.cr,Tigo Sports P2
-Canal Tigo Sports (Costa Rica).cr,Canal Tigo Sports
 Canal.FUTV.sv,FUTV CR.sv
-Canal.FUTV.(Costa.Rica).cr,FUTV P1
-Canal.FUTV.de.Costa.Rica.cr,FUTV P2
-Canal FUTV,FUTV cr 1
-Canal FUTV CR,FUTV cr 2
-FUTV,FUTV cr 3
-FUTV CR,FUTV cr 4
 Tigo Sports CR,Tigo Sports CR.ms
 Tigo Sports Guatemala,Tigo Sports Guatemala.ms
 Tigo Sports El Salvador,Tigo Sports El Salvador.ms
@@ -163,14 +153,15 @@ Canal.ESPN.6.(Costa.Rica).cr,Espn 6 Norte.cr
 Canal ESPN 5 (Sudamérica),Espn 5 Sur.ms
 Canal ESPN 7 (Sudamérica),Espn 7 Sur.ms
 ESPN Premium,ESPN Premium.ms
+ESPN Deportes,Espn Deportes.ms
 Fox Deportes,Fox Deportes.ms
 Fox Sports 2 Sur,Fox Sports 2 Sur.ms
 Fox Sports 3 Sur,Fox Sports 3 Sur.ms
 TUDN,TUDN MX.ms
 TUDN USA,TUDN USA.ms
+Canal.TUDN.(Centroamérica).sv,TUDN.(Centroamérica).sv
 Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
 Win.Sports.Premium.HD(Win+HD).co,Win Sports +.co
-ESPN Deportes,Espn Deportes.ms
 I306.66365.schedulesdirect.org,Fox Sports 2.ch
 I304.30262.schedulesdirect.org,Fox Sports Sur.ch
 Mi TV Television Clasica,Mi TV Television Clasica.ms
@@ -194,17 +185,96 @@ ATV.HD.(ATV.HD).pe,ATV Perú.pe
 GOL.PERU.HD.(GOL.PERU.HD).pe,Gol Perú.pe
 LATINA.HD.(Latina.HD).pe,Latina Perú.pe
 M.DEPORTES.HD.(M.Deportes.HD).pe,Movis. Deportes Perú.pe
+FOX.SPORTS.HD.(FoxSportsHD).pe,FOX.SPORTS.HD.(FoxSportsHD).pe
+FOX.SPORTS.2.HD.(FoxSports2HD).peFOX.SPORTS.2.HD.(FoxSports2HD).pe
+FOX.SPORTS.3.HD.(FoxSports3HD).peFOX.SPORTS.3.HD.(FoxSports3HD).pe
+GOLPERU.HD.(GOLPERU.HD).pe,GOLPERU.HD.(GOLPERU.HD).pe
+WILLAX.(Willax).pe,WILLAX.(Willax).pe
 Caracol.co,Caracol.co
+Canal.Caracol.Internacional.ec,Caracol Internacional.ec
 RCN.co,RCN.co
 RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
 RCN.Novelas.co,RCN.Novelas.co
+NUESTRA.TELE.co,NUESTRA.TELE.co
+PASIONES.co,PASIONES.co
+TNT.Novelas.co,TNT.Novelas.co
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.(DTS2).co,Dsports 2
 DSPORTS.+(DTS+).co,Dsports +
 ESPN.co,Espn Colombia.co
+ESPN.2.co,ESPN 2 Sur.co
+ESPN.3.co,ESPN 3 Sur.co
+ESPN.4.co,ESPN 4 Sur.co
+ESPN.5.co,ESPN 5 Sur.co
+ESPN.6.HD.co,ESPN 6 Sur.co
+ESPN.7.HD.co,ESPN 7 Sur.co
 Canal.ESPN.(Chile).cl,Espn Chile.cl
+Canal.13.de.Chile.cl.Canal.13.de.Chile.cl
+Canal.Chilevisión.(CHV).cl,Canal.Chilevisión.(CHV).cl
+Canal.CNN.Chile.cl,Canal.CNN.Chile.cl
+Canal.Inti.Network.cl,Canal.Inti.Network.cl
+Canal.Inti.Network.ec,Canal.Inti.Network.ec
+Canal.La.Red.(Chile).cl,Canal.La.Red.(Chile).cl
+Canal.Mega.(Chile).cl,Canal.Mega.(Chile).cl
+Canal.TVN.(Chile).cl,Canal.TVN.(Chile).cl
+Canal.Vía.X.cl,Canal.Vía.X.cl
+Canal.Zona.Latina.cl,Canal.Zona.Latina.cl
+TV.Chile.cl,TV.Chile.cl
+Canal.Ecuador.TV.ec,Canal.Ecuador.TV.ec
+Canal.Ecuavisa.(Ecuador).ec,Canal.Ecuavisa.(Ecuador).ec
+Canal.Gamavisión.ec,Canal.Gamavisión.ec
+Canal.GolTV.Latinoamérica.ec,Canal.GolTV.Latinoamérica.ec
+Canal.RTS.ec,Canal.RTS.ec
+Canal.TC.Televisión.ec,Canal.TC.Televisión.ec
+Canal.Ve.Plus.(Latinoamérica).ec,Canal.Ve.Plus.(Latinoamérica).ec
+Canal.Cinema.Platino.mx,Canal.Cinema.Platino.mx
+Canal.Fox.Sports.(México).mx,Canal.Fox.Sports.(México).mx
+Canal.Fox.Sports.2.(México).mx,Canal.Fox.Sports.2.(México).mx
+Canal.Fox.Sports.3.(México).mx,Canal.Fox.Sports.3.(México).mx
+Canal.María.Visión.mx,Canal.María.Visión.mx
+Canal.Meganoticias.MX.mx,Canal.Meganoticias.MX.mx
+Canal.Telehit.mx,Canal.Telehit.mx
+Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Canal.Sky.Sports.16.sv,SKY Sports La Liga.sv
 Canal.Sky.Sports.24.sv,SKY Sports Bundesliga.sv
+Canal.3.de.Guatemala.sv,Canal.3.de.Guatemala.sv
+Canal.7.de.Guatemala.sv,Canal.7.de.Guatemala.sv
+Canal.11.de.Guatemala.svCanal.11.de.Guatemala.sv
+Canal.Antigua.(Guatemala).sv,Canal.Antigua.(Guatemala).sv
+Canal.2.de.El.Salvador.sv,Canal.2.de.El.Salvador.sv
+Canal.4.de.El.Salvador.sv,Canal.4.de.El.Salvador.sv
+Canal.6.de.El.Salvador.sv,Canal.6.de.El.Salvador.sv
+Canal.12.de.El.Salvador.sv,Canal.12.de.El.Salvador.sv
+Canal.MC.sv,Canal.MC.sv
+Canal.13.de.Guatemala.sv,Canal.13.de.Guatemala.sv
+Canal.Guatevisión.sv,Canal.Guatevisión.sv
+Canal.La.Red.TV.(Guatemala).sv,Canal.La.Red.TV.(Guatemala).sv
+Canal.2.de.Nicaragua.(Televicentro).sv,Canal.2.de.Nicaragua.(Televicentro).sv
+Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,Canal.13.de.Nicaragua.sv
+Canal.Punto.2.Puerto.Rico.sv,Canal.Punto.2.Puerto.Rico.sv
+Canal.6.de.Puerto.Rico.(WIPR-TV).sv,Canal.6.de.Puerto.Rico.(WIPR-TV).sv
+Canal.7.de.Puerto.Rico.(teleisla).sv,Canal.7.de.Puerto.Rico.(teleisla).sv
+Canal.13.de.Puerto.Rico.(Teleoro).sv,Canal.13.de.Puerto.Rico.(Teleoro).sv
+Canal.WAPA-TV.sv,Canal.WAPA-TV.sv
+Canal.WAPA.2.Deportes.sv,Canal.WAPA.2.Deportes.sv
+Canal.7.de.Antena.Latina.(República.Dominicana).sv,Canal.7.de.Antena.Latina.(República.Dominicana).sv
+Canal.9.de.Color.Visión.(República.Dominicana).sv,Canal.9.de.Color.Visión.(República.Dominicana).sv
+Canal.Telesistema.11.(República.Dominicana).sv,Canal.Telesistema.11.(República.Dominicana).sv
+Canal.Telecentro.(13.de.República.Dominicana).sv,Canal.Telecentro.(13.de.República.Dominicana).sv
+Canal.5.de.República.Dominicana.(Telemicro).sv,Canal.5.de.República.Dominicana.(Telemicro).sv
+Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).sv,Canal.15.(Digital.Quince.Telemicro).sv
+Canal.21.de.El.Salvador.(Megavisión).sv,Canal.21.de.El.Salvador.(Megavisión).sv
+Canal.29.de.TeleUniverso.(República.Dominicana).sv,Canal.29.de.TeleUniverso.sv
+Canal.2.de.República.Dominicana.(Teleantillas).sv,Canal.2.(Teleantillas).sv
+Canal.37.de.República.Dominicana.(CDN).sv,Canal.37.de.República.Dominicana.(CDN).sv
+Canal.Teleunion.(República.Dominicana).sv,Canal.Teleunion.(República.Dominicana).sv
+Canal.Televisión.Dominicana.sv,Canal.Televisión.Dominicana.sv
+Canal.5.El.Líder.(Honduras).sv,Canal.5.El.Líder.(Honduras).sv
+Canal.9.de.Honduras.(Vica).sv,Canal.9.de.Honduras.(Vica).sv
+Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
+Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
+Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
+Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops.plex
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño.plex
