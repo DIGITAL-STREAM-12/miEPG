@@ -134,102 +134,101 @@ Love TV Trailers,Love TV Trailers 720
 El País,El País 720
 El Confidencial,El Confidencial 720
 Star TVE HD,Star TVE HD 720
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s
-Canal.TV.Azteca.Mundo.mx,MX | Canal TV Azteca
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
-Canal.4.de.Costa.Rica.cr,Repretel 4
-Canal.6.de.Costa.Rica.cr,Repretel 6
-Canal.11.de.Costa.Rica.cr,Repretel 11
-Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
-Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
-Canal.13.de.Costa.Rica.cr,Sinart canal 13
-Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
+Canal.4.de.Costa.Rica.cr,Repretel 4.cr
+Canal.6.de.Costa.Rica.cr,Repretel 6.cr
+Canal.11.de.Costa.Rica.cr,Repretel 11.cr
+Canal.7.de.Costa.Rica.(Teletica).cr,Teletica.cr
+Canal.Multimedios.(Costa.Rica).cr,Multimedios 8.cr
+Canal.13.de.Costa.Rica.cr,Sinart canal 13.cr
+Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42.cr
 Canal.Tigo.Sports.(Costa Rica).cr,Tigo Sports P1
 Canal.Tigo.Sports.de.Costa Rica.cr,Tigo Sports P2
 Canal Tigo Sports (Costa Rica).cr,Canal Tigo Sports
-Canal.FUTV.sv,FUTV CR
+Canal.FUTV.sv,FUTV CR.sv
 Canal.FUTV.(Costa.Rica).cr,FUTV P1
 Canal.FUTV.de.Costa.Rica.cr,FUTV P2
 Canal FUTV,FUTV cr 1
 Canal FUTV CR,FUTV cr 2
 FUTV,FUTV cr 3
 FUTV CR,FUTV cr 4
-Tigo Sports CR,Tigo Sports CR
-Tigo Sports Guatemala,Tigo Sports Guatemala
-Tigo Sports El Salvador,Tigo Sports El Salvador
-Canal.ESPN.(Costa.Rica).cr,Espn Norte
-Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte
-Canal.ESPN.3.(Costa.Rica).cr,Espn 3 Norte
-Canal.ESPN.4.(Costa.Rica).cr,Espn 4 Norte
-Canal.ESPN.5.(Costa.Rica).cr,Espn 5 A
-Canal.ESPN.6.(Costa.Rica).cr,Espn 6 Norte
-Canal ESPN 5 (Sudamérica),Espn 5 Sur
-Canal ESPN 7 (Sudamérica),Espn 7 Sur
-ESPN Premium,ESPN Premium
-Fox Deportes,Fox Deportes
-Fox Sports 2 Sur,Fox Sports 2 Sur
-Fox Sports 3 Sur,Fox Sports 3 Sur
-TUDN,TUDN MX
-TUDN USA,TUDN USA
-Win.Sports.HD.(COL)(WINHD).co,Win Sports
-Win.Sports.Premium.HD(Win+HD).co,Win Sports +
-ESPN Deportes,Espn Deportes
-I306.66365.schedulesdirect.org,Fox Sports 2
-I304.30262.schedulesdirect.org,Fox Sports Sur
-Mi TV Television Clasica,Mi TV Television Clasica
-RetroX TV,RetroX TV
-TeleRed,Telered
-Telesistema,Telesistema
-Tv Retro Palmares,Tv Retro Palmares
-Voice Over Radio TV,Voice Over TV
-Norte Informativo TV,Norte Informativo
-Teleclasica,Teleclasica
-Bein Sport en Espanol,Bein Sport en Espanol
-Cine Sony,Sony Cine
-Universo,NBC Universo
-Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá
-Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá
-Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá
-Canal.13.de.Panamá.(Telemetro).pa,Telemetro
-AMERICA.TELEVISION.HD.(America.HD).pe,America Perú
-PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe,Panamericana
-ATV.HD.(ATV.HD).pe,ATV Perú
-GOL.PERU.HD.(GOL.PERU.HD).pe,Gol Perú
-LATINA.HD.(Latina.HD).pe,Latina Perú
-M.DEPORTES.HD.(M.Deportes.HD).pe,Movis. Deportes Perú
-Caracol.co,Caracol
-RCN.co,RCN
+Tigo Sports CR,Tigo Sports CR.ms
+Tigo Sports Guatemala,Tigo Sports Guatemala.ms
+Tigo Sports El Salvador,Tigo Sports El Salvador.ms
+Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
+Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte.cr
+Canal.ESPN.3.(Costa.Rica).cr,Espn 3 Norte.cr
+Canal.ESPN.4.(Costa.Rica).cr,Espn 4 Norte.cr
+Canal.ESPN.5.(Costa.Rica).cr,Espn 5 A.cr
+Canal.ESPN.6.(Costa.Rica).cr,Espn 6 Norte.cr
+Canal ESPN 5 (Sudamérica),Espn 5 Sur.ms
+Canal ESPN 7 (Sudamérica),Espn 7 Sur.ms
+ESPN Premium,ESPN Premium.ms
+Fox Deportes,Fox Deportes.ms
+Fox Sports 2 Sur,Fox Sports 2 Sur.ms
+Fox Sports 3 Sur,Fox Sports 3 Sur.ms
+TUDN,TUDN MX.ms
+TUDN USA,TUDN USA.ms
+Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
+Win.Sports.Premium.HD(Win+HD).co,Win Sports +.co
+ESPN Deportes,Espn Deportes.ms
+I306.66365.schedulesdirect.org,Fox Sports 2.ch
+I304.30262.schedulesdirect.org,Fox Sports Sur.ch
+Mi TV Television Clasica,Mi TV Television Clasica.ms
+RetroX TV,RetroX TV.ms
+TeleRed,Telered.ms
+Telesistema,Telesistema.ms
+Tv Retro Palmares,Tv Retro Palmares.ms
+Voice Over Radio TV,Voice Over TV.ms
+Norte Informativo TV,Norte Informativo.ms
+Teleclasica,Teleclasica.ms
+Bein Sport en Espanol,Bein Sport en Espanol.ms
+Cine Sony,Sony Cine.ms
+Universo,NBC Universo.ms
+Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá.pa
+Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá.pa
+Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá.pa
+Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
+AMERICA.TELEVISION.HD.(America.HD).pe,America Perú.pe
+PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe,Panamericana.pe
+ATV.HD.(ATV.HD).pe,ATV Perú.pe
+GOL.PERU.HD.(GOL.PERU.HD).pe,Gol Perú.pe
+LATINA.HD.(Latina.HD).pe,Latina Perú.pe
+M.DEPORTES.HD.(M.Deportes.HD).pe,Movis. Deportes Perú.pe
+Caracol.co,Caracol.co
+RCN.co,RCN.co
+RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
+RCN.Novelas.co,RCN.Novelas.co
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.(DTS2).co,Dsports 2
 DSPORTS.+(DTS+).co,Dsports +
-ESPN.co,Espn Colombia
-Canal.ESPN.(Chile).cl,Espn Chile
-Canal.Sky.Sports.16.sv,SKY Sports La Liga
-Canal.Sky.Sports.24.sv,SKY Sports Bundesliga
-608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+
-608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops
-608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño
-608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291,Free tv Accion
-608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295,Free tv Drama
-608049aefa2b8ae93c2c3a63-6018913ea15130002b284193,Free tv Estelar
-608049aefa2b8ae93c2c3a63-6018913ea15130002b284195,Free tv Saber Mas
-608049aefa2b8ae93c2c3a63-60240f57676235002df19f49,Free tv Familia
-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191,Free tv Hits
-608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c,Free tv Banda
-608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,Free tv Live
-608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima
-608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas
-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo
-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,Artflix
-608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro tv
-608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv
-608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421,Always Funny en Español
-608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309,Comba tv
-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela tv clasicos
-608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN+
-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto tv
-608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8,Ideas en 5 Minutos
-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8,Butaca tv
-608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear tv
-608049aefa2b8ae93c2c3a63-673675909564224797d5b598,Flou Detonacion
-608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade Español
+ESPN.co,Espn Colombia.co
+Canal.ESPN.(Chile).cl,Espn Chile.cl
+Canal.Sky.Sports.16.sv,SKY Sports La Liga.sv
+Canal.Sky.Sports.24.sv,SKY Sports Bundesliga.sv
+608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
+608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops.plex
+608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño.plex
+608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291,Free tv Accion.plex
+608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295,Free tv Drama.plex
+608049aefa2b8ae93c2c3a63-6018913ea15130002b284193,Free tv Estelar.plex
+608049aefa2b8ae93c2c3a63-6018913ea15130002b284195,Free tv Saber Mas.plex
+608049aefa2b8ae93c2c3a63-60240f57676235002df19f49,Free tv Familia.plex
+608049aefa2b8ae93c2c3a63-6018913ea15130002b284191,Free tv Hits.plex
+608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c,Free tv Banda.plex
+608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,Free tv Live.plex
+608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima.plex
+608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas.plex
+608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo.plex
+608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,Artflix.plex
+608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro tv.plex
+608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
+608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421,Always Funny en Español.plex
+608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309,Comba tv.plex
+608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela tv clasicos.plex
+608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN+.plex
+608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto tv.plex
+608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8,Ideas en 5 Minutos.plex
+608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8,Butaca tv.plex
+608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear tv.plex
+608049aefa2b8ae93c2c3a63-673675909564224797d5b598,Flou Detonacion.plex
+608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade Español.plex
