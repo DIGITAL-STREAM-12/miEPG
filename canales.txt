@@ -235,6 +235,7 @@ Canal.María.Visión.mx,Canal.María.Visión.mx
 Canal.Meganoticias.MX.mx,Canal.Meganoticias.MX.mx
 Canal.Telehit.mx,Canal.Telehit.mx
 Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
+Sky Sports 1,Sky Sports 1.ms
 Canal.Sky.Sports.16.sv,SKY Sports La Liga.sv
 Canal.Sky.Sports.24.sv,SKY Sports Bundesliga.sv
 Canal.3.de.Guatemala.sv,Canal.3.de.Guatemala.sv
