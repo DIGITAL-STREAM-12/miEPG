@@ -58,7 +58,7 @@ TR3CE,TR3CE 720
 Atreseries,Atreseries 720
 Real Madrid TV,Real Madrid TV 720
 DMAX,DMAX 720
-Mega,Mega 720
+Mega,Mega 720.dm
 Ten,Ten 720
 CGTN Español,CGTN Español 720
 LaLiga TV BAR HD,LaLiga TV BAR HD 720
