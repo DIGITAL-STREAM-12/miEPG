@@ -312,7 +312,6 @@ I304.30262.schedulesdirect.org,Fox Sports Sur.ch
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 I673.57580.schedulesdirect.org,TVC Deportes.ch
-
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops.plex
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño.plex
