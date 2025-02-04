@@ -74,7 +74,7 @@ M+ Liga de Campeones HD,M+ Liga de Campeones HD 720
 Eurosport 1 HD,Eurosport 1 HD 720
 Eurosport 2,Eurosport 2 720
 Teledeporte,Teledeporte 720
-Sky Sports 16,Sky Sports 16 720
+Sky Sports 16,Sky Sports 16 720,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 Tennis Channel,Tennis Channel 720
 Torolé TV,Torolé TV 720
 Global Telenovelas,Global Telenovelas 720
@@ -160,11 +160,11 @@ Fox Sports 2 Sur,Fox Sports 2 Sur.ms
 Fox Sports 3 Sur,Fox Sports 3 Sur.ms
 TUDN,TUDN MX.ms
 TUDN USA,TUDN USA.ms
+I693.75951.schedulesdirect.org,TUDN MX.ch
+Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Canal.TUDN.(Centroamérica).sv,TUDN.(Centroamérica).sv
 Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
 Win.Sports.Premium.HD(Win+HD).co,Win Sports +.co
-I306.66365.schedulesdirect.org,Fox Sports 2.ch
-I304.30262.schedulesdirect.org,Fox Sports Sur.ch
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
 TeleRed,Telered.ms
@@ -210,6 +210,7 @@ ESPN.5.co,ESPN 5 Sur.co
 ESPN.6.HD.co,ESPN 6 Sur.co
 ESPN.7.HD.co,ESPN 7 Sur.co
 Canal.ESPN.(Chile).cl,Espn Chile.cl
+Canal.ESPN.(Argentina).ar,Espn Arg.ar
 Canal.13.de.Chile.cl.Canal.13.de.Chile.cl
 Canal.Chilevisión.(CHV).cl,Canal.Chilevisión.(CHV).cl
 Canal.CNN.Chile.cl,Canal.CNN.Chile.cl
@@ -235,7 +236,6 @@ Canal.Fox.Sports.3.(México).mx,Canal.Fox.Sports.3.(México).mx
 Canal.María.Visión.mx,Canal.María.Visión.mx
 Canal.Meganoticias.MX.mx,Canal.Meganoticias.MX.mx
 Canal.Telehit.mx,Canal.Telehit.mx
-Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Sky Sports 1,Sky Sports 1.ms
 Canal.Sky.Sports.16.sv,SKY Sports La Liga.sv
 Canal.Sky.Sports.24.sv,SKY Sports Bundesliga.sv
@@ -277,6 +277,40 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
 Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
 Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
+I306.66365.schedulesdirect.org,Fox Sports 2.ch
+I304.30262.schedulesdirect.org,Fox Sports Sur.ch
+I691.16799.schedulesdirect.org,Universal TV.ch
+I530.106724.schedulesdirect.org,Star TVE.ch
+I530.106724.schedulesdirect.org,Antena 3 Int.ch
+I110.70312.schedulesdirect.org,Sony Channel.ch
+I432.65060.schedulesdirect.org,MTV 80s.ch
+I85.46607.schedulesdirect.org,Azteca 1.ch
+I85.46607.schedulesdirect.org,Azteca 1 -1h.ch
+I133.105154.schedulesdirect.org,Azteca Cinema.ch
+I234.102406.schedulesdirect.org,Azteca 7.ch
+I170.61404.schedulesdirect.org,Azcorazon.ch
+I684.29058.schedulesdirect.org,Unimas.ch
+I239.30259.schedulesdirect.org,E!Entertaiment.ch
+I244.45910.schedulesdirect.org,El Gourmet.ch
+I196.19234.schedulesdirect.org,Disney Ch Lat.ch
+I290.91919.schedulesdirect.org,Food Network.ch
+I201.55980.schedulesdirect.org,Distrito Comedia.ch
+I78.72534.schedulesdirect.org,AXN Lat.ch
+I711.98111.schedulesdirect.org,Warner Ch Lat.ch
+I529.15688.schedulesdirect.org,Star Ch Lat.ch
+I154.111305.schedulesdirect.org,Clic.ch
+I643.37232.schedulesdirect.org,Tlnovelas Univision.ch
+I311.47374.schedulesdirect.org,Espn 6 Norte.ch
+I311.47374.schedulesdirect.org,Espn 6 Sur.ch
+I260.25595.schedulesdirect.org,Espn Deportes.ch
+I303.61704.schedulesdirect.org,Fox Sports Norte.ch
+I306.66365.schedulesdirect.org,Fox Sports 2 Norte.ch
+I309.105006.schedulesdirect.org,Fox Sports 3 Norte.ch
+I312.123582.schedulesdirect.org,Fox Sports Premium.ch
+I304.30262.schedulesdirect.org,Fox Sports Sur.ch
+FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
+FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
+
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops.plex
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño.plex
