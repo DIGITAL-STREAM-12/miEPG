@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://github.com/acidjesuz/EPGTalk/blob/master/Latino_guide.xml.gz
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/5db4584ed9de40854b3a33a8f9cc0f98b527da0a/Plex/mx.xml
+https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml
