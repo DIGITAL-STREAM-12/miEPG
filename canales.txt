@@ -134,23 +134,23 @@ Love TV Trailers,Love TV Trailers 720
 El País,El País 720
 El Confidencial,El Confidencial 720
 Star TVE HD,Star TVE HD 720
-Canal.4.de.Costa.Rica.cr,Repretel 4.cr
-Canal.6.de.Costa.Rica.cr,Repretel 6.cr
-Canal.11.de.Costa.Rica.cr,Repretel 11.cr
-Canal.7.de.Costa.Rica.(Teletica).cr,Teletica.cr
-Canal.Multimedios.(Costa.Rica).cr,Multimedios 8.cr
-Canal.13.de.Costa.Rica.cr,Sinart canal 13.cr
-Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42.cr
-Canal.FUTV.sv,FUTV CR.sv
+Canal.4.de.Costa.Rica.cr,Repretel 4
+Canal.6.de.Costa.Rica.cr,Repretel 6
+Canal.11.de.Costa.Rica.cr,Repretel 11
+Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
+Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
+Canal.13.de.Costa.Rica.cr,Sinart canal 13
+Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
+Canal.FUTV.sv,Canal.FUTV.sv
 Tigo Sports CR,Tigo Sports CR.ms
 Tigo Sports Guatemala,Tigo Sports Guatemala.ms
 Tigo Sports El Salvador,Tigo Sports El Salvador.ms
-Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
-Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte.cr
-Canal.ESPN.3.(Costa.Rica).cr,Espn 3 Norte_cr
-Canal.ESPN.4.(Costa.Rica).cr,Espn 4 Norte.cr
-Canal.ESPN.5.(Costa.Rica).cr,Espn 5 A.cr
-Canal.ESPN.6.(Costa.Rica).cr,Espn 6 Norte.cr
+Canal.ESPN.(Costa.Rica).cr,Canal.ESPN.(Costa.Rica).cr
+Canal.ESPN.2.(Costa.Rica).cr,Canal.ESPN.2.(Costa.Rica).cr
+Canal.ESPN.3.(Costa.Rica).cr,Canal.ESPN.3.(Costa.Rica).cr
+Canal.ESPN.4.(Costa.Rica).cr,Canal.ESPN.4.(Costa.Rica).cr
+Canal.ESPN.5.(Costa.Rica).cr,Canal.ESPN.5.(Costa.Rica).cr
+Canal.ESPN.6.(Costa.Rica).cr,Canal.ESPN.6.(Costa.Rica).cr
 Canal ESPN 5 (Sudamérica),Espn 5 Sur.ms
 Canal ESPN 7 (Sudamérica),Espn 7 Sur.ms
 ESPN Premium,ESPN Premium.ms
@@ -160,12 +160,12 @@ Fox Sports 2 Sur,Fox Sports 2 Sur.ms
 Fox Sports 3 Sur,Fox Sports 3 Sur.ms
 TUDN,TUDN MX.ms
 TUDN USA,TUDN USA.ms
-I693.75951.schedulesdirect.org,TUDN MX.ch
+I693.75951.schedulesdirect.org,TUDN MX
 Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Canal.TUDN.(Centroamérica).sv,TUDN.(Centroamérica).sv
-Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
-Win.Sports.Premium.HD(Win+HD).co,Win Sports +.co
-Canal.TyC.Sports.ar,TyC Sports.ar
+Win.Sports.HD.(COL)(WINHD).co,Win.Sports.HD.(COL)(WINHD).co
+Win.Sports.Premium.HD(Win+HD).co,Win.Sports.Premium.HD(Win+HD).co
+Canal.TyC.Sports.ar,Canal.TyC.Sports.ar
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
 TeleRed,Telered.ms
@@ -203,15 +203,15 @@ TNT.Novelas.co,TNT.Novelas.co
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.(DTS2).co,Dsports 2
 DSPORTS.+(DTS+).co,Dsports +
-ESPN.co,Espn Colombia.co
-ESPN.2.co,ESPN 2 Sur.co
-ESPN.3.co,ESPN 3 Sur.co
-ESPN.4.co,ESPN 4 Sur.co
-ESPN.5.co,ESPN 5 Sur.co
-ESPN.6.HD.co,ESPN 6 Sur.co
-ESPN.7.HD.co,ESPN 7 Sur.co
-Canal.ESPN.(Chile).cl,Espn Chile.cl
-Canal.ESPN.(Argentina).ar,Espn Arg.ar
+ESPN.co,ESPN.co
+ESPN.2.co,ESPN.2.co
+ESPN.3.co,ESPN.3.co
+ESPN.4.co,ESPN.4.co
+ESPN.5.co,ESPN.5.co
+ESPN.6.HD.co,ESPN.6.HD.co
+ESPN.7.HD.co,ESPN.7.HD.co
+Canal.ESPN.(Chile).cl,Canal.ESPN.(Chile).cl
+Canal.ESPN.(Argentina).ar,Canal.ESPN.(Argentina).ar
 Canal.13.de.Chile.cl.Canal.13.de.Chile.cl
 Canal.Chilevisión.(CHV).cl,Canal.Chilevisión.(CHV).cl
 Canal.CNN.Chile.cl,Canal.CNN.Chile.cl
@@ -238,8 +238,8 @@ Canal.María.Visión.mx,Canal.María.Visión.mx
 Canal.Meganoticias.MX.mx,Canal.Meganoticias.MX.mx
 Canal.Telehit.mx,Canal.Telehit.mx
 Sky Sports 1,Sky Sports 1.ms
-Canal.Sky.Sports.16.sv,SKY Sports La Liga.sv
-Canal.Sky.Sports.24.sv,SKY Sports Bundesliga.sv
+Canal.Sky.Sports.16.sv,Canal.Sky.Sports.16.sv
+Canal.Sky.Sports.24.sv,Canal.Sky.Sports.24.sv
 Canal.3.de.Guatemala.sv,Canal.3.de.Guatemala.sv
 Canal.7.de.Guatemala.sv,Canal.7.de.Guatemala.sv
 Canal.11.de.Guatemala.svCanal.11.de.Guatemala.sv
@@ -278,11 +278,10 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
 Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
 Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
-I306.66365.schedulesdirect.org,Fox Sports 2.ch
-I304.30262.schedulesdirect.org,Fox Sports Sur.ch
+I304.30262.schedulesdirect.org,Fox Sports Sur
 I691.16799.schedulesdirect.org,Universal TV.ch
 I530.106724.schedulesdirect.org,Star TVE.ch
-I530.106724.schedulesdirect.org,Antena 3 Int.ch
+I24.16800.schedulesdirect.org,Antena 3 Int.ch
 I110.70312.schedulesdirect.org,Sony Channel.ch
 I432.65060.schedulesdirect.org,MTV 80s.ch
 I85.46607.schedulesdirect.org,Azteca 1.ch
@@ -296,6 +295,7 @@ I244.45910.schedulesdirect.org,El Gourmet.ch
 I196.19234.schedulesdirect.org,Disney Ch Lat.ch
 I290.91919.schedulesdirect.org,Food Network.ch
 I201.55980.schedulesdirect.org,Distrito Comedia.ch
+I168.74528.schedulesdirect.org,Comedy Central.ch
 I78.72534.schedulesdirect.org,AXN Lat.ch
 I711.98111.schedulesdirect.org,Warner Ch Lat.ch
 I529.15688.schedulesdirect.org,Star Ch Lat.ch
