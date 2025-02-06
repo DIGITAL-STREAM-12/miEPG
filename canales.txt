@@ -137,7 +137,7 @@ Star TVE HD,Star TVE HD 720
 Canal.4.de.Costa.Rica.cr,Repretel 4.cr
 Canal.6.de.Costa.Rica.cr,Repretel 6.cr
 Canal.11.de.Costa.Rica.cr,Repretel 11.cr
-Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
+Canal.7.de.Costa.Rica.(Teletica).cr,Teletica.cr
 Canal.Multimedios.(Costa.Rica).cr,Multimedios 8.cr
 Canal.13.de.Costa.Rica.cr,Sinart canal 13.cr
 Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42.cr
@@ -147,7 +147,7 @@ Tigo Sports Guatemala,Tigo Sports Guatemala.ms
 Tigo Sports El Salvador,Tigo Sports El Salvador.ms
 Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.2.(Costa.Rica).cr,Espn 2 Norte.cr
-Canal.ESPN.3.(Costa.Rica).cr,Espn 3 Norte.cr
+Canal.ESPN.3.(Costa.Rica).cr,Espn 3 Norte_cr
 Canal.ESPN.4.(Costa.Rica).cr,Espn 4 Norte.cr
 Canal.ESPN.5.(Costa.Rica).cr,Espn 5 A.cr
 Canal.ESPN.6.(Costa.Rica).cr,Espn 6 Norte.cr
