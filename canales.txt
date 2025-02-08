@@ -284,11 +284,11 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
 Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
 Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
-I304.30262.schedulesdirect.org,Fox Sports Sur
-I691.16799.schedulesdirect.org,Universal TV.ch
-I530.106724.schedulesdirect.org,Star TVE.ch
-I24.16800.schedulesdirect.org,Antena 3 Int.ch
-I110.70312.schedulesdirect.org,Sony Channel.ch
+I304.30262.schedulesdirect.org,I304.30262.schedulesdirect.org
+I691.16799.schedulesdirect.org,I691.16799.schedulesdirect.org
+I530.106724.schedulesdirect.org,I530.106724.schedulesdirect.org
+I24.16800.schedulesdirect.org,I24.16800.schedulesdirect.org
+I110.70312.schedulesdirect.org,I110.70312.schedulesdirect.org
 I432.65060.schedulesdirect.org,MTV 80s.ch
 I85.46607.schedulesdirect.org,Azteca 1.ch
 I85.46607.schedulesdirect.org,Azteca 1 -1h.ch
@@ -298,12 +298,12 @@ I170.61404.schedulesdirect.org,Azcorazon.ch
 I684.29058.schedulesdirect.org,Unimas.ch
 I239.30259.schedulesdirect.org,E!Entertaiment.ch
 I244.45910.schedulesdirect.org,El Gourmet.ch
-I196.19234.schedulesdirect.org,Disney Ch Lat.ch
-I290.91919.schedulesdirect.org,Food Network.ch
+I196.19234.schedulesdirect.org,I196.19234.schedulesdirect.org
+I290.91919.schedulesdirect.org,I290.91919.schedulesdirect.org
 I201.55980.schedulesdirect.org,Distrito Comedia.ch
 I168.74528.schedulesdirect.org,Comedy Central.ch
-I78.72534.schedulesdirect.org,AXN Lat.ch
-I711.98111.schedulesdirect.org,Warner Ch Lat.ch
+I78.72534.schedulesdirect.org,I78.72534.schedulesdirect.org
+I711.98111.schedulesdirect.org,I711.98111.schedulesdirect.org
 I529.15688.schedulesdirect.org,Star Ch Lat.ch
 I154.111305.schedulesdirect.org,Clic.ch
 I643.37232.schedulesdirect.org,Tlnovelas Univision.ch
