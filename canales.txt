@@ -9,6 +9,13 @@ Canal Hollywood HD,Canal Hollywood HD 720
 La Resistencia 24H,La Resistencia 24H 720
 Paramount Network,Paramount Network 720
 Be Mad,Be Mad 720
+M+ Estrenos HD.M+ Estrenos HD 720
+M+ Hits HD,M+ Hits HD 720
+M+ Clásicos HD,M+ Clásicos HD 720
+M+ Acción HD,M+ Acción HD 720
+M+ Comedia HD,M+ Comedia HD 720
+M+ Drama HD,M+ Drama HD 720
+M+ Cine Español,M+ Cine Español 720
 STAR Channel HD,STAR Channel HD 720
 AXN HD,AXN HD 720
 Warner TV HD,Warner TV HD 720
@@ -21,7 +28,6 @@ XTRM,XTRM 720
 SyFy HD,SyFy HD 720
 Energy,Energy 720
 Factoría de Ficción,FDF 720
-Factoría de Ficción,FDF
 Neox,Neox 720
 Iberalia TV,Iberalia TV 720
 Iberalia pesca,Iberalia pesca 720
