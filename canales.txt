@@ -1,31 +1,31 @@
-La 1 HD,La 1 HD 720,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
+La 1 HD,La 1 720,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
 La 2,La 2 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
 Antena 3 HD,Antena 3 720
 Cuatro HD,Cuatro 720
 Telecinco HD,Telecinco 720
-La Sexta HD,La Sexta HD
-TCM HD,TCM HD 720
-Canal Hollywood HD,Canal Hollywood HD 720
+La Sexta HD,La Sexta 720
+TCM HD,TCM 720
+Canal Hollywood HD,Canal Hollywood 720
 La Resistencia 24H,La Resistencia 24H 720
 Paramount Network,Paramount Network 720
 Be Mad,Be Mad 720
-M+ Estrenos HD.M+ Estrenos HD 720
-M+ Hits HD,M+ Hits HD 720
-M+ Clásicos HD,M+ Clásicos HD 720
-M+ Acción HD,M+ Acción HD 720
-M+ Comedia HD,M+ Comedia HD 720
-M+ Drama HD,M+ Drama HD 720
+M+ Estrenos HD.M+ Estrenos 720
+M+ Hits HD,M+ Hits 720
+M+ Clásicos HD,M+ Clásicos 720
+M+ Acción HD,M+ Acción 720
+M+ Comedia HD,M+ Comedia 720
+M+ Drama HD,M+ Drama 720
 M+ Cine Español,M+ Cine Español 720
-STAR Channel HD,STAR Channel HD 720
-AXN HD,AXN HD 720
-Warner TV HD,Warner TV HD 720
-Comedy Central HD,Comedy Central HD 720
-Calle 13 HD,Calle 13 HD 720
-Cosmo HD,Cosmo HD 720
+STAR Channel HD,STAR Channel 720
+AXN HD,AXN 720
+Warner TV HD,Warner TV 720
+Comedy Central HD,Comedy Central 720
+Calle 13 HD,Calle 13 720
+Cosmo HD,Cosmo 720
 Somos,Somos 720
 Somos Cine,Somos Cine 720
 XTRM,XTRM 720
-SyFy HD,SyFy HD 720
+SyFy HD,SyFy 720
 Energy,Energy 720
 Factoría de Ficción,FDF 720
 Neox,Neox 720
@@ -39,7 +39,7 @@ Discovery,Discovery 720
 Divinity,Divinity 720
 Nova,Nova 720
 Baby TV,Baby TV 720
-Nickelodeon HD,Nickelodeon HD 720
+Nickelodeon HD,Nickelodeon 720
 Boing,Boing 720
 Clan,Clan 720
 MTV España,MTV España 720
@@ -48,7 +48,7 @@ MTV 90s,MTV 90s 720
 MTV 00s,MTV 00s 720
 Club MTV,MTV Club 720
 MTV Live,MTV Live 720
-MTV Hits HD,MTV Hits HD 720
+MTV Hits HD,MTV Hits 720
 MTV Classic,MTV Classic 720
 HIT TV,HIT TV 720
 NOW 70s,NOW 70s 720
@@ -67,17 +67,17 @@ DMAX,DMAX 720
 Mega,Mega 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
 Ten,Ten 720
 CGTN Español,CGTN Español 720
-LaLiga TV BAR HD,LaLiga TV BAR HD 720
-M+ LaLiga TV HD,M+ LaLiga TV HD 720
+LaLiga TV BAR HD,LaLiga TV BAR 720
+M+ LaLiga TV HD,M+ LaLiga TV 720
 DAZN LaLiga HD,DAZN LaLiga 720
-DAZN LaLiga 2 HD,DAZN LaLiga 2 HD 720
-DAZN F1 HD,DAZN F1 HD 720
-DAZN 1 HD,DAZN 1 HD 720
-DAZN 2 HD,DAZN 2 HD 720
-DAZN 3 HD,DAZN 3 HD 720
-DAZN 4 HD,DAZN 4 HD 720
-M+ Liga de Campeones HD,M+ Liga de Campeones HD 720
-Eurosport 1 HD,Eurosport 1 HD 720
+DAZN LaLiga 2 HD,DAZN LaLiga 2 720
+DAZN F1 HD,DAZN F1 720
+DAZN 1 HD,DAZN 1 720
+DAZN 2 HD,DAZN 2 720
+DAZN 3 HD,DAZN 3 720
+DAZN 4 HD,DAZN 4 720
+M+ Liga de Campeones HD,M+ Liga de Campeones 720
+Eurosport 1 HD,Eurosport 1 720
 Eurosport 2,Eurosport 2 720
 Teledeporte,Teledeporte 720
 Sky Sports 16,Sky Sports 16 720,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
@@ -139,7 +139,7 @@ Love Wine,Love Wine 720
 Love TV Trailers,Love TV Trailers 720
 El País,El País 720
 El Confidencial,El Confidencial 720
-Star TVE HD,Star TVE HD 720
+Star TVE HD,Star TVE 720
 Canal.4.de.Costa.Rica.cr,Repretel 4
 Canal.6.de.Costa.Rica.cr,Repretel 6
 Canal.11.de.Costa.Rica.cr,Repretel 11
