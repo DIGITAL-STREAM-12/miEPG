@@ -1,4 +1,4 @@
-La 1 HD,La 1 720,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
+La 1 HD,La 1 720
 La 2,La 2 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
 Antena 3 HD,Antena 3 720
 Cuatro HD,Cuatro 720
@@ -243,6 +243,7 @@ Canal.Fox.Sports.3.(México).mx,Canal.Fox.Sports.3.(México).mx
 Canal.María.Visión.mx,Canal.María.Visión.mx
 Canal.Meganoticias.MX.mx,Canal.Meganoticias.MX.mx
 Canal.Telehit.mx,Canal.Telehit.mx
+Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
 Sky Sports 1,Sky Sports 1.ms
 Canal.Sky.Sports.16.sv,Canal.Sky.Sports.16.sv
 Canal.Sky.Sports.24.sv,Canal.Sky.Sports.24.sv
