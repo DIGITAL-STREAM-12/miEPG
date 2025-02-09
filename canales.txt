@@ -285,6 +285,9 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
 Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
 Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
+National.Geographic.Mundo.us,Natgeo Mundo.us
+History.Channel.Espanol.-.Eastern.us,History Español.us
+Discovery.Familia.us,Discovery Familia.us
 I304.30262.schedulesdirect.org,Fox Sports 1 Sur.ch
 I691.16799.schedulesdirect.org,Universa TV.ch
 I530.106724.schedulesdirect.org,Star TVE.ch
