@@ -285,11 +285,11 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal.VTV.Honduras.(Vica.TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal.(TSI).(Honduras).sv
 Canal.Cine.Mexicano.sv,Canal.Cine.Mexicano.sv
 Canal.Cine.Nostalgia.sv,Canal.Cine.Nostalgia.sv
-I304.30262.schedulesdirect.org,I304.30262.schedulesdirect.org
-I691.16799.schedulesdirect.org,I691.16799.schedulesdirect.org
-I530.106724.schedulesdirect.org,I530.106724.schedulesdirect.org
-I24.16800.schedulesdirect.org,I24.16800.schedulesdirect.org
-I110.70312.schedulesdirect.org,I110.70312.schedulesdirect.org
+I304.30262.schedulesdirect.org,Fox Sports 1 Sur.ch
+I691.16799.schedulesdirect.org,Universa TV.ch
+I530.106724.schedulesdirect.org,Star TVE.ch
+I24.16800.schedulesdirect.org,Antena 3 Int.ch
+I110.70312.schedulesdirect.org,Sony Channel.ch
 I432.65060.schedulesdirect.org,MTV 80s.ch
 I85.46607.schedulesdirect.org,Azteca 1.ch
 I85.46607.schedulesdirect.org,Azteca 1 -1h.ch
@@ -299,12 +299,12 @@ I170.61404.schedulesdirect.org,Azcorazon.ch
 I684.29058.schedulesdirect.org,Unimas.ch
 I239.30259.schedulesdirect.org,E!Entertaiment.ch
 I244.45910.schedulesdirect.org,El Gourmet.ch
-I196.19234.schedulesdirect.org,I196.19234.schedulesdirect.org
-I290.91919.schedulesdirect.org,I290.91919.schedulesdirect.org
+I196.19234.schedulesdirect.org,Disney Channel.ch
+I290.91919.schedulesdirect.org,Food Network.ch
 I201.55980.schedulesdirect.org,Distrito Comedia.ch
 I168.74528.schedulesdirect.org,Comedy Central.ch
-I78.72534.schedulesdirect.org,I78.72534.schedulesdirect.org
-I711.98111.schedulesdirect.org,I711.98111.schedulesdirect.org
+I78.72534.schedulesdirect.org,AXN.ch
+I711.98111.schedulesdirect.org,Warner Channel.ch
 I529.15688.schedulesdirect.org,Star Ch Lat.ch
 I154.111305.schedulesdirect.org,Clic.ch
 I643.37232.schedulesdirect.org,Tlnovelas Univision.ch
@@ -320,7 +320,7 @@ FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 I673.57580.schedulesdirect.org,TVC Deportes.ch
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+
-608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc
+608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño
 608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291,Free tv Accion
 608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295,Free tv Drama
@@ -332,15 +332,15 @@ I673.57580.schedulesdirect.org,TVC Deportes.ch
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,Free tv Live
 608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas
-608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282
-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81
-608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa
+608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo
+608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,Artflix
+608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro TV
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv
 608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421,Always Funny en Español
 608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309,Comba tv
-608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947
+608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos
 608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN+
-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6
+608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto TV
 608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8,Ideas en 5 Minutos
 608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8,Butaca tv
 608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear tv
