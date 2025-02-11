@@ -323,6 +323,22 @@ I304.30262.schedulesdirect.org,Fox Sports Sur.ch
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 I673.57580.schedulesdirect.org,TVC Deportes.ch
+0109,Mega 2
+0127,Visión Plus TV
+0158,13 Entretención
+0160,13 Realities
+0161,13 Cultura
+0162,13 Pop
+0163,13 Festival
+0164,13 Teleseries
+0407,NBA TV
+0420,Claro Sports 2
+0426,Sky Sports 1 • México
+0442,Azteca Deportes
+0443,ECDF El Canal del Fútbol
+0504,HTV
+0528,OLD Music
+0535,VM Latino
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño
