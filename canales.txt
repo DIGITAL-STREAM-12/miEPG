@@ -208,8 +208,8 @@ NUESTRA.TELE.co,NUESTRA.TELE.co
 PASIONES.co,PASIONES.co
 TNT.Novelas.co,TNT.Novelas.co
 DSPORTS.(ARG).dtvsp,Dsports
-DSPORTS.2.(DTS2).co,Dsports 2
-DSPORTS.+(DTS+).co,Dsports +
+DSPORTS.2.HD.dtvsp,Dsports 2
+DSPORTS.+.HD.dtvsp,Dsports +
 ESPN.co,ESPN.co
 ESPN.2.co,ESPN.2.co
 ESPN.3.co,ESPN.3.co
