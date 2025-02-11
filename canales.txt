@@ -305,7 +305,7 @@ I239.30259.schedulesdirect.org,E!Entertaiment.ch
 I244.45910.schedulesdirect.org,El Gourmet.ch
 I196.19234.schedulesdirect.org,Disney Channel.ch
 I290.91919.schedulesdirect.org,Food Network.ch
-I201.55980.schedulesdirect.org,Distrito Comedia.ch
+I201.55980.schedulesdirect.org,I201.55980.schedulesdirect.org
 I168.74528.schedulesdirect.org,Comedy Central.ch
 I78.72534.schedulesdirect.org,AXN.ch
 I711.98111.schedulesdirect.org,Warner Channel.ch
