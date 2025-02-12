@@ -15,6 +15,6 @@ https://www.open-epg.com/files/costarica1.xml
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://github.com/acidjesuz/EPGTalk/blob/master/Latino_guide.xml.gz
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/4fe963ae476cf79c382f58091b7f8b3b58386c12/Plex/es.xml
+https://i.mjh.nz/Plex/es.xml
 https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml
 http://zapallo.ddns.net:3000/epg/guia-de-programacion.xml
