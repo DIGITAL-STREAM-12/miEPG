@@ -222,7 +222,6 @@ Canal.ESPN.(Argentina).ar,Canal.ESPN.(Argentina).ar
 Canal.13.de.Chile.cl.Canal.13.de.Chile.cl
 Canal.Chilevisión.(CHV).cl,Canal.Chilevisión.(CHV).cl
 Canal.CNN.Chile.cl,Canal.CNN.Chile.cl
-Canal.Inti.Network.cl,Canal.Inti.Network.cl
 Canal.Inti.Network.ec,Canal.Inti.Network.ec
 Canal.La.Red.(Chile).cl,Canal.La.Red.(Chile).cl
 Canal.Mega.(Chile).cl,Canal.Mega.(Chile).cl
