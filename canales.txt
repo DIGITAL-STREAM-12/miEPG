@@ -145,7 +145,7 @@ Canal.6.de.Costa.Rica.cr,Repretel 6
 Canal.11.de.Costa.Rica.cr,Repretel 11
 Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
 Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
-Canal 9 de Costa Rica.cr,Canal 9 CR
+Canal.9.de.Costa.Rica.cr,Canal 9 CR
 Canal.13.de.Costa.Rica.cr,Sinart canal 13
 Canal.Extra.TV.42.de.Costa.Rica.cr,Extra tv 42
 Canal.FUTV.sv,Canal.FUTV.sv
