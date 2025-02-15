@@ -9,7 +9,7 @@ Canal Hollywood HD,Canal Hollywood 720
 La Resistencia 24H,La Resistencia 24H 720
 Paramount Network,Paramount Network 720
 Be Mad,Be Mad 720
-M+ Estrenos HD.M+ Estrenos 720
+M+ Estrenos HD,M+ Estrenos 720
 M+ Hits HD,M+ Hits 720
 M+ Clásicos HD,M+ Clásicos 720
 M+ Acción HD,M+ Acción 720
