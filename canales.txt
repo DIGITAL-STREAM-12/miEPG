@@ -373,6 +373,7 @@ I673.57580.schedulesdirect.org,TVC Deportes.ch
 643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a,Historia y Vida.plex
 643054b1fc3be59477853717-630fa9e577ec3866def38fa2,Women's Sports.plex
 643054b1fc3be59477853717-6733bafbc13162592b358672,Grjngo.plex
+5e793a7cfbdf780007f7eb75,Descubriendo Pluto TV.mx
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
