@@ -468,3 +468,5 @@ I673.57580.schedulesdirect.org,TVC Deportes.ch
 5f98537a5a4341000733aefe,MTV Embarazada a los 16.es
 5f1aca0b4e448e00075e7c5e,Bob Esponja.es
 5f1aab1d29b39600073e243f,Pluto TV Kids.es
+65786e2c32c1b300089a4d21,Walker Texas Ranger.es
+6245c03922d9d4000760d205,Melrose Place.es
