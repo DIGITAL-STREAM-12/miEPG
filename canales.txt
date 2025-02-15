@@ -387,4 +387,84 @@ I673.57580.schedulesdirect.org,TVC Deportes.ch
 609059dc63be6e0007b4eca6,Pluto TV Cine Clásico.mx
 5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia.mx
 5dcde1317578340009b751d0,Pluto TV Series.mx
+5dd837642c6e9300098ad484,Pluto TV Series Latinas.mx
+5de802659167b10009e7deba,Pluto TV Series Retro.mx
+66a26a7846762a0008258d4e,Baywatch.mx
+60142258a54aeb0007751c15,Pluto TV Retro Cartoons.mx
+5dcde0cc2efd2700090b7ff4,Pluto TV Novelas.mx
+5dcde197f6591d0009839e04,Pluto TV Reality.mx
+5fab088b3279760007d4e4fd,MTV Pluto TV.mx
+5de91b7ea86ee60009d89e75,MTV Reality.mx
+5e98a911c881310007d7aae2,MTV Ridiculousness.mx
+5dd6d935d000120009bc1132,Pluto TV  Competencias.mx
+5e46e64dc73db400094b5f0b,Minuto Para Ganar.mx
+5e3ddbd27091820009f86dd9,MasterChef.mx
+5ed6828192e8b3000743ef61,Wipe Out.mx
+5dd85eac039bba0009e86d1d,Pluto TV Naturaleza.mx
+5f4fed840a2764000720d966,Paisajes.mx
+5dd834c66fe2ca0009303b8d,Pluto TV Animales.mx
+5ddc266f80e3550009136843,Pluto TV Aventura.mx
+5dd6dc7480e3550009133d4a,Pluto TV Velocidad.mx
+5df265697ec3510009df1ef0,Vida Real.mx
+5f23102d5e239d00074b092a,Empeños a lo bestia.mx
+5f230e416b68ff00075b0139,Misterios Medicos.mx
+5dcde2f53449c50009b2b4dc,Misterios.mx
+5f4d3696d938c900072679fd,Historias de Ultratumba.mx
+5de5758e1a30dc00094fcd6c,Historia.mx
+5dd8364ea1d6780009929902,Ciencia.mx
+5dcde27ffae9520009c0c75a,Investiga.mx
+5e67d41b93312100076f3fca,Los archivos del FBI.mx
+5efb8c19b2678b000780d032,Archivos Forenses.mx
+5ea71d48af1d0b0007d837f4,The New Detectives.mx
+5f610042272f68000867685b,Misterios sin Resolver.mx
+5dcde07af1c85b0009b18651,Deportes.mx
+5e98b0447665f200078caded,Peleas.mx
+5f99a772c54853000797bf18,Lucha Libre.mx
+5dcddfbdb7cf0e0009ae09ea,Viajes.mx
+5dd6ab8056beb000091fc6b6,Pluto TV Hogar.mx
+5dcde0657444a40009cd2422,Cocina.mx
+5dcde17bf6591d0009839e02,Pluto TV Anime.mx
+5e6a4d875d7ccf0007cc2cf1,Animé Acción.mx
+5ee92e72fb286e0007285fec,Naruto.mx
+5fceaab478f2af00080ff51f,Yu-Gi-Oh.mx
+5ff4b9ccf938f8000779eb99,One Piece.mx
+5fcea93ffcf94500071c4b2f,Kenan y Kel.mx
+5dd6de52b9914200091f047a,Pluto TV Teen.mx
+5ddd7cb2cbb9010009b4fe32,Nick Jr. Club.mx
+5ebac49ce4dc8b00078b23bc,Babyfirst.mx
+5dcde2ac4bc6c500094ab45b,Pluto TV Junior.mx
+5ddd7c348520b40009c347e2,Nickelodeon Clásico.mx
+5ea7215005d66d0007e8128a,Rugrats.mx
+5dd6dae8ce788b0009eaf77b,Pluto TV Kids.mx
+664c76520120f40008b81db9,Los vigilantes de la playa.es
+65786e2c32c1b300089a4d21,Walker Texas Ranger.es
 6245c2a5eec07b0007249fc8,Sensación de Vivir.es
+6245c03922d9d4000760d205,Melrose Place.es
+5f1ac8f49205650007bc15f1,Pluto TV Series.es
+5f9853138d19af0007104a8d,Pluto TV Series Comedia.es
+5f1acb4eebe0f0000767b40f,Las reglas del juego.es
+5f1acc3e061597000768d4ea,Andrómeda.es
+5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar.es
+5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción.es
+5f6a38eaa5b68b0007a00e7a,Pluto TV Sci-Fi.es
+5f1ac8099c49f600076579b2,Pluto TV Cine Comedia.es
+6385e82900ab2e000768a058,Pluto TV Western.es
+5f1ac9a2d3611d0007a844bb,Pluto TV Cine Romántico.es
+5f1ac8a87cd38d000745d7cf,Pluto TV Thrillers.es
+5f1ac947dcd00d0007937c08,Pluto TV Cine Drama.es
+61373bb45168fe000773eecd,Pluto TV Cine Clásico.es
+5f984f4a09e92d0007d74647,Archivos Forenses.es
+5f1acba0d1f6340007db8843,Los nuevos detectives.es
+5f1aca8310a30e00074fab92,Asesinatos de Midsomer.es
+60218baa464ef900073168c1,Empeños a lo bestia.es
+5f1abf5fafb5ee0007d4d0ca,FailArmy.es
+5f1abce155a03d0007718834,Comedia made in Spain.es
+5f1acd36779de70007a680d1,Curro Jiménez.es
+5f28009b150b2500077766b8,Vaya semanita.es
+5f1acdaa8ba90f0007d5e760,Pluto TV Cocina.es
+60dd6b1da79e4d0007309455,Nature Time.es
+5f1ac8588734f8000823b7de,Pluto TV Deportes.es
+5f1ab3c7778230000735cf41,MTV Catfish TV Show.es
+5f98537a5a4341000733aefe,MTV Embarazada a los 16.es
+5f1aca0b4e448e00075e7c5e,Bob Esponja.es
+5f1aab1d29b39600073e243f,Pluto TV Kids.es
