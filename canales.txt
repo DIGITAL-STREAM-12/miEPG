@@ -204,8 +204,8 @@ Canal.Caracol.Internacional.ec,Caracol Internacional.ec
 RCN.co,RCN.co
 RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
 RCN.Novelas.co,RCN Novelas.co
-NUESTRA.TELE.co,NUESTRA.TELE.co
-PASIONES.co,PASIONES.co
+NUESTRA.TELE.co,Nuestra Tele.co
+PASIONES.co,Pasiones.co
 TNT.Novelas.co,TNT Novelas.co
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.HD.dtvsp,Dsports 2
