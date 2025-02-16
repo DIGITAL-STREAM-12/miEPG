@@ -247,6 +247,15 @@ Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
 Sky Sports 1,Sky Sports 1.ms
 Canal.Sky.Sports.16.sv,Sky Sports 16.sv
 Canal.Sky.Sports.24.sv,Sky Sports 24.sv
+Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
+Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
+Canal.Telemundo.(Panregional).sv,Telemundo Latam.sv
+Canal.Universo.sv,NBC Universo.sv
+Galavision.-.Eastern.Feed.us,Galavision Este.us
+Canal.Universal.TV.(Panregional).sv,Universal TV Latam.sv
+Canal.Lifetime.(Panregional).sv,Lifetime Latam.sv
+Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
+Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.3.de.Guatemala.sv,Canal 3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,Canal 7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,Canal 11 de Guatemala.sv
