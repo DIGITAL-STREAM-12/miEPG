@@ -296,40 +296,8 @@ Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 National.Geographic.Mundo.us,Natgeo Mundo.us
 History.Channel.Espanol.-.Eastern.us,History Español.us
 Discovery.Familia.us,Discovery Familia.us
-I304.30262.schedulesdirect.org,Fox Sports 1 Sur.ch
-I691.16799.schedulesdirect.org,Universa TV.ch
-I530.106724.schedulesdirect.org,Star TVE.ch
-I24.16800.schedulesdirect.org,Antena 3 Int.ch
-I110.70312.schedulesdirect.org,Sony Channel.ch
-I432.65060.schedulesdirect.org,MTV 80s.ch
-I85.46607.schedulesdirect.org,Azteca 1.ch
-I85.46607.schedulesdirect.org,Azteca 1 -1h.ch
-I133.105154.schedulesdirect.org,Azteca Cinema.ch
-I234.102406.schedulesdirect.org,Azteca 7.ch
-I170.61404.schedulesdirect.org,Azcorazon.ch
-I684.29058.schedulesdirect.org,Unimas.ch
-I239.30259.schedulesdirect.org,E!Entertaiment.ch
-I244.45910.schedulesdirect.org,El Gourmet.ch
-I196.19234.schedulesdirect.org,Disney Channel.ch
-I290.91919.schedulesdirect.org,Food Network.ch
-I201.55980.schedulesdirect.org,I201.55980.schedulesdirect.org
-I168.74528.schedulesdirect.org,Comedy Central.ch
-I78.72534.schedulesdirect.org,AXN.ch
-I711.98111.schedulesdirect.org,Warner Channel.ch
-I529.15688.schedulesdirect.org,Star Ch Lat.ch
-I154.111305.schedulesdirect.org,Clic.ch
-I643.37232.schedulesdirect.org,Tlnovelas Univision.ch
-I311.47374.schedulesdirect.org,Espn 6 Norte.ch
-I311.47374.schedulesdirect.org,Espn 6 Sur.ch
-I260.25595.schedulesdirect.org,Espn Deportes.ch
-I303.61704.schedulesdirect.org,Fox Sports Norte.ch
-I306.66365.schedulesdirect.org,Fox Sports 2 Norte.ch
-I309.105006.schedulesdirect.org,Fox Sports 3 Norte.ch
-I312.123582.schedulesdirect.org,Fox Sports Premium.ch
-I304.30262.schedulesdirect.org,Fox Sports Sur.ch
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
-I673.57580.schedulesdirect.org,TVC Deportes.ch
 0109,Mega 2
 0127,Visión Plus TV
 0158,13 Entretención
