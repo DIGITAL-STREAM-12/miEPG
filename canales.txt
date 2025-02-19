@@ -104,7 +104,7 @@ Cines Verdi TV,Cines Verdi TV 720
 Atrescine,Atrescine 720
 Betis TV,Betis TV 720
 Sevilla FC Televisión,Sevilla FC Televisión 720
-AMC HD,AMC HD 720
+AMC HD,AMC 720
 De Viajes,De Viajes 720
 El Hormiguero,El Hormiguero 720
 El club de la comedia,El club de la comedia 720
