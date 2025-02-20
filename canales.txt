@@ -394,6 +394,28 @@ FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 5efb8c19b2678b000780d032,Archivos Forenses.mx
 5ea71d48af1d0b0007d837f4,The New Detectives.mx
 5f610042272f68000867685b,Misterios sin Resolver.mx
+5f85f1dc1418bd0007e11eb9,Los 3 Chiflados.mx
+5cf96b8f4f1ca3f0629f4bf1,Investiga.us
+60fb2f47c133270007327375,Pelis y Popcorn.us
+5cf968040ab7d8f181e6a68b,Cine Premiere.us
+5cf96b1c4f1ca3f0629f4bf0,Cine en español.us
+64b9671cdac71b0008f371df,Cine Clásico US.us
+5d8d164d92e97a5e107638d2,Cine adrenalina.us
+5d8d180092e97a5e107638d3,Cine terror.us
+5f513564e4622a0007c578c0,Cine Jaja.us
+/5f5136317aedfb0007016f93,Cine XOXO.us
+6532e7b290a74c00084a3bb6,Hallmark en español.us
+668c5cb4f01dbe0008dd4082,CBS en español.us
+5e82bb378601b80007b4bd78,Walking Dead.us
+5d8d08395f39465da6fb3ec4,Nickelodeon en español.us
+5d8d11baeb31c5a43b77bf59,Spike Aventura.us
+5cf96d351652631e36d4331f,MTV Español.us
+5cf96dad1652631e36d43320,Comedy Central en español.us
+60d393e5579a420007ee553c,Dra. Polo.us
+5d8d0fbaa8742fa3093899da,Foodies.us
+673249433a61d400087a51ed,Construcciones Asombrosas.us
+6732495dc7626f0008c71e7d,Sobrenaturales.us
+5ebc8688f3697d00072f7cf8,Bellator MMA.us
 5dcde07af1c85b0009b18651,Deportes.mx
 5e98b0447665f200078caded,Peleas.mx
 5f99a772c54853000797bf18,Lucha Libre.mx
