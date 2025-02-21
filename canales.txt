@@ -293,6 +293,7 @@ Canal.VTV.Honduras.(Vica.TV).sv,Canal VTV Honduras (Vica TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal TSI (Honduras).sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
+Canal.HTV.sv,HTV.sv
 National.Geographic.Mundo.us,Natgeo Mundo.us
 History.Channel.Espanol.-.Eastern.us,History Español.us
 Discovery.Familia.us,Discovery Familia.us
@@ -311,7 +312,6 @@ FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 0426,Sky Sports 1 • México
 0442,Azteca Deportes
 0443,ECDF El Canal del Fútbol
-0504,HTV
 0528,OLD Music
 0535,VM Latino
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
