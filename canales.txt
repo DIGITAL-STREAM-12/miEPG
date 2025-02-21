@@ -167,7 +167,6 @@ Fox Sports 2 Sur,Fox Sports 2 Sur.ms
 Fox Sports 3 Sur,Fox Sports 3 Sur.ms
 TUDN,TUDN MX.ms
 TUDN USA,TUDN USA.ms
-I693.75951.schedulesdirect.org,TUDN MX
 Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Canal.TUDN.(Centroamérica).sv,TUDN.(Centroamérica).sv
 Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
