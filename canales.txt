@@ -254,6 +254,7 @@ Canal.Universal.TV.(Panregional).sv,Universal TV Latam.sv
 Canal.Lifetime.(Panregional).sv,Lifetime Latam.sv
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
+Canal.Discovery.Science.(Latinoamérica).cr,Disc Science Latam.cr
 Canal.3.de.Guatemala.sv,Canal 3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,Canal 7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,Canal 11 de Guatemala.sv
