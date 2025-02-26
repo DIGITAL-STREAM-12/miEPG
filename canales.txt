@@ -59,6 +59,7 @@ Canal Sur Andalucía,Canal Sur Andalucía 720
 Canal Extremadura,Canal Extremadura 720
 Aragón TV,Aragón TV 720
 ETB1,ETB1 720
+ETB2,ETB2 720
 TRECE,TRECE 720
 TR3CE,TR3CE 720
 Atreseries,Atreseries 720
