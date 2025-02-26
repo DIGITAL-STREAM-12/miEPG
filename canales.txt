@@ -143,7 +143,7 @@ Star TVE HD,Star TVE 720
 Canal.4.de.Costa.Rica.cr,Repretel 4
 Canal.6.de.Costa.Rica.cr,Repretel 6
 Canal.11.de.Costa.Rica.cr,Repretel 11
-Canal.7.de.Costa.Rica.(Teletica).cr,Teletica
+Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
 Canal.Multimedios.(Costa.Rica).cr,Multimedios 8
 Canal.9.de.Costa.Rica.cr,Canal 9 CR
 Canal.13.de.Costa.Rica.cr,Sinart canal 13
