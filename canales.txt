@@ -190,7 +190,6 @@ Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
 AMERICA.TELEVISION.HD.(America.HD).pe,America Perú.pe
 PANAMERICANA.TELEVISION.HD.(Panamericana.HD).pe,Panamericana.pe
 ATV.HD.(ATV.HD).pe,ATV Perú.pe
-GOL.PERU.HD.(GOL.PERU.HD).pe,Gol Perú.pe
 LATINA.HD.(Latina.HD).pe,Latina Perú.pe
 M.DEPORTES.HD.(M.Deportes.HD).pe,Movis. Deportes Perú.pe
 FOX.SPORTS.HD.(FoxSportsHD).pe,Fox Sports Sur.pe
