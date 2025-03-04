@@ -172,7 +172,7 @@ Canal.TUDN.(México).mx,Canal.TUDN.(México).mx
 Canal.TUDN.(Centroamérica).sv,TUDN.(Centroamérica).sv
 Win.Sports.HD.(COL)(WINHD).co,Win Sports.co
 Win.Sports.Premium.HD(Win+HD).co,Win Sports +.co
-Canal.TyC.Sports.ar,Canal.TyC.Sports.ar
+Canal.TyC.Sports.ar,TyC Sports.ar
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
 TeleRed,Telered.ms
