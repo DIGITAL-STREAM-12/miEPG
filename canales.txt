@@ -102,6 +102,8 @@ Runtime Acción,Runtime Acción 720
 Runtime Crimen,Runtime Crimen 720
 Runtime Romance,Runtime Romance 720
 Runtime Clásicos,Runtime Clásicos 720
+Runtime Familia,Runtime Familia 720
+Runtime Series,Runtime Series 720
 Cines Verdi TV,Cines Verdi TV 720
 Atrescine,Atrescine 720
 Betis TV,Betis TV 720
