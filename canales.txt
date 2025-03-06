@@ -42,6 +42,7 @@ Baby TV,Baby TV 720
 Nickelodeon HD,Nickelodeon 720
 Boing,Boing 720
 Clan,Clan 720
+Cuéntame,Cuéntame 720
 MTV España,MTV España 720
 MTV 80s,MTV 80s 720
 MTV 90s,MTV 90s 720
