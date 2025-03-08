@@ -482,3 +482,4 @@ USBD2500022U5,Cine Retro.sam
 USBD2700005KL,Cine de Oro.sam
 ES4800002OZ,Caillou.sam
 US2200001IY,Curiosity Animales.sam
+US22000020U,Curiosity Explora.sam
