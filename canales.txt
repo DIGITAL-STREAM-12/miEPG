@@ -478,3 +478,5 @@ FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 5f1aab1d29b39600073e243f,Pluto TV Kids.es
 65786e2c32c1b300089a4d21,Walker Texas Ranger.es
 6245c03922d9d4000760d205,Melrose Place.es
+USBD2500022U5,Cine Retro.sam
+USBD2700005KL,Cine de Oro.sam
