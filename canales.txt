@@ -105,6 +105,12 @@ Runtime Clásicos,Runtime Clásicos 720
 Runtime Familia,Runtime Familia 720
 Runtime Series,Runtime Series 720
 Cines Verdi TV,Cines Verdi TV 720
+En Familia (Rakuten TV),Rakuten Familia 720
+Cine Español (Rakuten TV),Rakuten Cine Español 720
+Dramas (Rakuten TV),Rakuten Drama 720
+Comedias (Rakuten TV),Rakuten Comedia 720
+Pelis Top (Rakuten TV),Rakuten Top 720
+Películas Románticas (Rakuten TV),Rakuten Romance 720
 Atrescine,Atrescine 720
 Betis TV,Betis TV 720
 Sevilla FC Televisión,Sevilla FC Televisión 720
@@ -262,7 +268,13 @@ Canal.Discovery.Turbo.(Latinoamérica).cr,Disc turbo Latam.cr
 Canal.Discovery.World.Latinoamérica.cr,Disc World Latam.cr
 Canal.TLC.(Costa.Rica).cr,TLC.cr
 Canal.HTV.cr,HTV.cr
+Canal.Cinecanal.(Costa.Rica).cr,Cinecanal.cr
+Canal.Space.(Costa.Rica).cr,Space.cr
 Canal.HBO.Plus.sv,HBO Plus.sv
+Canal.HBO.Xtreme.sv,HBO Xtreme.sv
+Canal.Paramount.Channel.Latinoamérica.sv,Paramount.sv
+Canal.FX.(Centro).sv,FX.sv
+Canal.Golden.Edge.sv,Golden Edge.sv
 Canal.3.de.Guatemala.sv,Canal 3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,Canal 7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,Canal 11 de Guatemala.sv
