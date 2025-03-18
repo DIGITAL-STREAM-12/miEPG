@@ -265,7 +265,9 @@ Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.National.Geographic.(Centro).sv,Natgeo.sv
 Canal.History.(Panregional).sv,History Latam.sv
+Canal.History.2.(Panregional).sv,H2.sv
 Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
+Love.Nature.co,Love Nature.co
 Canal.Discovery.Science.(Latinoamérica).cr,Disc Science Latam.cr
 Canal.Discovery.Turbo.(Latinoamérica).cr,Disc turbo Latam.cr
 Canal.Discovery.World.Latinoamérica.cr,Disc World Latam.cr
