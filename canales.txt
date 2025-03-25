@@ -316,7 +316,7 @@ Canal.5.El.Líder.(Honduras).sv,Canal 5 El Líder (Honduras).sv
 Canal.9.de.Honduras.(Vica).sv,Canal 9 de Honduras (Vica).sv
 Canal.VTV.Honduras.(Vica.TV).sv,Canal VTV Honduras (Vica TV).sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,Canal TSI (Honduras).sv
-Comedy.Central.co,Comedy Central.sv
+Comedy.Central.co,Comedy Central.co
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.HTV.sv,HTV.sv
