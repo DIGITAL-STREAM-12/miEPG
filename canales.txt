@@ -228,16 +228,16 @@ ESPN.6.HD.co,ESPN 6.co
 ESPN.7.HD.co,ESPN 7.co
 Canal.ESPN.(Chile).cl,ESPN Chile.cl
 Canal.ESPN.(Argentina).ar,ESPN Arg.ar
-Canal.13.de.Chile.cl.Canal.13.de.Chile.cl
-Canal.Chilevisión.(CHV).cl,Chilevision.cl
 Canal.CNN.Chile.cl,Canal.CNN Chile.cl
-Canal.Inti.Network.ec,Canal Inti Network.ec
 Canal.La.Red.(Chile).cl,La Red Chile.cl
 Canal.Mega.(Chile).cl,Mega Chile.cl
+Canal.13.de.Chile.cl,Canal 13 Chile.cl
+Canal.Chilevisión.(CHV).cl,Chilevision.cl
 Canal.TVN.(Chile).cl,TVN Chile.cl
+TV.Chile.cl,TV Chile.cl
 Canal.Vía.X.cl,Canal.Vía X.cl
 Canal.Zona.Latina.cl,Zona Latina Chile.cl
-TV.Chile.cl,TV Chile.cl
+Canal.Inti.Network.ec,Canal Inti Network.ec
 Canal.Ecuador.TV.ec,Ecuador TV.ec
 Canal.Ecuavisa.(Ecuador).ec,Ecuavisa.ec
 Canal.Gamavisión.ec,Canal.Gamavisión.ec
