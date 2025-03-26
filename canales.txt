@@ -259,7 +259,6 @@ Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
 Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
 Canal.Telemundo.(Panregional).sv,Telemundo Latam.sv
 Canal.Universo.sv,NBC Universo.sv
-Galavision.-.Eastern.Feed.us,Galavision Este.us
 Canal.Universal.TV.(Panregional).sv,Universal TV Latam.sv
 Canal.Lifetime.(Panregional).sv,Lifetime Latam.sv
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
@@ -324,6 +323,9 @@ Canal.HTV.sv,HTV.sv
 National.Geographic.Mundo.us,Natgeo Mundo.us
 History.Channel.Espanol.-.Eastern.us,History Español.us
 Discovery.Familia.us,Discovery Familia.us
+Galavision.-.Eastern.Feed.us,Galavision Este.us
+Telemundo..-.Eastern.Feed.us,Telemundo Este.us
+Telemundo..-.Pacific.Feed.us,Telemundo Pacif.us
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 0109,Mega 2
