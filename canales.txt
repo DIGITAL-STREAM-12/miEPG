@@ -434,7 +434,7 @@ FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 5d8d164d92e97a5e107638d2,Cine adrenalina.us
 5d8d180092e97a5e107638d3,Cine terror.us
 5f513564e4622a0007c578c0,Cine Jaja.us
-/5f5136317aedfb0007016f93,Cine XOXO.us
+5f5136317aedfb0007016f93,Cine XOXO.us
 6532e7b290a74c00084a3bb6,Hallmark en español.us
 668c5cb4f01dbe0008dd4082,CBS en español.us
 5e82bb378601b80007b4bd78,Walking Dead.us
