@@ -474,6 +474,7 @@ FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 5f1ac8f49205650007bc15f1,Pluto TV Series.es
 5f9853138d19af0007104a8d,Pluto TV Series Comedia.es
 5f1acb4eebe0f0000767b40f,Las reglas del juego.es
+5f1acce7f17797000718f9be,Ana y los 7.es
 5f1acc3e061597000768d4ea,Andrómeda.es
 5f1ac1f1b66c76000790ef27,Pluto TV Cine Estelar.es
 5f1ac2591dd8880007bb7d6d,Pluto TV Cine Acción.es
