@@ -150,6 +150,7 @@ Love Wine,Love Wine 720
 Love TV Trailers,Love TV Trailers 720
 El País,El País 720
 El Confidencial,El Confidencial 720
+Deutsche W,DW Español 720
 Star TVE HD,Star TVE 720
 Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
 Canal.4.de.Costa.Rica.cr,Repretel 4
