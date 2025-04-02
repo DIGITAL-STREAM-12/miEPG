@@ -102,9 +102,8 @@ Runtime Series,Runtime Series 720
 Runtime Acción,Runtime Acción 720
 Runtime Crimen,Runtime Crimen 720
 Runtime Romance,Runtime Romance 720
-Runtime Clásicos,Runtime Clásicos 720
+RunTime Clásicos,Runtime Clásicos 720
 Runtime Familia,Runtime Familia 720
-Runtime Series,Runtime Series 720
 Cines Verdi TV,Cines Verdi TV 720
 En Familia (Rakuten TV),Rakuten Familia 720
 Cine Español (Rakuten TV),Rakuten Cine Español 720
