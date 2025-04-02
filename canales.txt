@@ -24,6 +24,7 @@ Calle 13 HD,Calle 13 720
 Cosmo HD,Cosmo 720
 Somos,Somos 720
 Somos Cine,Somos Cine 720
+BOM Cine,BOM Cine 720
 XTRM,XTRM 720
 SyFy HD,SyFy 720
 Energy,Energy 720
