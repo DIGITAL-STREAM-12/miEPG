@@ -253,6 +253,7 @@ Canal.María.Visión.mx,María Visión.mx
 Canal.Meganoticias.MX.mx,Meganoticias.MX.mx
 Canal.Telehit.mx,Canal.Telehit.mx
 Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
+Azteca Internacional,Azteca Internacional.tf
 Sky Sports 1,Sky Sports 1.ms
 Canal.Sky.Sports.16.sv,Sky Sports 16.sv
 Canal.Sky.Sports.24.sv,Sky Sports 24.sv
