@@ -151,6 +151,7 @@ El País,El País 720
 El Confidencial,El Confidencial 720
 Deutsche W,DW Español 720
 Star TVE HD,Star TVE 720
+8madrid TV,8madrid TV 720
 Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
 Canal.4.de.Costa.Rica.cr,Repretel 4
 Canal.6.de.Costa.Rica.cr,Repretel 6
