@@ -195,6 +195,7 @@ Norte Informativo TV,Norte Informativo.ms
 Teleclasica,Teleclasica.ms
 Bein Sport en Espanol,Bein Sport en Espanol.ms
 Cine Sony,Sony Cine.ms
+De Pelicula Clasico,De Pelicula Clasico.ms
 Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá.pa
 Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá.pa
 Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá.pa
