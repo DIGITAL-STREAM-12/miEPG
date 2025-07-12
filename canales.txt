@@ -135,7 +135,7 @@ NatureTime,NatureTime 720
 BuenViaje,BuenViaje 720
 Canal Cocina,Canal Cocina 720
 Decasa,Decasa 720
-Enfamilia,Enfamilia 720
+VinTV,VinTV 720
 Vivir con perros,Vivir con perros 720
 Vivir con gatos,Vivir con gatos 720
 Private,Private 720
