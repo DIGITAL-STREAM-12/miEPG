@@ -25,7 +25,7 @@ Cosmo HD,Cosmo 720
 Somos,Somos 720
 Somos Cine,Somos Cine 720
 BOM Cine,BOM Cine 720
-XTRM,XTRM 720
+XTRM,XTRM 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
 SyFy HD,SyFy 720
 Energy,Energy 720
 Factoría de Ficción,FDF 720
