@@ -222,6 +222,11 @@ RCN.Novelas.co,RCN Novelas.co
 NUESTRA.TELE.co,Nuestra Tele.co
 PASIONES.co,Pasiones.co
 TNT.Novelas.co,TNT Novelas.co
+Canal.Trece.co,Trece Colom.co
+City.TV.co,City TV.co
+Telecafé.co,Telecafé.co
+Telecaribe.co,Telecaribe.co
+Telepacifico.co,Telepacifico.co
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.HD.dtvsp,Dsports 2
 DSPORTS.+.HD.dtvsp,Dsports +
@@ -251,6 +256,7 @@ Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 Canal.RTS.ec,RTS.ec
 Canal.TC.Televisión.ec,TC.Televisión.ec
 Canal.Ve.Plus.(Latinoamérica).ec,Ve Plus Latam.ec
+Canal.Gamavisión.ec,Gamavisión.ec
 Canal.Cinema.Platino.mx,Cinema Platino.mx
 Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
