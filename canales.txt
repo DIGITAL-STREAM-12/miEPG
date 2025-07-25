@@ -85,6 +85,7 @@ Eurosport 2,Eurosport 2 720
 Teledeporte,Teledeporte 720
 Sky Sports 16,Sky Sports 16 720,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 Tennis Channel,Tennis Channel 720
+FIFA+,FIFA+ 720
 Torolé TV,Torolé TV 720
 Global Telenovelas,Global Telenovelas 720
 tlnovelas,tlnovelas 720
