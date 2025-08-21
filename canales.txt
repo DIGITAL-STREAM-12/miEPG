@@ -360,6 +360,7 @@ Discovery.Familia.us,Discovery Familia.us
 Galavision.-.Eastern.Feed.us,Galavision Este.us
 Telemundo..-.Eastern.Feed.us,Telemundo Este.us
 Telemundo..-.Pacific.Feed.us,Telemundo Pacif.us
+Starz.Encore.Westerns.-.Eastern.us,Starz Westerns.us
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Canal.America.TV.(Argentina).ar,America tv,ar
