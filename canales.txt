@@ -237,7 +237,7 @@ Caracol.co,Caracol.co
 Canal.Caracol.Internacional.ec,Caracol Internacional.ec
 RCN.co,RCN.co
 RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
-RCN.Novelas.co,RCN Novelas.co
+Canal.RCN.Novelas.sv,RCN Novelas.sv
 NUESTRA.TELE.co,Nuestra Tele.co
 PASIONES.co,Pasiones.co
 TNT.Novelas.co,TNT Novelas.co
