@@ -293,6 +293,12 @@ Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
 Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
 Canal.Telemundo.(Panregional).sv,Telemundo Latam.sv
 Canal.Universo.sv,NBC Universo.sv
+Canal.Unicable.(México).sv,Unicable.sv
+Canal.Universal.Cinema.sv,Univ. Cinema.sv
+Canal.Universal.Comedy.sv,Univ. Comedy.sv
+Canal.Universal.Crime.sv,Univ. Crime.sv
+Canal.Universal.Premiere.sv,Univ. Premiere.sv
+Canal.Universal.Reality.sv,Univ. Reality.sv
 Canal.Universal.TV.(Panregional).sv,Universal TV Latam.sv
 Canal.Lifetime.(Panregional).sv,Lifetime Latam.sv
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
