@@ -362,6 +362,7 @@ Comedy.Central.co,Comedy Central.co
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.HTV.sv,HTV.sv
+Canal.Azteca.Uno.-1.Hora.sv,Az Uno -1H.sv
 National.Geographic.Mundo.us,Natgeo Mundo.us
 History.Channel.Espanol.-.Eastern.us,History Español.us
 Discovery.Familia.us,Discovery Familia.us
