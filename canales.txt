@@ -45,7 +45,6 @@ Boing,Boing 720
 Clan,Clan 720
 Cuéntame,Cuéntame 720
 MTV España,MTV España 720
-MTV 80s,MTV 80s 720
 MTV 90s,MTV 90s 720
 MTV 00s,MTV 00s 720
 Club MTV,MTV Club 720
@@ -362,6 +361,7 @@ Comedy.Central.co,Comedy Central.co
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.HTV.sv,HTV.sv
+Canal.MTV.80s.sv,MTV 80s.sv
 Canal.Azteca.Uno.-1.Hora.sv,Az Uno -1H.sv
 National.Geographic.Mundo.us,Natgeo Mundo.us
 History.Channel.Espanol.-.Eastern.us,History Español.us
