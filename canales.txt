@@ -301,7 +301,7 @@ Canal.Universal.Reality.sv,Univ. Reality.sv
 Canal.Universal.TV.(Panregional).sv,Universal TV Latam.sv
 Canal.Lifetime.(Panregional).sv,Lifetime Latam.sv
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
-Canal.Warner.TV.(Costa.Rica).cr,Warner TV.cr
+Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.National.Geographic.(Centro).sv,Natgeo.sv
 Canal.History.(Panregional).sv,History Latam.sv
 Canal.History.2.(Chile).cl,H2.sv
