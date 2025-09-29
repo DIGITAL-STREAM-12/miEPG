@@ -427,7 +427,8 @@ Clarocinema,Claro Cinema
 643054b1fc3be59477853717-671ff7a5769d5ec4bf51d63a,Historia y Vida.plex
 643054b1fc3be59477853717-630fa9e577ec3866def38fa2,Women's Sports.plex
 608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo Mexico
-643054b1fc3be59477853717-63489a771159f6a5ce819b7b,Grjngo España
+ESBC2700002LO,Grjngo España
+643054b1fc3be59477853717-63489a771159f6a5ce819b7b,Grjngo España2
 5e793a7cfbdf780007f7eb75,Descubriendo Pluto TV.mx
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
