@@ -364,13 +364,13 @@ Canal.HTV.sv,HTV.sv
 Canal.MTV.80s.sv,MTV 80s.sv
 Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.sv,Az Uno -1H.sv
-National.Geographic.Mundo.us,Natgeo Mundo.us
-History.Channel.Espanol.-.Eastern.us,History Español.us
-Discovery.Familia.us,Discovery Familia.us
-Galavision.-.Eastern.Feed.us,Galavision Este.us
-Telemundo..-.Eastern.Feed.us,Telemundo Este.us
-Telemundo..-.Pacific.Feed.us,Telemundo Pacif.us
-Starz.Encore.Westerns.-.Eastern.us,Starz Westerns.us
+Nat.Geo.Mundo.us2,Natgeo Mundo.us
+History.Channel.En.Español.us2,History Español.us
+Discovery.Familia.En.Español.us2,Discovery Familia.us
+Galavision.Cable.Network.HD.us2,Galavision Este.us
+Telemundo.Satellite.Feed.us2,Telemundo Este.us
+Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
+Starz.Encore.Westerns.SD.us2,Starz Westerns.us
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Canal.America.TV.(Argentina).ar,America tv,ar
