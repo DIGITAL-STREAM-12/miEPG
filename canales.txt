@@ -370,6 +370,10 @@ Discovery.Familia.En.Español.us2,Discovery Familia.us
 Galavision.Cable.Network.HD.us2,Galavision Este.us
 Telemundo.Satellite.Feed.us2,Telemundo Este.us
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
+Telemundo.(KVEA).Los.Angeles,.CA.us,Telemundo LA.us
+Telemundo.(WSNS).Chicago,.IL.us,Telemundo Chicago.us
+Telemundo.(KXTX).Dallas,.TX.us,Telemundo Dallas.us
+Telemundo.(WZDC).Washington,.DC.us,Telemundo Wash.us
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
