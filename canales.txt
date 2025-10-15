@@ -396,6 +396,7 @@ Clarocinema,Claro Cinema
 0443,ECDF El Canal del Fútbol
 0528,OLD Music
 0535,VM Latino
+plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,Cine Sureño.plex
