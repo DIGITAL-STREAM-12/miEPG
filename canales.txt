@@ -362,6 +362,12 @@ Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.HTV.sv,HTV.sv
 Canal.MTV.80s.sv,MTV 80s.sv
+Canal.Azteca.7..(México).sv,Azteca 7.sv
+Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
+Canal.Disney.Junior.(Norte).sv,Disney jr.sv
+Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
+Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
+Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
 Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.sv,Az Uno -1H.sv
 Nat.Geo.Mundo.us2,Natgeo Mundo.us
