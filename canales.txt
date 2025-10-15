@@ -561,3 +561,11 @@ USBD2700005KL,Cine de Oro.sam
 ES4800002OZ,Caillou.sam
 US2200001IY,Curiosity Animales.sam
 US22000020U,Curiosity Explora.sam
+Retro.cz,Retro.cz
+Thats.Dance.uk,Thats Dance.uk
+plex.tv.Vevo.`70s.plex,Vevo 70s.plex
+plex.tv.Vevo.`80s.plex,Vevo 80s.plex
+plex.tv.Vevo.`90s.plex,Vevo 90s.plex
+Deejay.TV.it,Deejay TV.it
+Canal.Telehit.Música.sv,Canal.Telehit Música.sv
+UK:.NOW.90s00s.be,NOW 90s.be
