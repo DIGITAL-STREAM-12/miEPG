@@ -13,6 +13,7 @@ https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 https://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Costa%20Rica/futvcr.com.channels.xml
 https://www.open-epg.com/files/costarica1.xml
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
