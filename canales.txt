@@ -417,7 +417,7 @@ plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
 608049aefa2b8ae93c2c3a63-64d4e82ac5d4668c9cb7b5df,Novelisima.plex
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas.plex
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix.plex
-608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,Artflix.plex
+608049aefa2b8ae93c2c3a63-6348a34c1159f6a5ce819b81,Artflix.plex2
 608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro TV.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
 608049aefa2b8ae93c2c3a63-5ef4e1b10d9ad000423c4421,Always Funny en Español.plex
