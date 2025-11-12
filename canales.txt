@@ -1,7 +1,178 @@
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
-La 2,La 2 Super Full HD 8k
-Eleven Sports 1,Eleven Sports 1 Polonia,+2
-Eleven Sports 2,Eleven Sports 2 Polonia,+2
+La 1 HD,La 1 720
+La 2,La 2 720
+Antena 3 HD,Antena 3 720
+Cuatro HD,Cuatro 720
+Telecinco HD,Telecinco 720
+La Sexta HD,La Sexta 720
+M+ Estrenos HD,M+ Estrenos 720
+M+ Hits HD,M+ Hits 720
+M+ Originales HD,M+ Originales 720
+M+ Clásicos HD,M+ Clásicos 720
+M+ Acción HD,M+ Acción 720
+M+ Comedia HD,M+ Comedia 720
+M+ Drama HD,M+ Drama 720
+M+ Indie HD,M+ Indie 720
+M+ Cine Español,M+ Cine Español 720
+TCM HD,TCM 720
+Paramount Network,Paramount Network 720
+Be Mad,Be Mad 720
+STAR Channel HD,STAR Channel 720
+AXN HD,AXN 720
+Warner TV HD,Warner TV 720
+Comedy Central HD,Comedy Central 720
+Calle 13 HD,Calle 13 720
+Cosmo HD,Cosmo 720
+SyFy HD,SyFy 720
+Energy,Energy 720
+Factoría de Ficción,FDF 720
+Neox,Neox 720
+Caza y Pesca HD,Caza y Pesca 720
+Iberalia TV,Iberalia TV 720
+Iberalia pesca,Iberalia pesca 720
+Iberalia caza,Iberalia caza 720
+National Geographic HD,Natgeo 720
+Nat Geo Wild HD,Nat Geo Wild 720
+Discovery,Discovery 720
+Divinity,Divinity 720
+Nova,Nova 720
+Nickelodeon HD,Nickelodeon 720
+Dreamworks HD,Dreamworks 720
+Boing,Boing 720
+Clan,Clan 720
+HIT TV,HIT TV 720
+MTV España,MTV España 720
+MTV 80s,MTV 80s 720
+MTV 90s,MTV 90s 720
+MTV 00s,MTV 00s 720
+MTV Hits,MTV Hits 720
+Club MTV,Club MTV 720
+MTV Live,MTV Live 720
+MTV Classic,MTV Classic 720
+24 Horas,24 Horas 720
+Canal Sur Andalucía,Canal Sur Andalucía 720
+ETB1,ETB1 720
+ETB2,ETB2 720
+Canal Extremadura,Canal Extremadura 720
+Telemadrid,Telemadrid 720
+Atreseries,Atreseries 720
+Real Madrid TV,Real Madrid TV 720
+DMAX,DMAX 720
+Mega,Mega 720
+Ten,Ten 720
+CGTN Español,CGTN Español 720
+EWTN,EWTN 720
+M+ LaLiga HD,M+ LaLiga 720
+DAZN LaLiga HD,DAZN LaLiga 720
+DAZN LaLiga 2 HD,DAZN LaLiga 2 720
+M+ Liga de Campeones HD,M+ Liga de Campeones 720
+DAZN F1 HD,DAZN F1 720
+DAZN 1 HD,DAZN 1 720
+DAZN 2 HD,DAZN 2 720
+DAZN 3 HD,DAZN 3 720
+DAZN 4 HD,DAZN 4 720
+Eurosport 1 HD,Eurosport 1 720
+Eurosport 2,Eurosport 2 720
+GOL,GOL 720
+Teledeporte,Teledeporte 720
+Squirrel TV,Squirrel TV 720
+Cuéntame,Cuéntame 720
+AMC Break,AMC Break 720
+Odisea,Odisea 720
+AMC HD,AMC 720
+AMC Crime,AMC Crime 720
+Historia,Historia 720
+XTRM,XTRM 720
+Canal Hollywood HD,Canal Hollywood 720
+VinTV,VinTV 720
+Somos,Somos 720
+Canal Cocina,Canal Cocina 720
+Decasa,Decasa 720
+BOM Cine,BOM Cine 720
+BuenViaje,BuenViaje 720
+Cines Verdi TV,Cines Verdi TV 720
+Runtime Thriller-Terror,Runtime Thriller-Terror 720
+Runtime Comedia,Runtime Comedia 720
+Runtime Cine y Series,Runtime Cine y Series 720
+Runtime Series,Runtime Series 720
+Runtime Acción,Runtime Acción 720
+Runtime Crimen,Runtime Crimen 720
+Runtime Romance,Runtime Romance 720
+RunTime Clásicos,RunTime Clásicos 720
+RunTime Familia,RunTime Familia 720
+TR3CE,TR3CE 720
+Tennis Channel,Tennis Channel 720
+NatureTime,NatureTime 720
+Vivir con gatos,Vivir con gatos 720
+Vivir con perros,Vivir con perros 720
+Love the Planet,Love the Planet 720
+Love Wine,Love Wine 720
+8madrid TV,8madrid TV 720
+En Familia (Rakuten TV),En Familia (Rakuten TV) 720
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV) 720
+Crimen (Rakuten TV),Crimen (Rakuten TV) 720
+Thrillers (Rakuten TV),Thrillers (Rakuten TV) 720
+FIFA+,FIFA+ 720
+Star TVE HD,Star TVE 720
+Sky Sports 16,Sky Sports 16 720
+Atrescine,Atrescine 720
+TUDN (Estados Unidos),
+Canal.4.de.Costa.Rica.sv,Repretel 4
+Canal.6.de.Costa.Rica.sv,Repretel 6
+Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
+Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
+Canal.11.de.Costa.Rica.sv,Repretel 11
+Canal.13.de.Costa.Rica.sv,Sinart canal 13
+Canal.3.de.Guatemala.sv,3 de Guatemala.sv
+Canal.7.de.Guatemala.sv,7 de Guatemala.sv
+Canal.11.de.Guatemala.sv,11 de Guatemala.sv
+Canal.13.de.Guatemala.sv,13 de Guatemala.sv
+Canal.Antigua.(Guatemala).sv,Canal Antigua.sv
+Canal.Tigo.Sports.(Guatemala).sv,Tigo Sports Guate.sv
+Canal.2.de.El.Salvador.sv,2 de El Salvador.sv
+Canal.4.de.El.Salvador.sv,4 de El Salvador.sv
+Canal.6.de.El.Salvador.sv,6 de El Salvador.sv
+Canal.12.de.El.Salvador.sv,12 de El Salvador.sv
+Canal.21.de.El.Salvador.(Megavisión).sv,21 El Salvador.sv
+Canal.Tigo.Sports.(El.Salvador).sv,Tigo Sports El Salvador.sv
+Canal.5.El.Líder.(Honduras).sv,5 El Líder.sv
+Canal.9.de.Honduras.(Vica).sv,Vica TV.sv
+Canal.Telesistema.Informativo.(TSI).(Honduras).sv,TSI.sv
+Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
+Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
+Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
+Canal.4.de.Panamá.(RPC.TV).pa,4 de Panamá.pa
+Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
+Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
+Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
+Canal.BitMe.sv,BitMe.sv
+Canal.Cartoonito.(Panregional).sv,Cartoonito.sv
+Canal.Cinema.sv,AzCinema.sv
+Canal.Cinemax.(Panregional).sv,Cinemax.sv
+Canal.Cine.Mexicano.sv,Cine Mexicano.sv
+Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
+Canal.Cine.Sony.sv,Cine Sony.sv
+Canal.CNN.en.Español.sv,CNN Español.sv
+Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
+Canal.De.Película.sv,De Película.sv
+Canal.De.Película.Clásico.sv,De Película Clásico.sv
+Canal.DHE.sv,DHE.sv
+Canal.Discovery.Channel.(México).sv,Disc Channel.sv
+Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
+Canal.Discovery.Theater.(Latinoamérica).sv,Disc Theater.sv
+Canal.Discovery.Turbo.(Latinoamérica).sv,Disc Turbo.sv
+Canal.Discovery.World.Latinoamérica.sv,Disc World.sv
+Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
+Canal.Distrito.Comedia.sv,Distrito Comedia.sv
+Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
+Canal.Elgourmet.sv,Elgourmet.sv
+Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
+Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
+Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
+Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
+Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
+Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+
+
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
