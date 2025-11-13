@@ -173,6 +173,31 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+
+5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
+5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
+5e972a21ad709d00074195ba,Estrellas de Acción.mx
+5dcdde78f080d900098550e4,Pluto TV Cine Comedia.mx
+5dcddfcb229eff00091b6bdf,Pluto TV Cine Drama.mx
+5dd7ea2aeab5230009986735,Pluto TV Cine Romance.mx
+5ddc4e8bcbb9010009b4e84f,Pluto TV Cine Suspenso.mx
+624af40c004f8000079b784d,Pluto TV Cine Crimen.mx
+5dcddf1ed95e740009fef7ab,Pluto TV Cine Terror.mx
+5f2817d3d7573a00080f9175,Pluto TV Sci-Fi.mx
+5defde6d6c07b50009cf0757,Pluto TV  Nuestro Cine.mx
+609059dc63be6e0007b4eca6,Pluto TV Cine Clásico.mx
+5dd6ddb30a1d8a000908ed4c,Pluto TV Cine Familia.mx
+5dcde1317578340009b751d0,Pluto TV Series.mx
+5dd837642c6e9300098ad484,Pluto TV Series Latinas.mx
+5de802659167b10009e7deba,Pluto TV Series Retro.mx
+66a26a7846762a0008258d4e,Baywatch.mx
+5dcde0cc2efd2700090b7ff4,Pluto TV Novelas.mx
+5dcde197f6591d0009839e04,Pluto TV Reality.mx
+
+5f1abce155a03d0007718834,Comedia made in Spain.es
+5f28009b150b2500077766b8,Vaya semanita.es
+6385e82900ab2e000768a058,Pluto TV Western.es
+
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
