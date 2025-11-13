@@ -153,6 +153,7 @@ Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.Cine.Sony.sv,Cine Sony.sv
+Canal.Sony.Centro.sv,Sony CH.sv
 Canal.CNN.en.Español.sv,CNN Español.sv
 Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
 Canal.De.Película.sv,De Película.sv
