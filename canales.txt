@@ -115,7 +115,7 @@ FIFA+,FIFA+ 720
 Star TVE HD,Star TVE 720
 Sky Sports 16,Sky Sports 16 720
 Atrescine,Atrescine 720
-TUDN (Estados Unidos),
+TUDN (Estados Unidos),TUDN USA 720
 Canal.4.de.Costa.Rica.sv,Repretel 4
 Canal.6.de.Costa.Rica.sv,Repretel 6
 Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
