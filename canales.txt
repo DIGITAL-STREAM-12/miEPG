@@ -123,7 +123,7 @@ Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
 Canal.FUTV.sv,Canal FUTV.sv
-Canal.Tigo.Sports.(Costa.Rica).sv,Tigo Sports.sv
+Tigo.Sports.(Coasta.Rica).cr,Tigo Sports.sv
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,11 de Guatemala.sv
