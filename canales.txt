@@ -169,6 +169,7 @@ Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
 Canal.Universal.Comedy.sv,Univ. Comedy.sv,,-5
+Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
