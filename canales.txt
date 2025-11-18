@@ -168,7 +168,39 @@ Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
 Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
+Canal.Azteca.7..(México).sv,Azteca 7.sv
+Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
 Canal.Universal.Comedy.sv,Univ. Comedy.sv,,-5
+Canal.Universal.Reality.sv,Univ. Reality.sv
+Canal.Star.TVE.sv,Star TVE.sv
+Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
+Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
+Canal.Telemundo.(Panregional).sv,Telemundo (Panregional).sv
+Canal.Universo.sv,NBC Universo.sv
+Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
+Canal.Disney.Junior.(Norte).sv,Disney jr.sv
+Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
+Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
+Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
+Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
+Canal.TNT.Novelas.(Latinoamérica).sv,TNT Novelas.sv
+Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
+Canal.Estrella.TV.sv,Estrella TV.sv
+Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
+Comedy.Central.co,Comedy Central.co
+Caracol.co,Caracol.co
+CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
+RCN.co,RCN.co
+RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
+NUESTRA.TELE.co,Nuestra Tele.co
+RCN.Novelas.co,RCN Novelas.co
+ESPN.co,ESPN.co
+ESPN.2.co,ESPN 2.co
+ESPN.3.co,ESPN 3.co
+ESPN.4.co,ESPN 4.co
+ESPN.5.co,ESPN 5.co
+ESPN.6.HD.co,ESPN 6.co
+ESPN.7.HD.co,ESPN 7.co
 Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
@@ -176,6 +208,11 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
+Canal.Azteca.Uno.mx,Azteca Uno.mx
+Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
+Canal.TV.Azteca.Mundo.mx,Az Int.mx
+Canal.Cinema.mx,Cinema.mx
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
