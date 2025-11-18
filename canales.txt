@@ -199,6 +199,7 @@ Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.s
 6385e82900ab2e000768a058,Pluto TV Western.es
 plex.tv.Grjngo.-.Películas.Del.Oeste.plex,Grjngo Mexico
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
+plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
 608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro TV.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
