@@ -170,7 +170,7 @@ Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
 Canal.Azteca.7..(México).sv,Azteca 7.sv
 Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
-Canal.Universal.Comedy.sv,Univ. Comedy.sv,,-5
+Canal.Universal.Comedy.sv,Univ. Comedy.sv,https://imagenes.gatotv.com/logos/canales/claros/universal_comedy.png,-3
 Canal.Universal.Reality.sv,Univ. Reality.sv
 Canal.Star.TVE.sv,Star TVE.sv
 Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
