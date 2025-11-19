@@ -208,6 +208,26 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+Retro Hits TV,Retro Hits TV.ms
+Mi TV Television Clasica,Mi TV Television Clasica.ms
+RetroX TV,RetroX TV.ms
+Teleclasica,Teleclasica.ms
+TeleRed,Telered.ms
+Telesistema,Telesistema.ms
+Tv Retro Palmares,Tv Retro Palmares.ms
+TVS Retro,TVS Retro.ms
+Voice Over Radio TV,Voice Over TV.ms
+Canal Punto 99,Punto 99.ms
+Chespirito,Chespirito.ms
+El Chapulin,El Chapulin.ms
+El Chavo,El Chavo.ms
+Classic Channel HD,Classic Channel.ms
+Norte Informativo TV,Norte Informativo.ms
+Extra TV 42 de Costa Rica,
+Exa TV,Exa TV.ms
+Sky Sports 1,Sky Sports 1.ms
+Tigo Sports,Tigo Sports.ms
+Caliente TV,Fox MX.ms
 Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
 Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
