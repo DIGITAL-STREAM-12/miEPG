@@ -208,6 +208,10 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+DSPORTS.(ARG).dtvsp,Dsports
+DSPORTS.2.HD.dtvsp,Dsports 2
+DSPORTS.+.HD.dtvsp,Dsports +
+Azteca Deportes,Azteca Deportes.ms
 Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
