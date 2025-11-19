@@ -208,6 +208,10 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
+Canal.History.(Panregional).sv,History Latam.sv
+Canal.History.2.(Panregional).sv,H2.sv
+Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.HD.dtvsp,Dsports 2
 DSPORTS.+.HD.dtvsp,Dsports +
@@ -227,11 +231,19 @@ El Chapulin,El Chapulin.ms
 El Chavo,El Chavo.ms
 Classic Channel HD,Classic Channel.ms
 Norte Informativo TV,Norte Informativo.ms
-Extra TV 42 de Costa Rica,
+Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
 Exa TV,Exa TV.ms
 Sky Sports 1,Sky Sports 1.ms
 Tigo Sports,Tigo Sports.ms
 Caliente TV,Fox MX.ms
+Galavision.Cable.Network.HD.us2,Galavision Este.us
+Telemundo.Satellite.Feed.us2,Telemundo Este.us
+Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
+CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
+Nat.Geo.Mundo.us2,Natgeo Mundo.us
+Discovery.en.Español.us2,Discovery Español.us
+Discovery.Familia.En.Español.us2,Discovery Familia.us
+History.Channel.En.Español.us2,History Español.us
 Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
 Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
