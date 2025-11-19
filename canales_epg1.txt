@@ -202,6 +202,7 @@ Mr Bean Animated,Mr Bean Animated 1080,https://tvpnlogopeu.samsungcloud.tv/platf
 Rally.TV,Rally.TV 1080,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES1600005T1_20250729T045105SQUARE.png
 Tennis+,Tennis+ 1080,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
 FashionTV,FashionTV 1080,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
+Liga de Campeones BAR 2,Liga de Campeones BAR 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png
 GolStadium BAR,GolStadium BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png
 DAZN F1 BAR,DAZN F1 BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png
 GolStadium,GolStadium 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png
@@ -224,6 +225,7 @@ PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_
 PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
+NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
 Motorvision TV,Motorvision TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png
 PowerSports World,PowerSports World 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png
 PLL Network,PLL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png
@@ -270,55 +272,55 @@ Club MTV,Club MTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 NickMusic,NickMusic 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NickMusic.png
 Record,Record 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Record.png
 RTP Internacional,RTP Internacional 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTP%20Internacional.png
-NHK WORLD,NHK WORLD 1080,
-PRO TV RUMANIA,PRO TV RUMANIA 1080,
-Playboy TV,Playboy TV 1080,
-Dark Rojo,Dark Rojo 1080,
-AMC Anime,AMC Anime 1080,
-AMC+ Connect,AMC+ Connect 1080,
-Squirrel TV,Squirrel TV 1080,
-Escapa TV,Escapa TV 1080,
-Popular TV Región de Murcia,Popular TV Región de Murcia 1080,
-La 7 Rioja,La 7 Rioja 1080,
-ETB4,ETB4 1080,
-TPA7 Asturias,TPA7 Asturias 1080,
-TPA8 Asturias,TPA8 Asturias 1080,
-Levante TV,Levante TV 1080,
-Onda Algeciras TV,Onda Algeciras TV 1080,
-Tele Elx,Tele Elx 1080,
-7teleValencia,7teleValencia 1080,
-Información TV,Información TV 1080,
-DAZN 1 BAR,DAZN 1 BAR 1080,
-DAZN 2 BAR,DAZN 2 BAR 1080,
-LaLiga TV BAR 4,LaLiga TV BAR 4 1080,
-LaLiga TV BAR 5,LaLiga TV BAR 5 1080,
-La 1 Cataluña,La 1 Cataluña 1080,
-La 2 Cataluña,La 2 Cataluña 1080,
-24 horas Cataluña,24 horas Cataluña 1080,
-La 1 Canarias,La 1 Canarias 1080,
-La 2 Canarias,La 2 Canarias 1080,
-24 horas Canarias,24 horas Canarias 1080,
-La Promesa,La Promesa 1080,
-La Revuelta,La Revuelta 1080,
-Somos Cine,Somos Cine 1080,
-Cuéntame,Cuéntame 1080,
-Saber y ganar,Saber y ganar 1080,
-Los Conciertos de Radio 3,Los Conciertos de Radio 3 1080,
-TV3 Catalunya,TV3 Catalunya 1080,
-3CatInfo Catalunya,3CatInfo Catalunya 1080,
-SX3 Catalunya,SX3 Catalunya 1080,
-El 33 Catalunya,El 33 Catalunya 1080,
-Esport3 Catalunya,Esport3 Catalunya 1080,
-TV3CAT Catalunya,TV3CAT Catalunya 1080,
-Bon Dia TV,Bon Dia TV 1080,
-El Hormiguero,El Hormiguero 1080,
-El club de la comedia,El club de la comedia 1080,
-Equipo de investigación,Equipo de investigación 1080,
-Aquí no hay quién viva,Aquí no hay quién viva 1080,
-FoQ,FoQ 1080,
-Clásicos atresplayer,Clásicos atresplayer 1080,
-Multicine atresplayer,Multicine atresplayer 1080,
-Comedia atresplayer,Comedia atresplayer 1080,
+NHK WORLD,NHK WORLD 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK%20WORLD.png
+PRO TV RUMANIA,PRO TV RUMANIA 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PRO%20TV%20RUMANIA.png
+Playboy TV,Playboy TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Playboy%20TV.png
+Dark Rojo,Dark Rojo 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dark%20Rojo.png
+AMC Anime,AMC Anime 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Anime.png
+AMC+ Connect,AMC+ Connect 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%2B%20Connect.png
+Squirrel TV,Squirrel TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
+Escapa TV,Escapa TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png
+Popular TV Región de Murcia,Popular TV Región de Murcia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Popular%20TV%20Regi%C3%B3n%20de%20Murcia.png
+La 7 Rioja,La 7 Rioja 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Rioja.png
+ETB4,ETB4 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4.png
+TPA7 Asturias,TPA7 Asturias 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png
+TPA8 Asturias,TPA8 Asturias 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png
+Levante TV,Levante TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png
+Onda Algeciras TV,Onda Algeciras TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20Algeciras%20TV.png
+Tele Elx,Tele Elx 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tele%20Elx.png
+7teleValencia,7teleValencia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/7teleValencia.png
+Información TV,Información TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Informaci%C3%B3n%20TV.png
+DAZN 1 BAR,DAZN 1 BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png
+DAZN 2 BAR,DAZN 2 BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png
+LaLiga TV BAR 4,LaLiga TV BAR 4 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png
+LaLiga TV BAR 5,LaLiga TV BAR 5 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%205.png
+La 1 Cataluña,La 1 Cataluña 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalu%C3%B1a.png
+La 2 Cataluña,La 2 Cataluña 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Catalu%C3%B1a.png
+24 horas Cataluña,24 horas Cataluña 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Catalu%C3%B1a.png
+La 1 Canarias,La 1 Canarias 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png
+La 2 Canarias,La 2 Canarias 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png
+24 horas Canarias,24 horas Canarias 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png
+La Promesa,La Promesa 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png
+La Revuelta,La Revuelta 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Revuelta.png
+Somos Cine,Somos Cine 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png
+Cuéntame,Cuéntame 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png
+Saber y ganar,Saber y ganar 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Saber%20y%20ganar.png
+Los Conciertos de Radio 3,Los Conciertos de Radio 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Los%20Conciertos%20de%20Radio%203.png
+TV3 Catalunya,TV3 Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png
+3CatInfo Catalunya,3CatInfo Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo%20Catalunya.png
+SX3 Catalunya,SX3 Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3%20Catalunya.png
+El 33 Catalunya,El 33 Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%2033%20Catalunya.png
+Esport3 Catalunya,Esport3 Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20Catalunya.png
+TV3CAT Catalunya,TV3CAT Catalunya 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
+Bon Dia TV,Bon Dia TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bon%20Dia%20TV.png
+El Hormiguero,El Hormiguero 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Hormiguero.png
+El club de la comedia,El club de la comedia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20club%20de%20la%20comedia.png
+Equipo de investigación,Equipo de investigación 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Equipo%20de%20investigaci%C3%B3n.png
+Aquí no hay quién viva,Aquí no hay quién viva 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Aqu%C3%AD%20no%20hay%20qui%C3%A9n%20viva.png
+FoQ,FoQ 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FoQ.png
+Clásicos atresplayer,Clásicos atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png
+Multicine atresplayer,Multicine atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png
+Comedia atresplayer,Comedia atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png
 Inquietos atresplayer,Inquietos atresplayer 1080,
 Flooxer,Flooxer 1080,
 Kidz,Kidz 1080,
