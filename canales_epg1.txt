@@ -226,6 +226,8 @@ PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picon
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
+Red Bull TV,Red Bull TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png
+Unbeaten,Unbeaten 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
 Motorvision TV,Motorvision TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png
 PowerSports World,PowerSports World 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png
 PLL Network,PLL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png
@@ -321,9 +323,9 @@ FoQ,FoQ 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/ic
 Clásicos atresplayer,Clásicos atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cl%C3%A1sicos%20atresplayer.png
 Multicine atresplayer,Multicine atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Multicine%20atresplayer.png
 Comedia atresplayer,Comedia atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedia%20atresplayer.png
-Inquietos atresplayer,Inquietos atresplayer 1080,
-Flooxer,Flooxer 1080,
-Kidz,Kidz 1080,
+Inquietos atresplayer,Inquietos atresplayer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Inquietos%20atresplayer.png
+Flooxer,Flooxer 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png
+Kidz,Kidz 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png
 ATRESplayer PREMIUM,ATRESplayer PREMIUM 1080,
 Infinity En la calle,Infinity En la calle 1080,
 Infinity Viajes,Infinity Viajes 1080,

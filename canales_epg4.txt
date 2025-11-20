@@ -116,9 +116,9 @@ DSPORTS.(COL).(DTSC).co,,
 DSPORTS.2.(DTS2).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png
 DSPORTS.+(DTS+).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/613.png
 DSports.Motor(DSPM).co,,
-DIRECTV.Sports.5(DTS6).co,,
+DIRECTV.Sports.5(DTS6).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/616.png
 DIRECTV.SPORTS(DTS7).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/618.png
-DIRECTV.SPORTS(DTS9).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/619.png
+DIRECTV.SPORTS(DTS9).co,,
 DSPORTS.Fight(DTSF).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/615.png
 TyC.Sports.International(TYCS).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/629.png
 Win.Sports.(WIN).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png
@@ -131,7 +131,7 @@ DSPORTS.2.HD(DTV2HD).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Ca
 DSPORTS.+.HD(DTS+HD).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1613.png
 DSports.Motor(DSPMHD).co,,
 DIRECTV.SPORTS.HD(DTVSHD).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1618.png
-DIRECTV.SPORTS.HD(DTSHD9).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1619.png
+DIRECTV.SPORTS.HD(DTSHD9).co,,
 DSPORTS.Fight(DTSFHD).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1615.png
 DSports.Radio(DTSR).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1631.png
 Win.Sports.HD.(COL)(WINHD).co,,https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1633.png
