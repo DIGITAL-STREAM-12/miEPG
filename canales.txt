@@ -57,7 +57,7 @@ Telemadrid,Telemadrid 720
 Atreseries,Atreseries 720
 Real Madrid TV,Real Madrid TV 720
 DMAX,DMAX 720
-Mega,Mega 720
+Mega,Mega España 720
 Ten,Ten 720
 CGTN Español,CGTN Español 720
 EWTN,EWTN 720
@@ -188,6 +188,23 @@ Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.Estrella.TV.sv,Estrella TV.sv
 Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
 Comedy.Central.co,Comedy Central.co
+Canal.1.co,Canal 1.co
+Canal.Capital.co,Capital.co
+Canal.Trece.co,Trece.co
+Canal.TRO.co,TRO.co
+Canal.Zoom.co,Zoom.co
+City.TV.co,City TV.co
+EUROPA.EUROPA.co,EUROPA EUROPA.co
+NTN24.co,NTN24.co
+Señal.Colombia.co,Señal Colombia.co
+Teleantioquia.co,Teleantioquia.co
+Telecafé.co,Telecafé.co
+Telecaribe.co,Telecaribe.co
+Teleislas.co,Teleislas.co
+TELEMEDELLIN.co,Telemedellin.co
+Telepacifico.co,Telepacifico.co
+Win.Sports.co,Win Sports.co
+Win.Sports+.co,Win Sports+.co
 Caracol.co,Caracol.co
 CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 RCN.co,RCN.co
@@ -236,6 +253,33 @@ Exa TV,Exa TV.ms
 Sky Sports 1,Sky Sports 1.ms
 Tigo Sports,Tigo Sports.ms
 Caliente TV,Fox MX.ms
+Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá.pa
+Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá.pa
+Canal.9.de.Panamá.(TVMax).pa,TV Max Panamá.pa
+Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
+Canal.Ecuador.TV.ec,Ecuador TV.ec
+Canal.Ecuavisa.(Ecuador).ec,Ecuavisa.ec
+Canal.Gamavisión.ec,Gamavisión.ec
+Canal.RTS.ec,RTS.ec
+Canal.TC.Televisión.ec,TC.Televisión.ec
+Canal.13.de.Chile.cl,13 de Chile.cl
+Canal.24.Horas.(Chile).cl,24 Horas CH.cl
+Canal.Chilevisión.(CHV).cl,Chilevision.cl
+Canal.CNN.Chile.cl,CNN Chile.cl
+Canal.La.Red.(Chile).cl,La Red CH.cl
+Canal.Mega.(Chile).cl,Mega Chile.cl
+Canal.TVN.(Chile).cl,TVN Chile.cl
+TV.Chile.cl,TV Chile.cl
+AMERICA.TELEVISION.(America.TV).pe,America Perú.pe
+ATV.(ATV).pe,ATV.pe
+ATV+.(ATV+).pe,ATV+.pe
+CANAL.N.(Canal.N).pe,Canal N.pe
+GOLPERU.(GOLPERU).pe,GOL Peru.pe
+LATINA.(Latina).pe,Latina Perú.pe
+M.DEPORTES.(M.Deportes).pe,M Deportes.pe
+M.PLUS.(M.Plus).pe,M Plus.pe
+PANAMERICANA.TELEVISION.(Panamericana.TV).pe,Panamericana.pe
+WILLAX.(Willax).pe,Willax.pe
 Galavision.Cable.Network.HD.us2,Galavision Este.us
 Telemundo.Satellite.Feed.us2,Telemundo Este.us
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
