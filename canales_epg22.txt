@@ -44,6 +44,7 @@
 608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c,Corazón,https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/ef8faa38-4d71-46f8-be5e-b94c88d53b84/FreeTV_Live.png
+608049aefa2b8ae93c2c3a63-691536d338cb396cc8e5b40a,Novelas de Siempre,https://provider-static.plex.tv/epg/cms/production/7d35cdb3-b793-47d0-8c2f-cbe2dc1037da/Novelas_de_Siempre_Channel-Icon_ColorRDX2.png
 608049aefa2b8ae93c2c3a63-66ea196ac24d95b51b7cd18b,wedo amor,https://provider-static.plex.tv/epg/cms/production/a4765ad1-345e-4cb7-b6c5-3dc970e4d78e/Light_LogoWEDDO_AMOR_WHITE.png
 608049aefa2b8ae93c2c3a63-65b16e7b115f5ad5450cfdac,Milenio Television,https://provider-static.plex.tv/epg/cms/production/1e99eb82-f642-4f2f-86e3-16df76547494/Logotipo_MILENIO_1500x1000_for_dark_backgrounds_-_James_Stowe.png
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
@@ -65,7 +66,8 @@
 608049aefa2b8ae93c2c3a63-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
 608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529,Canela.TV Narco-Drama,https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-68b9f0bdd60e5dd29263c7a1,Pánico TV Español,https://provider-static.plex.tv/epg/cms/production/fe6756ce-6904-4b6b-b86b-e17b5ee1dfab/panicLight_Logo__2_.png
-608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear TV,https://provider-static.plex.tv/epg/cms/production/d1ddd349-0b81-4525-ba53-1912701467db/Saboreartv_1500x1000-_For_dark_backgrounds.png
+608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear TV,https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png
+608049aefa2b8ae93c2c3a63-685f195f6c220c4e9e333a04,Todo Drama,https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png
 608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616,Lone Star,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png
 608049aefa2b8ae93c2c3a63-64e6e46f27a915f9b5184e9a,Cine en Español,https://provider-static.plex.tv/epg/cms/production/18be52bf-43c6-4ac0-b3bf-ed51b252cb89/Cine_en_espanol_logo_1500x1000px_WHT.png
 608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843,Zona Investigación,https://provider-static.plex.tv/epg/cms/production/6f05b595-1f43-4399-896a-789ab42dce75/Zone_Investigacion_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_-_JuanMa_Velasquez.png
@@ -78,7 +80,7 @@
 608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
 608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015,Nosey,https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
-608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro TV,https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png
+608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa,Oro TV,https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png
 608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88,The Bob Ross Channel,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png
 608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d,Euronews Español,https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png
 608049aefa2b8ae93c2c3a63-6707d20ab87b5cf57ac33c95,Iron Chef en español,https://provider-static.plex.tv/epg/cms/production/7e7e0544-7004-46ac-bea2-b21a2a7ab166/Plex_xumoTile_FilmRise_IronChefEnEspanol_logo_color_white_text.png
@@ -110,7 +112,6 @@
 608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a,Kidoodle TV,https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png
 608049aefa2b8ae93c2c3a63-5f123330eca6a20040b328e8,TG Junior,https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-non-us.png
 608049aefa2b8ae93c2c3a63-656236cc5dbccec83a87b647,Andromeda,https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png
-608049aefa2b8ae93c2c3a63-64f0dad7c2bc9b9001d46ea8,Butaca TV,https://provider-static.plex.tv/epg/cms/production/16c58af9-70f4-4d31-a176-f0c592639587/Butaca_Tv_pack_1500X1000_RDX.png
 608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc794,Toon Goggles,https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png
 608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7,Cindie TV,https://provider-static.plex.tv/epg/cms/production/5620421b-a237-4877-8e66-fab487246259/Cindie_TV_Horizontal_3840x2160-DarkRDX.png
 608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
@@ -274,4 +275,3 @@
 608049aefa2b8ae93c2c3a63-68b9f5a3d60e5dd29263c7ac,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png
 608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c,AfroLandTV,https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png
 608049aefa2b8ae93c2c3a63-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
-608049aefa2b8ae93c2c3a63-685f195f6c220c4e9e333a04,Todo Drama,https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png
