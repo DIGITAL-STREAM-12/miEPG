@@ -21,6 +21,7 @@
 608049aefa2b8ae93c2c3a63-67f82cc411e2a0ebf4b022d8,Los asesinatos de Midsomer,https://provider-static.plex.tv/epg/cms/production/09eae207-0184-4fc6-b1f7-65f5568b9b11/FilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png
 608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811,Autopista al Cielo,https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png
 608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
+608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277,FilmRise Crimenes Verdaderos,https://provider-static.plex.tv/epg/cms/production/60ae8060-05c9-4ee6-8e50-286b662b7acf/Plex_FilmRise_CrimenesVerdaderos_Color_Logo.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b284195,FreeTV Saber Más,https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-644c446d7472b186783f359e,Todo Cine,https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png
 608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064,C4 en Alerta,https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png
@@ -101,7 +102,6 @@
 608049aefa2b8ae93c2c3a63-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
 608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75,Naturaleza,https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721,Smurf TV,https://provider-static.plex.tv/epg/cms/production/d71ef498-0483-4a1b-8439-1110a998205d/smurftv_logo_dark_-_Jordan_Warkol.png
-608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277,FilmRise Crimenes Verdaderos,https://provider-static.plex.tv/epg/cms/production/60ae8060-05c9-4ee6-8e50-286b662b7acf/Plex_FilmRise_CrimenesVerdaderos_Color_Logo.png
 608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295,FreeTV Drama,https://provider-static.plex.tv/epg/cms/production/f4639394-cbab-411c-9a11-3676a7310af0/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,Buen Viaje,https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165,Cine Friki Latino,https://provider-static.plex.tv/epg/cms/production/72b4d5ba-f30d-4ed1-8414-92f8f47dbe7d/Lfrikiight_Logo_RDX.png
