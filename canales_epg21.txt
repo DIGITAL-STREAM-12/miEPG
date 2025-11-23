@@ -6,6 +6,7 @@
 643054b1fc3be59477853717-67d4afc7f6df733141442cb4,Z Nation,https://provider-static.plex.tv/epg/cms/staging/e81c109b-4ff2-4fa7-92fd-9ca68465a755/ZNation_Channel_Logo_White__1_.png
 643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png
 643054b1fc3be59477853717-656236cc5dbccec83a87b647,Andromeda,https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png
+643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png
 643054b1fc3be59477853717-668420c2cd6f1d3940941157,Runtime Acción,https://provider-static.plex.tv/epg/cms/production/39d2ddfb-c83e-4dbd-85dd-748e951f3c1b/Runtime_ES_Accion_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66841fb8702b9db9f817725a,Runtime Ana y los 7,https://provider-static.plex.tv/epg/cms/production/b69028cf-3d86-4e92-a816-e5f4dfff47e7/Runtime_ES_Ana_y_Los_7_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español,https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png
@@ -35,7 +36,6 @@
 643054b1fc3be59477853717-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
 643054b1fc3be59477853717-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
 643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1,UFC,https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png
-643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png
 643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/e6db5aa8-8c1d-48e0-9970-27a36702ba9e/TODO_CRIMEN_white__1_.png
 643054b1fc3be59477853717-668402fa702b9db9f8177254,Runtime Romance,https://provider-static.plex.tv/epg/cms/production/de846d7d-8bcd-4d63-876f-5b15c3368f9a/Runtime_BR_Romance_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9,Xataka,https://provider-static.plex.tv/epg/cms/production/ec585cbb-dd5b-4604-9a9b-557a60920685/Plex_Xataka_light_-_ColorRDX.png

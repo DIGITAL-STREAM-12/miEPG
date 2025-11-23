@@ -201,7 +201,7 @@ MAROÑAS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901725.jpg
 MAS.CHIC..uy,,
 MAS.CHIC.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3390.svg
 MAS.CHIC.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1986999948.jpg
-MONTECARLO.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9236222.jpg
+MONTECARLO.HD.uy,,
 MTV..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/25.svg
 MTV.80S..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/933.svg
 MTV.CLUB..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/726.svg
@@ -225,7 +225,7 @@ PARAMOUNT.NETWORK..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/29
 PARAMOUNT.NETWORK.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2908.svg
 PENTHOUSE..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3291.svg
 PLAYBOY..uy,,
-PLAYBOY.ETIQUETA.uy,,https://www.reportv.com.ar/buscador/img/Logos/11084112.jpg
+PLAYBOY.ETIQUETA.uy,,
 PLIM.PLIM..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/8010.svg
 PLIM.PLIM.uy,,
 QUIERO..uy,,
@@ -267,7 +267,7 @@ TLC..uy,,
 TLNOVELAS.HD.uy,,
 TN..uy,,
 TN.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1847.svg
-TN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/2437537.jpg
+TN.HD.uy,,
 TNT..uy,,
 TNT.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4054.svg
 TNT.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1948572621.jpg
@@ -311,7 +311,7 @@ USA.NETWORK..uy,,
 USA.NETWORK.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/8328.svg
 USA.NETWORK.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/29510821.jpg
 VENUS..uy,,
-VENUS.ETIQUETA.uy,,https://www.reportv.com.ar/buscador/img/Logos/11276175.jpg
+VENUS.ETIQUETA.uy,,
 VTV+.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/13661631.jpg
 VTV..uy,,
 VTV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2925.svg
