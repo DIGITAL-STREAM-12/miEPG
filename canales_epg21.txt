@@ -1,24 +1,31 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/es.xml
 643054b1fc3be59477853717-6662984e346b86608532dbdf,FIFA+,https://provider-static.plex.tv/epg/cms/production/14825735-9fac-428a-80ab-39206be5efae/FIFA__Logo_Rectangle_1500x1000_WHT.png
+643054b1fc3be59477853717-6922366b50fe592fd6d5b7ec,Shark Tank,https://provider-static.plex.tv/epg/cms/production/b8d6b0a7-751e-4a5a-a0bc-10288bd726e5/ES_FAST_Plex_SharkTank_logo_dark.png
 643054b1fc3be59477853717-656fbd05cb7e8e6a9bc3f372,Archivos Forenses,https://provider-static.plex.tv/epg/cms/production/7e4429c1-3aa4-4fb1-b0ce-d3b5d81520f1/Plex_FilmRise_ArchivosForenses_Color_Logo.png
+643054b1fc3be59477853717-692235eb50fe592fd6d5b7ea,The Blacklist,https://provider-static.plex.tv/epg/cms/production/011f6a9a-c20e-4c26-b1e2-07e905c4958b/ES_FAST_Plex_Blacklist_logo_dark.png
+643054b1fc3be59477853717-6922338150fe592fd6d5b7e8,Sony One | Series Comedia,https://provider-static.plex.tv/epg/cms/production/a7eaa20f-e1af-4d1e-aaa7-62a0f0316fe0/ES_FAST_Plex_ComedyTV_logo_dark.png
 643054b1fc3be59477853717-6477b95b7ba9c0d593859bfc,Cops en Español,https://provider-static.plex.tv/epg/cms/production/59b63843-4b98-42fd-bf78-c269ce56cdb5/COPS_en_espanol_-_channel_logo_colour_-_1500x1000.png_James_Roebuck.png
-643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merli,https://provider-static.plex.tv/epg/cms/production/8e4cba66-9b4a-49e6-becf-bcfad804dcb9/MERLI_channel_logo_whiteRDX.png
+643054b1fc3be59477853717-6922322350fe592fd6d5b7e6,Sony One | Hits Acción,https://provider-static.plex.tv/epg/cms/production/d84da4dc-887d-4a9d-8046-59a101a5173d/ES_FAST_Plex_ActionHits_logo_dark.png
 643054b1fc3be59477853717-67d4afc7f6df733141442cb4,Z Nation,https://provider-static.plex.tv/epg/cms/staging/e81c109b-4ff2-4fa7-92fd-9ca68465a755/ZNation_Channel_Logo_White__1_.png
-643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png
+643054b1fc3be59477853717-67e6979de1de65be88aeb39f,RCN Noticias,https://provider-static.plex.tv/epg/cms/production/078ace21-2c9e-4b63-b222-1dd0a525ad3e/RCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png
+643054b1fc3be59477853717-692235265cbe620c1f9b6bc7,Sony One | Series Thriller,https://provider-static.plex.tv/epg/cms/production/50a84d66-9b2f-4a17-930d-353b26b6db35/ES_FAST_Plex_ThrillerTV_logo_dark.png
 643054b1fc3be59477853717-656236cc5dbccec83a87b647,Andromeda,https://provider-static.plex.tv/epg/cms/production/1a6d3a8f-26ee-4968-b0b5-845a0a2e8f78/FilmRise_Andromeda_Color_Logo.png
+643054b1fc3be59477853717-692232ee5cbe620c1f9b6bc5,Sony One | Hits Comedia,https://provider-static.plex.tv/epg/cms/production/cbde5bbf-d9cb-4188-b1aa-fce8c91d5a45/ES_FAST_Plex_ComedyHits_logo_dark.png
 643054b1fc3be59477853717-668420c2cd6f1d3940941157,Runtime Acción,https://provider-static.plex.tv/epg/cms/production/39d2ddfb-c83e-4dbd-85dd-748e951f3c1b/Runtime_ES_Accion_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66841fb8702b9db9f817725a,Runtime Ana y los 7,https://provider-static.plex.tv/epg/cms/production/b69028cf-3d86-4e92-a816-e5f4dfff47e7/Runtime_ES_Ana_y_Los_7_Dark_Mode_Logordx.png
-643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español,https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png
+643054b1fc3be59477853717-68645a8619cc2e163e38d161,Merli,https://provider-static.plex.tv/epg/cms/production/8e4cba66-9b4a-49e6-becf-bcfad804dcb9/MERLI_channel_logo_whiteRDX.png
+643054b1fc3be59477853717-685c78a77223639b1ac098a1,RCN Más,https://provider-static.plex.tv/epg/cms/production/3536c2ea-de74-421a-8942-642d472cc7c8/rcn-mas.png
 643054b1fc3be59477853717-67200026769d5ec4bf51d63e,Crimen Y Historia,https://provider-static.plex.tv/epg/cms/production/0902ab10-e394-4ff0-9c94-506bc528e901/Logo_Crimen_Historia_1500x1000_DarkBackground_-_Belen_Bruno.png
+643054b1fc3be59477853717-66ce3e009ac0b1441b19ca29,Z Nation,https://provider-static.plex.tv/epg/cms/production/63687b98-1b80-4b25-80b4-4de7fd243311/ZNation_Channel_Logo_White.png
+643054b1fc3be59477853717-60089d97f682a3002c34829d,Euronews Español,https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png
+643054b1fc3be59477853717-692234015028288613484a8a,Sony One | Éxitos,https://provider-static.plex.tv/epg/cms/production/7a912ab4-bf9b-4918-9eff-05a351ff467d/ES_FAST_Plex_Faves_logo_dark.png
 643054b1fc3be59477853717-66ea174c9502c5778b828d47,Cine Western,https://provider-static.plex.tv/epg/cms/production/1be934c5-1520-439c-8b0d-52a4f7716311/CinewesternWhite_LogoRDX.png
 643054b1fc3be59477853717-6683fcdf702b9db9f8177252,Runtime Thriller,https://provider-static.plex.tv/epg/cms/production/0a1ddcc9-f356-4dec-9d9f-f019d4f24004/Runtime_ES_Thriller_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-6490e17c18a55242eea95991,Cine Friki,https://provider-static.plex.tv/epg/cms/production/1e8b55ca-ef52-42c6-8390-45b1561f3d15/CINE_FRIKI_-_Logo_blanc_1500x1000_-_JC_DERSOIR.png
-643054b1fc3be59477853717-67e6979de1de65be88aeb39f,RCN Noticias,https://provider-static.plex.tv/epg/cms/production/078ace21-2c9e-4b63-b222-1dd0a525ad3e/RCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png
 643054b1fc3be59477853717-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
 643054b1fc3be59477853717-67c24d5a45ae99120c07158c,Gata Salvaje,https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png
 643054b1fc3be59477853717-66840a26cd6f1d3940941155,Runtime Crimen,https://provider-static.plex.tv/epg/cms/production/54114614-0221-4487-bcae-168f29eb082f/Runtime_ES_Crimen_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-64d4e82ac5d4668c9cb7b5df,Novelisima,https://provider-static.plex.tv/epg/cms/production/c02431c6-190a-426a-a652-38502fec17d8/Novelisima_logo_lightbakg_1500x1000_-_Ali_Clausen.png
-643054b1fc3be59477853717-685c78a77223639b1ac098a1,RCN Más,https://provider-static.plex.tv/epg/cms/production/3536c2ea-de74-421a-8942-642d472cc7c8/rcn-mas.png
 643054b1fc3be59477853717-6154a863e3e4d9577f96b31a,Nosey Escándalos,https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png
 643054b1fc3be59477853717-6684011fcd6f1d394094114d,Runtime Series,https://provider-static.plex.tv/epg/cms/production/077da4d3-b10f-4487-8765-3806a693f8fd/Runtime_ES_Series_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66ea196ac24d95b51b7cd18b,wedo amor,https://provider-static.plex.tv/epg/cms/production/a4765ad1-345e-4cb7-b6c5-3dc970e4d78e/Light_LogoWEDDO_AMOR_WHITE.png
@@ -36,12 +43,12 @@
 643054b1fc3be59477853717-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
 643054b1fc3be59477853717-66ccae1a78822c7edc4b6df1,UFC,https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png
 643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872,FilmRise Sci-Fi,https://provider-static.plex.tv/epg/cms/production/9cde6a13-0277-4e8a-9a31-4b7ff6669788/Plex_FilmRise_SciFi_Color_Logo.png
+643054b1fc3be59477853717-656237c55dbccec83a87b649,Mutant X,https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png
 643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/e6db5aa8-8c1d-48e0-9970-27a36702ba9e/TODO_CRIMEN_white__1_.png
 643054b1fc3be59477853717-668402fa702b9db9f8177254,Runtime Romance,https://provider-static.plex.tv/epg/cms/production/de846d7d-8bcd-4d63-876f-5b15c3368f9a/Runtime_BR_Romance_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66e3b5c1797aba6bb732c5c9,Xataka,https://provider-static.plex.tv/epg/cms/production/ec585cbb-dd5b-4604-9a9b-557a60920685/Plex_Xataka_light_-_ColorRDX.png
 643054b1fc3be59477853717-685f25c1a7111a932d28f1ac,Todo Drama,https://provider-static.plex.tv/epg/cms/production/c999a045-74ef-4a8d-991f-26b2867d00ef/TodoDrama_WHITERDX.png
 643054b1fc3be59477853717-666e1af3d91d13cb4c8cbb6d,La Fiebre del Jade,https://provider-static.plex.tv/epg/cms/production/fd21a845-1ffb-443d-91de-35d2dc3cb12c/channel_logo_1500x1000_light.png.png
-643054b1fc3be59477853717-656237c55dbccec83a87b649,Mutant X,https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png
 643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e,Motorvision TV en Español,https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png
 643054b1fc3be59477853717-666e1d14d91d13cb4c8cbb73,Mi Casa,https://provider-static.plex.tv/epg/cms/production/024f4cb9-2765-4ec5-b222-dc3388106f16/channel_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-646d06c9b09f13b2d8af68d8,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png
