@@ -316,6 +316,7 @@ Canal.Cinema.mx,Cinema.mx
 5f28009b150b2500077766b8,Vaya semanita.es
 6385e82900ab2e000768a058,Pluto TV Western.es
 plex.tv.Grjngo.-.Películas.Del.Oeste.plex,Grjngo Mexico
+ES:.Grjngo.be,Grjngo España
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
 plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
 plex.tv.Cops.en.Español.plex,Cops Español.plex
