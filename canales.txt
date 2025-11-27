@@ -153,7 +153,7 @@ Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.Cine.Sony.sv,Cine Sony.sv
-Canal.Sony.Centro.sv,Sony CH.sv
+Sony.co,Sony CH.sv
 Canal.CNN.en.Español.sv,CNN Español.sv
 Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
 Canal.De.Película.sv,De Película.sv
@@ -326,7 +326,9 @@ ES:.Grjngo.be,Grjngo España
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
 plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
 plex.tv.Cops.en.Español.plex,Cops Español.plex
+plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix.plex
 plex.tv.Oro.TV.plex,Oro TV.plex
+plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN+.plex
@@ -334,6 +336,8 @@ plex.tv.Oro.TV.plex,Oro TV.plex
 608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f,Just For Laughs.plex
 608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto TV.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
+USBD2500022U5,Cine Retro.sam
+USBD2700005KL,Cine de Oro.sam
 A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
 Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
 AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
