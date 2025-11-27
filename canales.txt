@@ -288,6 +288,10 @@ WILLAX.(Willax).pe,Willax.pe
 Galavision.Cable.Network.HD.us2,Galavision Este.us
 Telemundo.Satellite.Feed.us2,Telemundo Este.us
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
+KVEA-DT.us_locals1,Telemundo LA.us
+KDFW-DT.us_locals1,Telemundo Dallas.us
+WSNS-DT.us_locals1,Telemundo Chicago.us
+WZDC-CD.us_locals1,Telemundo Wash.us
 CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 Nat.Geo.Mundo.us2,Natgeo Mundo.us
 Discovery.en.Español.us2,Discovery Español.us
