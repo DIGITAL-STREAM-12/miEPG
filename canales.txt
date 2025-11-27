@@ -232,6 +232,9 @@ Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 DSPORTS.(ARG).dtvsp,Dsports
 DSPORTS.2.HD.dtvsp,Dsports 2
 DSPORTS.+.HD.dtvsp,Dsports +
+DSPORTS,DSPORTS 720
+DSPORTS 2,DSPORTS 2 720
+DSPORTS+,DSPORTS+ 720
 Azteca Deportes,Azteca Deportes.ms
 Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
@@ -252,6 +255,8 @@ Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
 Exa TV,Exa TV.ms
 Sky Sports 1,Sky Sports 1.ms
 Tigo Sports,Tigo Sports.ms
+Tigo Sports El Salvador,Tigo Sp Salvador
+Tigo Sports Guatemala,Tigo Sp Guate.ms
 Caliente TV,Fox MX.ms
 Canal.2.de.Panamá.(TVN-2).pa,TVN Panamá.pa
 Canal.4.de.Panamá.(RPC.TV).pa,RPC Panamá.pa
