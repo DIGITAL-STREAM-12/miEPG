@@ -76,6 +76,7 @@
 608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6,Saborear TV,https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png
 608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade en Español,https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png
 608049aefa2b8ae93c2c3a63-685f195f6c220c4e9e333a04,Todo Drama,https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png
+608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png
 608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616,Lone Star,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png
 608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159,Sangre Fría,https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6,Cine y Series,https://provider-static.plex.tv/epg/cms/production/73d2ac35-f4e7-48a6-9300-ce106bc56c55/Cine_y_Series_-_1500X1000_PNG_w_transparent_background_Logo_for_dark___white_backgrounds_copy_-_JuanMa_Velasquez.png
@@ -91,7 +92,6 @@
 608049aefa2b8ae93c2c3a63-6322658be67cf9cd9011fcda,TRACE Urban,https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png
 608049aefa2b8ae93c2c3a63-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
 608049aefa2b8ae93c2c3a63-62efba6588a16bb7d6b6fb58,Éxitos del Momento,https://provider-static.plex.tv/epg/cms/production/db81c10a-93cb-4966-ae48-5e3f0f741110/Exitos_Del_momento.png
-608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png
 608049aefa2b8ae93c2c3a63-6880001d015fe7e375a1a0a8,Wedotv Amor Piel Salvaje,https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png
 608049aefa2b8ae93c2c3a63-62fbf52c1567211fdb82e922,Stingray Naturescape,https://provider-static.plex.tv/epg/cms/production/ed9d822b-dc74-4d16-98e7-b562c341cfde/Stingray_Naturescape_logo_light.png
 608049aefa2b8ae93c2c3a63-60089d97f682a3002c34829d,Euronews Español,https://provider-static.plex.tv/epg/cms/production/f7dacd88-7f26-40a6-960e-a597d8b560c5/ESLogo_Euronews_stacked_white_on_spanish_1500x1000wht.png
@@ -106,7 +106,6 @@
 608049aefa2b8ae93c2c3a63-6329474265c8569187176338,TRACE Brazuca,https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png
 608049aefa2b8ae93c2c3a63-68645f7c1a2f321847ec0393,Wineman,https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png
 608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f88,The Bob Ross Channel,https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png
-608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,Buen Viaje,https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
@@ -127,7 +126,6 @@
 608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
 608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,GoUSA TV,https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png
 608049aefa2b8ae93c2c3a63-5f0ff263d71dcb00449ec021,People are Awesome,https://provider-static.plex.tv/epg/cms/production/72b8f0fc-fe7f-4a92-9881-866cfc043d94/people-are-awesome-2.png
-608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820,Hard Knocks,https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png
 608049aefa2b8ae93c2c3a63-5f6b8e7900b0950040d0f2b2,The World Poker Tour,https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png
 608049aefa2b8ae93c2c3a63-66bfb17c144c201b8b61c10d,RCM,https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png
 608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
@@ -183,7 +181,6 @@
 608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
 608049aefa2b8ae93c2c3a63-621674502c2627c068e73ada,FrightFlix,https://provider-static.plex.tv/epg/cms/production/889dcf7a-99ec-425f-8044-087c84e8eefc/FrightFlix_logo_dark.png
 608049aefa2b8ae93c2c3a63-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
-608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d,Pac-12 Insider,https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png
 608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2,FUEL TV,https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png
 608049aefa2b8ae93c2c3a63-621671d05abdd3d5556a1baf,Watch it SCREAM,https://provider-static.plex.tv/epg/cms/production/945765a1-a848-4105-bf4d-5c27192e79ed/WatchitScream_logo_dark.png
 608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc,PursuitUP,https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png
@@ -249,7 +246,6 @@
 608049aefa2b8ae93c2c3a63-678287e75fe5e4eb1e030c65,Zee BollyWorld,https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-66be8cd4871131188099527e,TRACE UK,https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png
 608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f,NewsWorld,https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png
-608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53,SLOPES,https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png
 608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
 608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png
 608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42,PLL Network,https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png
@@ -271,7 +267,11 @@
 608049aefa2b8ae93c2c3a63-6245f06793b402a3d1097787,Euronews Français,https://provider-static.plex.tv/epg/cms/production/29d2a047-b486-4123-8642-45fe71d022fe/Logo_Euronews_stacked_white_on_french_1500x1000.png
 608049aefa2b8ae93c2c3a63-6245cd154f27f4e9c76d67e9,Euronews Portuguese,https://provider-static.plex.tv/epg/cms/production/73b5e777-8a44-4def-8e33-be43f7f8177c/Logo_Euronews_stacked_white_on_portuguese_1500x1000rdxWHITE.png
 608049aefa2b8ae93c2c3a63-6245efe9f137de43897ea1ae,Euronews Deutsch,https://provider-static.plex.tv/epg/cms/production/2fe3efc9-5aef-40f7-be0e-46ff4b9ae94d/DELogo_Euronews_stacked_REallyWHite_on_german_RGB-01rdx.png
-608049aefa2b8ae93c2c3a63-6245f13093b402a3d1097789,Euronews Italiano,https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png
 608049aefa2b8ae93c2c3a63-61d738b5a7b7c7f703418514,Trailers From Hell,https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png
 608049aefa2b8ae93c2c3a63-634dddc8a319c6df243f521f,Desi Play TV,https://provider-static.plex.tv/epg/cms/production/04cb0c34-f78d-4314-ba43-f2cb6e81136d/DPTV_Logo_BB_-_Mohit_Gattu.png
 608049aefa2b8ae93c2c3a63-68b9f5a3d60e5dd29263c7ac,NEW KFOOD,https://provider-static.plex.tv/epg/cms/production/6aedfb80-69ab-4b5d-a34b-8e720a753673/NEW_KFOOD_Color_Logo-Dark_Background.png
+608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png
+608049aefa2b8ae93c2c3a63-5fd115bdb7ef8d002dcf1820,Hard Knocks,https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png
+608049aefa2b8ae93c2c3a63-646c0dfbfb58444e4e1e262d,Pac-12 Insider,https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png
+608049aefa2b8ae93c2c3a63-616df1be2cf008a748c8cb53,SLOPES,https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png
+608049aefa2b8ae93c2c3a63-6245f13093b402a3d1097789,Euronews Italiano,https://provider-static.plex.tv/epg/cms/production/ca19114a-f498-4ac3-bade-257fb304e0be/ITLogo_Euronews_stacked_white_on_italien_1500x1000whtrdx2.png

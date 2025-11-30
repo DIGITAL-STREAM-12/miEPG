@@ -218,6 +218,7 @@ Antena Motor,Antena Motor 1080,https://raw.githubusercontent.com/davidmuma/picon
 Dhípica,Dhípica 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png
 REKTV,REKTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png
 tlnovelas,tlnovelas 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
+DePelícula,DePelícula 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
