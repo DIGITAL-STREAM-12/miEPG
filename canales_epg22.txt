@@ -32,7 +32,7 @@
 643054b1fc3be59477853717-66840253cd6f1d394094114f,Runtime,https://provider-static.plex.tv/epg/cms/production/397a4a3a-ab7f-4b1b-b568-84b54c52fc56/Runtime_Spain_Dark_Mode_Logordcx.png
 643054b1fc3be59477853717-66841966702b9db9f8177256,Runtime Comedia,https://provider-static.plex.tv/epg/cms/production/05de98ea-6a31-46f4-9b8e-07c344d66510/Runtime_ES_Comedia_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
-643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Familia,https://provider-static.plex.tv/epg/cms/production/395b8219-6115-4b95-8d79-0dfa4a3d9345/Runtime_BR_Familia_Dark_Mode_Logordx.png
+643054b1fc3be59477853717-66840486cd6f1d3940941151,Runtime Christmas,https://provider-static.plex.tv/epg/cms/production/9785307f-323b-4944-980f-0944db16eb1a/Runtime_Christmas_Logo_WhiteRDX.png
 643054b1fc3be59477853717-66840707cd6f1d3940941153,Curro Jimenez,https://provider-static.plex.tv/epg/cms/production/69a3e9ee-ac42-4afd-970d-f8c7a7caad63/Runtime_ES_Curro_Jimenez_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-66842aa2cd6f1d3940941159,Sangre Fría,https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png
 643054b1fc3be59477853717-6880001d015fe7e375a1a0a8,Wedotv Amor Piel Salvaje,https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png
