@@ -333,6 +333,7 @@ plex.tv.Cops.en.Español.plex,Cops Español.plex
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix.plex
 plex.tv.Oro.TV.plex,Oro TV.plex
 plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
+plex.tv.C4.en.Alerta.plex,C4 Alerta.plex
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN+.plex
