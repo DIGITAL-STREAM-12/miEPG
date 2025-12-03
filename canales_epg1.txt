@@ -392,7 +392,6 @@ Somos,Somos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/maste
 Canal Cocina,Canal Cocina 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
 Decasa,Decasa 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png
 SELEKT,SELEKT 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png
-Festival 4K,Festival 4K 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Festival%204K.png
 Veo7,Veo7 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png
 BOM Cine,BOM Cine 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
 BuenViaje,BuenViaje 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
@@ -401,6 +400,12 @@ Cine Feel Good,Cine Feel Good 1080,https://raw.githubusercontent.com/davidmuma/p
 LALIGA Inside,LALIGA Inside 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png
 Top Barça,Top Barça 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png
 Betis TV,Betis TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
+DAZN Baloncesto,DAZN Baloncesto 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
+DAZN Baloncesto 2,DAZN Baloncesto 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
+DAZN Baloncesto 3,DAZN Baloncesto 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
+Rugby Challenge Spain,Rugby Challenge Spain 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png
+MMA TV,MMA TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png
+Gol Classics,Gol Classics 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
 Runtime Thriller-Terror,Runtime Thriller-Terror 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png
 Runtime Comedia,Runtime Comedia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png
 Runtime Cine y Series,Runtime Cine y Series 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png

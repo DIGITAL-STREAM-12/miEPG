@@ -227,7 +227,7 @@
 608049aefa2b8ae93c2c3a63-5fb81660b7ad2d002dcb7335,Newsmax2,https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png
 608049aefa2b8ae93c2c3a63-5f170f01b898490041b49dd1,Yahoo Finance,https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png
 608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb,Remember the ‘80s,https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png
-608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9,Hot Country,https://provider-static.plex.tv/epg/cms/production/123953a0-9324-4fe4-9103-a78420ddf528/Hot_Country.png
+608049aefa2b8ae93c2c3a63-61aa9e73784a2161d3caf7f9,Hot Country Christmas,https://provider-static.plex.tv/epg/cms/production/1109c237-f777-42d2-b3bc-19db0f94067a/13895_SM_Plex_Logos_HotCountryChristmas_1500x1000-DarkBackground.png
 608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1,Ninja Kidz TV,https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png
 608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a,Kidoodle TV,https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png
 608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f,Brat TV,https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png
@@ -239,7 +239,7 @@
 608049aefa2b8ae93c2c3a63-61aaa0cc784a2161d3caf7ff,Classic Rock,https://provider-static.plex.tv/epg/cms/production/393a107b-669d-4e64-9b1f-6fc06e5b858b/Classic_ROCK.png
 608049aefa2b8ae93c2c3a63-61aa97d4113e1e5137fd5325,Greatest Holiday Hits,https://provider-static.plex.tv/epg/cms/production/e296c847-0450-462c-8b5b-fca4a37572d5/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png
 608049aefa2b8ae93c2c3a63-61aaa014784a2161d3caf7fd,Hit List,https://provider-static.plex.tv/epg/cms/production/d6d559f3-6a3d-4ce0-839e-55681e4a7928/Hit_List.png
-608049aefa2b8ae93c2c3a63-61aaa17a784a2161d3caf801,Soul Storm,https://provider-static.plex.tv/epg/cms/production/84bbc4c9-ab36-47c0-88f8-d2d2e67f657a/Soul_Storm.png
+608049aefa2b8ae93c2c3a63-61aaa17a784a2161d3caf801,Soul Storm Christmas,https://provider-static.plex.tv/epg/cms/production/51e24309-ca37-4e3f-8df1-f00727804448/13895_SM_Plex_Logos_Soul_Storm_Christmas_1500x1000-DarkBackground.png
 608049aefa2b8ae93c2c3a63-5f91c4ea96a391002df9a661,pocket.watch Game-On,https://provider-static.plex.tv/epg/cms/production/b580b328-e44f-4554-bc2e-09f9fb7a2ee3/pocket.watchGame-On_Channel_Logo_Stacked_Color_1500x1000.png
 608049aefa2b8ae93c2c3a63-67884bd6d37f2fd48d6220db,Creator Television,https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png
 608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759,PickleTV,https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png
