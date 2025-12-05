@@ -204,6 +204,7 @@ Tennis+,Tennis+ 1080,https://provider-static.plex.tv/epg/cms/production/704e7af1
 FashionTV,FashionTV 1080,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
 Canal FlixOlé 1,Canal FlixOlé 1 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png
 Canal FlixOlé 2,Canal FlixOlé 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png
+Liga de Campeones BAR 2,Liga de Campeones BAR 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png
 GolStadium BAR,GolStadium BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png
 DAZN F1 BAR,DAZN F1 BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png
 GolStadium,GolStadium 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png
@@ -223,6 +224,7 @@ DePelícula,DePelícula 1080,https://raw.githubusercontent.com/davidmuma/picons_
 DejateTV,DejateTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
+PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
@@ -433,19 +435,19 @@ Djazz,Djazz 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/maste
 Cazavisión,Cazavisión 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
 TR3CE,TR3CE 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png
 Deutsche W,Deutsche W 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png
-Pro TV,Pro TV 1080,
-Caracol TV,Caracol TV 1080,
-France 2,France 2 1080,
-France 5,France 5 1080,
-M6,M6 1080,
-Gulli,Gulli 1080,
-Tennis Channel,Tennis Channel 1080,
-MyPadel TV,MyPadel TV 1080,
-NatureTime,NatureTime 1080,
-Toon Goggles,Toon Goggles 1080,
-Gametoon,Gametoon 1080,
-Vivir con gatos,Vivir con gatos 1080,
-Vivir con perros,Vivir con perros 1080,
+Pro TV,Pro TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png
+Caracol TV,Caracol TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png
+France 2,France 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png
+France 5,France 5 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png
+M6,M6 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png
+Gulli,Gulli 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png
+Tennis Channel,Tennis Channel 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png
+MyPadel TV,MyPadel TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png
+NatureTime,NatureTime 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png
+Toon Goggles,Toon Goggles 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png
+Gametoon,Gametoon 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png
+Vivir con gatos,Vivir con gatos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png
+Vivir con perros,Vivir con perros 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png
 Anime Visión,Anime Visión 1080,
 Anime Visión Classics,Anime Visión Classics 1080,
 Flamenco Auditorio,Flamenco Auditorio 1080,
@@ -565,10 +567,10 @@ DE | Sky Sport Austria 1,DE | Sky Sport Austria 1 1080,https://www.sky.de/static
 DE | Sky Sport Austria 2,DE | Sky Sport Austria 2 1080,https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
 DE | Sky Sport Austria 3,DE | Sky Sport Austria 3 1080,https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png
 DE | Sky Sport Austria 4,DE | Sky Sport Austria 4 1080,https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png
-DE | Sky Sport Austria 5,DE | Sky Sport Austria 5 1080,
-DE | Sky Sport Austria 6,DE | Sky Sport Austria 6 1080,
-DE | Sky Sport Austria 7,DE | Sky Sport Austria 7 1080,
-DE | Sky Sport Austria 8,DE | Sky Sport Austria 8 1080,
+DE | Sky Sport Austria 5,DE | Sky Sport Austria 5 1080,https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png
+DE | Sky Sport Austria 6,DE | Sky Sport Austria 6 1080,https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png
+DE | Sky Sport Austria 7,DE | Sky Sport Austria 7 1080,https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png
+DE | Sky Sport Austria 8,DE | Sky Sport Austria 8 1080,https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png
 DE | Das Erste,DE | Das Erste 1080,http://ngiss.t-online.de/cm1s/media/cf416cc96a575e40e35f43c05d829efdb176bc35.png
 DE | ZDF,DE | ZDF 1080,http://ngiss.t-online.de/cm1s/media/e19130e25f23d70df7f85807c6ddc1c8d62109f5.png
 DE | RTL,DE | RTL 1080,http://ngiss.t-online.de/cm1s/media/9837608c7cfa66c854354b00e53992f6861bcd1a.png
