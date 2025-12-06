@@ -44,8 +44,7 @@ Magic Kids 2,,https://i.imgur.com/Uu8dciU.png
 Maxima TV,,https://i.imgur.com/0IMDwqA.jpg
 Mi TV Television Clasica,,
 Moni TV,,https://i.imgur.com/Wct9jsp.png
-COMMUSIC,,https://i.imgur.com/4NQJcFJ.png
-COMCHANNEL,,https://i.imgur.com/lJG4neh.png
+COMHITS,,https://i.imgur.com/4NQJcFJ.png
 Kanade Tv,,https://i.imgur.com/VlGfWW5.png
 PS Television,,https://i.imgur.com/X0ooVPY.png
 Retro Magico,,https://static-cdn.jtvnw.net/jtv_user_pictures/2b903ff4-40ae-4b68-8726-53095a95cc89-profile_image-70x70.png
