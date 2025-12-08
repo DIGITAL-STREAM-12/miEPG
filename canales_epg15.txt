@@ -1,5 +1,5 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
-+TELEVISIÓN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/10174471.jpg
++TELEVISIÓN.HD.uy,,
 26.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2433.svg
 26.TV.uy,,https://www.reportv.com.ar/buscador/img/Logos/19598961.jpg
 A&amp;E.MUNDO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/167.svg
@@ -41,7 +41,7 @@ CANAL.33.uy,,
 CANAL.4.MONTECARLO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
 CANAL.5..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
 CANAL.7.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
-CANAL.A.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
+CANAL.A.HD.uy,,
 CANAL.EVENTOS.1001.uy,,
 CANAL.EVENTOS.32.uy,,
 CANAL.LUZ.uy,,
@@ -64,7 +64,7 @@ CIUDAD.MAGAZINE..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/26.s
 CIUDAD.MAGAZINE.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3915.svg
 CLAROSPORTS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
 CNN.EN.ESPAÑOL..uy,,
-CNN.EN.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg
+CNN.EN.ESPAÑOL.HD.uy,,
 CNN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901358.jpg
 COMEDY.CENTRAL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9245617.jpg
 CONCERT.CHANNEL.HD.uy,,
@@ -144,7 +144,7 @@ FOOD.NETWORK..uy,,
 FOOD.NETWORK.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
 FRANCE.24..uy,,
 FRANCE.24.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
-FRANCE.24.INGLES.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901387.jpg
+FRANCE.24.INGLES.HD.uy,,
 FX..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
 FX.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg
@@ -189,7 +189,7 @@ HOME.AND.HEALTH.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2
 HTV.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901397.jpg
 KANAL.D.DRAMA..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4694.svg
 KANAL.D.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8373892.jpg
-LA.NACION.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/2804005.jpg
+LA.NACION.HD.uy,,
 LA.RED.uy,,https://www.reportv.com.ar/buscador/img/Logos/12045151.jpg
 LAS.ESTRELLAS.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2235.svg
 LAS.ESTRELLAS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg

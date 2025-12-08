@@ -226,7 +226,6 @@ PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_
 PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
 PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
-PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
 Red Bull TV,Red Bull TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV.png
 Unbeaten,Unbeaten 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
@@ -382,41 +381,41 @@ Banyoles TV,Banyoles TV 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/
 Vallès Visió,Vallès Visió 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc
 DARK,DARK 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
 AMC Break,AMC Break 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
-Odisea,Odisea 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
-AMC HD,AMC 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
-AMC Crime,AMC Crime 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
-Historia,Historia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png
-XTRM,XTRM 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
-Canal Hollywood HD,Canal Hollywood 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
-Sundance TV,Sundance TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
-VinTV,VinTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png
-Somos,Somos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
-Canal Cocina,Canal Cocina 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
-Decasa,Decasa 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png
-SELEKT,SELEKT 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png
-Veo7,Veo7 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png
-BOM Cine,BOM Cine 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
-BuenViaje,BuenViaje 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
-Cines Verdi TV,Cines Verdi TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png
-Cine Feel Good,Cine Feel Good 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png
-LALIGA Inside,LALIGA Inside 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png
-Top Barça,Top Barça 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png
-Betis TV,Betis TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
-DAZN Baloncesto,DAZN Baloncesto 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
-DAZN Baloncesto 2,DAZN Baloncesto 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
-DAZN Baloncesto 3,DAZN Baloncesto 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
-Rugby Challenge Spain,Rugby Challenge Spain 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png
-MMA TV,MMA TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png
-Gol Classics,Gol Classics 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
-Runtime Thriller-Terror,Runtime Thriller-Terror 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png
-Runtime Comedia,Runtime Comedia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png
-Runtime Cine y Series,Runtime Cine y Series 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png
-Runtime Series,Runtime Series 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png
-Runtime Acción,Runtime Acción 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png
-Runtime Crimen,Runtime Crimen 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png
-Runtime Romance,Runtime Romance 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
-RunTime Clásicos,RunTime Clásicos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
-RunTime Familia,RunTime Familia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
+Odisea,Odisea 1080,
+AMC HD,AMC 1080,
+AMC Crime,AMC Crime 1080,
+Historia,Historia 1080,
+XTRM,XTRM 1080,
+Canal Hollywood HD,Canal Hollywood 1080,
+Sundance TV,Sundance TV 1080,
+VinTV,VinTV 1080,
+Somos,Somos 1080,
+Canal Cocina,Canal Cocina 1080,
+Decasa,Decasa 1080,
+SELEKT,SELEKT 1080,
+Veo7,Veo7 1080,
+BOM Cine,BOM Cine 1080,
+BuenViaje,BuenViaje 1080,
+Cines Verdi TV,Cines Verdi TV 1080,
+Cine Feel Good,Cine Feel Good 1080,
+LALIGA Inside,LALIGA Inside 1080,
+Top Barça,Top Barça 1080,
+Betis TV,Betis TV 1080,
+DAZN Baloncesto,DAZN Baloncesto 1080,
+DAZN Baloncesto 2,DAZN Baloncesto 2 1080,
+DAZN Baloncesto 3,DAZN Baloncesto 3 1080,
+Rugby Challenge Spain,Rugby Challenge Spain 1080,
+MMA TV,MMA TV 1080,
+Gol Classics,Gol Classics 1080,
+Runtime Thriller-Terror,Runtime Thriller-Terror 1080,
+Runtime Comedia,Runtime Comedia 1080,
+Runtime Cine y Series,Runtime Cine y Series 1080,
+Runtime Series,Runtime Series 1080,
+Runtime Acción,Runtime Acción 1080,
+Runtime Crimen,Runtime Crimen 1080,
+Runtime Romance,Runtime Romance 1080,
+RunTime Clásicos,RunTime Clásicos 1080,
+RunTime Familia,RunTime Familia 1080,
 TRACE Sports Stars,TRACE Sports Stars 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png
 Horse TV,Horse TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png
 Nautical Channel,Nautical Channel 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png
@@ -439,23 +438,23 @@ Pro TV,Pro TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mas
 Caracol TV,Caracol TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png
 France 2,France 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png
 France 5,France 5 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png
-M6,M6 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M6.png
-Gulli,Gulli 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gulli.png
-Tennis Channel,Tennis Channel 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png
-MyPadel TV,MyPadel TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MyPadel%20TV.png
-NatureTime,NatureTime 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png
-Toon Goggles,Toon Goggles 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Toon%20Goggles.png
-Gametoon,Gametoon 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gametoon.png
-Vivir con gatos,Vivir con gatos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png
-Vivir con perros,Vivir con perros 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png
-Anime Visión,Anime Visión 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n.png
-Anime Visión Classics,Anime Visión Classics 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Anime%20Visi%C3%B3n%20Classics.png
-Flamenco Auditorio,Flamenco Auditorio 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flamenco%20Auditorio.png
-Sangre Fría,Sangre Fría 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sangre%20Fr%C3%ADa.png
-Love the Planet,Love the Planet 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20the%20Planet.png
-Love Wine,Love Wine 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png
-Historia y Vida,Historia y Vida 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png
-Moto ADV,Moto ADV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
+M6,M6 1080,
+Gulli,Gulli 1080,
+Tennis Channel,Tennis Channel 1080,
+MyPadel TV,MyPadel TV 1080,
+NatureTime,NatureTime 1080,
+Toon Goggles,Toon Goggles 1080,
+Gametoon,Gametoon 1080,
+Vivir con gatos,Vivir con gatos 1080,
+Vivir con perros,Vivir con perros 1080,
+Anime Visión,Anime Visión 1080,
+Anime Visión Classics,Anime Visión Classics 1080,
+Flamenco Auditorio,Flamenco Auditorio 1080,
+Sangre Fría,Sangre Fría 1080,
+Love the Planet,Love the Planet 1080,
+Love Wine,Love Wine 1080,
+Historia y Vida,Historia y Vida 1080,
+Moto ADV,Moto ADV 1080,
 8madrid TV,8madrid TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 Sky News International,Sky News International 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
