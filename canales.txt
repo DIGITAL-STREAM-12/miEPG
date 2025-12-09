@@ -218,6 +218,8 @@ ESPN.4.co,ESPN 4.co
 ESPN.5.co,ESPN 5.co
 ESPN.6.HD.co,ESPN 6.co
 ESPN.7.HD.co,ESPN 7.co
+Canal.ESPN.(Chile).cl,ESPN Chile.cl
+Canal.ESPN.(Argentina).ar,ESPN Arg.ar
 Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
