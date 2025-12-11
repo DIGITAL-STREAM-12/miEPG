@@ -219,11 +219,11 @@ Náutica TV,Náutica TV 1080,https://raw.githubusercontent.com/davidmuma/picons_
 Antena Motor,Antena Motor 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png
 Dhípica,Dhípica 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png
 REKTV,REKTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png
-tlnovelas,tlnovelas 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
 DePelícula,DePelícula 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
+PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
