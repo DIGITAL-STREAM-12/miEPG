@@ -64,7 +64,7 @@ CIUDAD.MAGAZINE..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/26.s
 CIUDAD.MAGAZINE.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3915.svg
 CLAROSPORTS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
 CNN.EN.ESPAÑOL..uy,,
-CNN.EN.ESPAÑOL.HD.uy,,
+CNN.EN.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg
 CNN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901358.jpg
 COMEDY.CENTRAL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9245617.jpg
 CONCERT.CHANNEL.HD.uy,,
