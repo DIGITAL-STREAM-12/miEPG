@@ -64,7 +64,6 @@
 608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159,Sangre Fría,https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-66ea196ac24d95b51b7cd18b,wedo amor,https://provider-static.plex.tv/epg/cms/production/a4765ad1-345e-4cb7-b6c5-3dc970e4d78e/Light_LogoWEDDO_AMOR_WHITE.png
 608049aefa2b8ae93c2c3a63-685f195f6c220c4e9e333a04,Todo Drama,https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png
-608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png
 608049aefa2b8ae93c2c3a63-68b9f0bdd60e5dd29263c7a1,Pánico TV Español,https://provider-static.plex.tv/epg/cms/production/fe6756ce-6904-4b6b-b86b-e17b5ee1dfab/panicLight_Logo__2_.png
 608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649,Mutant X,https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png
 608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616,Lone Star,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png
@@ -79,6 +78,7 @@
 608049aefa2b8ae93c2c3a63-666e192cd91d13cb4c8cbb6b,Ice Pilots NWT (en español),https://provider-static.plex.tv/epg/cms/production/cd6eed5a-9ec7-469b-90cd-378bc8e95f3f/pilotos_del_artico_logo_WHT.png
 608049aefa2b8ae93c2c3a63-67c24d5a45ae99120c07158c,Gata Salvaje,https://provider-static.plex.tv/epg/cms/production/c4604da1-d6b6-4043-95fb-9a90f4f0273c/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png
 608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7,Cindie TV,https://provider-static.plex.tv/epg/cms/production/5620421b-a237-4877-8e66-fab487246259/Cindie_TV_Horizontal_3840x2160-DarkRDX.png
+608049aefa2b8ae93c2c3a63-666e236ace73ed6023b55a17,Todo Crimen,https://provider-static.plex.tv/epg/cms/production/1861c959-0e05-4dd7-83c2-91966163cc95/TODO_CRIMEN_white__1_.png
 608049aefa2b8ae93c2c3a63-6880001d015fe7e375a1a0a8,Wedotv Amor Piel Salvaje,https://provider-static.plex.tv/epg/cms/production/7aa34d17-de26-4b64-b4cc-628d572de91f/PielLight_Logo__1_.png
 608049aefa2b8ae93c2c3a63-666e1c83d91d13cb4c8cbb71,Mi Casa,https://provider-static.plex.tv/epg/cms/production/fba2f51d-9bc8-418d-ae07-14e84f6e7fc8/channel_logo_1500x1000_light.png.png
 608049aefa2b8ae93c2c3a63-6615885e1eabecf2c9d56495,Monster Jam,https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png
