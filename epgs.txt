@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/mx.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/es.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/mx.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/us.xml
