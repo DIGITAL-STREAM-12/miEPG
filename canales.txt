@@ -227,6 +227,13 @@ Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
+Canal.ESPN.Premium.(Chile).sv,ESPN Premium.sv
+ESPN Premium,ESPN Premium.ms
+ESPN.Deportes.HD.us2,Espn Deportes.us
+Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
+Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
+Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
+Fox.Deportes.HD.us2,Fox Deportes.us
 Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
 Canal.History.(Panregional).sv,History Latam.sv
 Canal.History.2.(Panregional).sv,H2.sv
