@@ -233,6 +233,11 @@ ESPN.Deportes.HD.us2,Espn Deportes.us
 Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
+Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv
+FOX.SPORTS.2.(FoxSports2).pe,Fox Sports 2 Sur.pe
+FOX.SPORTS.3.(FoxSports3).pe,Fox Sports 3 Sur.pe
+FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
+FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Fox.Deportes.HD.us2,Fox Deportes.us
 Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
 Canal.History.(Panregional).sv,History Latam.sv
