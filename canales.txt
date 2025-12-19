@@ -252,6 +252,7 @@ DSPORTS.+.HD.dtvsp,Dsports +
 DSPORTS,DSPORTS 720
 DSPORTS 2,DSPORTS 2 720
 DSPORTS+,DSPORTS+ 720
+Sky Sports 24,Sky Sports 24.ms
 Azteca Deportes,Azteca Deportes.ms
 Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
