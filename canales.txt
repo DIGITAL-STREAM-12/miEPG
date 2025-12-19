@@ -226,6 +226,7 @@ Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
+Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
