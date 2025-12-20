@@ -298,11 +298,13 @@ ATV.(ATV).pe,ATV.pe
 ATV+.(ATV+).pe,ATV+.pe
 CANAL.N.(Canal.N).pe,Canal N.pe
 GOLPERU.(GOLPERU).pe,GOL Peru.pe
+Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 LATINA.(Latina).pe,Latina Perú.pe
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
 M.PLUS.(M.Plus).pe,M Plus.pe
 PANAMERICANA.TELEVISION.(Panamericana.TV).pe,Panamericana.pe
 WILLAX.(Willax).pe,Willax.pe
+Cine.Mexicano.US.Feed.us2,Mexicano.us
 Galavision.Cable.Network.HD.us2,Galavision Este.us
 Telemundo.Satellite.Feed.us2,Telemundo Este.us
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
