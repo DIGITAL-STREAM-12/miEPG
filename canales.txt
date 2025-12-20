@@ -246,10 +246,10 @@ Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
 Canal.History.(Panregional).sv,History Latam.sv
 Canal.History.2.(Panregional).sv,H2.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
-DSPORTS.(ARG).dtvsp,Dsports
-DSPORTS.2.HD.dtvsp,Dsports 2
-DSPORTS.+.HD.dtvsp,Dsports +
-DSPORTS,DSPORTS 720
+DSPORTS.(ARG).dtvsp,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
+DSPORTS.2.HD.dtvsp,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
+DSPORTS.+.HD.dtvsp,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
+DSPORTS,DSPORTS 720,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2 720
 DSPORTS+,DSPORTS+ 720
 Sky Sports 24,Sky Sports 24.ms
