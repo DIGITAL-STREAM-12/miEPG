@@ -149,7 +149,7 @@ Sky.Sports.24.mx,,https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_2
 Sky.Sports.16.mx,,https://imagenes.gatotv.com/logos/canales/oscuros/sky_sports_16-mediano.png
 Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx,,https://cdn.tvpassport.com/image/station/240x135/v2/s116154_h15_ac.png
 ESPN.MX.mx,,https://cdn.tvpassport.com/image/station/240x135/v2/s17725_h15_ac.png
-FOX.SPORTS.mx,,
-FOX.SPORTS.2.mx,,
-FOX.SPORTS.3.mx,,
-FOX.SPORTS.PREMIUM.mx,,
+FOX.SPORTS.mx,,https://www.reportv.com.ar/buscador/img/Logos/1901647.jpg
+FOX.SPORTS.2.mx,,https://www.reportv.com.ar/buscador/img/Logos/1902014.jpg
+FOX.SPORTS.3.mx,,https://www.reportv.com.ar/buscador/img/Logos/1901528.jpg
+FOX.SPORTS.PREMIUM.mx,,https://www.reportv.com.ar/buscador/img/Logos/12505582.jpg
