@@ -302,7 +302,6 @@ I435.65342.schedulesdirect.org,Investigation Discovery HD,https://schedulesdirec
 I437.59724.schedulesdirect.org,izzi,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59724_dark_360w_270h.png
 I438.98718.schedulesdirect.org,izzi HD,
 I440.100795.schedulesdirect.org,Jesus Christ Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100795_dark_360w_270h.png
-I442.50577.schedulesdirect.org,Justicia TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50577_dark_360w_270h.png
 I446.52300.schedulesdirect.org,La Liga Sky Sports Mexico,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 I447.105747.schedulesdirect.org,La Mejor TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105747_dark_360w_270h.png
 I448.67632.schedulesdirect.org,LAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67632_dark_360w_270h.png
