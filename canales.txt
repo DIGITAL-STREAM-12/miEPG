@@ -223,7 +223,7 @@ ESPN.7.HD.co,ESPN 7.co
 Canal.ESPN.(Chile).cl,ESPN Chile.cl
 Canal.ESPN.(Argentina).ar,ESPN Arg.ar
 Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
-Canal.ESPN.(Norte).sv,Canal.ESPN Norte.sv
+Canal.ESPN.(Norte).sv,ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
