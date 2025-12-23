@@ -166,6 +166,11 @@ Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
 Canal.Discovery.Theater.(Latinoamérica).sv,Disc Theater.sv
 Canal.Discovery.Turbo.(Latinoamérica).sv,Disc Turbo.sv
 Canal.Discovery.World.Latinoamérica.sv,Disc World.sv
+Canal.National.Geographic.(Centro).sv,Natgeo.sv
+Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
+Canal.History.(Panregional).sv,History Latam.sv
+Canal.History.2.(Panregional).sv,H2.sv
+Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
 Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
@@ -242,10 +247,6 @@ FOX.SPORTS.3.(FoxSports3).pe,Fox Sports 3 Sur.pe
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Fox.Deportes.HD.us2,Fox Deportes.us
-Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
-Canal.History.(Panregional).sv,History Latam.sv
-Canal.History.2.(Panregional).sv,H2.sv
-Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
 DSPORTS.(ARG).dtvsp,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS.2.HD.dtvsp,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS.+.HD.dtvsp,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
