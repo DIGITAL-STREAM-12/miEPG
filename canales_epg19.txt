@@ -602,6 +602,7 @@ Fox Sport 3,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-medi
 Discovery H&amp;H,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
 CNN Español,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
 Universal Premier,,https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png
+Invasiva TeVe,,
 Adult Swim,,
 Azteca Cinema,,
 Az Click,,
