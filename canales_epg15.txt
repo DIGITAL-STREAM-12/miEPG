@@ -21,7 +21,7 @@ ANIMAL.PLANET..uy,,
 ANIMAL.PLANET.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4605.svg
 ANIMAL.PLANET.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9181931.jpg
 ANTENA3.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4256.svg
-ASPEN.uy,,https://www.reportv.com.ar/buscador/img/Logos/36775420.jpg
+ASPEN.uy,,
 ATRESERIES..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3149.svg
 AXN..uy,,
 AXN.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1862.svg
@@ -32,9 +32,9 @@ BBC.NEWS.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/5212.svg
 BLOOMBERG.HD.uy,,
 C5N..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/709.svg
 CAMPO.RURAL.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/8222.svg
-CANAL.10.HD.uy,,
+CANAL.10.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1988476719.jpg
 CANAL.11.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901907.jpg
-CANAL.12.HD.uy,,
+CANAL.12.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/30158345.jpg
 CANAL.24.HS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/281.svg
 CANAL.24.HS.uy,,https://www.reportv.com.ar/buscador/img/Logos/3061075.jpg
 CANAL.33.uy,,
@@ -100,7 +100,7 @@ DISNEY.JR..uy,,
 DISNEY.JR.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
 DISNEY.uy,,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
 DISTRITO.COMEDIA.HD.uy,,
-DW.ESPAÑOL.HD.uy,,
+DW.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,,
 EL.GOURMET.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
 EL.GOURMET.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/27012035.jpg
@@ -231,7 +231,7 @@ PLIM.PLIM.uy,,https://www.reportv.com.ar/buscador/img/Logos/26835698.jpg
 QUIERO..uy,,
 QUIERO.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9332822.jpg
 RAI..uy,,
-RAI.HD.uy,,
+RAI.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9347708.jpg
 RECORD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3913.svg
 REDE.RECORD.uy,,https://www.reportv.com.ar/buscador/img/Logos/30909021.jpg
 REDE.TV..uy,,
