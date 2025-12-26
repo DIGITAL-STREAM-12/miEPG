@@ -253,6 +253,7 @@ DSPORTS.+.HD.dtvsp,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/ch
 DSPORTS,DSPORTS 720,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS 2,DSPORTS 2 720
 DSPORTS+,DSPORTS+ 720
+Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
 Sky Sports 24,Sky Sports 24.ms
 Azteca Deportes,Azteca Deportes.ms
