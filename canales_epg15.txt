@@ -21,7 +21,7 @@ ANIMAL.PLANET..uy,,
 ANIMAL.PLANET.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4605.svg
 ANIMAL.PLANET.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9181931.jpg
 ANTENA3.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4256.svg
-ASPEN.uy,,
+ASPEN.uy,,https://www.reportv.com.ar/buscador/img/Logos/36775420.jpg
 ATRESERIES..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3149.svg
 AXN..uy,,
 AXN.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1862.svg
@@ -32,7 +32,7 @@ BBC.NEWS.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/5212.svg
 BLOOMBERG.HD.uy,,
 C5N..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/709.svg
 CAMPO.RURAL.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/8222.svg
-CANAL.10.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1988476719.jpg
+CANAL.10.HD.uy,,
 CANAL.11.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901907.jpg
 CANAL.12.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/30158345.jpg
 CANAL.24.HS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/281.svg
@@ -66,7 +66,7 @@ CLAROSPORTS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
 CNN.EN.ESPAÑOL..uy,,
 CNN.EN.ESPAÑOL.HD.uy,,
 CNN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901358.jpg
-COMEDY.CENTRAL.HD.uy,,
+COMEDY.CENTRAL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9245617.jpg
 CONCERT.CHANNEL.HD.uy,,
 CRONICA.TV..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/192.svg
 CRONICA.uy,,https://www.reportv.com.ar/buscador/img/Logos/33228636.jpg
@@ -196,7 +196,7 @@ LAS.ESTRELLAS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg
 LIFETIME..uy,,
 LIFETIME.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/11695256.jpg
 LN+..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3644.svg
-MAGAZINE.HD.uy,,
+MAGAZINE.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/4634546.jpg
 MAROÑAS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901725.jpg
 MAS.CHIC..uy,,
 MAS.CHIC.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3390.svg
