@@ -300,7 +300,7 @@ AMERICA.TELEVISION.(America.TV).pe,America Perú.pe
 ATV.(ATV).pe,ATV.pe
 ATV+.(ATV+).pe,ATV+.pe
 CANAL.N.(Canal.N).pe,Canal N.pe
-GOLPERU.(GOLPERU).pe,GOL Peru.pe
+GOLPERU.HD.(GOLPERU.HD).pe,GOL Peru.pe
 Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 LATINA.(Latina).pe,Latina Perú.pe
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
