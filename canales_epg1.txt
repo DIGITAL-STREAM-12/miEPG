@@ -441,10 +441,10 @@ TRACE Urban,TRACE Urban 1080,https://raw.githubusercontent.com/davidmuma/picons_
 Cazavisión,Cazavisión 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
 TR3CE,TR3CE 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TR3CE.png
 Deutsche W,Deutsche W 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Deutsche%20W.png
-Pro TV,Pro TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Pro%20TV.png
-Caracol TV,Caracol TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caracol%20TV.png
-France 2,France 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%202.png
-France 5,France 5 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%205.png
+Pro TV,Pro TV 1080,
+Caracol TV,Caracol TV 1080,
+France 2,France 2 1080,
+France 5,France 5 1080,
 M6,M6 1080,
 Gulli,Gulli 1080,
 Tennis Channel,Tennis Channel 1080,
