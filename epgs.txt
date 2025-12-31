@@ -17,6 +17,7 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 https://github.com/acidjesuz/EPGTalk/blob/master/Latino_guide.xml.gz
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml
+https://github.com/iptv-org/epg/blob/master/sites/winplay.co/winplay.co.channels.xml
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
 https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
