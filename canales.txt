@@ -125,6 +125,7 @@ Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
 Canal.FUTV.sv,Canal FUTV.sv
+FUTV.cr@SD,Canal FUTV2.ga
 Tigo.Sports.(Coasta.Rica).cr,Tigo Sports.sv
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
@@ -328,6 +329,7 @@ Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
 Canal.TV.Azteca.Mundo.mx,Az Int.mx
 Canal.Cinema.mx,Cinema.mx
+Telefe.ar@SD,Telefe.mi
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
