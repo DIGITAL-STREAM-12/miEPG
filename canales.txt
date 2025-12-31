@@ -322,6 +322,7 @@ Discovery.en.Español.us2,Discovery Español.us
 Discovery.Familia.En.Español.us2,Discovery Familia.us
 History.Channel.En.Español.us2,History Español.us
 FS2.Fox.Sports.2.HD.us2,FS2.us
+Fubo.Sports.us,Fubo Sports.us
 Canal.5.de.México.(XHGC).mx,Canal 5 MX.mx
 Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
