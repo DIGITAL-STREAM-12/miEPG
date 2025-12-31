@@ -212,7 +212,7 @@ Teleislas.co,Teleislas.co
 TELEMEDELLIN.co,Telemedellin.co
 Telepacifico.co,Telepacifico.co
 Win.Sports.co,Win Sports.co
-Win.Sports.Premium(Win+).co,Win Sports+.co
+WinPlusFutbol.co@SD,Win Sports+.co
 Caracol.co,Caracol.co
 CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 RCN.co,RCN.co
