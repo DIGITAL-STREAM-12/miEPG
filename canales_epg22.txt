@@ -27,7 +27,7 @@ Big TV,,https://i.imgur.com/V60dnOp.png
 Boomerang,,https://i.imgur.com/V60dnOp.png
 CachiPum Tv,,http://cachipumtv.live/assets/img/brand.png
 Canal 5 del Pueblo,,https://imgur.com/KPrD9ev.png
-Canal LMS,,https://i.imgur.com/RUuoMlL.png
+Canal LMS,,
 CN City,,
 Cartoon Network Clasico Peru,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png
 Diti TV,,https://radiotv.ar/img/l/dititv.jpg
@@ -66,6 +66,7 @@ Voice Over Radio TV,,https://i.imgur.com/qhLnq2W.png
 Zaz TV,,https://i.imgur.com/CMMEIq3.png
 Fox Kids,,https://i.postimg.cc/Z518Hwrr/FOX-Kids-logo.png
 Jetix,,https://i.imgur.com/D9wFBkQ.png
+Invasiva TeVe,Invasiva TeVe,
 EnerGeek Retro,,https://i.imgur.com/2HZW3E2.png
 Fanpop TV,,https://i.imgur.com/eKGk5FD.jpg
 CCP Radio,,https://i.imgur.com/WzKFh03.png
@@ -74,13 +75,9 @@ EnerGeek Radio TV,,https://i.imgur.com/GmzkMUQ.jpg
 Alf,,
 Canal 6,,https://i.imgur.com/MzuTLkz.png
 Canal 13 Michoacan,,https://i.imgur.com/z1VIGD7.png
-Canal Punto 99,,https://i.imgur.com/55Juhdx.jpg
+Cartoon Network Clasico,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png
 Caricaturas,,
 CBTV Michoacan,,https://i.imgur.com/z1VIGD7.png
-Ciudad Magica Tv,,https://i.imgur.com/ydqK2H0.png
-Cartoon Network Clasico,,https://i.postimg.cc/BQXGmLH3/CN.png
-Chespirito,,
-Classic Channel HD,,https://i.imgur.com/N7HXvDq.png
 Educa TV Ecuador,,
 El Chapulin,,
 El Chavo,,
@@ -96,7 +93,6 @@ Media Group Radio,,https://i.imgur.com/z1VIGD7.png
 MIPTV,,https://i.imgur.com/7mkjt2l.png
 Monte Maria,,https://i.imgur.com/NIfwd9a.png
 Multicanal Ecuador,,https://4.bp.blogspot.com/-HAV870gdo80/XoE1dXsyK6I/AAAAAAAAAx4/f5LT4C9r9KIHLnOzFzUPLYlq_-ZwWhghgCLcBGAsYHQ/s1600/multicanal.png
-Neo TV,,https://neotvdigital.com.ar/wp-content/uploads/2022/07/Logo-Neo-Tv.png
 Noticias MVS,,https://i.imgur.com/z1VIGD7.png
 Norte Informativo TV,,
 Pequeradio,,
@@ -109,13 +105,11 @@ Telesistema,,https://i.imgur.com/FhkTl6z.jpg
 Transmedia TV,,https://i.imgur.com/z1VIGD7.png
 TV Educa Chile,,https://cdn.mitvstatic.com/programs/cl_tv-educa_l_l.jpg
 TVLuchitas,,https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png
-Canal6,,https://i.imgur.com/MzuTLkz.png
-Copa Mundial,,
 Copa America,,
+Copa Mundial,,
 Copa Oro,,
 Eurocopa,,
 Deportes 1,,
-Canal Ipe,,
 1 Colombia,,https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia-mediano.png
 Azteca Uno,,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
 Azteca Uno -1 Hora,,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
@@ -310,7 +304,7 @@ Elgourmet,,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.p
 Energy,,https://imagenes.gatotv.com/logos/canales/oscuros/energy-mediano.png
 Enlace TBN,,https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
 ESNE TV,,https://imagenes.gatotv.com/logos/canales/oscuros/esne_tv-mediano.png
-ESPN Chile,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+ESPN CHILE2,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
 ESPN Colombia,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
 ESPN,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
 ESPN Norte,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
@@ -331,7 +325,7 @@ ESPN 5 Sudamérica,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-med
 ESPN 6,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
 ESPN 6 Sudamérica,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
 ESPN 7 Bolivia,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
-ESPN 7 Chile,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
+ESPN 7 CHILE2,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
 ESPN 7 Colombia,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
 ESPN 7 Ecuador,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
 ESPN 7 Paraguay,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png
@@ -356,7 +350,7 @@ Film &amp; Arts,,https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts
 Foro TV,,https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png
 Fox Deportes,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png
 Fox News,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
-Fox Sports Norte,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
+Fox Sports Cono Norte,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
 Fox Sports,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
 Fox Sports 2,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png
 Fox Sports 3,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png
@@ -414,7 +408,7 @@ Lifetime,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoameri
 Lifetime Panregional,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
 M+ Acción,,https://imagenes.gatotv.com/logos/canales/oscuros/accion_por_movistar_plus-mediano.png
 María Visión,,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
-Mas Chic,,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
+Más Chic,,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
 MC,,https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png
 Mega,,https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png
 Mega España,,https://imagenes.gatotv.com/logos/canales/oscuros/mega_espana-mediano.png
@@ -601,21 +595,6 @@ Fox Sport 3,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-medi
 13 C,,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png
 Discovery H&amp;H,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
 CNN Español,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Universal Premier,,https://imagenes.gatotv.com/logos/canales/oscuros/universal_premiere-mediano.png
-Invasiva TeVe,,
-Adult Swim,,
-Azteca Cinema,,
-Az Click,,
-Azteca Deportes,,
-Caliente TV,,
-Canal del Congreso,,
-Disney Jr,,
-Imagen TV,,
-Canal 11,,
-Once Ninos,,
-Multimedios CdMexico,,
-Teleritmo,,
-Claro Sports,,
 C5N,,
 Canal Rural,,
 IP noticias,,
@@ -632,29 +611,26 @@ VOLVER,,
 ESPN AR,,
 ESPN 2 AR,,
 ESPN 3 AR,,
-ESPN 4 AR,,
-ESPN 6 AR,,
-ESPN PREMIUM AR,,
 FOX SPORTS AR,,
 FOX SPORTS 2 AR,,
 FOX SPORTS 3 AR,,
+FOX Sports Premium AR,,
 America TV,,
 CineAr,,
 France 24 en Español,,
 HispanTV,,
 TruTV,,
 TV Publica,,
-FOX Sports Premium AR,,
 NBA,,
 CDF Basico,,
 CDF Premium,,
 UCV TV,,
 Universal Channel,,
-Universal Studio,,
 FOX Sports CL,,
 FOX Sports 2 CL,,
 FOX Sports 3 CL,,
 FOX Sports Basico,,
+Universal Studio,,
 Adult Swim CL,,
 CDO BASICO,,
 CDO PREMIUM,,
@@ -679,18 +655,30 @@ ESPN INTERNACIONAL,,
 ESPN Premium CL,,
 ETC TV,,
 DAZN F1,,
-DAZN LALIGA,,
 DAZN LALIGA 2,,
+DAZN LALIGA,,
 DAZN 1,,
 DAZN 2,,
 DAZN 3,,
 DAZN 4,,
 Atres Series,,
+CGTN en Espanol,,
+Esport3,,
+France 24,,
 BeIN LaLiga,,
 BeIN Sports,,
 Boing,,
 Caza y Pesca,,
 Cazavision,,
-CGTN en Espanol,,
-Esport3,,
-France 24,,
+Adult Swim,,
+Azteca Cinema,,
+Az Click,,
+Azteca Deportes,,
+Caliente TV,,
+Canal del Congreso,,
+Disney Jr,,
+Imagen TV,,
+Canal 11,,
+ONCE NInOS,,
+Teleritmo,,
+Claro Sports,,

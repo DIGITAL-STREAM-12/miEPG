@@ -322,7 +322,7 @@ I476.107890.schedulesdirect.org,Mórbido TV,https://schedulesdirect-api20141201-
 I478.12712.schedulesdirect.org,MTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png
 I479.84432.schedulesdirect.org,MTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png
 I480.60964.schedulesdirect.org,MTV - Music Television HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60964_dark_360w_270h.png
-I481.120767.schedulesdirect.org,MTV 00s,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56245_dark_360w_270h.png
+I481.120767.schedulesdirect.org,MTV 00s,
 I483.65060.schedulesdirect.org,MTV 80's,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65060_dark_360w_270h.png
 I484.67787.schedulesdirect.org,MTV Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67787_dark_360w_270h.png
 I485.66419.schedulesdirect.org,MTV Live,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66419_dark_360w_270h.png
@@ -405,7 +405,7 @@ I678.90605.schedulesdirect.org,Studio Universal,https://schedulesdirect-api20141
 I679.29017.schedulesdirect.org,679,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png
 I680.11097.schedulesdirect.org,680,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png
 I681.19246.schedulesdirect.org,TCM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png
-I682.72294.schedulesdirect.org,TeenNick,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png
+I682.72294.schedulesdirect.org,TeenNick,
 I683.77783.schedulesdirect.org,TeenNick,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png
 I684.16189.schedulesdirect.org,Telefe Internacional,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00284G8Q.png_dark_360w_270h.png
 I685.34344.schedulesdirect.org,Teleformula,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34344_dark_360w_270h.png
