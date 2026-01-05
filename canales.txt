@@ -118,8 +118,8 @@ Atrescine,Atrescine 720
 TUDN (Estados Unidos),TUDN USA 720
 TUDN.us2,TUDN USA.us
 Canal.TUDN.(México).mx,TUDN MX.mx
-Canal4.cr@SD,Repretel 4
-6_de_costa_rica,Repretel 2
+4 de Costa Rica,Repretel 4
+6 de Costa Rica,Repretel 2
 Canal6.cr@SD,6 de Costa Rica
 6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
@@ -156,11 +156,12 @@ Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
 Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
-Canal.Cartoonito.(Panregional).sv,Cartoonito.sv
+Cartoonito Sur,Cartoonito.ga
 Canal.Cinema.sv,AzCinema.sv
 Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
+Antena 3 Internacional,A3 Int.ga
 Canal.Cine.Sony.sv,Cine Sony.sv
 Sony.co,Sony CH.sv
 Canal.CNN.en.Español.sv,CNN Español.sv
@@ -195,6 +196,7 @@ Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
 Canal.Disney.Junior.(Norte).sv,Disney jr.sv
 Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
 Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
+Baby TV Latam.,Baby TV.ga
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
 Canal.TNT.Novelas.(Latinoamérica).sv,TNT Novelas.sv
@@ -203,11 +205,11 @@ Canal.Estrella.TV.sv,Estrella TV.sv
 Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
 Comedy.Central.co,Comedy Central.co
 Canal.1.co,Canal 1.co
-Canal.Capital.co,Capital.co
+Capital Colombia,Capital.ga
 Canal.Trece.co,Trece.co
 Canal.TRO.co,TRO.co
 Canal.Zoom.co,Zoom.co
-City.TV.co,City TV.co
+City TV,City TV.ga
 EUROPA.EUROPA.co,EUROPA EUROPA.co
 NTN24.co,NTN24.co
 Señal.Colombia.co,Señal Colombia.co
@@ -264,6 +266,7 @@ Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
 Sky Sports 24,Sky Sports 24.ms
 Azteca Deportes,Azteca Deportes.ms
+beIN Sports en Español,Bein ñ.ga
 Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
@@ -303,18 +306,20 @@ Canal.La.Red.(Chile).cl,La Red CH.cl
 Canal.Mega.(Chile).cl,Mega Chile.cl
 Canal.TVN.(Chile).cl,TVN Chile.cl
 TV.Chile.cl,TV Chile.cl
-AMERICA.TELEVISION.(America.TV).pe,America Perú.pe
-ATV.(ATV).pe,ATV.pe
+América Televisión Perú,America Perú.pe
+ATV,ATV.ga
 ATV+.(ATV+).pe,ATV+.pe
 CANAL.N.(Canal.N).pe,Canal N.pe
 GOL.PERU.HD.(GOL.PERU.HD).pe,GOL Peru.pe
 Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
+9 Noticias Paraguay,9 Noti.ga
 LATINA.(Latina).pe,Latina Perú.pe
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
 M.PLUS.(M.Plus).pe,M Plus.pe
 PANAMERICANA.TELEVISION.(Panamericana.TV).pe,Panamericana.pe
 WILLAX.(Willax).pe,Willax.pe
 Cine.Mexicano.US.Feed.us2,Mexicano.us
+Cine.Latino.US.us2,Cine Latino.us
 Galavision.Cable.Network.HD.us2,Galavision Este.us
 Telemundo.Satellite.Feed.us2,Telemundo Este.us
 Telemundo.Satellite.Feed.Pacific.us2,Telemundo Pacif.us
@@ -322,7 +327,6 @@ KVEA-DT.us_locals1,Telemundo LA.us
 KDFW-DT.us_locals1,Telemundo Dallas.us
 WSNS-DT.us_locals1,Telemundo Chicago.us
 WZDC-CD.us_locals1,Telemundo Wash.us
-CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 Nat.Geo.Mundo.us2,Natgeo Mundo.us
 Discovery.en.Español.us2,Discovery Español.us
 Discovery.Familia.En.Español.us2,Discovery Familia.us
