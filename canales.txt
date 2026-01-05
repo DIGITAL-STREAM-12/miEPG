@@ -119,13 +119,18 @@ TUDN (Estados Unidos),TUDN USA 720
 TUDN.us2,TUDN USA.us
 Canal.TUDN.(México).mx,TUDN MX.mx
 Canal4.cr@SD,Repretel 4
+6_de_costa_rica,Repretel 2
+Canal6.cr@SD,6 de Costa Rica
+6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
 Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
 Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
+futv,FUTV2
+FUTV.cr@SD,FUTV
+FUTV,FUTVo4
 Canal.FUTV.sv,Canal FUTV.sv
-FUTV.cr@SD,Canal FUTV2.ga
 Tigo.Sports.(Coasta.Rica).cr,Tigo Sports.sv
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
