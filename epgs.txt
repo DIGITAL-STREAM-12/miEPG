@@ -19,6 +19,7 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/winplay.co/winplay.co.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_ar.channels.xml
+https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_hn.channels.xml
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
 https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
