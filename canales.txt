@@ -147,6 +147,13 @@ Canal.Tigo.Sports.(El.Salvador).sv,Tigo Sports El Salvador.sv
 Canal.5.El.Líder.(Honduras).sv,5 El Líder.sv
 Canal.9.de.Honduras.(Vica).sv,Vica TV.sv
 Canal.Telesistema.Informativo.(TSI).(Honduras).sv,TSI.sv
+Canal 11,Canal 11 HN.mi
+DTV,DTV HN.mi
+Hable Como Habla,HCH HN.mi
+Telecadena 7 y 4,Telecadena HN.mi
+Teleceiba,Teleceiba HN.mi
+Todo Deportes,Todo Deportes HN.mi
+VTV,Vica TV.mi
 Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
 Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
 Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
@@ -351,6 +358,23 @@ Canal.Azteca.Uno.mx,Azteca Uno.mx
 Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
 Canal.TV.Azteca.Mundo.mx,Az Int.mx
 Canal.Cinema.mx,Cinema.mx
+24/7 Canal de Noticias,24/7 CdN.mi
+Canal 26,Canal 26 AR.mi
+América TV,América TV AR.mi
+A24,A24 AR.mi
+Argentinísima Satelital,Argentinísima Sat.mi
+C5N,C5N AR.mi
+TV Pública,TV Pública AR.mi
+Canal 9,El Nueve AR.mi
+Canal 13,El Trece AR.mi
+Cronica,Cronica AR.mi
+El Garage Tv,Garage Tv.mi
+Encuentro,Encuentro AR.mi
+FOX Sports 2,FOX Sports 2 Ar.mi
+HispanTV,Hispan TV.mi
+CineAr,CineAr.mi
+IVC,IVC VE.mi
+LN+,LN+ AR.mi
 Telefe.ar@SD,Telefe.mi
 11 de República Dominicana,Telesistema RD.ga
 Teleunion,Teleunion RD.ga
