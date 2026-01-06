@@ -157,6 +157,7 @@ Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
 Cartoonito Sur,Cartoonito.ga
+Semillitas,Semillitas.ga
 Canal.Cinema.sv,AzCinema.sv
 Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
@@ -165,10 +166,18 @@ Antena 3 Internacional,A3 Int.ga
 Canal.Cine.Sony.sv,Cine Sony.sv
 Sony.co,Sony CH.sv
 Canal.CNN.en.Español.sv,CNN Español.sv
-Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
+Comedy Central Centro,Comedy Central.ga
 Canal.De.Película.sv,De Película.sv
 Canal.De.Película.Clásico.sv,De Película Clásico.sv
 Canal.DHE.sv,DHE.sv
+HBO Plus,HBO Plus.ga
+HBO Pop,HBO Pop.ga
+HBO Xtreme,HBO Xtreme.ga
+Space Panregional,Space.ga
+HITN,HITN.ga
+La Tele Paraguay,La Tele Paraguay.ga
+Unicanal,Unicanal PY.ga
+Meganoticias MX,Meganoticias MX.ga
 Canal.Discovery.Channel.(México).sv,Disc Channel.sv
 Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
 Canal.Discovery.Theater.(Latinoamérica).sv,Disc Theater.sv
@@ -197,6 +206,7 @@ Canal.Disney.Junior.(Norte).sv,Disney jr.sv
 Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
 Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
 Baby TV Latam.,Baby TV.ga
+DW Latam.,DW Español.ga
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
 Canal.TNT.Novelas.(Latinoamérica).sv,TNT Novelas.sv
@@ -212,13 +222,15 @@ Canal.Zoom.co,Zoom.co
 City TV,City TV.ga
 EUROPA.EUROPA.co,EUROPA EUROPA.co
 NTN24.co,NTN24.co
-Señal.Colombia.co,Señal Colombia.co
-Teleantioquia.co,Teleantioquia.co
-Telecafé.co,Telecafé.co
-Telecaribe.co,Telecaribe.co
-Teleislas.co,Teleislas.co
+Señal Colombia,Señal Colombia.ga
+Teleantioquia,Teleantioquia.ga
+Telecafé,Telecafé.ga
+Telecaribe,Telecaribe.ga
+Teleislas,Teleislas.ga
 TELEMEDELLIN.co,Telemedellin.co
-Telepacifico.co,Telepacifico.co
+Telepacífico,Telepacifico.ga
+Tro,Canal Tro.ga
+ZOOM Colombia,ZOOM Colombia.ga
 Win.Sports.co,Win Sports.co
 WinPlusFutbol.co@SD,Win Sports+.co
 Caracol.co,Caracol.co
@@ -251,8 +263,8 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv
-FOX.SPORTS.2.(FoxSports2).pe,Fox Sports 2 Sur.pe
-FOX.SPORTS.3.(FoxSports3).pe,Fox Sports 3 Sur.pe
+Fox Sports 2 Cono Sur,Fox Sports 2 Sur.ga
+Fox Sports 3 Cono Sur,Fox Sports 3 Sur.ga
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Fox.Deportes.HD.us2,Fox Deportes.us
@@ -298,6 +310,7 @@ Canal.Ecuavisa.(Ecuador).ec,Ecuavisa.ec
 Canal.Gamavisión.ec,Gamavisión.ec
 Canal.RTS.ec,RTS.ec
 Canal.TC.Televisión.ec,TC.Televisión.ec
+Teleamazonas,Teleamazonas.ga
 Canal.13.de.Chile.cl,13 de Chile.cl
 Canal.24.Horas.(Chile).cl,24 Horas CH.cl
 Canal.Chilevisión.(CHV).cl,Chilevision.cl
@@ -313,10 +326,10 @@ CANAL.N.(Canal.N).pe,Canal N.pe
 GOL.PERU.HD.(GOL.PERU.HD).pe,GOL Peru.pe
 Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 9 Noticias Paraguay,9 Noti.ga
-LATINA.(Latina).pe,Latina Perú.pe
+Frecuencia Latina,Latina Perú.ga
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
 M.PLUS.(M.Plus).pe,M Plus.pe
-PANAMERICANA.TELEVISION.(Panamericana.TV).pe,Panamericana.pe
+Panamericana Televisión,Panamericana.ga
 WILLAX.(Willax).pe,Willax.pe
 Cine.Mexicano.US.Feed.us2,Mexicano.us
 Cine.Latino.US.us2,Cine Latino.us
@@ -339,6 +352,9 @@ Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
 Canal.TV.Azteca.Mundo.mx,Az Int.mx
 Canal.Cinema.mx,Cinema.mx
 Telefe.ar@SD,Telefe.mi
+11 de República Dominicana,Telesistema RD.ga
+Teleunion,Teleunion RD.ga
+Television Dominicana,TV Dominicana.ga
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
