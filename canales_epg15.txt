@@ -1,5 +1,5 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
-+TELEVISIÓN.HD.uy,,
++TELEVISIÓN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/10174471.jpg
 26.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2433.svg
 26.TV.uy,,https://www.reportv.com.ar/buscador/img/Logos/19598961.jpg
 A&amp;E.MUNDO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/167.svg
@@ -41,7 +41,7 @@ CANAL.33.uy,,
 CANAL.4.MONTECARLO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
 CANAL.5..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
 CANAL.7.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
-CANAL.A.HD.uy,,
+CANAL.A.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
 CANAL.EVENTOS.1001.uy,,
 CANAL.EVENTOS.32.uy,,
 CANAL.LUZ.uy,,
@@ -99,7 +99,7 @@ DISNEY.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4367.svg
 DISNEY.JR..uy,,
 DISNEY.JR.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
 DISNEY.uy,,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
-DISTRITO.COMEDIA.HD.uy,,
+DISTRITO.COMEDIA.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
 DW.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,,
 EL.GOURMET.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
@@ -143,7 +143,7 @@ FILM.and.ARTS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/2207706.jpg
 FOOD.NETWORK..uy,,
 FOOD.NETWORK.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
 FRANCE.24..uy,,
-FRANCE.24.ESPAÑOL.HD.uy,,
+FRANCE.24.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
 FRANCE.24.INGLES.HD.uy,,
 FX..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
