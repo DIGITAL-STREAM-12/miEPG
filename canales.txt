@@ -387,6 +387,9 @@ TN,TN AR.mi
 TNT Sports,TNT Sports AR.mi
 Volver,Volver AR.mi
 VTV,VTV UY.mi
+VTV +,VTV+ UY.cp
+CHARRUA TV,CHARRUA TV UY.cp
+KANAL D DRAMA,KANAL D UY.ns
 13C,13C CL.mi
 REC TV,REC TV CL.mi
 24 Horas,24 Horas CL.mi
@@ -430,9 +433,21 @@ plex.tv.Cops.en.Español.plex,Cops Español.plex
 plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix.plex
 plex.tv.Oro.TV.plex,Oro TV.plex
 plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
+plex.tv.Estrella.News.plex,Estrella News.plex
 plex.tv.C4.en.Alerta.plex,C4 Alerta.plex
 plex.tv.Always.Funny.en.Español.plex,Funny en Español.plex
 plex.tv.Always.Funny.plex,Always Funny.plex
+plex.tv.Naturaleza.plex,Naturaleza.plex
+plex.tv.Stingray.Naturescape.plex,Naturescape.plex
+plex.tv.FreeTV.Acción.plex,Free tv Accion.plex
+plex.tv.FreeTV.Banda.plex,Free tv Banda.plex
+plex.tv.FreeTV.Drama.plex,Free tv Drama.plex
+plex.tv.FreeTV.Estelar.plex,Free tv Estelar.plex
+plex.tv.FreeTV.Hits.plex,Free tv Hits.plex
+plex.tv.FreeTV.Familia.plex,Free tv Familia.plex
+plex.tv.FreeTV.Live.plex,Free tv Live.plex
+plex.tv.FreeTV.Sureño.plex,Free tv Sureño.plex
+plex.tv.FreeTV.Horror.plex,Free tv Horror.plex
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN+.plex
