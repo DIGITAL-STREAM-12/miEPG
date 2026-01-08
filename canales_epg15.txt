@@ -1,12 +1,12 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
-+TELEVISIÓN.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/10174471.jpg
++TELEVISIÓN.HD.uy,,
 26.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2433.svg
 26.TV.uy,,https://www.reportv.com.ar/buscador/img/Logos/19598961.jpg
 A&amp;E.MUNDO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/167.svg
 A&amp;E.MUNDO.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3059.svg
 A.and.E.MUNDO.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901433.jpg
 A24..uy,,
-A24.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/48806494.jpg
+A24.HD.uy,,
 A3CINE..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3627.svg
 ADRENALINA.SPORTS.NETWORK.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8808830.jpg
 ALLEGRO.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3154.svg
@@ -41,7 +41,7 @@ CANAL.33.uy,,
 CANAL.4.MONTECARLO..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
 CANAL.5..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
 CANAL.7.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
-CANAL.A.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
+CANAL.A.HD.uy,,
 CANAL.EVENTOS.1001.uy,,
 CANAL.EVENTOS.32.uy,,
 CANAL.LUZ.uy,,
@@ -99,7 +99,7 @@ DISNEY.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/4367.svg
 DISNEY.JR..uy,,
 DISNEY.JR.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
 DISNEY.uy,,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
-DISTRITO.COMEDIA.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
+DISTRITO.COMEDIA.HD.uy,,
 DW.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,,
 EL.GOURMET.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
@@ -143,7 +143,7 @@ FILM.and.ARTS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/2207706.jpg
 FOOD.NETWORK..uy,,
 FOOD.NETWORK.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
 FRANCE.24..uy,,
-FRANCE.24.ESPAÑOL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
+FRANCE.24.ESPAÑOL.HD.uy,,
 FRANCE.24.INGLES.HD.uy,,
 FX..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
@@ -256,7 +256,7 @@ TCM.uy,,https://www.reportv.com.ar/buscador/img/Logos/2023825.jpg
 TELEDOCE..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/483.svg
 TELEDOCE.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/2862.svg
 TELEFE.INTER..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/149.svg
-TELEFE.INTERNACIONAL.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/8567050.jpg
+TELEFE.INTERNACIONAL.HD.uy,,
 TELEHIT.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/12251538.jpg
 TELEHIT.MÚSICA.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/12164247.jpg
 TELEHIT.MÚSICA.PLUS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/12164256.jpg
@@ -410,7 +410,7 @@ WOOHOO.uy,,
 [GLDENEH].Golden.uy,,http://dshm.tmsimg.com/assets/s50709_h3_aa.png?w=360&amp;h=270
 [GOLDEDG].Golden.Edge.uy,,http://dshm.tmsimg.com/assets/s16423_ll_h15_ac.png?w=360&amp;h=270
 [GOLFLA].The.Golf.Channel.Latinoamerica.uy,,http://dshm.tmsimg.com/assets/s61033_ll_h15_ab.png?w=360&amp;h=270
-[GOLF].Golf.Channel.uy,,http://dshm.tmsimg.com/assets/GNLZZGG002PZ5JE.png?w=360&amp;h=270
+[GOLF].Golf.Channel.uy,,http://dshm.tmsimg.com/assets/GNLZZGG002RFK1J.png?w=360&amp;h=270
 [GOLTVL].GolTV.Latin.America.uy,,http://dshm.tmsimg.com/assets/s54541_ll_h15_aa.png?w=360&amp;h=270
 [GOURMETN].El.Gourmet.uy,,http://dshm.tmsimg.com/assets/s25553_ll_h15_ad.png?w=360&amp;h=270
 [H2LAME].History.2.uy,,http://dshm.tmsimg.com/assets/s80374_ll_h15_ae.png?w=360&amp;h=270

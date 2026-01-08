@@ -231,7 +231,6 @@ tlnovelas,tlnovelas 1080,https://raw.githubusercontent.com/davidmuma/picons_dobl
 DePelícula,DePelícula 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
-PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
