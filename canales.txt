@@ -142,7 +142,9 @@ Canal.2.de.El.Salvador.sv,2 de El Salvador.sv
 Canal.4.de.El.Salvador.sv,4 de El Salvador.sv
 Canal.6.de.El.Salvador.sv,6 de El Salvador.sv
 Canal.12.de.El.Salvador.sv,12 de El Salvador.sv
+Canal 19,Canal 19 SV.mi
 Canal.21.de.El.Salvador.(Megavisión).sv,21 El Salvador.sv
+VTV,VTV 35 SV.mi
 Canal.Tigo.Sports.(El.Salvador).sv,Tigo Sports El Salvador.sv
 Canal.5.El.Líder.(Honduras).sv,5 El Líder.sv
 Canal.9.de.Honduras.(Vica).sv,Vica TV.sv
@@ -184,6 +186,10 @@ Space Panregional,Space.ga
 HITN,HITN.ga
 La Tele Paraguay,La Tele Paraguay.ga
 Unicanal,Unicanal PY.ga
+ABC TV,ABC TV PY.mi
+Paravisión,Paravisión PY.mi
+RPC,RPC PY.mi
+Telefuturo,Telefuturo PY.mi
 Meganoticias MX,Meganoticias MX.ga
 Canal.Discovery.Channel.(México).sv,Disc Channel.sv
 Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
@@ -375,10 +381,25 @@ HispanTV,Hispan TV.mi
 CineAr,CineAr.mi
 IVC,IVC VE.mi
 LN+,LN+ AR.mi
-Telefe.ar@SD,Telefe.mi
+Telefe,Telefe.mi
+Telemax,Telemax AR.mi
+TN,TN AR.mi
+TNT Sports,TNT Sports AR.mi
+Volver,Volver AR.mi
+VTV,VTV UY.mi
+13C,13C CL.mi
+REC TV,REC TV CL.mi
+24 Horas,24 Horas CL.mi
+UCV TV,UCV TV CL.mi
+CaliTV,CaliTV CO.mi
+Canal TR3CE,Canal 13 CO.mi
+Telemicro,Telemicro DO.mi
 11 de República Dominicana,Telesistema RD.ga
 Teleunion,Teleunion RD.ga
 Television Dominicana,TV Dominicana.ga
+Canal 7 - Televisiete,Canal 7 GT.mi
+Televen,Televen VE.mi
+Bethel,Bethel PE.mi
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
