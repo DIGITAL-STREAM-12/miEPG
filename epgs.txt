@@ -28,6 +28,7 @@ https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_pe.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_py.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_sv.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/cableplus.com.uy/cableplus.com.uy.channels.xml
+https://github.com/iptv-org/epg/blob/master/sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
 https://raw.githubusercontent.com/EPGgo/PlayTV/refs/heads/main/grupoiptvlatino.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
