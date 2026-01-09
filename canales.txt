@@ -119,16 +119,12 @@ TUDN (Estados Unidos),TUDN USA 720
 TUDN.us2,TUDN USA.us
 Canal.TUDN.(México).mx,TUDN MX.mx
 4 de Costa Rica,Repretel 4
-6 de Costa Rica,Repretel 2
-Canal6.cr@SD,6 de Costa Rica
 6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
 Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
 Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
-futv,FUTV2
-FUTV.cr@SD,FUTV
 FUTV,FUTVo4
 Canal.FUTV.sv,Canal FUTV.sv
 Tigo.Sports.(Coasta.Rica).cr,Tigo Sports.sv
@@ -162,7 +158,7 @@ Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
 RPCTV.pa@SD,4 de Panamá.ga
 Canal.4.de.Panamá.(RPC.TV).pa,4 de Panamá.pa
 Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
-Canal.13.de.Panamá.(Telemetro).pa,Telemetro.pa
+Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
 Cartoonito Sur,Cartoonito.ga
@@ -179,9 +175,16 @@ Comedy Central Centro,Comedy Central.ga
 Canal.De.Película.sv,De Película.sv
 Canal.De.Película.Clásico.sv,De Película Clásico.sv
 Canal.DHE.sv,DHE.sv
+Canal.Cinecanal.(México).sv,Cinecanal.sv
+Canal.HBO.(Latinoamérica).sv,HBO.sv
+Canal.HBO.2.Latinoamérica.sv,HBO 2.sv
+Canal.HBO.Plus.sv,HBO Plus.sv
 HBO Plus,HBO Plus.ga
 HBO Pop,HBO Pop.ga
 HBO Xtreme,HBO Xtreme.ga
+Canal.HBO.Family.Latinoamérica.sv,HBO Family.sv
+Canal.HBO.Signature.Latinoamérica.sv,HBO Signature.sv
+Canal.TCM.(Panregional).sv,TCM.sv
 Space Panregional,Space.ga
 HITN,HITN.ga
 La Tele Paraguay,La Tele Paraguay.ga
@@ -200,7 +203,8 @@ Canal.National.Geographic.(Centro).sv,Natgeo.sv
 Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
 Canal.History.(Panregional).sv,History Latam.sv
 Canal.History.2.(Panregional).sv,H2.sv
-Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
+Cine.Nostalgia.us2,Cine Nostalgia.us
+Cinema.Dinamita.us2,Cinema Dinamita.us
 Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
 Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
@@ -281,6 +285,8 @@ Fox Sports 3 Cono Sur,Fox Sports 3 Sur.ga
 FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
 FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
 Fox.Deportes.HD.us2,Fox Deportes.us
+Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
+Sky.Sport.Premier.League.de,Sky Premier League.de
 DSPORTS.(ARG).dtvsp,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
 DSPORTS.2.HD.dtvsp,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
 DSPORTS.+.HD.dtvsp,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
@@ -342,7 +348,7 @@ Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 Frecuencia Latina,Latina Perú.ga
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
 M.PLUS.(M.Plus).pe,M Plus.pe
-Panamericana Televisión,Panamericana.ga
+Canal.Panamericana.Televisión.sv,Panamericana.ga
 WILLAX.(Willax).pe,Willax.pe
 Cine.Mexicano.US.Feed.us2,Mexicano.us
 Cine.Latino.US.us2,Cine Latino.us
@@ -430,7 +436,7 @@ ES:.Grjngo.be,Grjngo España
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
 plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
 plex.tv.Cops.en.Español.plex,Cops Español.plex
-plex.tv.ARTFLIX.-.Películas.Clásicas.plex,Artflix.plex
+plex.tv.ARTFLIX.-.Movie.Classics.plex,Artflix.plex
 plex.tv.Oro.TV.plex,Oro TV.plex
 plex.tv.Cine.EstrellaTV.plex,Cine Estrella.plex
 plex.tv.Estrella.News.plex,Estrella News.plex
