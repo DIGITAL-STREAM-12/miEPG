@@ -402,7 +402,7 @@ REC TV,REC TV CL.mi
 24 Horas,24 Horas CL.mi
 UCV TV,UCV TV CL.mi
 CaliTV,CaliTV CO.mi
-Canal TR3CE,Canal 13 CO.mi
+Canal.13.de.Colombia.(Trece).sv,Canal 13 CO.sv
 Telemicro,Telemicro DO.mi
 11 de República Dominicana,Telesistema RD.ga
 Teleunion,Teleunion RD.ga
