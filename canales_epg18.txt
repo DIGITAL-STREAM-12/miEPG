@@ -912,7 +912,7 @@ I278.11150.schedulesdirect.org,Discovery Channel,https://schedulesdirect-api2014
 I278.56905.schedulesdirect.org,Discovery Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56905_dark_360w_270h.png
 I279.70388.schedulesdirect.org,Oprah Winfrey Network HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70388_dark_360w_270h.png
 I279.70387.schedulesdirect.org,Oprah Winfrey Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70387_dark_360w_270h.png
-I281.31046.schedulesdirect.org,MOTORTREND HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png
+I281.31046.schedulesdirect.org,DISCOVERY TURBO HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RMTEG.png_dark_360w_270h.png
 I282.16331.schedulesdirect.org,282,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png
 I282.57394.schedulesdirect.org,282,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57394_dark_360w_270h.png
 I283.66804.schedulesdirect.org,National Geographic Wild,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png
