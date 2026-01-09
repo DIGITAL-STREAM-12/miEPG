@@ -349,7 +349,7 @@ Canal.GolTV.Latinoamérica.ec,Gol TV Latam.ec
 Frecuencia Latina,Latina Perú.ga
 M.DEPORTES.(M.Deportes).pe,M Deportes.pe
 M.PLUS.(M.Plus).pe,M Plus.pe
-Canal.Panamericana.Televisión.sv,Panamericana.ga
+Canal.Panamericana.Televisión.sv,Panamericana.sv
 WILLAX.(Willax).pe,Willax.pe
 Cine.Mexicano.US.Feed.us2,Mexicano.us
 Cine.Latino.US.us2,Cine Latino.us
