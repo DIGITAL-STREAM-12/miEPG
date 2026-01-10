@@ -72,6 +72,8 @@ Fanpop TV,,https://i.imgur.com/eKGk5FD.jpg
 CCP Radio,,https://i.imgur.com/WzKFh03.png
 Anipop TV,,https://i.imgur.com/PzEK6DI.png
 EnerGeek Radio TV,,https://i.imgur.com/GmzkMUQ.jpg
+Locomotion,,http://locomotiontv.com/locomotion/logo.png
+AZTV,,http://locomotiontv.com/locomotion/aztv_logo.png
 Alf,,
 Canal 6,,https://i.imgur.com/MzuTLkz.png
 Canal 13 Michoacan,,https://i.imgur.com/z1VIGD7.png
