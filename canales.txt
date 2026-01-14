@@ -155,8 +155,7 @@ VTV,Vica TV.mi
 Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
 Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
 Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
-RPCTV.pa@SD,4 de Panamá.ga
-Canal.4.de.Panamá.(RPC.TV).pa,4 de Panamá.pa
+Canal.4.de.Panamá.(RPC.TV).sv,4 de Panamá.sv
 Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
 Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
