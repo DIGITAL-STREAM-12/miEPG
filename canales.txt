@@ -223,7 +223,7 @@ Canal.Disney.Junior.(Norte).sv,Disney jr.sv
 Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
 Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
 Baby TV Latam.,Baby TV.ga
-DW Latam.,DW Español.ga
+Canal.DW.(Latinoamérica).mx,DW Español.mx
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
 Canal.TNT.Novelas.(Latinoamérica).sv,TNT Novelas.sv
