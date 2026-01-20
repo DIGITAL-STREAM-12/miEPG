@@ -797,7 +797,6 @@ I394.63234.gracenote.com,394,https://zap2it.tmsimg.com/h3/NowShowing/63234/s6323
 I413.65596.gracenote.com,413,https://zap2it.tmsimg.com/h3/NowShowing/65596/s44263_ll_h15_ab.png
 I419.63138.gracenote.com,419,https://zap2it.tmsimg.com/h3/NowShowing/63138/s63138_ll_h15_ad.png
 I424.32537.gracenote.com,424,https://zap2it.tmsimg.com/h3/NowShowing/32537/s32537_ll_h15_ad.png
-I426.61090.gracenote.com,426,https://zap2it.tmsimg.com/h3/NowShowing/61090/s61090_ll_h15_aa.png
 I428.49882.gracenote.com,428,https://zap2it.tmsimg.com/h3/NowShowing/49882/s26028_ll_h15_ac.png
 I432.59607.gracenote.com,432,https://zap2it.tmsimg.com/h3/NowShowing/59607/s59607_ll_h9_aa.png
 I433.66485.gracenote.com,433,https://zap2it.tmsimg.com/h3/NowShowing/66485/s66485_ll_h9_aa.png
