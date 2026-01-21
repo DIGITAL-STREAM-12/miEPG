@@ -151,7 +151,6 @@ Hable Como Habla,HCH HN.mi
 Telecadena 7 y 4,Telecadena HN.mi
 Teleceiba,Teleceiba HN.mi
 Todo Deportes,Todo Deportes HN.mi
-VTV,Vica TV.mi
 Canal.2.de.Nicaragua.(Televicentro).sv,2 de Nicaragua.sv
 Canal.13.de.Nicaragua.(Viva.Nicaragua).sv,13 de Nicaragua.sv
 Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
