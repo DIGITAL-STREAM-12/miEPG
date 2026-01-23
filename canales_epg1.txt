@@ -191,6 +191,9 @@ Vamos BAR 2,Vamos BAR 2 1080,https://raw.githubusercontent.com/davidmuma/picons_
 LaLiga TV BAR HD,LaLiga TV BAR 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR.png
 LaLiga TV BAR 2,LaLiga TV BAR 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%202.png
 LaLiga TV BAR 3,LaLiga TV BAR 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%203.png
+DAZN Baloncesto,DAZN Baloncesto 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
+DAZN Baloncesto 2,DAZN Baloncesto 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
+DAZN Baloncesto 3,DAZN Baloncesto 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 Sony One Shark Tank,Sony One Shark Tank 1080,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png
 Sony One Series Thriller,Sony One Series Thriller 1080,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png
 Sony One Éxitos,Sony One Éxitos 1080,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png
@@ -231,6 +234,7 @@ DePelícula,DePelícula 1080,https://raw.githubusercontent.com/davidmuma/picons_
 DejateTV,DejateTV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
 PTV Granada,PTV Granada 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Granada.png
 PTV Sevilla,PTV Sevilla 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Sevilla.png
+PTV Córdoba,PTV Córdoba 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20C%C3%B3rdoba.png
 PTV Linares,PTV Linares 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 NFL Network,NFL Network 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network.png
@@ -385,6 +389,8 @@ Canal Blau,Canal Blau 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/As
 Lleida TV,Lleida TV 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4717e98daf50416982f71c7db0389a14/Images/58747f9ed82342bd8472425d531d402b
 Banyoles TV,Banyoles TV 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/0f6cd8ece2b04eafb93aab503324c005/Images/6e9740ff00014dfaa3b601e1f9240ae2
 Vallès Visió,Vallès Visió 1080,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc
+Squirrel TV,Squirrel TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
+Squirrel 2,Squirrel 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png
 DARK,DARK 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
 AMC Break,AMC Break 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
 Odisea,Odisea 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
@@ -407,9 +413,6 @@ Cine Feel Good,Cine Feel Good 1080,https://raw.githubusercontent.com/davidmuma/p
 LALIGA Inside,LALIGA Inside 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png
 Top Barça,Top Barça 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png
 Betis TV,Betis TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
-DAZN Baloncesto,DAZN Baloncesto 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
-DAZN Baloncesto 2,DAZN Baloncesto 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
-DAZN Baloncesto 3,DAZN Baloncesto 3 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 Rugby Challenge Spain,Rugby Challenge Spain 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png
 MMA TV,MMA TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png
 Gol Classics,Gol Classics 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
@@ -422,6 +425,7 @@ Runtime Crimen,Runtime Crimen 1080,https://raw.githubusercontent.com/davidmuma/p
 Runtime Romance,Runtime Romance 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
 RunTime Clásicos,RunTime Clásicos 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
 RunTime Familia,RunTime Familia 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
+Qello concerts,Qello concerts 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Qello%20concerts.png
 TRACE Sports Stars,TRACE Sports Stars 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png
 Horse TV,Horse TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png
 Nautical Channel,Nautical Channel 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png
@@ -458,8 +462,6 @@ Love the Planet,Love the Planet 1080,https://raw.githubusercontent.com/davidmuma
 Love Wine,Love Wine 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png
 Historia y Vida,Historia y Vida 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png
 Moto ADV,Moto ADV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
-Squirrel TV,Squirrel TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%20TV.png
-Squirrel 2,Squirrel 2 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png
 8madrid TV,8madrid TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 Sky News International,Sky News International 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV 1080,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
@@ -605,7 +607,7 @@ DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8 1080,
 DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9 1080,
 DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10 1080,
 DE | Sky Sport 1,DE | Sky Sport 1 1080,https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png
-DE | Sky Sport 2,DE | Sky Sport 2 1080,https://www.sky.de/static/img/senderlogos_dark/131_sky_logo_skysporthd4_tvguide.png
+DE | Sky Sport 2,DE | Sky Sport 2 1080,
 DE | Sky Sport 3,DE | Sky Sport 3 1080,
 DE | Sky Sport 4,DE | Sky Sport 4 1080,https://www.sky.de/static/img/senderlogos_dark/133_sky_logo_skysporthd6_tvguide.png
 DE | Sky Sport 5,DE | Sky Sport 5 1080,
