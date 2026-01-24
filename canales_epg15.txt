@@ -33,7 +33,7 @@ BLOOMBERG.HD.uy,,
 C5N..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/709.svg
 CAMPO.RURAL.TV.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/8222.svg
 CANAL.10.HD.uy,,
-CANAL.11.HD.uy,,
+CANAL.11.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901907.jpg
 CANAL.12.HD.uy,,
 CANAL.24.HS..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/281.svg
 CANAL.24.HS.uy,,https://www.reportv.com.ar/buscador/img/Logos/3061075.jpg
@@ -201,7 +201,7 @@ MAROÑAS.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1901725.jpg
 MAS.CHIC..uy,,
 MAS.CHIC.HD..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/3390.svg
 MAS.CHIC.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/1986999948.jpg
-MONTECARLO.HD.uy,,
+MONTECARLO.HD.uy,,https://www.reportv.com.ar/buscador/img/Logos/9236222.jpg
 MTV..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/25.svg
 MTV.80S..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/933.svg
 MTV.CLUB..uy,,http://resources.nuevosiglo.com.uy/reportv/img/senales/726.svg
