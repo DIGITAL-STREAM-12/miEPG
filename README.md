@@ -1,29 +1,50 @@
-# miEPG   v3.1
+# miEPG v3.7
 
-El repositorio hace uso de Github Actions para generar un xml a partir de otros, pudiendo modificar el nombre, el logo y el horario de cada canal
+## Descripción
 
-El script se ejecuta todos los días a las 13:30 (puedes modificar la hora en el cron)
+Este repositorio utiliza **GitHub Actions** para generar un archivo XML a partir de múltiples EPGs. Puedes personalizar el **nombre**, el **logo** y el **horario** de cada canal.
 
-***
-- Modifica el fichero epgs.txt con las urls de la EPGs de origen
+El script se ejecuta automáticamente todos los días a las **13:30**. Si deseas, puedes modificar este horario en el archivo .github/workflows/miEPG.yml
 
-Si se encuentran canales con el mismo nombre en las distintas EPGs, solo se añadirá la primera coicidencia (la primera EPG tiene prioridad sobre la segunda, y así sucesivamente) 
+---
 
-- Modifica el fichero canales.txt con los canales que desees y sus nombres
+## Instrucciones
 
-Los nombres de los canales tienen que ir separados por comas (sin espacios), el primer campo es el nombre del canal de la EPG de origen, el segundo campo es el nuevo nombre que le quieres dar al canal (por ejemplo el de tu lista), el tercer campo es la url del logo (déjalo en blanco si quieres mantener el logo de la EPG de origen), y el cuarto campo es el valor para modificar la hora + o - (déjalo en blanco si no necesitas modificar la hora)
+1. **Modificar el archivo `epgs.txt`**:
+   - Añade las URLs de las EPGs de origen.
+   - Nota: Si se encuentran canales con el mismo nombre en diferentes EPGs, solo se añadirá la primera coincidencia (la primera EPG tiene prioridad).
 
-· Ejemplo: NombreEPG,NombreLISTA,hffp://raw.githubusercontent.com/Images/logo_dobleM.png,+2
+2. **Modificar el archivo `canales.txt`**:
+   - Especifica los canales que desees y sus nombres. (al ejecutar el script se generan listados de canales en .txt de las distintas egps para facilitar el copia/pega)
+   - Los nombres de los canales deben ir separados por comas (sin espacios). 
+   - **Formato**:
+     ```
+     NombreEPG,NombreLISTA,url_logo,valor_hora
+     ```
+   - **Ejemplo**:
+     ```
+     NombreEPG,NombreLista,hffp://raw.githubusercontent.com/Images/logo.png,+2
+     ```
+   - **Campos**:
+     - `NombreEPG`: Nombre del canal de la EPG de origen.
+     - `NombreLISTA`: Nuevo nombre que quieres dar al canal.
+     - `url_logo`: Deja en blanco si deseas mantener el logo original.
+     - `valor_hora`: Deja en blanco si no necesitas modificar la hora.
 
-***
-Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres
+3. **Modificar el archivo `variables.txt`**:
+   - `display-name`: Añade sufijos al nombre de cada canal.
+   - `dias-pasados`: Para tener información de días pasados (Catch-Up).
+   - `dias-futuros`: Limita los días de la EPG.
 
-(Cambia el [Username] por el de tu cuenta de GitHub)
-```
-https://raw.githubusercontent.com/[Username]/miEPG/master/miEPG.xml
-```
+---
 
-***
+**Cuando se ejecute el script obtendrás una url con la EGP creada con tus canales y sus nombres**
+   ```
+   https://raw.githubusercontent.com/[Username]/miEPG/master/miEPG.xml
+   ```
+**Recuerda reemplazar `[Username]` por tu nombre de usuario en GitHub.**
+
+---
 
 ### Creando un fork desde GitHub
 
