@@ -1,91 +1,91 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz
-Canal.Discovery.Kids.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Baby.TV.(Latinoamérica).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
-Canal.Tooncast.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
-Canal.Nickelodeon.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Disney.Channel.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.Cartoon.Network.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Cartoonito.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.Claro.TV.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png
-Canal.ESNE.TV.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/esne_tv-mediano.png
-Canal.Enlace.(TBN).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
-Canal.CNN.Internacional.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
-Canal.CNN.en.Español.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Canal.CNN.Chile.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile-mediano.png
-Canal.La.Red.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png
-Canal.TVN.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png
-Canal.Mega.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png
-Canal.Chilevisión.(CHV).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png
-Canal.13.de.Chile.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png
-Canal.HBO.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
-Canal.Cinemax.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.TNT.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.Cinecanal.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.Multipremier.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png
-Canal.Cinelatino.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png
-Canal.Paramount.Channel.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Golden.Edge.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
-Canal.Star.Channel.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.FX.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Warner.TV.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
-Canal.AXN.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.A&amp;E.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.Sony.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.Lifetime.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.Space.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.TCM.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.AMC.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.Animal.Planet.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.Discovery.Channel.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.National.Geographic.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.History.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.History.2.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Investigation.Discovery.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Canal.E!.Entertainment.Television.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.Las.Estrellas.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.RCN.Novelas.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png
-Canal.Univision.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
-Canal.TLNovelas.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
-Canal.TVE.Internacional.(Televisión.Española).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
-Canal.Zona.Latina.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/zona_latina-mediano.png
-Canal.Vía.X.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/via_x-mediano.png
-Canal.HTV.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
-Canal.Concert.Channel.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel-mediano.png
-Canal.MTV.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.Discovery.Turbo.(Latinoamérica).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
-Canal.ESPN.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.3.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.TyC.Sports.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
-Canal.GolTV.Latinoamérica.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
-Canal.HBO.Family.Latinoamérica.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
-Canal.HBO.Signature.Latinoamérica.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
-Canal.HBO.2.Latinoamérica.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
-Canal.HBO.Plus.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
-Canal.HBO.Mundi.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
-Canal.HBO.Xtreme.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
-Canal.Nick.Jr..(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.TeenNick.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png
-Canal.Disney.Junior.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
-Canal.Elgourmet.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
-Canal.Inti.Network.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/inti_network-mediano.png
-Canal.NHK.World.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
-Canal.24.Horas.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_chile-mediano.png
-Canal.Golden.Plus.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png
-Canal.De.Película.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
-Canal.DHE.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
-Canal.Discovery.Science.(Latinoamérica).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
-Canal.Discovery.Theater.(Latinoamérica).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
-Canal.TLC.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.Discovery.World.Latinoamérica.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
-Canal.Sun.Channel.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png
-Canal.TNT.Novelas.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.Pasiones.(Latinoamérica).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
-Canal.Telemundo.(Chile).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.¡HOLA!.TV.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
-Canal.Atreseries.(Internacional).cl,,https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
-Canal.MTV.Live.HD.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
-Canal.MTV.00s.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
-Canal.Golden.Premier.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
-Canal.HBO.Pop.cl,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
-TV.Chile.cl,,https://cdn.tvpassport.com/image/station/240x135/v2/s16046_h15_ab.png
+Canal.Discovery.Kids.(Chile).cl,Canal Discovery Kids (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Baby.TV.(Latinoamérica).cl,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
+Canal.Tooncast.cl,Canal Tooncast,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
+Canal.Nickelodeon.(Chile).cl,Canal Nickelodeon (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
+Canal.Disney.Channel.(Chile).cl,Canal Disney Channel (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.Cartoon.Network.(Chile).cl,Canal Cartoon Network (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Cartoonito.(Chile).cl,Canal Cartoonito (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.Claro.TV.cl,Canal Claro TV,https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png
+Canal.ESNE.TV.cl,Canal ESNE TV,https://imagenes.gatotv.com/logos/canales/oscuros/esne_tv-mediano.png
+Canal.Enlace.(TBN).cl,Canal Enlace (TBN),https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
+Canal.CNN.Internacional.cl,Canal CNN Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
+Canal.CNN.en.Español.cl,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
+Canal.CNN.Chile.cl,Canal CNN Chile,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile-mediano.png
+Canal.La.Red.(Chile).cl,Canal La Red (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png
+Canal.TVN.(Chile).cl,Canal TVN (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tvn_chile-mediano.png
+Canal.Mega.(Chile).cl,Canal Mega (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png
+Canal.Chilevisión.(CHV).cl,Canal Chilevisión (CHV),https://imagenes.gatotv.com/logos/canales/oscuros/chilevision-mediano.png
+Canal.13.de.Chile.cl,Canal 13 de Chile,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png
+Canal.HBO.(Chile).cl,Canal HBO (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
+Canal.Cinemax.(Chile).cl,Canal Cinemax (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
+Canal.TNT.(Chile).cl,Canal TNT (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.Cinecanal.(Chile).cl,Canal Cinecanal (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.Multipremier.cl,Canal Multipremier,https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png
+Canal.Cinelatino.cl,Canal Cinelatino,https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png
+Canal.Paramount.Channel.(Chile).cl,Canal Paramount Channel (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
+Canal.Golden.Edge.cl,Canal Golden Edge,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
+Canal.Star.Channel.(Chile).cl,Canal Star Channel (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.FX.(Chile).cl,Canal FX (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
+Canal.Warner.TV.(Chile).cl,Canal Warner TV (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
+Canal.AXN.(Chile).cl,Canal AXN (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.A&amp;E.(Chile).cl,Canal A&amp;E (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+Canal.Sony.(Chile).cl,Canal Sony (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.Lifetime.(Chile).cl,Canal Lifetime (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.Space.(Chile).cl,Canal Space (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.TCM.(Chile).cl,Canal TCM (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
+Canal.AMC.(Chile).cl,Canal AMC (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
+Canal.Animal.Planet.(Chile).cl,Canal Animal Planet (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.Discovery.Channel.(Chile).cl,Canal Discovery Channel (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
+Canal.National.Geographic.(Chile).cl,Canal National Geographic (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
+Canal.History.(Chile).cl,Canal History (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
+Canal.History.2.(Chile).cl,Canal History 2 (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Investigation.Discovery.(Chile).cl,Canal Investigation Discovery (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
+Canal.E!.Entertainment.Television.(Chile).cl,Canal E! Entertainment Television (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
+Canal.Las.Estrellas.(Chile).cl,Canal Las Estrellas (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
+Canal.RCN.Novelas.cl,Canal RCN Novelas,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png
+Canal.Univision.(Chile).cl,Canal Univision (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
+Canal.TLNovelas.(Chile).cl,Canal TLNovelas (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
+Canal.TVE.Internacional.(Televisión.Española).cl,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
+Canal.Zona.Latina.cl,Canal Zona Latina,https://imagenes.gatotv.com/logos/canales/oscuros/zona_latina-mediano.png
+Canal.Vía.X.cl,Canal Vía X,https://imagenes.gatotv.com/logos/canales/oscuros/via_x-mediano.png
+Canal.HTV.cl,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
+Canal.Concert.Channel.cl,Canal Concert Channel,https://imagenes.gatotv.com/logos/canales/oscuros/concert_channel-mediano.png
+Canal.MTV.(Chile).cl,Canal MTV (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.Discovery.Turbo.(Latinoamérica).cl,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
+Canal.ESPN.(Chile).cl,Canal ESPN (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(Chile).cl,Canal ESPN 2 (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.3.(Chile).cl,Canal ESPN 3 (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.TyC.Sports.cl,Canal TyC Sports,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
+Canal.GolTV.Latinoamérica.cl,Canal GolTV Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
+Canal.HBO.Family.Latinoamérica.cl,Canal HBO Family Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
+Canal.HBO.Signature.Latinoamérica.cl,Canal HBO Signature Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
+Canal.HBO.2.Latinoamérica.cl,Canal HBO 2 Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
+Canal.HBO.Plus.cl,Canal HBO Plus,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
+Canal.HBO.Mundi.cl,Canal HBO Mundi,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
+Canal.HBO.Xtreme.cl,Canal HBO Xtreme,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
+Canal.Nick.Jr..(Chile).cl,Canal Nick Jr. (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.TeenNick.cl,Canal TeenNick,https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png
+Canal.Disney.Junior.(Chile).cl,Canal Disney Junior (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
+Canal.Elgourmet.cl,Canal Elgourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
+Canal.Inti.Network.cl,Canal Inti Network,https://imagenes.gatotv.com/logos/canales/oscuros/inti_network-mediano.png
+Canal.NHK.World.cl,Canal NHK World,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
+Canal.24.Horas.(Chile).cl,Canal 24 Horas (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_chile-mediano.png
+Canal.Golden.Plus.cl,Canal Golden Plus,https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png
+Canal.De.Película.cl,Canal De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
+Canal.DHE.cl,Canal DHE,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
+Canal.Discovery.Science.(Latinoamérica).cl,Canal Discovery Science (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
+Canal.Discovery.Theater.(Latinoamérica).cl,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
+Canal.TLC.(Chile).cl,Canal TLC (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
+Canal.Discovery.World.Latinoamérica.cl,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
+Canal.Sun.Channel.cl,Canal Sun Channel,https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png
+Canal.TNT.Novelas.(Chile).cl,Canal TNT Novelas (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.Pasiones.(Latinoamérica).cl,Canal Pasiones (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
+Canal.Telemundo.(Chile).cl,Canal Telemundo (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
+Canal.¡HOLA!.TV.cl,Canal ¡HOLA! TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
+Canal.Atreseries.(Internacional).cl,Canal Atreseries (Internacional),https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
+Canal.MTV.Live.HD.cl,Canal MTV Live HD,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
+Canal.MTV.00s.cl,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
+Canal.Golden.Premier.cl,Canal Golden Premier,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
+Canal.HBO.Pop.cl,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
+TV.Chile.cl,TV Chile,https://cdn.tvpassport.com/image/station/240x135/v2/s16046_h15_ab.png

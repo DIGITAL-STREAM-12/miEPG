@@ -1,57 +1,57 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz
-Canal.2.de.República.Dominicana.(Teleantillas).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png
-Canal.5.de.República.Dominicana.(Telemicro).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png
-Canal.7.de.Antena.Latina.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
-Canal.9.de.Color.Visión.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png
-Canal.Telesistema.11.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png
-Canal.Telecentro.(13.de.República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png
-Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png
-Canal.29.de.TeleUniverso.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png
-Canal.37.de.República.Dominicana.(CDN).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png
-Canal.A&amp;E.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.AMC.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.Animal.Planet.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.AXN.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.Cartoon.Network.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Cartoonito.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.CDN.Deportes.dk,,https://imagenes.gatotv.com/logos/canales/oscuros/cdn_deportes-mediano.png
-Canal.Cinecanal.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.Cinemax.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Comedy.Central.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
-Canal.Discovery.Channel.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.Discovery.Home.&amp;.Health.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.Discovery.Kids.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Disney.Channel.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.E!.Entertainment.Television.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.ESPN.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.3.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.ESPN.4.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
-Canal.ESPN.5.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
-Canal.ESPN.6.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
-Canal.FX.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Golden.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.HBO.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
-Canal.History.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.History.2.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Lifetime.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.MTV.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.National.Geographic.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.Nick.Jr..(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.Nickelodeon.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Paramount.Channel.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Sony.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.Space.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.Star.Channel.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.TCM.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.Telemundo.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.Teleunion.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/teleunion-mediano.png
-Canal.Televisión.Dominicana.dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_dominicana-mediano.png
-Canal.TLC.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.TNT.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.TNT.Novelas.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TNT.Series.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
-Canal.Universal.TV.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.Univisión.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
-Canal.USA.Network.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.Warner.TV.(República.Dominicana).dk,,https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
+Canal.2.de.República.Dominicana.(Teleantillas).dk,Canal 2 de República Dominicana (Teleantillas),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png
+Canal.5.de.República.Dominicana.(Telemicro).dk,Canal 5 de República Dominicana (Telemicro),https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png
+Canal.7.de.Antena.Latina.(República.Dominicana).dk,Canal 7 de Antena Latina (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
+Canal.9.de.Color.Visión.(República.Dominicana).dk,Canal 9 de Color Visión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png
+Canal.Telesistema.11.(República.Dominicana).dk,Canal Telesistema 11 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png
+Canal.Telecentro.(13.de.República.Dominicana).dk,Canal Telecentro (13 de República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png
+Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,Canal 15 (Digital Quince Telemicro) (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png
+Canal.29.de.TeleUniverso.(República.Dominicana).dk,Canal 29 de TeleUniverso (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png
+Canal.37.de.República.Dominicana.(CDN).dk,Canal 37 de República Dominicana (CDN),https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png
+Canal.A&amp;E.(República.Dominicana).dk,Canal A&amp;E (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+Canal.AMC.(República.Dominicana).dk,Canal AMC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
+Canal.Animal.Planet.(República.Dominicana).dk,Canal Animal Planet (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.AXN.(República.Dominicana).dk,Canal AXN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.Cartoon.Network.(República.Dominicana).dk,Canal Cartoon Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Cartoonito.(República.Dominicana).dk,Canal Cartoonito (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.CDN.Deportes.dk,Canal CDN Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/cdn_deportes-mediano.png
+Canal.Cinecanal.(República.Dominicana).dk,Canal Cinecanal (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.Cinemax.(República.Dominicana).dk,Canal Cinemax (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
+Canal.Comedy.Central.(República.Dominicana).dk,Canal Comedy Central (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
+Canal.Discovery.Channel.(República.Dominicana).dk,Canal Discovery Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
+Canal.Discovery.Home.&amp;.Health.(República.Dominicana).dk,Canal Discovery Home &amp; Health (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
+Canal.Discovery.Kids.(República.Dominicana).dk,Canal Discovery Kids (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Disney.Channel.(República.Dominicana).dk,Canal Disney Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.E!.Entertainment.Television.(República.Dominicana).dk,Canal E! Entertainment Television (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
+Canal.ESPN.(República.Dominicana).dk,Canal ESPN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(República.Dominicana).dk,Canal ESPN 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.3.(República.Dominicana).dk,Canal ESPN 3 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.ESPN.4.(República.Dominicana).dk,Canal ESPN 4 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
+Canal.ESPN.5.(República.Dominicana).dk,Canal ESPN 5 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
+Canal.ESPN.6.(República.Dominicana).dk,Canal ESPN 6 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
+Canal.FX.(República.Dominicana).dk,Canal FX (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
+Canal.Golden.(República.Dominicana).dk,Canal Golden (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
+Canal.HBO.(República.Dominicana).dk,Canal HBO (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
+Canal.History.(República.Dominicana).dk,Canal History (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
+Canal.History.2.(República.Dominicana).dk,Canal History 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Lifetime.(República.Dominicana).dk,Canal Lifetime (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.MTV.(República.Dominicana).dk,Canal MTV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.National.Geographic.(República.Dominicana).dk,Canal National Geographic (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
+Canal.Nick.Jr..(República.Dominicana).dk,Canal Nick Jr. (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.Nickelodeon.(República.Dominicana).dk,Canal Nickelodeon (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
+Canal.Paramount.Channel.(República.Dominicana).dk,Canal Paramount Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
+Canal.Sony.(República.Dominicana).dk,Canal Sony (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.Space.(República.Dominicana).dk,Canal Space (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.Star.Channel.(República.Dominicana).dk,Canal Star Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.TCM.(República.Dominicana).dk,Canal TCM (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
+Canal.Telemundo.(República.Dominicana).dk,Canal Telemundo (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
+Canal.Teleunion.(República.Dominicana).dk,Canal Teleunion (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/teleunion-mediano.png
+Canal.Televisión.Dominicana.dk,Canal Televisión Dominicana,https://imagenes.gatotv.com/logos/canales/oscuros/tv_dominicana-mediano.png
+Canal.TLC.(República.Dominicana).dk,Canal TLC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
+Canal.TNT.(República.Dominicana).dk,Canal TNT (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.TNT.Novelas.(República.Dominicana).dk,Canal TNT Novelas (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.TNT.Series.(República.Dominicana).dk,Canal TNT Series (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
+Canal.Universal.TV.(República.Dominicana).dk,Canal Universal TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
+Canal.Univisión.(República.Dominicana).dk,Canal Univisión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
+Canal.USA.Network.(República.Dominicana).dk,Canal USA Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
+Canal.Warner.TV.(República.Dominicana).dk,Canal Warner TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
