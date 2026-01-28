@@ -145,6 +145,7 @@
 643054b1fc3be59477853717-65e0c8c6d899afe817b9d224,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png
 643054b1fc3be59477853717-689e1f0dd84bfb3d54b6756f,Bizaar,https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png
 643054b1fc3be59477853717-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png
+643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
 643054b1fc3be59477853717-666e2178d91d13cb4c8cbb75,Naturaleza,https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png
 643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37,SPEEDVISION,https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png
 643054b1fc3be59477853717-6490c01f3b3ce9e1aaad95be,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
@@ -267,4 +268,3 @@
 643054b1fc3be59477853717-62ab5aabbb869dd0df6a3487,TED,https://provider-static.plex.tv/epg/cms/production/acb498f4-49a7-4221-b2a7-646302b670d7/ted.png
 643054b1fc3be59477853717-66be8cd4871131188099527e,TRACE UK,https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png
 643054b1fc3be59477853717-6329474265c8569187176338,TRACE Brazuca,https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png
-643054b1fc3be59477853717-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
