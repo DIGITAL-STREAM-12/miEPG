@@ -162,7 +162,7 @@ Latino Kids Tv,Latino Kids.ms
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
 Cartoonito Sur,Cartoonito.ga
-Semillitas,Semillitas.ga
+Semillitas,Semillitas.ms
 Canal.Cinema.sv,AzCinema.sv
 Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
