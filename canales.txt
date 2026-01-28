@@ -157,6 +157,7 @@ Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
 Canal.4.de.Panamá.(RPC.TV).sv,4 de Panamá.sv
 Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
 Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
+Dreiko TV,Dreiko TV.ms
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
 Cartoonito Sur,Cartoonito.ga
