@@ -281,10 +281,8 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv
-Fox Sports 2 Cono Sur,Fox Sports 2 Sur.ga
-Fox Sports 3 Cono Sur,Fox Sports 3 Sur.ga
-FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
-FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
+FOX SPORTS 2 AR,Fox Sports 2 Sur.ms
+FOX SPORTS 3 AR,Fox Sports 3 Sur.ms
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
