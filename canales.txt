@@ -317,6 +317,7 @@ Maxima TV,Maxima TV.ms
 Tigueritos TV,Tigueritos TV.ms
 5 de República Dominicana Telemicro,Telemicro.ms
 Telesistema 11 República Dominicana,Telesistema 11.ms
+Punto 2 Puerto Rico,Punto 2.ms
 Frecuencia Musical TV,Frecuencia Musical TV.ms
 Norte Informativo TV,Norte Informativo.ms
 Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
@@ -415,6 +416,7 @@ Television Dominicana,TV Dominicana.ga
 Canal 7 - Televisiete,Canal 7 GT.mi
 Televen,Televen VE.mi
 Bethel,Bethel PE.mi
+Canal.Pakapaka.ar,Pakapaka.ar
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
