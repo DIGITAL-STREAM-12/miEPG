@@ -55,7 +55,7 @@ ETB2,ETB2 720
 Canal Extremadura,Canal Extremadura 720
 Telemadrid,Telemadrid 720
 Atreseries,Atreseries 720
-Real Madrid TV,Real Madrid TV 720
+Real Madrid TV,Real Madrid TV
 DMAX,DMAX 720
 Mega,Mega España 720,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
 Ten,Ten 720
