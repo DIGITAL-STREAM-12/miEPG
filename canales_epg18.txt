@@ -786,6 +786,22 @@ I1766.70253.gracenote.com,FX Movie Channel,https://zap2it.tmsimg.com/h3/NowShowi
 I1850.25272.gracenote.com,Showtime Women,https://zap2it.tmsimg.com/h3/NowShowing/25272/s25272_ll_h15_ac.png
 I1873.67929.gracenote.com,MGM&#43; 2,https://zap2it.tmsimg.com/h3/NowShowing/67929/s67929_ll_h15_ad.png
 I3360.111945.gracenote.com,Zona Futbol,https://zap2it.tmsimg.com/h3/NowShowing/111945/s111945_ll_h15_ab.png
+I106.16123.gracenote.com,TV Land,https://zap2it.tmsimg.com/h3/NowShowing/16123/s16123_ll_h15_aa.png
+I160.10986.gracenote.com,MTV,https://zap2it.tmsimg.com/h3/NowShowing/10986/s10986_ll_h15_aa.png
+I239.92091.gracenote.com,Laff,https://zap2it.tmsimg.com/h3/NowShowing/92091/GNLZZGG002NRDSC.png
+I362.16484.gracenote.com,BET Gospel,https://zap2it.tmsimg.com/h3/NowShowing/16484/s16484_ll_h15_ab.png
+I388.70113.gracenote.com,Pixl,https://zap2it.tmsimg.com/h3/NowShowing/70113/s70113_ll_h15_aa.png
+I390.80651.gracenote.com,Outside TV,https://zap2it.tmsimg.com/h3/NowShowing/80651/s80651_ll_h9_aa.png
+I392.76942.gracenote.com,Bein Sports US,https://zap2it.tmsimg.com/h3/NowShowing/76942/s76942_ll_h15_ab.png
+I394.63234.gracenote.com,World Fishing Network,https://zap2it.tmsimg.com/h3/NowShowing/63234/s63234_ll_h15_aa.png
+I413.65596.gracenote.com,Altitude Sports,https://zap2it.tmsimg.com/h3/NowShowing/65596/s44263_ll_h15_ab.png
+I419.63138.gracenote.com,NBC Sports Bay Area,https://zap2it.tmsimg.com/h3/NowShowing/63138/s63138_ll_h15_ad.png
+I424.32537.gracenote.com,Monumental Sports Network,https://zap2it.tmsimg.com/h3/NowShowing/32537/s32537_ll_h15_ad.png
+I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zap2it.tmsimg.com/h3/NowShowing/49882/s26028_ll_h15_ac.png
+I432.59607.gracenote.com,Masn,https://zap2it.tmsimg.com/h3/NowShowing/59607/s59607_ll_h9_aa.png
+I433.66485.gracenote.com,Masn 2,https://zap2it.tmsimg.com/h3/NowShowing/66485/s66485_ll_h9_aa.png
+I434.35038.gracenote.com,NESN,https://zap2it.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
+I438.73565.gracenote.com,NBC Sports California,https://zap2it.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
 I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60222_dark_360w_270h.png
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png

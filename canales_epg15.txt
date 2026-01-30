@@ -130,7 +130,7 @@ ESPN.HD..uy,ESPN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5254.
 ESPN.HD.uy,ESPN HD,
 EUROCHANNEL..uy,EUROCHANNEL,
 EUROCHANNEL.HD..uy,EUROCHANNEL HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4929.svg
-EUROCHANNEL.HD.uy,EUROCHANNEL HD,https://www.reportv.com.ar/buscador/img/Logos/2207705.jpg
+EUROCHANNEL.HD.uy,EUROCHANNEL HD,
 EUROPA.EUROPA..uy,EUROPA EUROPA,
 EUROPA.EUROPA.HD.uy,EUROPA EUROPA HD,https://www.reportv.com.ar/buscador/img/Logos/1901912.jpg
 EVENTOS.4.HD..uy,EVENTOS 4 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8968.svg
@@ -141,7 +141,7 @@ FILM&amp;ARTS..uy,FILM&amp;ARTS,http://resources.nuevosiglo.com.uy/reportv/img/s
 FILM&amp;ARTS.HD..uy,FILM&amp;ARTS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3391.svg
 FILM.and.ARTS.HD.uy,FILM and ARTS HD,https://www.reportv.com.ar/buscador/img/Logos/2207706.jpg
 FOOD.NETWORK..uy,FOOD NETWORK,
-FOOD.NETWORK.HD.uy,FOOD NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
+FOOD.NETWORK.HD.uy,FOOD NETWORK HD,
 FRANCE.24..uy,FRANCE 24,
 FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,
 FRANCE.24.INGLES.HD.uy,FRANCE 24 INGLES HD,
@@ -153,9 +153,9 @@ GALICIA.TV.uy,GALICIA TV,https://www.reportv.com.ar/buscador/img/Logos/28980394.
 GOL.TV..uy,GOL TV,
 GOL.TV.HD.uy,GOL TV HD,
 GOLDEN.EDGE.HD.uy,GOLDEN EDGE HD,https://www.reportv.com.ar/buscador/img/Logos/12665570.jpg
-GOLDEN.HD.uy,GOLDEN HD,https://www.reportv.com.ar/buscador/img/Logos/12665437.jpg
+GOLDEN.HD.uy,GOLDEN HD,
 GOLDEN.PLUS..uy,GOLDEN PLUS,
-GOLDEN.PLUS.HD.uy,GOLDEN PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/12665595.jpg
+GOLDEN.PLUS.HD.uy,GOLDEN PLUS HD,
 GOLDEN.PREMIER.HD..uy,GOLDEN PREMIER HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2527.svg
 H2..uy,H2,http://resources.nuevosiglo.com.uy/reportv/img/senales/2823.svg
 H2.HD..uy,H2 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3621.svg
@@ -270,7 +270,7 @@ TN.HD..uy,TN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1847.svg
 TN.HD.uy,TN HD,
 TNT..uy,TNT,
 TNT.HD..uy,TNT HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4054.svg
-TNT.HD.uy,TNT HD,https://www.reportv.com.ar/buscador/img/Logos/1948572621.jpg
+TNT.HD.uy,TNT HD,
 TNT.NOVELAS..uy,TNT NOVELAS,http://resources.nuevosiglo.com.uy/reportv/img/senales/8200.svg
 TNT.NOVELAS.uy,TNT NOVELAS,
 TNT.SERIES..uy,TNT SERIES,
@@ -320,7 +320,7 @@ VTV.PLUS..uy,VTV PLUS,http://resources.nuevosiglo.com.uy/reportv/img/senales/236
 VTV.PLUS.HD..uy,VTV PLUS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2926.svg
 WARNER..uy,WARNER,
 WARNER.HD..uy,WARNER HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3787.svg
-WARNER.HD.uy,WARNER HD,https://www.reportv.com.ar/buscador/img/Logos/10640425.jpg
+WARNER.HD.uy,WARNER HD,
 WOOHOO.uy,WOOHOO,
 [ADCOHOL].DMX.Adult.Contemporary.Holiday.uy,[ADCOHOL] DMX Adult Contemporary Holiday,http://dshm.tmsimg.com/assets/s50415_h3_aa.png?w=360&amp;h=270
 [ADSLA].Adult.Swim.uy,[ADSLA] Adult Swim,http://dshm.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&amp;h=270
