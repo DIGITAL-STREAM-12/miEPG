@@ -107,6 +107,14 @@ Vivir con perros,Vivir con perros 720
 Love the Planet,Love the Planet 720
 Love Wine,Love Wine 720
 8madrid TV,8madrid TV 720
+ES:.Cine.Español.-.Rakuten.TV.be,Rakuten Cine Español.be
+ES:.Comedia.-.Rakuten.TV.be,Rakuten Comedia.be
+ES:.En.Familia.-.Rakuten.TV.be,Rakuten Familia.be
+ES:.Crimen.-.Rakuten.TV.be,Rakuten Crimen.be
+ES:.Películas.de.Acción.-.Rakuten.TV.be,Rakuten Accion.be
+ES:.Películas.de.Drama.-.Rakuten.TV.be,Rakuten Drama.be
+ES:.Películas.Románticas.-.Rakuten.TV.be,Rakuten Romance.be
+ES:.Pelis.Top.-.Rakuten.TV.be,Rakuten Top.be
 En Familia (Rakuten TV),En Familia (Rakuten TV) 720
 Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV) 720
 Crimen (Rakuten TV),Crimen (Rakuten TV) 720
