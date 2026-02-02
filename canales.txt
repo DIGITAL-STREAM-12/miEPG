@@ -107,6 +107,14 @@ Vivir con perros,Vivir con perros 720
 Love the Planet,Love the Planet 720
 Love Wine,Love Wine 720
 8madrid TV,8madrid TV 720
+ES:.Cine.Español.-.Rakuten.TV.be,Rakuten Cine Español.be
+ES:.Comedia.-.Rakuten.TV.be,Rakuten Comedia.be
+ES:.En.Familia.-.Rakuten.TV.be,Rakuten Familia.be
+ES:.Crimen.-.Rakuten.TV.be,Rakuten Crimen.be
+ES:.Películas.de.Acción.-.Rakuten.TV.be,Rakuten Accion.be
+ES:.Películas.de.Drama.-.Rakuten.TV.be,Rakuten Drama.be
+ES:.Películas.Románticas.-.Rakuten.TV.be,Rakuten Romance.be
+ES:.Pelis.Top.-.Rakuten.TV.be,Rakuten Top.be
 En Familia (Rakuten TV),En Familia (Rakuten TV) 720
 Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV) 720
 Crimen (Rakuten TV),Crimen (Rakuten TV) 720
@@ -125,7 +133,7 @@ Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
 Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
-FUTV,FUTVo4
+FUTV,FUTV.ms
 Canal.FUTV.sv,Canal FUTV.sv
 Tigo.Sports.(Coasta.Rica).cr,Tigo Sports.sv
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
@@ -157,10 +165,12 @@ Canal.2.de.Panamá.(TVN-2).pa,2 de Panamá.pa
 Canal.4.de.Panamá.(RPC.TV).sv,4 de Panamá.sv
 Canal.9.de.Panamá.(TVMax).pa,TVMax.pa
 Canal.13.de.Panamá.(Telemetro).sv,Telemetro.pa
+Dreiko TV,Dreiko TV.ms
+Latino Kids Tv,Latino Kids.ms
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
 Cartoonito Sur,Cartoonito.ga
-Semillitas,Semillitas.ga
+Semillitas,Semillitas.ms
 Canal.Cinema.sv,AzCinema.sv
 Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
@@ -279,10 +289,8 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv
-Fox Sports 2 Cono Sur,Fox Sports 2 Sur.ga
-Fox Sports 3 Cono Sur,Fox Sports 3 Sur.ga
-FOX.Sports.2.HD(FSP2HD).co,Fox Sports 2 Sur.co
-FOX.Sports.3.HD(FXS3HD).co,Fox Sports 3 Sur.co
+FOX SPORTS 2 AR,Fox Sports 2 Sur.ms
+FOX SPORTS 3 AR,Fox Sports 3 Sur.ms
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
@@ -296,7 +304,7 @@ Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
 Sky Sports 24,Sky Sports 24.ms
 Azteca Deportes,Azteca Deportes.ms
-beIN Sports en Español,Bein ñ.ga
+beIN.Sports.En.Español.HD.us2,Bein ñ.us
 Retro Hits TV,Retro Hits TV.ms
 Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
@@ -311,6 +319,12 @@ Chespirito,Chespirito.ms
 El Chapulin,El Chapulin.ms
 El Chavo,El Chavo.ms
 Classic Channel HD,Classic Channel.ms
+Maxima TV,Maxima TV.ms
+Tigueritos TV,Tigueritos TV.ms
+5 de República Dominicana Telemicro,Telemicro.ms
+Telesistema 11 República Dominicana,Telesistema 11.ms
+Punto 2 Puerto Rico,Punto 2.ms
+Frecuencia Musical TV,Frecuencia Musical TV.ms
 Norte Informativo TV,Norte Informativo.ms
 Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
 Exa TV,Exa TV.ms
@@ -408,6 +422,7 @@ Television Dominicana,TV Dominicana.ga
 Canal 7 - Televisiete,Canal 7 GT.mi
 Televen,Televen VE.mi
 Bethel,Bethel PE.mi
+Canal.Pakapaka.ar,Pakapaka.ar
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
@@ -453,6 +468,7 @@ plex.tv.FreeTV.Familia.plex,Free tv Familia.plex
 plex.tv.FreeTV.Live.plex,Free tv Live.plex
 plex.tv.FreeTV.Sureño.plex,Free tv Sureño.plex
 plex.tv.FreeTV.Horror.plex,Free tv Horror.plex
+plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela Clasicos.plex
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo Tv.plex
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN+.plex

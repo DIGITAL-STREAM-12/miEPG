@@ -1,118 +1,118 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz
-Canal.Warner.TV.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
-Canal.4.de.Costa.Rica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png
-Canal.Sony.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.6.de.Costa.Rica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/6_de_costa_rica-mediano.png
-Canal.7.de.Costa.Rica.(Teletica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
-Canal.Telemundo.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.Las.Estrellas.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.11.de.Costa.Rica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/11_de_costa_rica-mediano.png
-Canal.Multimedios.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_costa_rica-mediano.png
-Canal.13.de.Costa.Rica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_costa_rica-mediano.png
-Canal.Extra.TV.42.de.Costa.Rica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png
-Canal.TLNovelas.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
-Canal.Agrotendencia.TV.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/agrotendencia_tv-mediano.png
-Canal.Enlace.(TBN).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
-Canal.EWTN.en.Español.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
-Canal.ESPN.4.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
-Canal.ESPN.5.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
-Canal.ESPN.6.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
-Canal.ESPN.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.3.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.TUDN.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png
-Canal.TyC.Sports.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
-Canal.GolTV.Latinoamérica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
-Canal.Golf.Channel.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
-Canal.Discovery.Turbo.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
-Canal.NFL.Network.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png
-Canal.Discovery.Kids.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Disney.Junior.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
-Canal.Cartoon.Network.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Disney.Channel.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.Nickelodeon.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Cartoonito.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.Tooncast.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
-Canal.Nick.Jr..(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.BitMe.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png
-Canal.Baby.TV.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
-Canal.Golden.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.Cinecanal.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.HBO.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
-Canal.Cinemax.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Star.Channel.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.Universal.TV.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.Studio.Universal.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
-Canal.Space.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.TCM.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.TNT.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.De.Película.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
-Canal.Golden.Edge.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
-Canal.Paramount.Channel.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.A&amp;E.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.AXN.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.FX.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Investigation.Discovery.(Panregional).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Canal.TNT.Novelas.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TNT.Series.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
-Canal.USA.Network.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.E!.Entertainment.Television.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.Discovery.Home.&amp;.Health.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.Lifetime.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.TLC.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.Distrito.Comedia.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png
-Canal.Discovery.Channel.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.Animal.Planet.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.National.Geographic.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.History.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.History.2.(Panregional).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Discovery.Science.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
-Canal.CNN.en.Español.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Canal.Fox.News.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
-Canal.HLN.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hln-mediano.png
-Canal.CNN.Internacional.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
-Canal.Bloomberg.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png
-Canal.BBC.World.News.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
-Canal.TVE.Internacional.(Televisión.Española).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
-Canal.Antena.3.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
-Canal.TV.Azteca.Mundo.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png
-Canal.Caracol.Internacional.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
-Canal.RCN.Nuestra.Tele.(Internacional).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele-mediano.png
-Canal.TV.Chile.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
-Canal.TV5MONDE.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png
-Canal.RAI.International.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
-Canal.DW.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.Deutsche.Welle.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.NHK.World.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
-Canal.2.de.Panamá.(TVN-2).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png
-Canal.MTV.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.MTV.00s.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
-Canal.Telehit.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png
-Canal.Telehit.Música.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png
-Canal.MTV.80s.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png
-Canal.HTV.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
-Canal.HBO.2.Latinoamérica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
-Canal.HBO.Family.Latinoamérica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
-Canal.HBO.Signature.Latinoamérica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
-Canal.HBO.Plus.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
-Canal.HBO.Pop.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
-Canal.HBO.Mundi.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
-Canal.HBO.Xtreme.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
-Canal.Univision.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
-Canal.¡HOLA!.TV.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
-Canal.Discovery.World.Latinoamérica.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
-Canal.Discovery.Theater.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
-Canal.History.2.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.VH1.HD.(Latinoamérica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/vh1_hd-mediano.png
-AMC.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Cine.Mexicano.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cine_mexicano-mediano.png
-Cine.Platino.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png
-Panico.cr,,https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png
-Tigo.Sports.(Coasta.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png
-FUTV.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/fut_tv-mediano.png
-TV.Azteca.Corazón.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png
-Canal.Pasiones.Estados.Unidos.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
-Comedy.Central.Centro.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
-Comedy.Central.Espana.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_espana-mediano.png
-Sony.(Costa.Rica).cr,,
-Canal.Elgourmet.(Costa.Rica).cr,,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
+Canal.Warner.TV.(Costa.Rica).cr,Canal Warner TV (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
+Canal.4.de.Costa.Rica.cr,Canal 4 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/4_de_costa_rica-mediano.png
+Canal.Sony.(Costa.Rica).cr,Canal Sony (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.6.de.Costa.Rica.cr,Canal 6 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/6_de_costa_rica-mediano.png
+Canal.7.de.Costa.Rica.(Teletica).cr,Canal 7 de Costa Rica (Teletica),https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
+Canal.Telemundo.(Costa.Rica).cr,Canal Telemundo (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
+Canal.Las.Estrellas.(Costa.Rica).cr,Canal Las Estrellas (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
+Canal.11.de.Costa.Rica.cr,Canal 11 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/11_de_costa_rica-mediano.png
+Canal.Multimedios.(Costa.Rica).cr,Canal Multimedios (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_costa_rica-mediano.png
+Canal.13.de.Costa.Rica.cr,Canal 13 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_costa_rica-mediano.png
+Canal.Extra.TV.42.de.Costa.Rica.cr,Canal Extra TV 42 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png
+Canal.TLNovelas.(Costa.Rica).cr,Canal TLNovelas (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
+Canal.Agrotendencia.TV.cr,Canal Agrotendencia TV,https://imagenes.gatotv.com/logos/canales/oscuros/agrotendencia_tv-mediano.png
+Canal.Enlace.(TBN).cr,Canal Enlace (TBN),https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
+Canal.EWTN.en.Español.cr,Canal EWTN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
+Canal.ESPN.4.(Costa.Rica).cr,Canal ESPN 4 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
+Canal.ESPN.5.(Costa.Rica).cr,Canal ESPN 5 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
+Canal.ESPN.6.(Costa.Rica).cr,Canal ESPN 6 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
+Canal.ESPN.(Costa.Rica).cr,Canal ESPN (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(Costa.Rica).cr,Canal ESPN 2 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.3.(Costa.Rica).cr,Canal ESPN 3 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.TUDN.(Costa.Rica).cr,Canal TUDN (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png
+Canal.TyC.Sports.cr,Canal TyC Sports,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
+Canal.GolTV.Latinoamérica.cr,Canal GolTV Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
+Canal.Golf.Channel.(Latinoamérica).cr,Canal Golf Channel (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
+Canal.Discovery.Turbo.(Latinoamérica).cr,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
+Canal.NFL.Network.cr,Canal NFL Network,https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png
+Canal.Discovery.Kids.(Costa.Rica).cr,Canal Discovery Kids (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Disney.Junior.(Costa.Rica).cr,Canal Disney Junior (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
+Canal.Cartoon.Network.(Costa.Rica).cr,Canal Cartoon Network (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Disney.Channel.(Costa.Rica).cr,Canal Disney Channel (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.Nickelodeon.(Costa.Rica).cr,Canal Nickelodeon (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
+Canal.Cartoonito.(Costa.Rica).cr,Canal Cartoonito (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.Tooncast.cr,Canal Tooncast,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
+Canal.Nick.Jr..(Costa.Rica).cr,Canal Nick Jr. (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.BitMe.cr,Canal BitMe,https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png
+Canal.Baby.TV.(Latinoamérica).cr,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
+Canal.Golden.(Costa.Rica).cr,Canal Golden (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
+Canal.Cinecanal.(Costa.Rica).cr,Canal Cinecanal (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.HBO.(Costa.Rica).cr,Canal HBO (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
+Canal.Cinemax.(Costa.Rica).cr,Canal Cinemax (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
+Canal.Star.Channel.(Costa.Rica).cr,Canal Star Channel (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.Universal.TV.(Costa.Rica).cr,Canal Universal TV (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
+Canal.Studio.Universal.(Costa.Rica).cr,Canal Studio Universal (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
+Canal.Space.(Costa.Rica).cr,Canal Space (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.TCM.(Costa.Rica).cr,Canal TCM (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
+Canal.TNT.(Costa.Rica).cr,Canal TNT (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.De.Película.cr,Canal De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
+Canal.Golden.Edge.cr,Canal Golden Edge,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
+Canal.Paramount.Channel.(Costa.Rica).cr,Canal Paramount Channel (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
+Canal.A&amp;E.(Costa.Rica).cr,Canal A&amp;E (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+Canal.AXN.(Costa.Rica).cr,Canal AXN (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.FX.(Costa.Rica).cr,Canal FX (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
+Canal.Investigation.Discovery.(Panregional).cr,Canal Investigation Discovery (Panregional),https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
+Canal.TNT.Novelas.(Costa.Rica).cr,Canal TNT Novelas (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.TNT.Series.(Costa.Rica).cr,Canal TNT Series (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
+Canal.USA.Network.(Costa.Rica).cr,Canal USA Network (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
+Canal.E!.Entertainment.Television.(Costa.Rica).cr,Canal E! Entertainment Television (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
+Canal.Discovery.Home.&amp;.Health.(Costa.Rica).cr,Canal Discovery Home &amp; Health (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
+Canal.Lifetime.(Costa.Rica).cr,Canal Lifetime (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.TLC.(Costa.Rica).cr,Canal TLC (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
+Canal.Distrito.Comedia.cr,Canal Distrito Comedia,https://imagenes.gatotv.com/logos/canales/oscuros/distrito_comedia-mediano.png
+Canal.Discovery.Channel.(Costa.Rica).cr,Canal Discovery Channel (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
+Canal.Animal.Planet.(Costa.Rica).cr,Canal Animal Planet (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.National.Geographic.(Costa.Rica).cr,Canal National Geographic (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
+Canal.History.(Costa.Rica).cr,Canal History (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
+Canal.History.2.(Panregional).cr,Canal History 2 (Panregional),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Discovery.Science.(Latinoamérica).cr,Canal Discovery Science (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
+Canal.CNN.en.Español.cr,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
+Canal.Fox.News.cr,Canal Fox News,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
+Canal.HLN.cr,Canal HLN,https://imagenes.gatotv.com/logos/canales/oscuros/hln-mediano.png
+Canal.CNN.Internacional.cr,Canal CNN Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
+Canal.Bloomberg.cr,Canal Bloomberg,https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png
+Canal.BBC.World.News.cr,Canal BBC World News,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
+Canal.TVE.Internacional.(Televisión.Española).cr,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
+Canal.Antena.3.cr,Canal Antena 3,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
+Canal.TV.Azteca.Mundo.cr,Canal TV Azteca Mundo,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png
+Canal.Caracol.Internacional.cr,Canal Caracol Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
+Canal.RCN.Nuestra.Tele.(Internacional).cr,Canal RCN Nuestra Tele (Internacional),https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele-mediano.png
+Canal.TV.Chile.cr,Canal TV Chile,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
+Canal.TV5MONDE.cr,Canal TV5MONDE,https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png
+Canal.RAI.International.cr,Canal RAI International,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
+Canal.DW.(Latinoamérica).cr,Canal DW (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
+Canal.Deutsche.Welle.cr,Canal Deutsche Welle,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
+Canal.NHK.World.cr,Canal NHK World,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
+Canal.2.de.Panamá.(TVN-2).cr,Canal 2 de Panamá (TVN-2),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png
+Canal.MTV.(Costa.Rica).cr,Canal MTV (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.MTV.00s.cr,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
+Canal.Telehit.cr,Canal Telehit,https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png
+Canal.Telehit.Música.cr,Canal Telehit Música,https://imagenes.gatotv.com/logos/canales/oscuros/telehit_musica-mediano.png
+Canal.MTV.80s.cr,Canal MTV 80s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png
+Canal.HTV.cr,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
+Canal.HBO.2.Latinoamérica.cr,Canal HBO 2 Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
+Canal.HBO.Family.Latinoamérica.cr,Canal HBO Family Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
+Canal.HBO.Signature.Latinoamérica.cr,Canal HBO Signature Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
+Canal.HBO.Plus.cr,Canal HBO Plus,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
+Canal.HBO.Pop.cr,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
+Canal.HBO.Mundi.cr,Canal HBO Mundi,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
+Canal.HBO.Xtreme.cr,Canal HBO Xtreme,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
+Canal.Univision.(Costa.Rica).cr,Canal Univision (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
+Canal.¡HOLA!.TV.cr,Canal ¡HOLA! TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
+Canal.Discovery.World.Latinoamérica.cr,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
+Canal.Discovery.Theater.(Latinoamérica).cr,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
+Canal.History.2.(Costa.Rica).cr,Canal History 2 (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.VH1.HD.(Latinoamérica).cr,Canal VH1 HD (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/vh1_hd-mediano.png
+AMC.(Costa.Rica).cr,AMC (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
+Cine.Mexicano.cr,Cine Mexicano,https://imagenes.gatotv.com/logos/canales/oscuros/cine_mexicano-mediano.png
+Cine.Platino.cr,Cine Platino,https://imagenes.gatotv.com/logos/canales/oscuros/cinema_platino-mediano.png
+Panico.cr,Panico,https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png
+Tigo.Sports.(Coasta.Rica).cr,Tigo Sports (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png
+FUTV.(Costa.Rica).cr,FUTV (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/fut_tv-mediano.png
+TV.Azteca.Corazón.(Costa.Rica).cr,TV Azteca Corazón (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png
+Canal.Pasiones.Estados.Unidos.(Costa.Rica).cr,Canal Pasiones Estados Unidos (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
+Comedy.Central.Centro.(Costa.Rica).cr,Comedy Central Centro (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
+Comedy.Central.Espana.(Costa.Rica).cr,Comedy Central Espana (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_espana-mediano.png
+Sony.(Costa.Rica).cr,Sony (Costa Rica),
+Canal.Elgourmet.(Costa.Rica).cr,Canal Elgourmet (Costa Rica),https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png

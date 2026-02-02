@@ -18,10 +18,12 @@
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+,https://provider-static.plex.tv/epg/cms/production/754b914b-60f2-4349-89c6-9e744f91bf9f/FIFA__Logo_Rectangle_1500x1000_WHT.png
 608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e,Runtime,https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
+608049aefa2b8ae93c2c3a63-6972759a1f24d187b5b19320,FreeTV Saber Más,https://provider-static.plex.tv/epg/cms/production/faeaeaf7-b920-463e-ba9c-ad010bf29649/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b284195,FreeTV Saber Más,https://provider-static.plex.tv/epg/cms/production/6576aebe-a538-473a-9f40-c8cea9fbeda8/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-67a1a8ef2358ef4dd5c3018e,Lucha Plus,https://provider-static.plex.tv/epg/cms/production/e8b87f4f-ebc1-4996-b732-b70118521f61/Plex_Channel_Logo_Color_-_Juan_Miguel_Bassalik_WHT_TEXT.png
 608049aefa2b8ae93c2c3a63-644c446d7472b186783f359e,Todo Cine,https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png
-608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,FreeTV Sureño,https://provider-static.plex.tv/epg/cms/production/4f350c02-7a5d-48b1-baae-a2ac437bfafb/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png
+608049aefa2b8ae93c2c3a63-691d5ab9a6537ef50c36bae7,FreeTV Sureño,https://provider-static.plex.tv/epg/cms/production/6caa6f16-4648-435d-a15c-e03b036452b1/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png
+608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,FreeTV Sureño,https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png
 608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811,Autopista al Cielo,https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png
 608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165,Cine Friki Latino,https://provider-static.plex.tv/epg/cms/production/72b4d5ba-f30d-4ed1-8414-92f8f47dbe7d/Lfrikiight_Logo_RDX.png
 608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064,C4 en Alerta,https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png
@@ -139,6 +141,7 @@
 608049aefa2b8ae93c2c3a63-67f45ef989089d917e1b1634,Unbeaten,https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png
 608049aefa2b8ae93c2c3a63-61a945156547ba4d6d238dc9,Racing America,https://provider-static.plex.tv/epg/cms/production/58d6bf78-1acf-4d3e-8e82-fdf0f7b5137a/Plex_Logo_Light_1500x1000_-_Jillian_Schwartz.png
 608049aefa2b8ae93c2c3a63-67d9a3d663c5439aeaf61305,The Bold and the Beautiful,https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png
+608049aefa2b8ae93c2c3a63-697144cdbde579fb71262405,All My Children,https://provider-static.plex.tv/epg/cms/production/48d74976-a600-4cf5-8fd7-cbda6aa92348/AMC_channel_logo_1500x1000_WHT_TEXT_Brian_MartinRDX.png
 608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f,Just For Laughs Gags,https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png
 608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab,Documentary+,https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png
 608049aefa2b8ae93c2c3a63-688b7f47c8caf40b4a62239f,Newsmax en Español,https://provider-static.plex.tv/epg/cms/production/25db4f88-c689-4bf8-811b-603fb762d4fb/003_WHITE_NEWSMAX_EN_ESPANOL.png
@@ -205,6 +208,7 @@
 608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
 608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,GoUSA TV,https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png
 608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
+608049aefa2b8ae93c2c3a63-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
 608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
 608049aefa2b8ae93c2c3a63-66fd3e25216b603e031725fe,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png
 608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607,USA TODAY,https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png
@@ -251,7 +255,7 @@
 608049aefa2b8ae93c2c3a63-62ee7ae2271f393d2d9f709e,Hip-Hop/R&amp;B,https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png
 608049aefa2b8ae93c2c3a63-62efbb8652f7d73061eec498,Alternative,https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png
 608049aefa2b8ae93c2c3a63-62ee6eae271f393d2d9f7096,Today's K-Pop,https://provider-static.plex.tv/epg/cms/production/9508b18a-0b6a-4281-888a-bde4bbfe10cd/Todays_K_Pop.png
-608049aefa2b8ae93c2c3a63-6018913ea15130002b284191,FreeTV Hits,https://provider-static.plex.tv/epg/cms/production/4775fd5f-1436-4f2d-a368-35a008221dff/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png
+608049aefa2b8ae93c2c3a63-6018913ea15130002b284191,FreeTV Hits,https://provider-static.plex.tv/epg/cms/production/b1c2a69a-6ca6-4c92-b090-53de85f49c8f/FreeTVHits_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-62ee72cc271f393d2d9f7098,Y2K,https://provider-static.plex.tv/epg/cms/production/ca8ce15a-6f58-4602-9d8c-d66bb894d7a2/Y2K.png
 608049aefa2b8ae93c2c3a63-62f13eeded056a1db9ef3d54,Nothin' But 90s,https://provider-static.plex.tv/epg/cms/production/d5318898-f807-4c7f-b2b4-c4173aaae1ea/Nothin_But_90s.png
 608049aefa2b8ae93c2c3a63-62ee74af52f7d73061eec491,Euro Hits,https://provider-static.plex.tv/epg/cms/production/97cac846-984e-4fdc-881a-6d4201d3849f/Euro_hits.png
@@ -275,3 +279,5 @@
 608049aefa2b8ae93c2c3a63-623954128ed2b3b15baecb2c,FreeTV Banda,https://provider-static.plex.tv/epg/cms/production/324a3313-3bf5-44dc-a17a-2374ea8b6b3b/FreeTV_Banda.png
 608049aefa2b8ae93c2c3a63-6329474265c8569187176338,TRACE Brazuca,https://provider-static.plex.tv/epg/cms/production/db23a2fc-104e-4ef8-8356-6a4d87ed1a46/trace_brazuca_dark_-_Nathan_BECKER__1_.png
 608049aefa2b8ae93c2c3a63-69333216ac5b3f9f53442374,Baby Einstein,https://provider-static.plex.tv/epg/cms/production/e757f7e3-f3de-46f5-b6e0-9aa42bdb61d1/BabyEinstein_logo_1500x1000_light.png.png
+608049aefa2b8ae93c2c3a63-6970fa30bde579fb712623ff,Nature Time,https://provider-static.plex.tv/epg/cms/production/9b504d71-0609-4e22-9301-8913e3158a4e/NATURE_TIMEWHITE_LOGO__1_.png
+608049aefa2b8ae93c2c3a63-68b74a235dc5413c905efd62,TV5MONDE Voyage,https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png

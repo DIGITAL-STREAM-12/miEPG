@@ -1,107 +1,107 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz
-Canal.2.de.Panamá.(TVN-2).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png
-Canal.4.de.Panamá.(RPC.TV).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/4_de_panama-mediano.png
-Canal.9.de.Panamá.(TVMax).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png
-Canal.13.de.Panamá.(Telemetro).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_panama-mediano.png
-Canal.TLC.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.TV5MONDE.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png
-Canal.HBO.2.Latinoamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
-Canal.HBO.Signature.Latinoamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
-Canal.HBO.Plus.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
-Canal.HBO.Family.Latinoamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
-Canal.HBO.Xtreme.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
-Canal.HBO.Mundi.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
-Canal.TNT.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.Space.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.Cinemax.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Cinecanal.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.TCM.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.Studio.Universal.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
-Canal.Multipremier.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png
-Canal.Cinelatino.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png
-Canal.DHE.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
-Canal.Golden.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.Paramount.Channel.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Golden.Edge.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
-Canal.Golden.Premier.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
-Canal.Golden.Premier.2.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
-Canal.Star.Channel.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
-Canal.Warner.TV.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
-Canal.AXN.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.Universal.TV.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.FX.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Sony.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
-Canal.MTV.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.USA.Network.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.Atreseries.(Internacional).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
-Canal.Lifetime.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.Investigation.Discovery.(Panregional).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Canal.TNT.Novelas.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TNT.Series.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
-Canal.Comedy.Central.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
-Canal.CNN.en.Español.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png
-Canal.Fox.News.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
-Canal.24.Horas.(TVE).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve-mediano.png
-Canal.BBC.World.News.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
-Canal.CNN.Internacional.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
-Canal.Bloomberg.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png
-Canal.Disney.Channel.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.Cartoon.Network.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Discovery.Kids.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Nickelodeon.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Baby.TV.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
-Canal.Disney.Junior.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
-Canal.Nick.Jr..(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.BabyFirst.TV.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png
-Canal.Tooncast.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
-Canal.Cartoonito.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
-Canal.BitMe.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png
-Canal.ESPN.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.4.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
-Canal.TyC.Sports.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
-Canal.Real.Madrid.TV.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv-mediano.png
-Canal.NFL.Network.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png
-Canal.Discovery.Turbo.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
-Canal.TUDN.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png
-Canal.ESPN.3.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.Golf.Channel.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
-Canal.Discovery.Channel.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
-Canal.TLNovelas.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
-Canal.National.Geographic.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
-Canal.History.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.Las.Estrellas.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.Animal.Planet.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.E!.Entertainment.Television.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.A&amp;E.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.Antena.3.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
-Canal.TVE.Internacional.(Televisión.Española).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
-Canal.Pasiones.(Panregional).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
-Canal.¡HOLA!.TV.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
-Canal.Caracol.Internacional.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
-Canal.RCN.Novelas.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png
-Canal.DW.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.WOBI.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png
-Canal.Discovery.Home.&amp;.Health.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.Telemundo.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.Discovery.Science.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
-Canal.TV.Chile.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
-Canal.Galicia.TV.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/galicia_tv-mediano.png
-Canal.History.2.(Panregional).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.HTV.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
-Canal.RAI.International.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
-Canal.Sun.Channel.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png
-Canal.Enlace.(TBN).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
-Canal.EWTN.en.Español.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
-Canal.María.Visión.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
-Canal.7.de.Costa.Rica.(Teletica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
-Canal.TV.Agro.Centroamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_agro_centroamerica-mediano.png
-Canal.TV.Globo.Internacional.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/tv_globo_internacional-mediano.png
-Canal.NHK.World.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
-Canal.HBO.Pop.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
-Canal.MTV.Live.HD.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
-Canal.GolTV.Latinoamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
-Canal.Discovery.World.Latinoamérica.pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
-Canal.History.2.(Panamá).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Discovery.Theater.(Latinoamérica).pa,,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
+Canal.2.de.Panamá.(TVN-2).pa,Canal 2 de Panamá (TVN-2),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_panama-mediano.png
+Canal.4.de.Panamá.(RPC.TV).pa,Canal 4 de Panamá (RPC TV),https://imagenes.gatotv.com/logos/canales/oscuros/4_de_panama-mediano.png
+Canal.9.de.Panamá.(TVMax).pa,Canal 9 de Panamá (TVMax),https://imagenes.gatotv.com/logos/canales/oscuros/9_de_panama-mediano.png
+Canal.13.de.Panamá.(Telemetro).pa,Canal 13 de Panamá (Telemetro),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_panama-mediano.png
+Canal.TLC.(Panamá).pa,Canal TLC (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
+Canal.TV5MONDE.pa,Canal TV5MONDE,https://imagenes.gatotv.com/logos/canales/oscuros/tv5monde-mediano.png
+Canal.HBO.2.Latinoamérica.pa,Canal HBO 2 Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
+Canal.HBO.Signature.Latinoamérica.pa,Canal HBO Signature Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png
+Canal.HBO.Plus.pa,Canal HBO Plus,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
+Canal.HBO.Family.Latinoamérica.pa,Canal HBO Family Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_family-mediano.png
+Canal.HBO.Xtreme.pa,Canal HBO Xtreme,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png
+Canal.HBO.Mundi.pa,Canal HBO Mundi,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png
+Canal.TNT.(Panamá).pa,Canal TNT (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.Space.(Panamá).pa,Canal Space (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.Cinemax.(Panamá).pa,Canal Cinemax (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
+Canal.Cinecanal.(Panamá).pa,Canal Cinecanal (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.TCM.(Panamá).pa,Canal TCM (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
+Canal.Studio.Universal.(Panamá).pa,Canal Studio Universal (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
+Canal.Multipremier.pa,Canal Multipremier,https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png
+Canal.Cinelatino.pa,Canal Cinelatino,https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png
+Canal.DHE.pa,Canal DHE,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
+Canal.Golden.(Panamá).pa,Canal Golden (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
+Canal.Paramount.Channel.(Panamá).pa,Canal Paramount Channel (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
+Canal.Golden.Edge.pa,Canal Golden Edge,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
+Canal.Golden.Premier.pa,Canal Golden Premier,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
+Canal.Golden.Premier.2.pa,Canal Golden Premier 2,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
+Canal.Star.Channel.(Panamá).pa,Canal Star Channel (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.Warner.TV.(Panamá).pa,Canal Warner TV (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
+Canal.AXN.(Panamá).pa,Canal AXN (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.Universal.TV.(Panamá).pa,Canal Universal TV (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
+Canal.FX.(Panamá).pa,Canal FX (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
+Canal.Sony.(Panamá).pa,Canal Sony (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.MTV.(Panamá).pa,Canal MTV (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.USA.Network.(Panamá).pa,Canal USA Network (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
+Canal.Atreseries.(Internacional).pa,Canal Atreseries (Internacional),https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
+Canal.Lifetime.(Panamá).pa,Canal Lifetime (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.Investigation.Discovery.(Panregional).pa,Canal Investigation Discovery (Panregional),https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
+Canal.TNT.Novelas.(Panamá).pa,Canal TNT Novelas (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.TNT.Series.(Panamá).pa,Canal TNT Series (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
+Canal.Comedy.Central.(Panamá).pa,Canal Comedy Central (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
+Canal.CNN.en.Español.pa,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
+Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).pa,Canal NTN24 (Nuestra Tele Noticias 24 Horas),https://imagenes.gatotv.com/logos/canales/oscuros/ntn24-mediano.png
+Canal.Fox.News.pa,Canal Fox News,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
+Canal.24.Horas.(TVE).pa,Canal 24 Horas (TVE),https://imagenes.gatotv.com/logos/canales/oscuros/24_horas_tve-mediano.png
+Canal.BBC.World.News.pa,Canal BBC World News,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
+Canal.CNN.Internacional.pa,Canal CNN Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_internacional-mediano.png
+Canal.Bloomberg.pa,Canal Bloomberg,https://imagenes.gatotv.com/logos/canales/oscuros/bloomberg-mediano.png
+Canal.Disney.Channel.(Panamá).pa,Canal Disney Channel (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.Cartoon.Network.(Panamá).pa,Canal Cartoon Network (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Discovery.Kids.(Panamá).pa,Canal Discovery Kids (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Nickelodeon.(Panamá).pa,Canal Nickelodeon (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
+Canal.Baby.TV.(Latinoamérica).pa,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
+Canal.Disney.Junior.(Panamá).pa,Canal Disney Junior (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
+Canal.Nick.Jr..(Panamá).pa,Canal Nick Jr. (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.BabyFirst.TV.pa,Canal BabyFirst TV,https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png
+Canal.Tooncast.pa,Canal Tooncast,https://imagenes.gatotv.com/logos/canales/oscuros/tooncast-mediano.png
+Canal.Cartoonito.(Panamá).pa,Canal Cartoonito (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.BitMe.pa,Canal BitMe,https://imagenes.gatotv.com/logos/canales/oscuros/bitme-mediano.png
+Canal.ESPN.(Panamá).pa,Canal ESPN (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(Panamá).pa,Canal ESPN 2 (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.4.(Panamá).pa,Canal ESPN 4 (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
+Canal.TyC.Sports.pa,Canal TyC Sports,https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports-mediano.png
+Canal.Real.Madrid.TV.pa,Canal Real Madrid TV,https://imagenes.gatotv.com/logos/canales/oscuros/real_madrid_tv-mediano.png
+Canal.NFL.Network.pa,Canal NFL Network,https://imagenes.gatotv.com/logos/canales/oscuros/nfl_network-mediano.png
+Canal.Discovery.Turbo.(Latinoamérica).pa,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
+Canal.TUDN.(Panamá).pa,Canal TUDN (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tudn-mediano.png
+Canal.ESPN.3.(Panamá).pa,Canal ESPN 3 (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.Golf.Channel.(Latinoamérica).pa,Canal Golf Channel (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
+Canal.Discovery.Channel.(Panamá).pa,Canal Discovery Channel (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
+Canal.TLNovelas.(Panamá).pa,Canal TLNovelas (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
+Canal.National.Geographic.(Panamá).pa,Canal National Geographic (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
+Canal.History.(Panamá).pa,Canal History (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
+Canal.Las.Estrellas.(Panamá).pa,Canal Las Estrellas (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
+Canal.Animal.Planet.(Panamá).pa,Canal Animal Planet (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.E!.Entertainment.Television.(Panamá).pa,Canal E! Entertainment Television (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
+Canal.A&amp;E.(Panamá).pa,Canal A&amp;E (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+Canal.Antena.3.pa,Canal Antena 3,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
+Canal.TVE.Internacional.(Televisión.Española).pa,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
+Canal.Pasiones.(Panregional).pa,Canal Pasiones (Panregional),https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
+Canal.¡HOLA!.TV.pa,Canal ¡HOLA! TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
+Canal.Caracol.Internacional.pa,Canal Caracol Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
+Canal.RCN.Novelas.pa,Canal RCN Novelas,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png
+Canal.DW.(Latinoamérica).pa,Canal DW (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
+Canal.WOBI.pa,Canal WOBI,https://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png
+Canal.Discovery.Home.&amp;.Health.(Panamá).pa,Canal Discovery Home &amp; Health (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
+Canal.Telemundo.(Panamá).pa,Canal Telemundo (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
+Canal.Discovery.Science.(Latinoamérica).pa,Canal Discovery Science (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
+Canal.TV.Chile.pa,Canal TV Chile,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
+Canal.Galicia.TV.pa,Canal Galicia TV,https://imagenes.gatotv.com/logos/canales/oscuros/galicia_tv-mediano.png
+Canal.History.2.(Panregional).pa,Canal History 2 (Panregional),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.HTV.pa,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
+Canal.RAI.International.pa,Canal RAI International,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
+Canal.Sun.Channel.pa,Canal Sun Channel,https://imagenes.gatotv.com/logos/canales/oscuros/sun_channel-mediano.png
+Canal.Enlace.(TBN).pa,Canal Enlace (TBN),https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
+Canal.EWTN.en.Español.pa,Canal EWTN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
+Canal.María.Visión.pa,Canal María Visión,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
+Canal.7.de.Costa.Rica.(Teletica).pa,Canal 7 de Costa Rica (Teletica),https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
+Canal.TV.Agro.Centroamérica.pa,Canal TV Agro Centroamérica,https://imagenes.gatotv.com/logos/canales/oscuros/tv_agro_centroamerica-mediano.png
+Canal.TV.Globo.Internacional.pa,Canal TV Globo Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/tv_globo_internacional-mediano.png
+Canal.NHK.World.pa,Canal NHK World,https://imagenes.gatotv.com/logos/canales/oscuros/nhk_world-mediano.png
+Canal.HBO.Pop.pa,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
+Canal.MTV.Live.HD.pa,Canal MTV Live HD,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
+Canal.GolTV.Latinoamérica.pa,Canal GolTV Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
+Canal.Discovery.World.Latinoamérica.pa,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
+Canal.History.2.(Panamá).pa,Canal History 2 (Panamá),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Discovery.Theater.(Latinoamérica).pa,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
