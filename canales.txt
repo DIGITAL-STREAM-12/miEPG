@@ -174,6 +174,7 @@ Canal.Cinema.sv,AzCinema.sv
 Canal.Cinemax.(Panregional).sv,Cinemax.sv
 Canal.Cine.Mexicano.sv,Cine Mexicano.sv
 Canal.Cine.Nostalgia.sv,Cine Nostalgia.sv
+Cine.Estelar.us2,Cine Estelar.us
 Antena 3 Internacional,A3 Int.ga
 Canal.Cine.Sony.sv,Cine Sony.sv
 Sony.co,Sony CH.sv
