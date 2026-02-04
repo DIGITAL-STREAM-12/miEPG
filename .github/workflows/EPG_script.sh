@@ -246,7 +246,7 @@ perl -i -ne '
 date_stamp=$(date +"%d/%m/%Y %R")
 {
     echo '<?xml version="1.0" encoding="UTF-8"?>'
-    echo "<tv generator-info-name=\"miEPG v3.6\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
+    echo "<tv generator-info-name=\"miEPG v3.7\" generator-info-url=\"https://github.com/davidmuma/miEPG\">"
     
     # Insertar los canales (con sus variantes y logos que procesamos antes)
     [ -f EPG_temp1.xml ] && cat EPG_temp1.xml
