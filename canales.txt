@@ -480,6 +480,3 @@ plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
 USBD2500022U5,Cine Retro.sam
 USBD2700005KL,Cine de Oro.sam
-A.and.E.(Mexico).(AandE).mx,MX | A&amp;E,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvr-HEzPT6Im-07iGS_JQGyMITM5DvbzcMrA&s,-2
-Canal.Azteca.Uno.mx,MX | Canal TV Azteca,-2
-AMC+.us,USA | AMC+,https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png
