@@ -289,7 +289,7 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv
-FOX SPORTS 2 AR,Fox Sports 2 Sur.ms
+FOX SPORTS 2 AR,Fox Sports 2 Sur.ms,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/330px-Fox_Sports_2_Argentina_2023.svg.png?20230208172702
 FOX SPORTS 3 AR,Fox Sports 3 Sur.ms
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
