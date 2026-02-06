@@ -1,5 +1,7 @@
 # Fuente: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/es.xml
 686cd84603ad75cfd132d672,America's Next Top Model,https://images.pluto.tv/channels/686cd84603ad75cfd132d672/colorLogoPNG_1751963785234.png
+690dd10a37b131228d76d5b1,El Mueble,https://images.pluto.tv/channels/690dd10a37b131228d76d5b1/colorLogoPNG_1764966923664.png
+60dafb9a0df1ba000758d37b,BBC Series,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG_1770367705306.png
 657868a7a620e30008fdbfeb,Embrujadas,https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG_1770028317031.png
 6812206e1b3e3be031a5c363,Águila Roja,https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png
 685a995b460ac82fa504342c,The Good Wife,https://images.pluto.tv/channels/685a995b460ac82fa504342c/colorLogoPNG_1750771214380.png
@@ -86,7 +88,6 @@
 65ddec1ef7f0af0008be4b65,Pluto TV Series Sci-Fi,https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png
 662a69daa0a74e00087a1c72,Pluto TV Telenovelas Clásicas,https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png
 60b4c06717da110007ee1af6,Pluto TV Telenovelas,https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG_1733440547918.png
-60dafb9a0df1ba000758d37b,BBC Drama,https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png
 6475bfec536e0c0008858e9f,Pluto TV K-Drama,https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png
 5f1ac8f49205650007bc15f1,Pluto TV Series,https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png
 61922be835f3910007fc58f6,En el punto de mira,https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png
