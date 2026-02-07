@@ -469,6 +469,7 @@ I769.98111.schedulesdirect.org,Warner Channel Latinoamerica,https://schedulesdir
 I770.80808.schedulesdirect.org,Warner LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png
 I771.111816.schedulesdirect.org,WIZLT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111815_dark_360w_270h.png
 I772.59014.schedulesdirect.org,WOBI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png
+I1000.118937.schedulesdirect.org,Claro Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png
 I1000.55719.schedulesdirect.org,Cartoonito,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png
 I1002.15178.schedulesdirect.org,XEIPN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
 I1004.16461.schedulesdirect.org,Las Estrellas,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png
