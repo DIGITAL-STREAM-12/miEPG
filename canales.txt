@@ -323,6 +323,12 @@ Maxima TV,Maxima TV.ms
 Tigueritos TV,Tigueritos TV.ms
 5 de República Dominicana Telemicro,Telemicro.ms
 Telesistema 11 República Dominicana,Telesistema 11.ms
+Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,Digital 15.do
+Canal.29.de.TeleUniverso.(República.Dominicana).dk,Teleuniverso.do
+Canal.7.de.Antena.Latina.(República.Dominicana).dk,Antena 7.do
+Canal.9.de.Color.Visión.(República.Dominicana).dk,Color Vision.do
+Canal.Telecentro.(13.de.República.Dominicana).dk,Telecentro.do
+Canal.Teleunion.(República.Dominicana).dk,Teleunion.do
 Punto 2 Puerto Rico,Punto 2.ms
 Frecuencia Musical TV,Frecuencia Musical TV.ms
 Norte Informativo TV,Norte Informativo.ms
