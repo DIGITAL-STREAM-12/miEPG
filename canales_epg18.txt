@@ -799,7 +799,7 @@ I413.65596.gracenote.com,Altitude Sports,https://zap2it.tmsimg.com/h3/NowShowing
 I419.63138.gracenote.com,NBC Sports Bay Area,https://zap2it.tmsimg.com/h3/NowShowing/63138/s63138_ll_h15_ad.png
 I424.32537.gracenote.com,Monumental Sports Network,https://zap2it.tmsimg.com/h3/NowShowing/32537/s32537_ll_h15_ad.png
 I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zap2it.tmsimg.com/h3/NowShowing/49882/s26028_ll_h15_ac.png
-I432.59607.gracenote.com,Masn,https://zap2it.tmsimg.com/h3/NowShowing/59607/s59607_ll_h9_aa.png
+I432.59607.gracenote.com,Masn,https://zap2it.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
 I433.66485.gracenote.com,Masn 2,https://zap2it.tmsimg.com/h3/NowShowing/66485/s66485_ll_h9_aa.png
 I434.35038.gracenote.com,NESN,https://zap2it.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zap2it.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
