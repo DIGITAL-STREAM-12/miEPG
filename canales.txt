@@ -357,6 +357,32 @@ Canal.La.Red.(Chile).cl,La Red CH.cl
 Canal.Mega.(Chile).cl,Mega Chile.cl
 Canal.TVN.(Chile).cl,TVN Chile.cl
 TV.Chile.cl,TV Chile.cl
+0103,TV+.cl
+0152,TV+2.pu
+0109,Mega2.pu
+0121,Mega Ficc.pu
+0117,TVN3.pu
+0127,Vision Plus.pu
+0315,Canal Infantil.pu
+0401,TNT SP Prem.pu
+4411,Espn Norte.pu
+0420,Claro Sports 2.pu
+0432,Dsports2.pu
+0442,AzDeportes.pu
+0443,ECDF.pu
+0528,OLD Music.pu
+0535,VM Latino.pu
+0605,Love Nature.pu
+0619,AMC Series.pu
+0639,Cristovision.pu
+0644,Novelisima.pu
+0826,Cine Hispano.pu
+0827,Cine Premium.pu
+0831,Clover Ch.pu
+0853,FMH Family.pu
+0867,Dpelicula Clasico.pu
+0904,LN+.pu
+0920,Encuentro.pu
 América Televisión Perú,America Perú.pe
 ATV,ATV.ga
 ATV+.(ATV+).pe,ATV+.pe
