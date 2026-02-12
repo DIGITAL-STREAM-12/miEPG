@@ -20,14 +20,7 @@ https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-progr
 https://github.com/iptv-org/epg/blob/master/sites/gatotv.com/gatotv.com.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/winplay.co/winplay.co.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_ar.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_cl.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_co.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_gt.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_hn.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_mx.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_pe.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_py.channels.xml
-https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_sv.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/cableplus.com.uy/cableplus.com.uy.channels.xml
 https://github.com/iptv-org/epg/blob/master/sites/nuevosiglo.com.uy/nuevosiglo.com.uy.channels.xml
 https://raw.githubusercontent.com/luisms123/tdt/master/guiacanales.xml
