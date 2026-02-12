@@ -200,9 +200,9 @@ HITN,HITN.ga
 La Tele Paraguay,La Tele Paraguay.ga
 Unicanal,Unicanal PY.ga
 ABC TV,ABC TV PY.mi
-Paravisión,Paravisión PY.mi
+Paravisión,Paravisión PY.ms
 RPC,RPC PY.mi
-Telefuturo,Telefuturo PY.mi
+Telefuturo,Telefuturo PY.ms
 Meganoticias MX,Meganoticias MX.ga
 Canal.Discovery.Channel.(México).sv,Disc Channel.sv
 Canal.Discovery.Science.(Latinoamérica).sv,Disc Science.sv
@@ -420,33 +420,33 @@ Canal.Cinema.mx,Cinema.mx
 24/7 Canal de Noticias,24/7 CdN.mi
 Canal 26,Canal 26 AR.mi
 América TV,América TV AR.mi
-A24,A24 AR.mi
-Argentinísima Satelital,Argentinísima Sat.mi
-C5N,C5N AR.mi
+0222,A24 AR.pu
+0912,Argentinísima Sat.pu
+0932,C5N AR.pu
 TV Pública,TV Pública AR.mi
-Canal 9,El Nueve AR.mi
-Canal 13,El Trece AR.mi
-Cronica,Cronica AR.mi
-El Garage Tv,Garage Tv.mi
+0916,El Nueve AR.pu
+0915,El Trece AR.pu
+0934,Cronica AR.pu
+0648,Garage Tv.pu
 Encuentro,Encuentro AR.mi
 FOX Sports 2,FOX Sports 2 Ar.mi
-HispanTV,Hispan TV.mi
+0643,Hispan TV.pu
 CineAr,CineAr.mi
-IVC,IVC VE.mi
+0633,IVC VE.pu
 LN+,LN+ AR.mi
-Telefe,Telefe.mi
+0909,Telefe.pu
 Telemax,Telemax AR.mi
-TN,TN AR.mi
-TNT Sports,TNT Sports AR.mi
-Volver,Volver AR.mi
+0905,TN AR.pu
+0403,TNT Sports.pu
+VOLVER,Volver AR.ms
 VTV,VTV UY.mi
 VTV +,VTV+ UY.cp
 CHARRUA TV,CHARRUA TV UY.cp
 KANAL D DRAMA,KANAL D UY.ns
-13C,13C CL.mi
-REC TV,REC TV CL.mi
+0113,13C CL.pu
+0114,REC TV CL.pu
 24 Horas,24 Horas CL.mi
-UCV TV,UCV TV CL.mi
+0108,UCV TV CL.pu
 CaliTV,CaliTV CO.mi
 Canal.13.de.Colombia.(Trece).sv,Canal 13 CO.sv
 Telemicro,Telemicro DO.mi
@@ -455,7 +455,7 @@ Teleunion,Teleunion RD.ga
 Television Dominicana,TV Dominicana.ga
 Canal 7 - Televisiete,Canal 7 GT.mi
 Televen,Televen VE.mi
-Bethel,Bethel PE.mi
+0628,Bethel PE.pu
 Canal.Pakapaka.ar,Pakapaka.ar
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
