@@ -367,7 +367,7 @@ TV.Chile.cl,TV Chile.cl
 0127,Vision Plus.pu
 0315,Canal Infantil.pu
 0401,TNT SP Prem.pu
-4411,Espn Norte.pu
+4411,Espn Norte.pu,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png
 0420,Claro Sports 2.pu
 0432,Dsports2.pu
 0442,AzDeportes.pu
