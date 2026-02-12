@@ -310,7 +310,7 @@ Mi TV Television Clasica,Mi TV Television Clasica.ms
 RetroX TV,RetroX TV.ms
 Teleclasica,Teleclasica.ms
 TeleRed,Telered.ms
-Telesistema,Telesistema.ms
+Telesistema,Telesistema CR.ms
 Tv Retro Palmares,Tv Retro Palmares.ms
 TVS Retro,TVS Retro.ms
 Voice Over Radio TV,Voice Over TV.ms
@@ -322,7 +322,8 @@ Classic Channel HD,Classic Channel.ms
 Maxima TV,Maxima TV.ms
 Tigueritos TV,Tigueritos TV.ms
 5 de República Dominicana Telemicro,Telemicro.ms
-Telesistema 11 República Dominicana,Telesistema 11.ms
+Canal.Telesistema.11.(República.Dominicana).dk,Telesistema 11.do
+Canal.2.de.República.Dominicana.(Teleantillas).dk,Teleantillas.do
 Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).dk,Digital 15.do
 Canal.29.de.TeleUniverso.(República.Dominicana).dk,Teleuniverso.do
 Canal.7.de.Antena.Latina.(República.Dominicana).dk,Antena 7.do
