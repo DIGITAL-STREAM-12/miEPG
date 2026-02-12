@@ -1,1 +1,1 @@
-# Fuente: https://github.com/iptv-org/epg/blob/master/sites/mi.tv/mi.tv_co.channels.xml
+# Fuente: https://github.com/iptv-org/epg/blob/master/sites/cableplus.com.uy/cableplus.com.uy.channels.xml
