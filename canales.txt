@@ -168,7 +168,7 @@ Dreiko TV,Dreiko TV.ms
 Latino Kids Tv,Latino Kids.ms
 Canal.Atreseries.(Internacional).sv,Canal.A3series Int.sv
 Canal.BitMe.sv,BitMe.sv
-Cartoonito Sur,Cartoonito.ga
+0324,Cartoonito.pu
 Semillitas,Semillitas.ms
 Pequeradio,Pequeradio.ms
 Canal.Cinema.sv,AzCinema.sv
@@ -232,7 +232,8 @@ Canal.TVE.Internacional.(Televisión.Española).sv,TVE.sv
 Canal.Disney.Junior.(Norte).sv,Disney jr.sv
 Canal.Discovery.Kids.(Latinoamérica).sv,Disc. Kids.sv
 Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
-Baby TV Latam.,Baby TV.ga
+0310,Babyfirst.pu
+0316,Baby TV.pu
 Canal.DW.(Latinoamérica).mx,DW Español.mx
 Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
 Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
