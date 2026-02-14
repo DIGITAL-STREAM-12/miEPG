@@ -453,7 +453,7 @@ TV Pública,TV Pública AR.mi
 Encuentro,Encuentro AR.mi
 FOX Sports 2,FOX Sports 2 Ar.mi
 0643,Hispan TV.pu
-CineAr,CineAr.mi
+CineAr,CineAr.mi,https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp
 0633,IVC VE.pu
 LN+,LN+ AR.mi
 0909,Telefe.pu
