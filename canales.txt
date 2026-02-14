@@ -221,8 +221,8 @@ Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
 Canal.Azteca.7..(México).sv,Azteca 7.sv
 Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
-Canal.Universal.Comedy.sv,Univ. Comedy.sv,https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy-mediano.png,-3
-Canal.Universal.Reality.sv,Univ. Reality.sv
+0845,Univ. Comedy.pu,https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy-mediano.png,-3
+0843,Univ. Reality.pu
 Canal.Star.TVE.sv,Star TVE.sv
 Canal.Atreseries.(Internacional).sv,Atreseries Int.sv
 Canal.Univisión.(Latinoamérica).sv,Univision Latam.sv
@@ -235,9 +235,9 @@ Canal.Nick.Jr..(Latinoamérica).sv,Nick jr.sv
 0310,Babyfirst.pu
 0316,Baby TV.pu
 Canal.DW.(Latinoamérica).mx,DW Español.mx
-Canal.USA.Network.(Latinoamérica).sv,Canal USA Latam.sv
+0809,Canal USA.pu
 Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
-Canal.TNT.Novelas.(Latinoamérica).sv,TNT Novelas.sv
+0835,TNT Novelas.pu
 Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.Estrella.TV.sv,Estrella TV.sv
 Canal.Comedy.Central.(Centro).sv,Comedy Central.sv
@@ -255,7 +255,7 @@ Teleantioquia,Teleantioquia.ga
 Telecafé,Telecafé.ga
 Telecaribe,Telecaribe.ga
 Teleislas,Teleislas.ga
-TELEMEDELLIN.co,Telemedellin.co
+0953,Telemedellin.pu
 Telepacífico,Telepacifico.ga
 Tro,Canal Tro.ga
 ZOOM Colombia,ZOOM Colombia.ga
@@ -304,7 +304,6 @@ DSPORTS 2,DSPORTS 2 720
 DSPORTS+,DSPORTS+ 720
 Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
-Sky Sports 24,Sky Sports 24.ms
 Azteca Deportes,Azteca Deportes.ms
 beIN.Sports.En.Español.HD.us2,Bein ñ.us
 Retro Hits TV,Retro Hits TV.ms
@@ -353,9 +352,13 @@ Canal.RTS.ec,RTS.ec
 Canal.TC.Televisión.ec,TC.Televisión.ec
 Teleamazonas,Teleamazonas.ga
 Canal.13.de.Chile.cl,13 de Chile.cl
-Canal.24.Horas.(Chile).cl,24 Horas CH.cl
+0147,24 Horas CL.pu
+0204,Telesur Noti.pu
+0208,Meganoticias CL.pu
+0159,Puranoticia.pu
 Canal.Chilevisión.(CHV).cl,Chilevision.cl
-Canal.CNN.Chile.cl,CNN Chile.cl
+0202,CNN Chile.pu
+0215,CNN Int.pu
 Canal.La.Red.(Chile).cl,La Red CH.cl
 Canal.Mega.(Chile).cl,Mega Chile.cl
 Canal.TVN.(Chile).cl,TVN Chile.cl
@@ -365,6 +368,16 @@ TV.Chile.cl,TV Chile.cl
 0109,Mega2.pu
 0121,Mega Ficc.pu
 0117,TVN3.pu
+0301,NTV.pu
+0302,ETC TV.pu
+0160,13 Realities.pu
+0161,13 Cultura.pu
+0162,13 Pop.pu
+0163,13 Festival.pu
+0164,13 Teleseries.pu
+0712,13 Viajes.pu
+0713,13 Cocina.pu
+0714,13 deportes.pu
 0127,Vision Plus.pu
 0315,Canal Infantil.pu
 0401,TNT SP Prem.pu
@@ -375,10 +388,14 @@ TV.Chile.cl,TV Chile.cl
 0443,ECDF.pu
 0528,OLD Music.pu
 0535,VM Latino.pu
+0541,Telenostalgia Music.pu
 0605,Love Nature.pu
 0619,AMC Series.pu
 0639,Cristovision.pu
 0644,Novelisima.pu
+0647,Telemundo PR.pu
+0838,Multipremier.pu
+0811,FX.pu
 0826,Cine Hispano.pu
 0827,Cine Premium.pu
 0831,Clover Ch.pu
@@ -386,6 +403,7 @@ TV.Chile.cl,TV Chile.cl
 0867,Dpelicula Clasico.pu
 0904,LN+.pu
 0920,Encuentro.pu
+0935,America TV Arg.pu
 América Televisión Perú,America Perú.pe
 ATV,ATV.ga
 ATV+.(ATV+).pe,ATV+.pe
@@ -429,6 +447,9 @@ TV Pública,TV Pública AR.mi
 0915,El Trece AR.pu
 0934,Cronica AR.pu
 0648,Garage Tv.pu
+0907,Multivision Arg.pu
+0936,Ciud Magazine.pu
+0939,Net TV.pu
 Encuentro,Encuentro AR.mi
 FOX Sports 2,FOX Sports 2 Ar.mi
 0643,Hispan TV.pu
@@ -448,6 +469,9 @@ KANAL D DRAMA,KANAL D UY.ns
 0114,REC TV CL.pu
 24 Horas,24 Horas CL.mi
 0108,UCV TV CL.pu
+0110,TVR CL.pu
+0133,Canal 2 San Ant.pu
+0138,Tevex.pu
 CaliTV,CaliTV CO.mi
 Canal.13.de.Colombia.(Trece).sv,Canal 13 CO.sv
 Telemicro,Telemicro DO.mi
