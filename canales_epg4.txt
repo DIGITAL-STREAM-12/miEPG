@@ -113,27 +113,27 @@ YOUTUBE.KIDS.co,YOUTUBE KIDS,http://media.gvp.telefonica.com/storagearea0/IMAGES
 RCN.HDTV.2.(RCNHD2).co,RCN HDTV 2 (RCNHD2),
 Portal.DIRECTV.Sports(DTVS).co,Portal DIRECTV Sports(DTVS),
 DSPORTS.(COL).(DTSC).co,DSPORTS (COL) (DTSC),
-DSPORTS.2.(DTS2).co,DSPORTS 2 (DTS2),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png
-DSPORTS.+(DTS+).co,DSPORTS +(DTS+),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/613.png
+DSPORTS.2.(DTS2).co,DSPORTS 2 (DTS2),
+DSPORTS.+(DTS+).co,DSPORTS +(DTS+),
 DSports.Motor(DSPM).co,DSports Motor(DSPM),
-DIRECTV.Sports.5(DTS6).co,DIRECTV Sports 5(DTS6),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/616.png
-DIRECTV.SPORTS(DTS7).co,DIRECTV SPORTS(DTS7),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/618.png
+DIRECTV.Sports.5(DTS6).co,DIRECTV Sports 5(DTS6),
+DIRECTV.SPORTS(DTS7).co,DIRECTV SPORTS(DTS7),
 DIRECTV.SPORTS(DTS9).co,DIRECTV SPORTS(DTS9),
-DSPORTS.Fight(DTSF).co,DSPORTS Fight(DTSF),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/615.png
-TyC.Sports.International(TYCS).co,TyC Sports International(TYCS),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/629.png
-Win.Sports.(WIN).co,Win Sports (WIN),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/633.png
-Win.Sports.Premium(Win+).co,Win Sports Premium(Win+),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/634.png
-DSPORTS.Radio(DTSR).co,DSPORTS Radio(DTSR),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/901.png
-FOX.Sports.2.HD(FSP2HD).co,FOX Sports 2 HD(FSP2HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1627.png
-FOX.Sports.3.HD(FXS3HD).co,FOX Sports 3 HD(FXS3HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1626.png
+DSPORTS.Fight(DTSF).co,DSPORTS Fight(DTSF),
+TyC.Sports.International(TYCS).co,TyC Sports International(TYCS),
+Win.Sports.(WIN).co,Win Sports (WIN),
+Win.Sports.Premium(Win+).co,Win Sports Premium(Win+),
+DSPORTS.Radio(DTSR).co,DSPORTS Radio(DTSR),
+FOX.Sports.2.HD(FSP2HD).co,FOX Sports 2 HD(FSP2HD),
+FOX.Sports.3.HD(FXS3HD).co,FOX Sports 3 HD(FXS3HD),
 DSPORTS.HD.(COL)(DTSCHD).co,DSPORTS HD (COL)(DTSCHD),
-DSPORTS.2.HD(DTV2HD).co,DSPORTS 2 HD(DTV2HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1612.png
-DSPORTS.+.HD(DTS+HD).co,DSPORTS + HD(DTS+HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1613.png
+DSPORTS.2.HD(DTV2HD).co,DSPORTS 2 HD(DTV2HD),
+DSPORTS.+.HD(DTS+HD).co,DSPORTS + HD(DTS+HD),
 DSports.Motor(DSPMHD).co,DSports Motor(DSPMHD),
-DIRECTV.SPORTS.HD(DTVSHD).co,DIRECTV SPORTS HD(DTVSHD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1618.png
+DIRECTV.SPORTS.HD(DTVSHD).co,DIRECTV SPORTS HD(DTVSHD),
 DIRECTV.SPORTS.HD(DTSHD9).co,DIRECTV SPORTS HD(DTSHD9),
-DSPORTS.Fight(DTSFHD).co,DSPORTS Fight(DTSFHD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1615.png
-DSports.Radio(DTSR).co,DSports Radio(DTSR),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1631.png
-Win.Sports.HD.(COL)(WINHD).co,Win Sports HD (COL)(WINHD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1633.png
-Win.Sports.Premium.HD(Win+HD).co,Win Sports Premium HD(Win+HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1634.png
-PX.Sports.HD(PXSHD).co,PX Sports HD(PXSHD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1639.png
+DSPORTS.Fight(DTSFHD).co,DSPORTS Fight(DTSFHD),
+DSports.Radio(DTSR).co,DSports Radio(DTSR),
+Win.Sports.HD.(COL)(WINHD).co,Win Sports HD (COL)(WINHD),
+Win.Sports.Premium.HD(Win+HD).co,Win Sports Premium HD(Win+HD),
+PX.Sports.HD(PXSHD).co,PX Sports HD(PXSHD),
