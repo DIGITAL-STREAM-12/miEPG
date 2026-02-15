@@ -370,6 +370,7 @@ TV.Chile.cl,TV Chile.cl
 0117,TVN3.pu
 0301,NTV.pu
 0302,ETC TV.pu
+0122,13 Entretencion.pu
 0160,13 Realities.pu
 0161,13 Cultura.pu
 0162,13 Pop.pu
