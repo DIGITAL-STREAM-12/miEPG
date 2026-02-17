@@ -99,7 +99,7 @@ DISNEY.HD..uy,DISNEY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4
 DISNEY.JR..uy,DISNEY JR,
 DISNEY.JR.HD.uy,DISNEY JR HD,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
 DISNEY.uy,DISNEY,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
-DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
+DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,
 DW.ESPAÑOL.HD.uy,DW ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,EL GOURMET,
 EL.GOURMET.HD..uy,EL GOURMET HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
