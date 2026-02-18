@@ -26,7 +26,6 @@
 608049aefa2b8ae93c2c3a63-691d5ab9a6537ef50c36bae7,FreeTV Sureño,https://provider-static.plex.tv/epg/cms/production/6caa6f16-4648-435d-a15c-e03b036452b1/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo.png
 608049aefa2b8ae93c2c3a63-6018913fa15130002b284197,FreeTV Sureño,https://provider-static.plex.tv/epg/cms/production/cc2b79be-49b6-49b0-95dc-be39ab298aca/FreeTVSureno_Circle_1500x1000_-_Ralph_Campillo__1_.png
 608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5811,Autopista al Cielo,https://provider-static.plex.tv/epg/cms/production/68950c80-d981-457f-89f9-d51fc2bcab02/Plex_FilmRise_AutopistaAlCielo_Color_Logo.png
-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/3ba44061-6107-4daf-a266-8b936c071394/Plex_FilmRise_SeriesGratis_Color_Logo.png
 608049aefa2b8ae93c2c3a63-686464b519cc2e163e38d165,Cine Friki Latino,https://provider-static.plex.tv/epg/cms/production/72b4d5ba-f30d-4ed1-8414-92f8f47dbe7d/Lfrikiight_Logo_RDX.png
 608049aefa2b8ae93c2c3a63-65b1568052aa31b8f64da064,C4 en Alerta,https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png
 608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo - Películas Del Oeste,https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png
@@ -53,6 +52,7 @@
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/2e25f920-f26d-4a96-ab45-e858830b2b33/FreeTV_Live.png
+608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/3ba44061-6107-4daf-a266-8b936c071394/Plex_FilmRise_SeriesGratis_Color_Logo.png
 608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b,Cine de Horror,https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
 608049aefa2b8ae93c2c3a63-66ccb35278822c7edc4b6e01,Naturaleza Salvaje,https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png

@@ -21,7 +21,7 @@ ANIMAL.PLANET..uy,ANIMAL PLANET,
 ANIMAL.PLANET.HD..uy,ANIMAL PLANET HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4605.svg
 ANIMAL.PLANET.HD.uy,ANIMAL PLANET HD,https://www.reportv.com.ar/buscador/img/Logos/9181931.jpg
 ANTENA3.HD..uy,ANTENA3 HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4256.svg
-ASPEN.uy,ASPEN,https://www.reportv.com.ar/buscador/img/Logos/36775420.jpg
+ASPEN.uy,ASPEN,
 ATRESERIES..uy,ATRESERIES,http://resources.nuevosiglo.com.uy/reportv/img/senales/3149.svg
 AXN..uy,AXN,
 AXN.HD..uy,AXN HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1862.svg
@@ -143,7 +143,7 @@ FILM.and.ARTS.HD.uy,FILM and ARTS HD,https://www.reportv.com.ar/buscador/img/Log
 FOOD.NETWORK..uy,FOOD NETWORK,
 FOOD.NETWORK.HD.uy,FOOD NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
 FRANCE.24..uy,FRANCE 24,
-FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
+FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,
 FRANCE.24.INGLES.HD.uy,FRANCE 24 INGLES HD,
 FX..uy,FX,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,FX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
