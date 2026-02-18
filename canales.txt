@@ -352,7 +352,7 @@ Canal.RTS.ec,RTS.ec
 Canal.TC.Televisión.ec,TC.Televisión.ec
 Teleamazonas,Teleamazonas.ga
 Canal.13.de.Chile.cl,13 de Chile.cl
-0147,24 Horas CL.pu
+0201,24 Horas CL.pu
 0204,Telesur Noti.pu
 0208,Meganoticias CL.pu
 0159,Puranoticia.pu
@@ -387,7 +387,8 @@ TV.Chile.cl,TV Chile.cl
 0432,Dsports2.pu
 0442,AzDeportes.pu
 0443,ECDF.pu
-0528,OLD Music.pu
+0508,Zoomback TV.pu
+0509,OLD Music.pu
 0535,VM Latino.pu
 0541,Telenostalgia Music.pu
 0605,Love Nature.pu
