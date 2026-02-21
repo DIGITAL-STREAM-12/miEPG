@@ -33,7 +33,7 @@ BLOOMBERG.HD.uy,BLOOMBERG HD,
 C5N..uy,C5N,http://resources.nuevosiglo.com.uy/reportv/img/senales/709.svg
 CAMPO.RURAL.TV.HD..uy,CAMPO RURAL TV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8222.svg
 CANAL.10.HD.uy,CANAL 10 HD,
-CANAL.11.HD.uy,CANAL 11 HD,
+CANAL.11.HD.uy,CANAL 11 HD,https://www.reportv.com.ar/buscador/img/Logos/1901907.jpg
 CANAL.12.HD.uy,CANAL 12 HD,
 CANAL.24.HS..uy,CANAL 24 HS,http://resources.nuevosiglo.com.uy/reportv/img/senales/281.svg
 CANAL.24.HS.uy,CANAL 24 HS,https://www.reportv.com.ar/buscador/img/Logos/3061075.jpg
@@ -287,7 +287,7 @@ TV.NACIONAL.HD.uy,TV NACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/5
 TV.PUBLICA.uy,TV PUBLICA,https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg
 TVE..uy,TVE,
 TVE.HD..uy,TVE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3181.svg
-TVE.HD.uy,TVE HD,
+TVE.HD.uy,TVE HD,https://www.reportv.com.ar/buscador/img/Logos/1901625.jpg
 TVN.CHILE..uy,TVN CHILE,
 TVN.CHILE.HD.uy,TVN CHILE HD,
 TYC.SPORTS..uy,TYC SPORTS,
