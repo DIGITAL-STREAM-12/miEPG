@@ -87,6 +87,10 @@
 0182,AE Radio,
 0183,Agricultura TV,
 0184,Canal 15 TV,
+0185,Romántica TV,
+0186,La Nuestra Radio Streaming,
+0187,Radio Hoy,
+0188,Radio Infinita,
 0201,Canal 24 Horas,https://i.ibb.co/pjQGqLxf/0201.jpg
 0202,CNN Chile,https://i.ibb.co/PvtbwMTV/0202.jpg
 0203,BíoBío TV,https://i.ibb.co/DftY9jKN/0203.jpg
@@ -264,7 +268,7 @@
 0536,Carolina TV,https://i.ibb.co/mYFF2kh/0536.jpg
 0537,Carolina TV 2,https://i.ibb.co/Z6VrvXyc/0537.jpg
 0538,Claro Música Sin Límites,https://i.ibb.co/1GsJD9j5/0538.jpg
-0539,Claro Música Lado B,https://i.ibb.co/394LYYYJ/0539.jpg
+0539,OH! Jazz,https://i.ibb.co/394LYYYJ/0539.jpg
 0540,Rumba TV,https://i.ibb.co/mFhyn1fY/0540.jpg
 0541,Telenostalgia,https://i.ibb.co/qYbJJ55v/0541.jpg
 0542,TierraMia,https://i.ibb.co/3mW21hZY/0542.jpg
@@ -355,7 +359,7 @@
 0713,13 Cocina,https://i.ibb.co/n5C8z3f/0713.jpg
 0714,13 Deportes,https://i.ibb.co/YByfGcJw/0714.jpg
 0715,INTI,https://i.ibb.co/dwznwCkD/temp-inti.jpg
-0716,CH0716,https://i.ibb.co/vCZ7TtNj/0716.jpg
+0716,Teatrix,https://i.ibb.co/vCZ7TtNj/0716.jpg
 0801,Star Channel • Feed 1,https://i.ibb.co/60W0dCdh/0801.jpg
 1801,Star Channel • Feed 2,https://i.ibb.co/60W0dCdh/1801.jpg
 2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
