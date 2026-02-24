@@ -1,5 +1,5 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz
-+TELEVISIÓN.HD.uy,+TELEVISIÓN HD,https://www.reportv.com.ar/buscador/img/Logos/10174471.jpg
++TELEVISIÓN.HD.uy,+TELEVISIÓN HD,
 26.TV.HD..uy,26 TV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2433.svg
 26.TV.uy,26 TV,https://www.reportv.com.ar/buscador/img/Logos/19598961.jpg
 A&amp;E.MUNDO..uy,A&amp;E MUNDO,http://resources.nuevosiglo.com.uy/reportv/img/senales/167.svg
@@ -41,7 +41,7 @@ CANAL.33.uy,CANAL 33,
 CANAL.4.MONTECARLO..uy,CANAL 4 MONTECARLO,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
 CANAL.5..uy,CANAL 5,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
 CANAL.7.HD.uy,CANAL 7 HD,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
-CANAL.A.HD.uy,CANAL A HD,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
+CANAL.A.HD.uy,CANAL A HD,
 CANAL.EVENTOS.1001.uy,CANAL EVENTOS 1001,
 CANAL.EVENTOS.32.uy,CANAL EVENTOS 32,
 CANAL.LUZ.uy,CANAL LUZ,
@@ -64,7 +64,7 @@ CIUDAD.MAGAZINE..uy,CIUDAD MAGAZINE,http://resources.nuevosiglo.com.uy/reportv/i
 CIUDAD.MAGAZINE.HD..uy,CIUDAD MAGAZINE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3915.svg
 CLAROSPORTS..uy,CLAROSPORTS,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
 CNN.EN.ESPAÑOL..uy,CNN EN ESPAÑOL,
-CNN.EN.ESPAÑOL.HD.uy,CNN EN ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/1901376.jpg
+CNN.EN.ESPAÑOL.HD.uy,CNN EN ESPAÑOL HD,
 CNN.HD.uy,CNN HD,https://www.reportv.com.ar/buscador/img/Logos/1901358.jpg
 COMEDY.CENTRAL.HD.uy,COMEDY CENTRAL HD,https://www.reportv.com.ar/buscador/img/Logos/9245617.jpg
 CONCERT.CHANNEL.HD.uy,CONCERT CHANNEL HD,
@@ -99,7 +99,7 @@ DISNEY.HD..uy,DISNEY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4
 DISNEY.JR..uy,DISNEY JR,
 DISNEY.JR.HD.uy,DISNEY JR HD,https://www.reportv.com.ar/buscador/img/Logos/40184726.jpg
 DISNEY.uy,DISNEY,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
-DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
+DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,
 DW.ESPAÑOL.HD.uy,DW ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,EL GOURMET,
 EL.GOURMET.HD..uy,EL GOURMET HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3244.svg
@@ -143,8 +143,8 @@ FILM.and.ARTS.HD.uy,FILM and ARTS HD,https://www.reportv.com.ar/buscador/img/Log
 FOOD.NETWORK..uy,FOOD NETWORK,
 FOOD.NETWORK.HD.uy,FOOD NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/14264866.jpg
 FRANCE.24..uy,FRANCE 24,
-FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8091548.jpg
-FRANCE.24.INGLES.HD.uy,FRANCE 24 INGLES HD,https://www.reportv.com.ar/buscador/img/Logos/1901387.jpg
+FRANCE.24.ESPAÑOL.HD.uy,FRANCE 24 ESPAÑOL HD,
+FRANCE.24.INGLES.HD.uy,FRANCE 24 INGLES HD,
 FX..uy,FX,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,FX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
 FX.uy,FX,https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg
@@ -189,7 +189,7 @@ HOME.AND.HEALTH.HD..uy,HOME AND HEALTH HD,http://resources.nuevosiglo.com.uy/rep
 HTV.uy,HTV,https://www.reportv.com.ar/buscador/img/Logos/1901397.jpg
 KANAL.D.DRAMA..uy,KANAL D DRAMA,http://resources.nuevosiglo.com.uy/reportv/img/senales/4694.svg
 KANAL.D.HD.uy,KANAL D HD,https://www.reportv.com.ar/buscador/img/Logos/8373892.jpg
-LA.NACION.HD.uy,LA NACION HD,https://www.reportv.com.ar/buscador/img/Logos/2804005.jpg
+LA.NACION.HD.uy,LA NACION HD,
 LA.RED.uy,LA RED,https://www.reportv.com.ar/buscador/img/Logos/12045151.jpg
 LAS.ESTRELLAS.HD..uy,LAS ESTRELLAS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2235.svg
 LAS.ESTRELLAS.HD.uy,LAS ESTRELLAS HD,https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg
