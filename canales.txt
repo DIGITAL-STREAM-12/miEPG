@@ -401,6 +401,7 @@ TV.Chile.cl,TV Chile.cl
 0826,Cine Hispano.pu
 0827,Cine Premium.pu
 0831,Clover Ch.pu
+0846,Cinecanal.pu
 0853,FMH Family.pu
 0867,Dpelicula Clasico.pu
 0904,LN+.pu
