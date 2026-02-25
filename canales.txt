@@ -296,12 +296,9 @@ FOX SPORTS 3 AR,Fox Sports 3 Sur.ms
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
-DSPORTS.(ARG).dtvsp,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
-DSPORTS.2.HD.dtvsp,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
-DSPORTS.+.HD.dtvsp,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
-DSPORTS,DSPORTS 720,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
-DSPORTS 2,DSPORTS 2 720
-DSPORTS+,DSPORTS+ 720
+0431,Dsports,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
+0432,Dsports 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
+0433,Dsports +,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
 Canal.TyC.Sports.ar,TyC Sports.ar
 Sky.Sports.24.mx,Sky Sports 24.mx
 Azteca Deportes,Azteca Deportes.ms
@@ -358,6 +355,7 @@ Canal.13.de.Chile.cl,13 de Chile.cl
 0159,Puranoticia.pu
 Canal.Chilevisión.(CHV).cl,Chilevision.cl
 0202,CNN Chile.pu
+0214,T13.pu
 0215,CNN Int.pu
 Canal.La.Red.(Chile).cl,La Red CH.cl
 Canal.Mega.(Chile).cl,Mega Chile.cl
