@@ -146,7 +146,6 @@
 643054b1fc3be59477853717-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
 643054b1fc3be59477853717-674f6a6cf44561420465f9f3,Animation+,https://provider-static.plex.tv/epg/cms/production/d3f6d54b-64cf-44ed-a960-2feb1c4b05c7/US_STVP_AnimationPlus_logo_Color_1500x1000_-_Kai_Schneider.png
 643054b1fc3be59477853717-69011e71d320237a5a2d9f63,INTER 24/7,https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png
-643054b1fc3be59477853717-5ef11487d33ab9004048a1d6,Popstar! TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSTAR TV_logo_dark_v4.png
 643054b1fc3be59477853717-68caada21fabab6eb2e99331,Bassmaster,https://provider-static.plex.tv/epg/cms/production/f6d14e42-d9be-4f81-893f-cb676d32c473/BassmasterChannel_DarkBackground_-_Will_Flowers.png
 643054b1fc3be59477853717-614e286b2bac097ffd6fd6ab,Documentary+,https://provider-static.plex.tv/epg/cms/production/24df67bc-967c-4662-a975-6f54c9c0657a/documentaryplus_logo_dark_1_WHT.png
 643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82,The Boat Show,https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png
@@ -182,7 +181,6 @@
 643054b1fc3be59477853717-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
 643054b1fc3be59477853717-635c61cc797a33fa4193cc93,Cosmic Frontiers,https://provider-static.plex.tv/epg/cms/production/a514ca78-cb8d-4c2f-9d21-cdb8e6ed8197/Plex_CosmicFrontiers__Logo_DarkBackground_.png
 643054b1fc3be59477853717-65b80306e5cf85050598aba4,Made It Myself TV,https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png
-643054b1fc3be59477853717-678287e75fe5e4eb1e030c65,Zee BollyWorld,https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png
 643054b1fc3be59477853717-685f27cca7111a932d28f1ae,Asian Drama,https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png
 643054b1fc3be59477853717-62167144ab2095ca85353ad6,CINEPRIDE,https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png
 643054b1fc3be59477853717-5eea605474085f0040ddc76d,Glewed TV,https://provider-static.plex.tv/epg/cms/production/d6025660-0b4a-4851-a805-4c61545642f9/glewed-tv.png

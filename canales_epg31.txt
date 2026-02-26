@@ -108,6 +108,7 @@
 608049aefa2b8ae93c2c3a63-66be944f8711311880995280,Action Hollywood Movies,https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png
 608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
 608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade en Español,https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png
+608049aefa2b8ae93c2c3a63-6995ef6821d3ea5c24827b1b,Homeful,https://provider-static.plex.tv/epg/cms/production/dd243471-e956-4dec-a099-2f3351e1bf3a/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones__1_.png
 608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
 608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
 608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2,FUEL TV,https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png
@@ -214,7 +215,6 @@
 608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
 608049aefa2b8ae93c2c3a63-66fd3e25216b603e031725fe,ZenLIFE by Stingray,https://provider-static.plex.tv/epg/cms/production/6e254786-1243-462b-bf6c-75d21b68582d/10423_ZL_Plex_Launch-assets_Channel-Logo_1500x1000_V01-White_-_Sacha_Portaria.png
 608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607,USA TODAY,https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png
-608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d6,Popstar! TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/POPSTAR TV_logo_dark_v4.png
 608049aefa2b8ae93c2c3a63-62167144ab2095ca85353ad6,CINEPRIDE,https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png
 608049aefa2b8ae93c2c3a63-60089d90f682a3002c348299,Euronews,https://provider-static.plex.tv/epg/cms/production/f0a48729-6f08-43e4-9cc4-44ba472281de/Marc_Faron_-_Wurl_Plex_assets_Channel-logo-white3x2_ENrdx.png
 608049aefa2b8ae93c2c3a63-6112a9139894c8002c6cb87f,More U,https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png
@@ -241,7 +241,6 @@
 608049aefa2b8ae93c2c3a63-67884bd6d37f2fd48d6220db,Creator Television,https://provider-static.plex.tv/epg/cms/production/f33d90dc-14d4-4034-8959-30dac5ed085c/CTV-WHITE_PINK_4RDXx.png
 608049aefa2b8ae93c2c3a63-60e737a4ebef9d002c4d0a0c,AfroLandTV,https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png
 608049aefa2b8ae93c2c3a63-6750ddfe89fc497ec780f5bd,Zee Mundo,https://provider-static.plex.tv/epg/cms/production/ac57648e-8db5-4430-a0fc-b6d7ecb2c92f/ZEE-MUNDO_WHT.png
-608049aefa2b8ae93c2c3a63-678287e75fe5e4eb1e030c65,Zee BollyWorld,https://provider-static.plex.tv/epg/cms/production/fbe45dbe-fbb4-4055-85cd-2f029df61dbb/1500X1000-PNG-_Logo-suitable-for-dark-backgrounds__-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-68e9436dda6bb987138625c7,Metal.Rocks,https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png
 608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615,Music Legends,https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png
 608049aefa2b8ae93c2c3a63-66be8cd4871131188099527e,TRACE UK,https://provider-static.plex.tv/epg/cms/production/23feecc3-94f6-49b7-98e6-1828f42695ea/1500X1000_PNG_w_transparent_background__Logo_suitable_for_dark_backgrounds__-_Pierre_Gournay.png
