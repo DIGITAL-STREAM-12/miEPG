@@ -121,7 +121,7 @@
 608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0,Aym Sports TV,https://provider-static.plex.tv/epg/cms/production/94b95e02-4cd5-4739-bb43-cd2a26158a85/aym_sports_logo_light_-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-5ef11485d33ab9004048a1ca,SportsGrid,https://provider-static.plex.tv/epg/cms/production/ed88a8cc-a1f4-445a-a2bc-9fbb4c7104de/SG-LIVE-WHITE-ON-ALPHA-1500x1000.png
 608049aefa2b8ae93c2c3a63-6582a1316b91be4547aa153c,Hot Ones,https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png
-608049aefa2b8ae93c2c3a63-684c2379e32026b0c1f53793,Million Dollar Dream Home,https://provider-static.plex.tv/epg/cms/production/d80bb192-dcc3-4ab1-8af0-97ad7efcb098/MDDH_WHITE_-_Principal_MediaRDX.png
+608049aefa2b8ae93c2c3a63-684c2379e32026b0c1f53793,Million Dollar Dream Home,https://provider-static.plex.tv/epg/cms/production/305dc437-2a99-4e98-a872-08ae23e102f6/MDDH_WHITE_-_Principal_MediaRDX__1_.png
 608049aefa2b8ae93c2c3a63-664292a80e0ec7b4ce5eb28c,Startalk TV,https://provider-static.plex.tv/epg/cms/production/073a7f1a-45ff-44a7-8b6b-4721a0eb01f9/StarTalk_Tv_Logo_Resize_PLEX_1500x1000_LOGO_DarkBG_Color_-_RDX.png
 608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141123,Johnny Carson TV,https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png
 608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125,The Carol Burnett Show,https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png
@@ -151,7 +151,7 @@
 608049aefa2b8ae93c2c3a63-688b7f47c8caf40b4a62239f,Newsmax en Español,https://provider-static.plex.tv/epg/cms/production/25db4f88-c689-4bf8-811b-603fb762d4fb/003_WHITE_NEWSMAX_EN_ESPANOL.png
 608049aefa2b8ae93c2c3a63-686462bf1a2f321847ec0395,Comercio TV,https://provider-static.plex.tv/epg/cms/production/f13dd872-9888-4a98-953b-2d2cf306d69a/comercioDark_Logo__1_.png
 608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4,Made It Myself TV,https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png
-608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c,Billiard TV,https://provider-static.plex.tv/epg/cms/production/d413e5e7-6a1a-4539-8c84-1bf57faee1a3/Plex_billiard__1500x1000__color_rdxfds.png
+608049aefa2b8ae93c2c3a63-6334a8e48a7b2a349d903b8c,Billiard TV,https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png
 608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993,Dude Perfect,https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png
 608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518,Bloomberg Originals,https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png
 608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8,Galxy TV,https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png
