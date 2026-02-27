@@ -274,14 +274,18 @@ ESPN.4.co,ESPN 4.co
 ESPN.5.co,ESPN 5.co
 ESPN.6.HD.co,ESPN 6.co
 ESPN.7.HD.co,ESPN 7.co
+3411,Espn Colom.pu
 Canal.ESPN.(Chile).cl,ESPN Chile.cl
 Canal.ESPN.(Argentina).ar,ESPN Arg.ar
 Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
+4412,ESPN 2 Norte.pu
+0413,ESPN 3 Norte.pu
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
+2415,ESPN 5 Norte.pu
 Canal.ESPN.5.(Centroamérica.y.República.Dominicana).sv,ESPN 5 Centroamérica.sv
 Canal.ESPN.6.(Centroamérica.y.República.Dominicana).sv,ESPN 6 Centroamérica.sv
 Canal.ESPN.Premium.(Chile).sv,ESPN Premium.sv
