@@ -488,6 +488,13 @@ Canal 7 - Televisiete,Canal 7 GT.mi
 Televen,Televen VE.mi
 0628,Bethel PE.pu
 Canal.Pakapaka.ar,Pakapaka.ar
+CANAL.4.MONTECARLO..uy,Canal 4.uy
+CANAL.10.HD.uy,Canal 10.uy
+CANAL.11.HD.uy,Canal 11.uy
+CANAL.12.HD.uy,Canal 12.uy
+TV.CIUDAD.HD..uy,TV Ciudad.uy
+VTV.HD.uy,VTV.uy
+VTV+.HD.uy,VTV+.uy
 5dcde437229eff00091b6c30,Pluto TV Cine Estelar.mx
 5dcb62e63d4d8f0009f36881,Pluto TV Cine Acción.mx
 5e972a21ad709d00074195ba,Estrellas de Acción.mx
