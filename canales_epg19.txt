@@ -546,6 +546,8 @@
 0965,CH00965,https://i.ibb.co/vCZ7TtNj/0965.jpg
 0966,CH00966,https://i.ibb.co/vCZ7TtNj/0966.jpg
 0967,CH00967,https://i.ibb.co/vCZ7TtNj/0967.jpg
+0968,CH00968,
+0969,CH00969,
 XXX0,Canal para adultos • Portal adultos,https://i.ibb.co/d4wmsb43/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://i.ibb.co/fGZ0sYcz/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://i.ibb.co/RnZr2bk/XXX2.jpg
