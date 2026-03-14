@@ -281,7 +281,7 @@ Canal.ESPN.(Costa.Rica).cr,Espn Norte.cr
 Canal.ESPN.(Norte).sv,ESPN Norte.sv
 Canal.ESPN.2.(Norte).sv,ESPN 2 Norte.sv
 4412,ESPN 2 Norte.pu
-0413,ESPN 3 Norte.pu
+1413,ESPN 3 Norte.pu
 Canal.ESPN.3.(Norte).sv,ESPN 3 Norte.sv
 Canal.ESPN.3.(República.Dominicana).dk,ESPN 3 Norte.do
 Canal.ESPN.4.(Centroamérica.y.Caribe).sv,ESPN 4 Centroamérica.sv
@@ -294,9 +294,9 @@ ESPN.Deportes.HD.us2,Espn Deportes.us
 Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
-Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNB2l7S7C0IokqAMit3hmv5tmlfTdu7fq1Q&s
-FOX SPORTS 2 AR,Fox Sports 2 Sur.ms,https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/330px-Fox_Sports_2_Argentina_2023.svg.png?20230208172702
-FOX SPORTS 3 AR,Fox Sports 3 Sur.ms
+Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://www.lyngsat.com/logo/tv/ff/fox-sports-argentina-us-ar.png
+FOX SPORTS 2 AR,Fox Sports 2 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
+FOX SPORTS 3 AR,Fox Sports 3 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
@@ -355,6 +355,7 @@ Teleamazonas,Teleamazonas.ga
 Canal.13.de.Chile.cl,13 de Chile.cl
 0201,24 Horas CL.pu
 0204,Telesur Noti.pu
+0207,CHV Noticias.pu
 0208,Meganoticias CL.pu
 0159,Puranoticia.pu
 Canal.Chilevisión.(CHV).cl,Chilevision.cl
@@ -382,6 +383,7 @@ TV.Chile.cl,TV Chile.cl
 0713,13 Cocina.pu
 0714,13 deportes.pu
 0127,Vision Plus.pu
+0178,Decima TV.pu
 0315,Canal Infantil.pu
 0401,TNT SP Prem.pu
 4411,Espn Norte.pu,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17725_dark_360w_270h.png
