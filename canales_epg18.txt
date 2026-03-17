@@ -1030,7 +1030,7 @@ I578.38944.schedulesdirect.org,Playboy TV Latin America,https://schedulesdirect-
 I586.38944.schedulesdirect.org,Playboy TV Latin America,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38944_dark_360w_270h.png
 I600.94102.schedulesdirect.org,Sports Mix US,
 I602.21345.schedulesdirect.org,TVG Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21345_dark_360w_270h.png
-I603.10188.schedulesdirect.org,Cowboy Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10188_dark_360w_270h.png
+I603.10188.schedulesdirect.org,Cowboy Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0030VTMT.png_dark_360w_270h.png
 I604.60111.schedulesdirect.org,Pursuit Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60111_dark_360w_270h.png
 I605.33930.schedulesdirect.org,Sportsman Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png
 I606.14776.schedulesdirect.org,Outdoor Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png

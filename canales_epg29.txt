@@ -130,6 +130,7 @@
 609ae5cd48d3200007b0a98e,Comedy Central South Park,https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png
 62d0895ebe7a970008785244,Daria,https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png
 62d08af527ce19000731eaa0,La Familia del Barrio,https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png
+699763d184235f26d5056002,Enchufe.TV,https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG_1773231206751.png
 5e8397936791b30007ebb5a7,Pluto TV Humor,https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png
 5ffcc21a432945000762d06b,Comedy Central Pluto TV,https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png
 5ebaccf1734aaf0007142c86,FailArmy,https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png
