@@ -39,6 +39,7 @@
 608049aefa2b8ae93c2c3a63-66842f38cd6f1d394094115d,Runtime Romance,https://provider-static.plex.tv/epg/cms/production/854d9834-236a-40f6-9239-a9e6f0ab285c/Runtime_BR_Romance_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-66f6b947515e742745f5ca34,21 Jump Street,https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png
 608049aefa2b8ae93c2c3a63-67f82cc411e2a0ebf4b022d8,Los asesinatos de Midsomer,https://provider-static.plex.tv/epg/cms/production/09eae207-0184-4fc6-b1f7-65f5568b9b11/FilmRise_LosAsesinatoesDeMidsomer_Channel_Logo_WhiteRDX.png
+608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/3ba44061-6107-4daf-a266-8b936c071394/Plex_FilmRise_SeriesGratis_Color_Logo.png
 608049aefa2b8ae93c2c3a63-639ba57d3f4612cc150a5723,Pitufo TV,https://provider-static.plex.tv/epg/cms/production/352d158b-9349-41a8-a273-af1eea090ce6/pitufotv_logo_dark_-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-65623e0eb7d737841f30a4ff,Cheaters en Español,https://provider-static.plex.tv/epg/cms/production/b0328822-b149-4524-ad89-1c87c2543268/FilmRise_CheatersEnEspanol_Logo_ColorRDX.png
 608049aefa2b8ae93c2c3a63-66f6b6baac1a1890ef197a4b,Hunter,https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png
@@ -52,7 +53,6 @@
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/2e25f920-f26d-4a96-ab45-e858830b2b33/FreeTV_Live.png
-608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/3ba44061-6107-4daf-a266-8b936c071394/Plex_FilmRise_SeriesGratis_Color_Logo.png
 608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b,Cine de Horror,https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png
 608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995,Todo Novelas,https://provider-static.plex.tv/epg/cms/production/0e0759ed-8180-46e7-8fe9-cbc7fa4afbf3/TODO_NOVELAS_-_Logo_1500x1000.png
 608049aefa2b8ae93c2c3a63-66ccb35278822c7edc4b6e01,Naturaleza Salvaje,https://provider-static.plex.tv/epg/cms/production/80f7a8a5-199f-43a8-a4e7-c678df5efd7f/Plex_NatSalv_Logo_Light.png
@@ -128,6 +128,8 @@
 608049aefa2b8ae93c2c3a63-60d4edd6b2fdec002c141125,The Carol Burnett Show,https://provider-static.plex.tv/epg/images/ott_channels/logos/carolburnett_logo_dark.png
 608049aefa2b8ae93c2c3a63-6449369eb3ff17382cae5801,Dick Van Dyke,https://provider-static.plex.tv/epg/cms/production/03fe73df-6585-49b7-bdd5-5ea605c4086f/FilmRise_DickVanDykeShow_Logo_Color.png
 608049aefa2b8ae93c2c3a63-640205c68ecb41f2d89d5814,The Ed Sullivan Show,https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0d7687fcfd8b218d2c4f0a9337b7a68f.png
+608049aefa2b8ae93c2c3a63-68645f7c1a2f321847ec0393,Wineman,https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png
+608049aefa2b8ae93c2c3a63-69a524507c245b3390e8a4dc,Nature Moments,https://provider-static.plex.tv/epg/cms/production/329d0ebe-0fba-4165-b92a-2bf8dfe3d722/Nature_moments_WHT.png
 608049aefa2b8ae93c2c3a63-60d4edddb2fdec002c141135,WildEarth,https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png
 608049aefa2b8ae93c2c3a63-5ef11486d33ab9004048a1cd,Always Funny,https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png
 608049aefa2b8ae93c2c3a63-644b13a3a1c0a5b2024c8403,Strongman Champions,https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png
@@ -156,7 +158,6 @@
 608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993,Dude Perfect,https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png
 608049aefa2b8ae93c2c3a63-61d73c3ca7b7c7f703418518,Bloomberg Originals,https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png
 608049aefa2b8ae93c2c3a63-621672e42c2627c068e73ad8,Galxy TV,https://provider-static.plex.tv/epg/cms/production/dc452291-62d8-4f01-8e5b-b1fef79fb37d/GalxyTV_logo_dark.png
-608049aefa2b8ae93c2c3a63-68645f7c1a2f321847ec0393,Wineman,https://provider-static.plex.tv/epg/cms/production/9a15a24f-c9ae-40f1-b9e5-16a95f4b650c/Wineman_whiteRDX.png
 608049aefa2b8ae93c2c3a63-65e0c8c6d899afe817b9d224,Cricket Gold,https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png
 608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae877,Fight Network,https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png
 608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4,ÚN TV,https://provider-static.plex.tv/epg/cms/production/8b8f3c91-fb10-490f-addb-a2c74e0d4041/CONDISTA-UN_TV-1500X1000.png
