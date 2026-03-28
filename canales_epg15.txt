@@ -272,7 +272,7 @@ TNT..uy,TNT,
 TNT.HD..uy,TNT HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4054.svg
 TNT.HD.uy,TNT HD,
 TNT.NOVELAS..uy,TNT NOVELAS,http://resources.nuevosiglo.com.uy/reportv/img/senales/8200.svg
-TNT.NOVELAS.uy,TNT NOVELAS,
+TNT.NOVELAS.uy,TNT NOVELAS,https://www.reportv.com.ar/buscador/img/Logos/1948575507.jpg
 TNT.SERIES..uy,TNT SERIES,
 TNT.SERIES.HD..uy,TNT SERIES HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3421.svg
 TNT.SERIES.HD.uy,TNT SERIES HD,
@@ -283,7 +283,7 @@ TV.5.uy,TV 5,https://www.reportv.com.ar/buscador/img/Logos/1949436887.jpg
 TV.CIUDAD..uy,TV CIUDAD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1290.svg
 TV.CIUDAD.HD..uy,TV CIUDAD HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4523.svg
 TV.GLOBO.HD..uy,TV GLOBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5222.svg
-TV.NACIONAL.HD.uy,TV NACIONAL HD,
+TV.NACIONAL.HD.uy,TV NACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/52772661.jpg
 TV.PUBLICA.uy,TV PUBLICA,https://www.reportv.com.ar/buscador/img/Logos/12929073.jpg
 TVE..uy,TVE,
 TVE.HD..uy,TVE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3181.svg
