@@ -171,24 +171,25 @@
 0410,Teletrak TV,https://i.ibb.co/NgxHNXks/0410.jpg
 0411,ESPN • Chile,https://i.ibb.co/Ts2DxY0/0411.jpg
 1411,ESPN • Argentina,https://i.ibb.co/Ts2DxY0/1411.jpg
-2411,ESPN • Perú,https://i.ibb.co/Ts2DxY0/2411.jpg
+2411,ESPN • Cono Sur,https://i.ibb.co/Ts2DxY0/2411.jpg
 3411,ESPN • Colombia,https://i.ibb.co/Ts2DxY0/3411.jpg
-4411,ESPN • Centroamérica y Caribe,https://i.ibb.co/Ts2DxY0/4411.jpg
+4411,ESPN • Centro,https://i.ibb.co/Ts2DxY0/4411.jpg
 5411,ESPN • México,https://i.ibb.co/Ts2DxY0/5411.jpg
 0412,ESPN 2 • Chile,https://i.ibb.co/TMpFPTcj/0412.jpg
 1412,ESPN 2 • Argentina,https://i.ibb.co/TMpFPTcj/1412.jpg
-2412,ESPN 2 • América Latina,https://i.ibb.co/TMpFPTcj/2412.jpg
+2412,ESPN 2 • Cono Sur,https://i.ibb.co/TMpFPTcj/2412.jpg
 3412,ESPN 2 • Colombia,https://i.ibb.co/TMpFPTcj/3412.jpg
-4412,ESPN 2 • Centroamérica y Caribe,https://i.ibb.co/TMpFPTcj/4412.jpg
+4412,ESPN 2 • Norte,https://i.ibb.co/TMpFPTcj/4412.jpg
 5412,ESPN 2 • México,https://i.ibb.co/TMpFPTcj/5412.jpg
-0413,ESPN 3 • América Latina,https://i.ibb.co/7dFHm7cM/0413.jpg
+0413,ESPN 3 • Cono Sur,https://i.ibb.co/7dFHm7cM/0413.jpg
 1413,ESPN 3 • Norte,https://i.ibb.co/7dFHm7cM/1413.jpg
 2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
-0414,ESPN 4 • América Latina,https://i.ibb.co/4gC4Sq5B/0414.jpg
+0414,ESPN 4 • Cono Sur,https://i.ibb.co/4gC4Sq5B/0414.jpg
 1414,ESPN 4 • México,https://i.ibb.co/4gC4Sq5B/1414.jpg
+2414,ESPN 4 • Centro,
 0415,ESPN 5 • Chile,https://i.ibb.co/ynRhShH9/0415.jpg
-1415,ESPN 5 • América Latina,https://i.ibb.co/ynRhShH9/1415.jpg
-2415,ESPN 5 • Centroamérica y Caribe,https://i.ibb.co/ynRhShH9/2415.jpg
+1415,ESPN 5 • Cono Sur,https://i.ibb.co/ynRhShH9/1415.jpg
+2415,ESPN 5 • Norte,https://i.ibb.co/ynRhShH9/2415.jpg
 0416,ESPN 6 • América Latina,https://i.ibb.co/jvYjkKm1/0416.jpg
 0417,ESPN 7 • América Latina,https://i.ibb.co/mFGmjNC8/0417.jpg
 0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
