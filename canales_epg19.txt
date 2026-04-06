@@ -48,7 +48,7 @@
 0144,Holvoet TV Copiapó,https://i.ibb.co/RpbkYv7x/0144.jpg
 0145,ITV Patagonia,https://i.ibb.co/2398QXvX/0145.jpg
 0146,Radio América TV La Serena,https://i.ibb.co/VpP35KX4/0146.jpg
-0147,STGO.TV,https://i.ibb.co/xSkQTdLY/0147.jpg
+0147,TV USACH,https://i.ibb.co/xSkQTdLY/0147.jpg
 0148,Telecanal Santa Cruz,https://i.ibb.co/6RsjHhPK/0148.jpg
 0149,Canal VTV Los Andes,https://i.ibb.co/wFGYwV6K/0149.jpg
 1149,Canal VTV Quillota,https://i.ibb.co/wFGYwV6K/1149.jpg
@@ -56,7 +56,7 @@
 0151,Calama TV,https://i.ibb.co/NdSCMR5Y/0151.jpg
 0152,TV Más 2,https://i.ibb.co/S4V8Hp83/0152.jpg
 0153,Canal 9 Bío-Bío Televisión,https://i.ibb.co/cX3vqyg1/0153.jpg
-0154,UATV,https://i.ibb.co/2B3151J/0154.jpg
+0154,CH0154,https://i.ibb.co/2B3151J/0154.jpg
 0155,Canal TVU,https://i.ibb.co/G3xftLph/0155.jpg
 0156,UESTV,https://i.ibb.co/gb1H66nv/0156.jpg
 0157,UTalca TV,https://i.ibb.co/PGYzBB96/0157.jpg
@@ -150,7 +150,7 @@
 1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0324,Cartoonito,https://i.ibb.co/zVbsHSfN/0324.jpg
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
-0326,TeenNick,https://i.ibb.co/sJwKCk4F/0326.jpg
+0326,CH0326,https://i.ibb.co/sJwKCk4F/0326.jpg
 0327,Kanade,https://i.ibb.co/WWzvjzjM/0327.jpg
 0328,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
 0329,Fix y Foxi,https://i.ibb.co/FqXcHkfD/0329.jpg
@@ -163,7 +163,7 @@
 0406,BeIN Sports Xtra Español,https://i.ibb.co/XfpJCw0f/0406.jpg
 0407,NBA TV • Feed 1,https://i.ibb.co/mCVpXVxZ/0407.jpg
 1407,NBA TV • Feed 2,https://i.ibb.co/mCVpXVxZ/1407.jpg
-0408,Gol TV,https://i.ibb.co/ZpYkVb1n/0408.jpg
+0408,CH0408,https://i.ibb.co/ZpYkVb1n/0408.jpg
 0409,TyC Sports • LATAM,https://i.ibb.co/hJDy0t87/0409.jpg
 1409,TyC Sports • Argentina,https://i.ibb.co/hJDy0t87/1409.jpg
 2409,TyC Sports 2,https://i.ibb.co/LXngWfdM/2409.jpg
@@ -225,7 +225,7 @@
 0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 1441,TUDN • Feed 2,https://i.ibb.co/TMqZ5MQ1/1441.jpg
 0442,Azteca Deportes • México,https://i.ibb.co/XkGhHgrN/0442.jpg
-0443,ECDF El Canal del Fútbol • Ecuador,https://i.ibb.co/Z1k71j8f/0443.jpg
+0443,CH0443,https://i.ibb.co/Z1k71j8f/0443.jpg
 0444,CH0444,https://i.ibb.co/vCZ7TtNj/0444.jpg
 0445,Tennis Channel • USA,https://i.ibb.co/G4pQ69cv/0445.jpg
 0446,Golf Channel • Latin America,https://i.ibb.co/FbSfZ4Z6/0446.jpg
