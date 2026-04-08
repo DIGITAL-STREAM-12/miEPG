@@ -464,9 +464,9 @@ I762.74162.schedulesdirect.org,VH1MGAH,https://schedulesdirect-api20141201-logos
 I763.72418.schedulesdirect.org,VH1MXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png
 I766.25615.schedulesdirect.org,Video Rola,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
 I767.88813.schedulesdirect.org,VROLAHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25615_dark_360w_270h.png
-I768.16213.schedulesdirect.org,Warner Channel US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png
-I769.98111.schedulesdirect.org,Warner Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png
-I770.80808.schedulesdirect.org,Warner LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16213_dark_360w_270h.png
+I768.16213.schedulesdirect.org,Warner Channel US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
+I769.98111.schedulesdirect.org,Warner Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
+I770.80808.schedulesdirect.org,Warner LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
 I771.111816.schedulesdirect.org,WIZLT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111815_dark_360w_270h.png
 I772.59014.schedulesdirect.org,WOBI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png
 I1000.118937.schedulesdirect.org,Claro Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png

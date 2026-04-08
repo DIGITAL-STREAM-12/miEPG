@@ -239,12 +239,10 @@
 0508,Telehit Música,https://i.ibb.co/FqyN3XHm/0508.jpg
 0509,Telehit Música Plus,https://i.ibb.co/3ydMKP8w/0509.jpg
 0510,Quiero Música en mi Idioma,https://i.ibb.co/gLG5ky5G/0510.jpg
-0511,MTV Live,https://i.ibb.co/v4G5zqFx/0511.jpg
-1511,MTV Live • USA,https://i.ibb.co/v4G5zqFx/1511.jpg
-0512,MTV Hits • Europa,https://i.ibb.co/RT6nJQc2/0512.jpg
-1512,MTV Hits • UK,https://i.ibb.co/RT6nJQc2/1512.jpg
-0513,MTV 00s,https://i.ibb.co/pjHpVNVJ/0513.jpg
-0514,MTV 80s,https://i.ibb.co/ZzRCPmSK/0514.jpg
+0511,MTV Live • USA,https://i.ibb.co/v4G5zqFx/0511.jpg
+0512,CH0512,https://i.ibb.co/RT6nJQc2/0512.jpg
+0513,CH0513,https://i.ibb.co/pjHpVNVJ/0513.jpg
+0514,CH0514,https://i.ibb.co/ZzRCPmSK/0514.jpg
 0515,Teleritmo,https://i.ibb.co/sdjZt2jg/0515.jpg
 0516,Bandamax,https://i.ibb.co/5xrDsx2Q/0516.jpg
 0517,Mi Música Hits,https://i.ibb.co/DPcy18tG/0517.jpg
@@ -253,9 +251,9 @@
 0520,Mi Música Popular,https://i.ibb.co/gHXqhDf/0520.jpg
 0521,Mi Música Reggaetón,https://i.ibb.co/HfX6fjDF/0521.jpg
 0522,Mi Música Salsa,https://i.ibb.co/PZqV0xhY/0522.jpg
-0523,Club MTV,https://i.ibb.co/3mCsHT5B/0523.jpg
-0524,NickMusic,https://i.ibb.co/3y1dPB4v/0524.jpg
-0525,MTV 90s,https://i.ibb.co/yc9GXTPR/0525.jpg
+0523,CH0523,https://i.ibb.co/3mCsHT5B/0523.jpg
+0524,CH0524,https://i.ibb.co/3y1dPB4v/0524.jpg
+0525,CH0525,https://i.ibb.co/yc9GXTPR/0525.jpg
 0526,Karavana TV,https://i.ibb.co/JWJ1pDvV/0526.jpg
 0527,Karavana Urbano,https://i.ibb.co/qFF6xsNM/0527.jpg
 0528,OLD Music,https://i.ibb.co/Tz1550x/0528.jpg
@@ -366,7 +364,7 @@
 2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
 3801,Star Channel • Feed 4,https://i.ibb.co/60W0dCdh/3801.jpg
 0802,Canal DHE,https://i.ibb.co/yn7Qr60C/0802.jpg
-0803,Paramount Network,https://i.ibb.co/DfNzQWJf/0803.jpg
+0803,CH0803,https://i.ibb.co/DfNzQWJf/0803.jpg
 0804,Universal TV • Feed 1,https://i.ibb.co/N2F312yf/0804.jpg
 1804,Universal TV • Feed 2,https://i.ibb.co/N2F312yf/1804.jpg
 0805,TNT • Feed 1,https://i.ibb.co/JFGJxhnJ/0805.jpg
@@ -549,6 +547,9 @@
 0967,CH00967,https://i.ibb.co/vCZ7TtNj/0967.jpg
 0968,CH00968,
 0969,CH00969,
+0970,CH00970,
+0971,CH00971,
+0972,CH00972,
 XXX0,Canal para adultos • Portal adultos,https://i.ibb.co/d4wmsb43/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://i.ibb.co/fGZ0sYcz/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://i.ibb.co/RnZr2bk/XXX2.jpg
