@@ -554,3 +554,5 @@ plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
 USBD2500022U5,Cine Retro.sam
 USBD2700005KL,Cine de Oro.sam
+ES2300005G7,Cine Western.sam
+USBD1700016X9,Zona TUDN.sam
