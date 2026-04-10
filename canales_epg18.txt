@@ -517,7 +517,6 @@ I321.21793.schedulesdirect.org,UK - Challenge,https://schedulesdirect-api2014120
 I326.117175.schedulesdirect.org,UK - Channel 4 Midlands,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117175_dark_360w_270h.png
 I329.117176.schedulesdirect.org,UK - Channel 4 North HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117176_dark_360w_270h.png
 I351.50717.schedulesdirect.org,UK - Channel 5,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50717_dark_360w_270h.png
-I372.117243.schedulesdirect.org,UK - CHSTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117243_dark_360w_270h.png
 I375.97304.schedulesdirect.org,UK - Clubland TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97304_dark_360w_270h.png
 I377.68892.schedulesdirect.org,UK - CNBC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFM71.png_dark_360w_270h.png
 I378.113145.schedulesdirect.org,UK - CNBC HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002NFJQ7.png_dark_360w_270h.png
@@ -660,7 +659,6 @@ I1287.57827.schedulesdirect.org,CBS Drama,https://schedulesdirect-api20141201-lo
 I1306.73129.schedulesdirect.org,UK - Dave,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73129_dark_360w_270h.png
 I1309.82575.schedulesdirect.org,Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82575_dark_360w_270h.png
 I1320.73128.schedulesdirect.org,UK - Watch,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73128_dark_360w_270h.png
-I1323.124948.schedulesdirect.org,Yesterday,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002JJBV3.png_dark_360w_270h.png
 I1337.68073.schedulesdirect.org,UK - UTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68073_dark_360w_270h.png
 I1702.46275.gracenote.com,Yes Network,https://zpmc.tmsimg.com/h3/NowShowing/46275/s46275_ll_h15_aa.png
 I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com/h3/NowShowing/50728/s50728_ll_h15_ac.png

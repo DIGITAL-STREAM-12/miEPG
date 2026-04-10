@@ -286,3 +286,4 @@
 608049aefa2b8ae93c2c3a63-68b74a235dc5413c905efd62,TV5MONDE Voyage,https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png
 608049aefa2b8ae93c2c3a63-69814bbff871095eafc65925,Powernation,https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png
 608049aefa2b8ae93c2c3a63-67c2496d45ae99120c071588,Life Down Under,https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png
+608049aefa2b8ae93c2c3a63-69d6d88b1790acff6189dea5,AddictaTV,https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png
