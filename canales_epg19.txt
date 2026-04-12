@@ -163,7 +163,7 @@
 0406,BeIN Sports Xtra Español,https://i.ibb.co/XfpJCw0f/0406.jpg
 0407,NBA TV • Feed 1,https://i.ibb.co/mCVpXVxZ/0407.jpg
 1407,NBA TV • Feed 2,https://i.ibb.co/mCVpXVxZ/1407.jpg
-0408,CH0408,https://i.ibb.co/ZpYkVb1n/0408.jpg
+0408,Liga 1 Max • Perú,https://i.ibb.co/ZpYkVb1n/0408.jpg
 0409,TyC Sports • LATAM,https://i.ibb.co/hJDy0t87/0409.jpg
 1409,TyC Sports • Argentina,https://i.ibb.co/hJDy0t87/1409.jpg
 2409,TyC Sports 2,https://i.ibb.co/LXngWfdM/2409.jpg

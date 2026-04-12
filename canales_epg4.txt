@@ -127,7 +127,7 @@ DSPORTS.Radio(DTSR).co,DSPORTS Radio(DTSR),https://dnqt2wx2urq99.cloudfront.net/
 FOX.Sports.2.HD(FSP2HD).co,FOX Sports 2 HD(FSP2HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1627.png
 FOX.Sports.3.HD(FXS3HD).co,FOX Sports 3 HD(FXS3HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1626.png
 DSPORTS.HD.(COL)(DTSCHD).co,DSPORTS HD (COL)(DTSCHD),
-DSPORTS.2.HD(DTV2HD).co,DSPORTS 2 HD(DTV2HD),
+DSPORTS.2.HD(DTV2HD).co,DSPORTS 2 HD(DTV2HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1612.png
 DSPORTS.+.HD(DTS+HD).co,DSPORTS + HD(DTS+HD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1613.png
 DSports.Motor(DSPMHD).co,DSports Motor(DSPMHD),
 DIRECTV.SPORTS.HD(DTVSHD).co,DIRECTV SPORTS HD(DTVSHD),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/1618.png
