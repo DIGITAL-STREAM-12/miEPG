@@ -149,7 +149,7 @@ FX..uy,FX,http://resources.nuevosiglo.com.uy/reportv/img/senales/426.svg
 FX.HD..uy,FX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2040.svg
 FX.uy,FX,https://www.reportv.com.ar/buscador/img/Logos/1901675.jpg
 GALICIA.TV..uy,GALICIA TV,http://resources.nuevosiglo.com.uy/reportv/img/senales/65.svg
-GALICIA.TV.uy,GALICIA TV,https://www.reportv.com.ar/buscador/img/Logos/28980394.jpg
+GALICIA.TV.uy,GALICIA TV,
 GOL.TV..uy,GOL TV,
 GOL.TV.HD.uy,GOL TV HD,
 GOLDEN.EDGE.HD.uy,GOLDEN EDGE HD,
@@ -289,7 +289,7 @@ TVE..uy,TVE,
 TVE.HD..uy,TVE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3181.svg
 TVE.HD.uy,TVE HD,https://www.reportv.com.ar/buscador/img/Logos/1901625.jpg
 TVN.CHILE..uy,TVN CHILE,
-TVN.CHILE.HD.uy,TVN CHILE HD,https://www.reportv.com.ar/buscador/img/Logos/17601570.jpg
+TVN.CHILE.HD.uy,TVN CHILE HD,
 TYC.SPORTS..uy,TYC SPORTS,
 TYC.SPORTS.HD..uy,TYC SPORTS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1666.svg
 TYC.SPORTS.HD.uy,TYC SPORTS HD,
