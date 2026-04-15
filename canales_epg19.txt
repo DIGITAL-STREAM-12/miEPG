@@ -56,7 +56,7 @@
 0151,Calama TV,https://i.ibb.co/NdSCMR5Y/0151.jpg
 0152,TV Más 2,https://i.ibb.co/S4V8Hp83/0152.jpg
 0153,Canal 9 Bío-Bío Televisión,https://i.ibb.co/cX3vqyg1/0153.jpg
-0154,CH0154,https://i.ibb.co/2B3151J/0154.jpg
+0154,Orbita TV Chile,https://i.ibb.co/dwznwCkD/temp-orbitatvcl.jpg
 0155,Canal TVU,https://i.ibb.co/G3xftLph/0155.jpg
 0156,UESTV,https://i.ibb.co/gb1H66nv/0156.jpg
 0157,UTalca TV,https://i.ibb.co/PGYzBB96/0157.jpg
