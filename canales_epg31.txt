@@ -16,6 +16,7 @@
 608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3,Runtime Crimen,https://provider-static.plex.tv/epg/cms/production/25b2f15f-469f-474d-806a-c53581cc8ab7/Runtime_ES_Crimen_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-693ebd85e2cae3f1bc73ae43,Western Bound Español,https://provider-static.plex.tv/epg/cms/production/deea1692-2870-46fa-b1e8-818573e94645/WB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN Más,https://provider-static.plex.tv/epg/cms/production/3536c2ea-de74-421a-8942-642d472cc7c8/rcn-mas.png
+608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN Más,https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+,https://provider-static.plex.tv/epg/cms/production/754b914b-60f2-4349-89c6-9e744f91bf9f/FIFA__Logo_Rectangle_1500x1000_WHT.png
 608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e,Runtime,https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
@@ -51,7 +52,6 @@
 608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5,Runtime Familia,https://provider-static.plex.tv/epg/cms/production/d1688b0a-fa63-4b15-8f80-634dd473cf23/Runtime_ES_Familia_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
-608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN Más,https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b28418f,FreeTV Live,https://provider-static.plex.tv/epg/cms/production/2e25f920-f26d-4a96-ab45-e858830b2b33/FreeTV_Live.png
 608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869,FilmRise Series Gratis,https://provider-static.plex.tv/epg/cms/production/be76f2ee-2a7a-4020-9072-cfb4b8539906/FilmRise_SeriesGratis_1500x1000_logo_light.png
 608049aefa2b8ae93c2c3a63-64e6e2f04a5e9b4cedc6d52b,Cine de Horror,https://provider-static.plex.tv/epg/cms/production/a41fd21e-3ffc-481a-b12a-ba5df241299f/Cine_de_horror_logo_1500x1000px_white.png
