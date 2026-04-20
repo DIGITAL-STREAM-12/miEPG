@@ -68,7 +68,7 @@
 0163,13 Festival,https://i.ibb.co/x8RFSF57/0163.jpg
 0164,13 Teleseries,https://i.ibb.co/9kBZMcGR/0164.jpg
 0165,Nativa TV,https://i.ibb.co/d0hftKZ0/0165.jpg
-0166,Vive TV,https://i.ibb.co/4ZD0hh1n/0166.jpg
+0166,CH0166,https://i.ibb.co/4ZD0hh1n/0166.jpg
 0167,Marga Marga TV,https://i.ibb.co/96Qhr9k/0167.jpg
 0168,Thema TV,https://i.ibb.co/V07qwRj8/0168.jpg
 0169,Canal 2 Vallenar,https://i.ibb.co/Pvkr9T07/0169.jpg
