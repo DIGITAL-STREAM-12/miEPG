@@ -111,6 +111,7 @@
 608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27,JAIL,https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png
 608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7,Tastemade en Español,https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png
 608049aefa2b8ae93c2c3a63-6995ef6821d3ea5c24827b1b,Homeful,https://provider-static.plex.tv/epg/cms/production/dd243471-e956-4dec-a099-2f3351e1bf3a/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones__1_.png
+608049aefa2b8ae93c2c3a63-68b74890b5b437bf872b6b72,TV5MONDE Chefs,https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png
 608049aefa2b8ae93c2c3a63-6761f91555e174e95ccc4e4c,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
 608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e,FailArmy,https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png
 608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2,FUEL TV,https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png
@@ -231,7 +232,6 @@
 608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1,Ninja Kidz TV,https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png
 608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a,Kidoodle TV,https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png
 608049aefa2b8ae93c2c3a63-63d6f6c5a9e88ee909e7ee1f,Brat TV,https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png
-608049aefa2b8ae93c2c3a63-68b74890b5b437bf872b6b72,TV5MONDE Chefs,https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png
 608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd,Eddie's Wonderland,https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png
 608049aefa2b8ae93c2c3a63-656fb124cb7e8e6a9bc3f36a,Kidz Bop TV,https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png
 608049aefa2b8ae93c2c3a63-6164a963766ab4f9f57e81b1,Camp Spoopy,https://provider-static.plex.tv/epg/images/ott_channels/logos/camp-spoopy-logo_dark.png
