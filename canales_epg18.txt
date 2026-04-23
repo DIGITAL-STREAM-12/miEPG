@@ -698,7 +698,6 @@ I419.63138.gracenote.com,NBC Sports Bay Area,https://zpmc.tmsimg.com/h3/NowShowi
 I424.32537.gracenote.com,Monumental Sports Network,https://zpmc.tmsimg.com/h3/NowShowing/32537/s32537_ll_h15_ad.png
 I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShowing/49882/s26028_ll_h15_ac.png
 I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
-I433.66485.gracenote.com,Masn 2,https://zpmc.tmsimg.com/h3/NowShowing/66485/s66485_ll_h9_aa.png
 I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
 I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
