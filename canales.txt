@@ -213,6 +213,9 @@ Canal.National.Geographic.(Centro).sv,Natgeo.sv
 Canal.Animal.Planet.(Panregional).sv,Animal Planet Latam.sv
 Canal.History.(Panregional).sv,History Latam.sv
 Canal.History.2.(Panregional).sv,H2.sv
+0706,History F1.pu
+1706,History F2.pu
+0707,History 2.pu
 Cine.Nostalgia.us2,Cine Nostalgia.us
 Cinema.Dinamita.us2,Cinema Dinamita.us
 Canal.Disney.Channel.(Centro).sv,Disney Channel.sv
