@@ -448,7 +448,7 @@ Canal.Azteca.Uno.-1.Hora.mx,Az Uno -1H.mx
 Canal.TV.Azteca.Mundo.mx,Az Int.mx
 Canal.Cinema.mx,Cinema.mx
 24/7 Canal de Noticias,24/7 CdN.mi
-Canal 26,Canal 26 AR.mi
+0917,Canal 26 AR.pu
 América TV,América TV AR.mi
 0222,A24 AR.pu
 0912,Argentinísima Sat.pu
