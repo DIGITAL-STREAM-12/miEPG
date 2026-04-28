@@ -68,7 +68,6 @@
 608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159,Sangre Fría,https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-66ea196ac24d95b51b7cd18b,wedo amor,https://provider-static.plex.tv/epg/cms/production/a4765ad1-345e-4cb7-b6c5-3dc970e4d78e/Light_LogoWEDDO_AMOR_WHITE.png
 608049aefa2b8ae93c2c3a63-685f195f6c220c4e9e333a04,Todo Drama,https://provider-static.plex.tv/epg/cms/production/d4daa26d-847b-4c35-a59e-436a273448ce/TodoDrama_WHITERDX.png
-608049aefa2b8ae93c2c3a63-68b9f0bdd60e5dd29263c7a1,Pánico TV Español,https://provider-static.plex.tv/epg/cms/production/fe6756ce-6904-4b6b-b86b-e17b5ee1dfab/panicLight_Logo__2_.png
 608049aefa2b8ae93c2c3a63-656237c55dbccec83a87b649,Mutant X,https://provider-static.plex.tv/epg/cms/production/e7c42702-89d4-42c0-a093-4c604ab39a34/FilmRise_MutantX_Color_Logo.png
 608049aefa2b8ae93c2c3a63-6196c9241d310bf925e02616,Lone Star,https://provider-static.plex.tv/1/epg/channels/logos/gracenote/1d8c9bf417f3e12668fecafc25fc8f72.png
 608049aefa2b8ae93c2c3a63-6018913ea15130002b284193,FreeTV Estelar,https://provider-static.plex.tv/epg/cms/production/339acd9f-efde-4536-b6c9-1efb2e72dab8/FreeTVEstelar_Circle_1500x1000_-_Ralph_Campillo.png

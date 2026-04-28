@@ -68,7 +68,7 @@
 0163,13 Festival,https://i.ibb.co/x8RFSF57/0163.jpg
 0164,13 Teleseries,https://i.ibb.co/9kBZMcGR/0164.jpg
 0165,Nativa TV,https://i.ibb.co/d0hftKZ0/0165.jpg
-0166,CH0166,https://i.ibb.co/4ZD0hh1n/0166.jpg
+0166,Chilevisión Contigo,https://i.ibb.co/4ZD0hh1n/0166.jpg
 0167,Marga Marga TV,https://i.ibb.co/96Qhr9k/0167.jpg
 0168,Thema TV,https://i.ibb.co/V07qwRj8/0168.jpg
 0169,Canal 2 Vallenar,https://i.ibb.co/Pvkr9T07/0169.jpg
@@ -83,14 +83,14 @@
 0178,Décima TV,https://i.ibb.co/23GR3tJ5/0178.jpg
 0179,Canal 2 Quellón,https://i.ibb.co/mVjtLrCQ/0179.jpg
 0180,CHV de Culto,https://i.ibb.co/dwznwCkD/temp-chvculto.jpg
-0181,Porcel TV,
-0182,AE Radio,
-0183,Agricultura TV,
-0184,Canal 15 TV,
-0185,Romántica TV,
-0186,La Nuestra Radio Streaming,
-0187,Radio Hoy,
-0188,Radio Infinita,
+0181,Porcel TV,https://i.ibb.co/dwznwCkD/temp-porceltv.jpg
+0182,AE Radio,https://i.ibb.co/dwznwCkD/temp-aeradioduoc.jpg
+0183,Agricultura TV,https://i.ibb.co/dwznwCkD/temp-radioagricultura.jpg
+0184,Canal 15 TV,https://i.ibb.co/dwznwCkD/temp-15tvcl.jpg
+0185,Romántica TV,https://i.ibb.co/dwznwCkD/temp-romantica.jpg
+0186,La Nuestra Radio Streaming,https://i.ibb.co/dwznwCkD/temp-lanuestra.jpg
+0187,Radio Hoy,https://i.ibb.co/dwznwCkD/temp-radiohoy.jpg
+0188,Radio Infinita,https://i.ibb.co/dwznwCkD/temp-radioinfinita.jpg
 0201,Canal 24 Horas,https://i.ibb.co/pjQGqLxf/0201.jpg
 0202,CNN Chile,https://i.ibb.co/PvtbwMTV/0202.jpg
 0203,BíoBío TV,https://i.ibb.co/DftY9jKN/0203.jpg
@@ -225,10 +225,13 @@
 0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 1441,TUDN • Feed 2,https://i.ibb.co/TMqZ5MQ1/1441.jpg
 0442,Azteca Deportes • México,https://i.ibb.co/XkGhHgrN/0442.jpg
-0443,CH0443,https://i.ibb.co/Z1k71j8f/0443.jpg
-0444,CH0444,https://i.ibb.co/vCZ7TtNj/0444.jpg
+0443,ViX Deportes,https://i.ibb.co/dwznwCkD/temp-vixdeportes.jpg
+0444,UFC,https://i.ibb.co/dwznwCkD/temp-ufc.jpg
 0445,Tennis Channel • USA,https://i.ibb.co/G4pQ69cv/0445.jpg
 0446,Golf Channel • Latin America,https://i.ibb.co/FbSfZ4Z6/0446.jpg
+0447,RedBull TV,https://i.ibb.co/dwznwCkD/temp-redbulltv.jpg
+0448,DSports Básico,https://i.ibb.co/dwznwCkD/temp-dsportsbasico.jpg
+0449,DSports Premium,https://i.ibb.co/dwznwCkD/temp-dsportspremium.jpg
 0501,Stingray IConcerts,https://i.ibb.co/LzHJxPvN/0501.png
 0502,MTV Latino,https://i.ibb.co/ymD5cY62/0502.png
 0503,Concert Channel,https://i.ibb.co/B2Bd9GRL/0503.jpg
@@ -350,6 +353,8 @@
 0707,History 2,https://i.ibb.co/VYJXxLsm/0707.jpg
 0708,TLC • Feed 1,https://i.ibb.co/9mzvw8tH/0708.jpg
 1708,TLC • Feed 2,https://i.ibb.co/9mzvw8tH/1708.jpg
+2708,TLC • Feed 3,https://i.ibb.co/9mzvw8tH/2708.jpg
+3708,TLC • Feed 4,https://i.ibb.co/9mzvw8tH/3708.jpg
 0709,Atlas,https://i.ibb.co/FcCDyPf/0709.jpg
 0710,¡Hola! TV • Feed 1,https://i.ibb.co/20xc82Zt/0710.jpg
 1710,¡Hola! TV • Feed 2,https://i.ibb.co/20xc82Zt/1710.jpg
@@ -547,9 +552,9 @@
 0967,CH00967,https://i.ibb.co/vCZ7TtNj/0967.jpg
 0968,CH00968,
 0969,CH00969,
-0970,CH00970,
-0971,CH00971,
-0972,CH00972,
+0970,AMERICA2 FEED PY SRC MTVPRGY,
+0971,A24 FEED PY SRC MTVPRGY,
+0972,A24 FEED PY SRC RTV1944,
 XXX0,Canal para adultos • Portal adultos,https://i.ibb.co/d4wmsb43/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://i.ibb.co/fGZ0sYcz/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://i.ibb.co/RnZr2bk/XXX2.jpg
