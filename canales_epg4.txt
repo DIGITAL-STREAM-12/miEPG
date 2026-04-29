@@ -117,7 +117,7 @@ DSPORTS.2.(DTS2).co,DSPORTS 2 (DTS2),https://dnqt2wx2urq99.cloudfront.net/ondire
 DSPORTS.+(DTS+).co,DSPORTS +(DTS+),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/613.png
 DSports.Motor(DSPM).co,DSports Motor(DSPM),
 DIRECTV.Sports.5(DTS6).co,DIRECTV Sports 5(DTS6),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/616.png
-DIRECTV.SPORTS(DTS7).co,DIRECTV SPORTS(DTS7),
+DIRECTV.SPORTS(DTS7).co,DIRECTV SPORTS(DTS7),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/618.png
 DIRECTV.SPORTS(DTS9).co,DIRECTV SPORTS(DTS9),
 DSPORTS.Fight(DTSF).co,DSPORTS Fight(DTSF),
 TyC.Sports.International(TYCS).co,TyC Sports International(TYCS),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/629.png

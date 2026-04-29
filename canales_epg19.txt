@@ -181,6 +181,7 @@
 3412,ESPN 2 • Colombia,https://i.ibb.co/TMpFPTcj/3412.jpg
 4412,ESPN 2 • Norte,https://i.ibb.co/TMpFPTcj/4412.jpg
 5412,ESPN 2 • México,https://i.ibb.co/TMpFPTcj/5412.jpg
+6412,ESPN 2 • LATAM,https://i.ibb.co/TMpFPTcj/6412.jpg
 0413,ESPN 3 • Cono Sur,https://i.ibb.co/7dFHm7cM/0413.jpg
 1413,ESPN 3 • Norte,https://i.ibb.co/7dFHm7cM/1413.jpg
 2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
@@ -190,6 +191,7 @@
 0415,ESPN 5 • Chile,https://i.ibb.co/ynRhShH9/0415.jpg
 1415,ESPN 5 • Cono Sur,https://i.ibb.co/ynRhShH9/1415.jpg
 2415,ESPN 5 • Norte,https://i.ibb.co/ynRhShH9/2415.jpg
+3415,ESPN 5 • LATAM,https://i.ibb.co/ynRhShH9/3415.jpg
 0416,ESPN 6 • América Latina,https://i.ibb.co/jvYjkKm1/0416.jpg
 0417,ESPN 7 • América Latina,https://i.ibb.co/mFGmjNC8/0417.jpg
 0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
