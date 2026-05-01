@@ -637,7 +637,6 @@ I1720.50728.gracenote.com,Fanduel Sports Network Florida,https://zpmc.tmsimg.com
 I1724.75970.gracenote.com,Fanduel Sports Network South,https://zpmc.tmsimg.com/h3/NowShowing/75970/s12410_ll_h15_ac.png
 I1748.50057.gracenote.com,Fanduel Sports Network Mid West,https://zpmc.tmsimg.com/h3/NowShowing/50057/s50057_ll_h15_ac.png
 I1753.35295.gracenote.com,Fanduel Sports Network South West,https://zpmc.tmsimg.com/h3/NowShowing/35295/s59629_ll_h15_ac.png
-I1772.59627.gracenote.com,Fanduel Sports Network West,https://zpmc.tmsimg.com/h3/NowShowing/59627/s59627_ll_h15_ac.png
 I1774.59625.gracenote.com,Fanduel Sports Network Souther California,https://zpmc.tmsimg.com/h3/NowShowing/59625/s59625_ll_h15_ac.png
 I2.1.19600.gracenote.com,US - FOX News Detroit,https://zpmc.tmsimg.com/h3/NowShowing/19600/s28719_ll_h15_ac.png
 I6.1.25664.gracenote.com,US - CBS Detroit,https://zpmc.tmsimg.com/h3/NowShowing/25664/s28711_ll_h15_ab.png

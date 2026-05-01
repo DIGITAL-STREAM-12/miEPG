@@ -95,7 +95,7 @@
 608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,El Conflicto TV,https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png
 608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6,Emoción Atres,https://provider-static.plex.tv/epg/cms/production/f8a056a0-536e-4cb9-9a60-f7bd242819d7/EMOCIONATRES_COLORRDX.png
 608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f,Buen Viaje,https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png
-608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13,The Martha Stewart Channel,https://provider-static.plex.tv/epg/cms/production/2426b3e1-57b3-4f1c-84a8-df9a49d95414/MSChannel_Logo_Light_-_Kimberly_Dumer.png
+608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13,The Martha Stewart Channel,https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png
 608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90,Dr. Phil,https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png
 608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d,Mr. Bean,https://provider-static.plex.tv/epg/cms/production/e8270acf-b6fc-4708-9e35-e45dfc3a4110/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
