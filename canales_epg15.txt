@@ -59,7 +59,7 @@ CINECANAL.HD..uy,CINECANAL HD,http://resources.nuevosiglo.com.uy/reportv/img/sen
 CINECANAL.HD.uy,CINECANAL HD,https://www.reportv.com.ar/buscador/img/Logos/7923674.jpg
 CINEMAX..uy,CINEMAX,
 CINEMAX.HD..uy,CINEMAX HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3142.svg
-CINEMAX.HD.uy,CINEMAX HD,https://www.reportv.com.ar/buscador/img/Logos/1901958.jpg
+CINEMAX.HD.uy,CINEMAX HD,
 CIUDAD.MAGAZINE..uy,CIUDAD MAGAZINE,http://resources.nuevosiglo.com.uy/reportv/img/senales/26.svg
 CIUDAD.MAGAZINE.HD..uy,CIUDAD MAGAZINE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3915.svg
 CLAROSPORTS..uy,CLAROSPORTS,http://resources.nuevosiglo.com.uy/reportv/img/senales/1906.svg
@@ -167,15 +167,15 @@ HBO.FAMILY.HD.uy,HBO FAMILY HD,https://www.reportv.com.ar/buscador/img/Logos/137
 HBO.HD..uy,HBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/875.svg
 HBO.HD.uy,HBO HD,
 HBO.MUNDI.HD..uy,HBO MUNDI HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1448.svg
-HBO.MUNDI.HD.uy,HBO MUNDI HD,https://www.reportv.com.ar/buscador/img/Logos/10973510.jpg
+HBO.MUNDI.HD.uy,HBO MUNDI HD,
 HBO.PLUS.HD..uy,HBO PLUS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2686.svg
-HBO.PLUS.HD.uy,HBO PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/9313202.jpg
+HBO.PLUS.HD.uy,HBO PLUS HD,
 HBO.POP.HD..uy,HBO POP HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3927.svg
-HBO.POP.HD.uy,HBO POP HD,https://www.reportv.com.ar/buscador/img/Logos/10973525.jpg
+HBO.POP.HD.uy,HBO POP HD,
 HBO.SIGNATURE.HD..uy,HBO SIGNATURE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/500.svg
-HBO.SIGNATURE.HD.uy,HBO SIGNATURE HD,https://www.reportv.com.ar/buscador/img/Logos/2035893.jpg
+HBO.SIGNATURE.HD.uy,HBO SIGNATURE HD,
 HBO.XTREME.HD..uy,HBO XTREME HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2688.svg
-HBO.XTREME.HD.uy,HBO XTREME HD,https://www.reportv.com.ar/buscador/img/Logos/10973534.jpg
+HBO.XTREME.HD.uy,HBO XTREME HD,
 HGTV..uy,HGTV,
 HGTV.HD.uy,HGTV HD,https://www.reportv.com.ar/buscador/img/Logos/11084226.jpg
 HISTORY..uy,HISTORY,
@@ -305,7 +305,7 @@ UNIVERSAL.HD.uy,UNIVERSAL HD,https://www.reportv.com.ar/buscador/img/Logos/81331
 UNIVERSAL.PREMIERE.HD..uy,UNIVERSAL PREMIERE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6981.svg
 UNIVERSAL.PREMIERE.HD.uy,UNIVERSAL PREMIERE HD,https://www.reportv.com.ar/buscador/img/Logos/18749541.jpg
 UNIVERSAL.REALITY.HD..uy,UNIVERSAL REALITY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/6982.svg
-UNIVERSAL.REALITY.HD.uy,UNIVERSAL REALITY HD,https://www.reportv.com.ar/buscador/img/Logos/1988476869.jpg
+UNIVERSAL.REALITY.HD.uy,UNIVERSAL REALITY HD,
 UNIVISION.HD.uy,UNIVISION HD,https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg
 USA.NETWORK..uy,USA NETWORK,
 USA.NETWORK.HD..uy,USA NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8328.svg
