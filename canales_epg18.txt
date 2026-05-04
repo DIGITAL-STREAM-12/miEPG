@@ -269,7 +269,7 @@ I435.65342.schedulesdirect.org,Investigation Discovery Latino,https://schedulesd
 I437.59724.schedulesdirect.org,IZZI Afizzionados,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59724_dark_360w_270h.png
 I438.98718.schedulesdirect.org,IZZIHD,
 I440.100795.schedulesdirect.org,JCNET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100795_dark_360w_270h.png
-I446.52300.schedulesdirect.org,La Liga TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
+I446.52300.schedulesdirect.org,⚽ [LaLiga] La Liga TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 I447.105747.schedulesdirect.org,LAMEJOR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105747_dark_360w_270h.png
 I448.67632.schedulesdirect.org,LATAMSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67632_dark_360w_270h.png
 I451.16257.schedulesdirect.org,ESTRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png
@@ -379,7 +379,7 @@ I690.102862.schedulesdirect.org,TELICAH,https://schedulesdirect-api20141201-logo
 I691.64835.schedulesdirect.org,CABTELE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64835_dark_360w_270h.png
 I693.32749.schedulesdirect.org,TeleRitmo,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32749_dark_360w_270h.png
 I694.45710.schedulesdirect.org,APRENDE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45710_dark_360w_270h.png
-I695.61033.schedulesdirect.org,Golf Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png
+I695.61033.schedulesdirect.org,🏌️ [Golf] Golf Channel Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png
 I696.101736.schedulesdirect.org,GOLFLAH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61033_dark_360w_270h.png
 I697.107373.schedulesdirect.org,TLCMXH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png
 I698.74420.schedulesdirect.org,TLC Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73822_dark_360w_270h.png
@@ -616,8 +616,8 @@ I1079.51204.schedulesdirect.org,Sky Sports Cricket,https://schedulesdirect-api20
 I1081.87578.schedulesdirect.org,SKY Sports F1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png
 I1093.100265.schedulesdirect.org,SKY Sports Mix,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100265_dark_360w_270h.png
 I1096.68347.schedulesdirect.org,SKY Sports News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68347_dark_360w_270h.png
-I1099.116645.schedulesdirect.org,Sky Sports Premier League,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116645_dark_360w_270h.png
-I1103.147889.schedulesdirect.org,Sky Sports Tennis,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027M1BC.png_dark_360w_270h.png
+I1099.116645.schedulesdirect.org,Sky Sports ⚽ [EPL] Premier League,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116645_dark_360w_270h.png
+I1103.147889.schedulesdirect.org,Sky Sports 🎾 [Tennis] Tennis,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027M1BC.png_dark_360w_270h.png
 I1125.17443.schedulesdirect.org,UK - SKY Living,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17443_dark_360w_270h.png
 I1127.64590.schedulesdirect.org,UK - SKY Witness,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64590_dark_360w_270h.png
 I1195.30454.schedulesdirect.org,UK - TG 4,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30454_dark_360w_270h.png
@@ -729,10 +729,10 @@ I215.58690.schedulesdirect.org,NHL Network,https://schedulesdirect-api20141201-l
 I215.58570.schedulesdirect.org,NHL Network USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png
 I216.32281.schedulesdirect.org,NBA TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png
 I216.45526.schedulesdirect.org,NBA TV HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45526_dark_360w_270h.png
-I217.33395.schedulesdirect.org,Tennis Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002ES74T.png_dark_360w_270h.png
-I217.60316.schedulesdirect.org,Tennis Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png
-I218.14899.schedulesdirect.org,Golf Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFZQ3.png_dark_360w_270h.png
-I218.61854.schedulesdirect.org,Golf Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFQ5S.png_dark_360w_270h.png
+I217.33395.schedulesdirect.org,🎾 [Tennis] Tennis Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002ES74T.png_dark_360w_270h.png
+I217.60316.schedulesdirect.org,🎾 [Tennis] Tennis Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png
+I218.14899.schedulesdirect.org,🏌️ [Golf] Golf Channel,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFZQ3.png_dark_360w_270h.png
+I218.61854.schedulesdirect.org,🏌️ [Golf] Golf Channel HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002RFQ5S.png_dark_360w_270h.png
 I219.82547.schedulesdirect.org,Fox Sports 1 US HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82547_dark_360w_270h.png
 I219.82541.schedulesdirect.org,Fox Sports 1 US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png
 I221.16365.schedulesdirect.org,CBS Sports Network,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png

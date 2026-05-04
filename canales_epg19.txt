@@ -2,7 +2,7 @@
 0000,SIN EPG,https://i.ibb.co/dwznwCkD/0000.jpg
 0001,Programación Variada,https://i.ibb.co/dwznwCkD/0001.jpg
 0002,Eventos,https://i.ibb.co/dwznwCkD/0002.jpg
-0101,Telecanal,https://i.ibb.co/cS6SkMcd/0101.jpg
+0101,Telecanal,https://i.ibb.co/chZPt2fm/0101.jpg
 0102,La Red,https://i.ibb.co/5hSXMSYs/0102.jpg
 0103,TV Más,https://i.ibb.co/PSQd771/0103.jpg
 0104,TVN,https://i.ibb.co/KHyZm2W/0104.jpg
@@ -13,7 +13,7 @@
 0109,Mega 2,https://i.ibb.co/p6bwh71t/0109.jpg
 0110,TVR,https://i.ibb.co/8DCxsfcv/0110.jpg
 0111,Zona Latina,https://i.ibb.co/C3Z4M0GD/0111.jpg
-0112,Via X,https://i.ibb.co/M5ZNq4dh/0112.jpg
+0112,Via X,https://i.ibb.co/7NdXywbp/0112.jpg
 0113,13c,https://i.ibb.co/DP6RKmyJ/0113.jpg
 0114,13 Rec,https://i.ibb.co/p6xwTwCG/0114.jpg
 0115,UChile TV,https://i.ibb.co/S4frbjGN/0115.jpg
@@ -48,7 +48,7 @@
 0144,Holvoet TV Copiapó,https://i.ibb.co/RpbkYv7x/0144.jpg
 0145,ITV Patagonia,https://i.ibb.co/2398QXvX/0145.jpg
 0146,Radio América TV La Serena,https://i.ibb.co/VpP35KX4/0146.jpg
-0147,TV USACH,https://i.ibb.co/xSkQTdLY/0147.jpg
+0147,TV USACH,https://i.ibb.co/vCXn4qt2/0147.jpg
 0148,Telecanal Santa Cruz,https://i.ibb.co/6RsjHhPK/0148.jpg
 0149,Canal VTV Los Andes,https://i.ibb.co/wFGYwV6K/0149.jpg
 1149,Canal VTV Quillota,https://i.ibb.co/wFGYwV6K/1149.jpg
@@ -56,7 +56,7 @@
 0151,Calama TV,https://i.ibb.co/NdSCMR5Y/0151.jpg
 0152,TV Más 2,https://i.ibb.co/S4V8Hp83/0152.jpg
 0153,Canal 9 Bío-Bío Televisión,https://i.ibb.co/cX3vqyg1/0153.jpg
-0154,Orbita TV Chile,https://i.ibb.co/dwznwCkD/temp-orbitatvcl.jpg
+0154,Orbita TV Chile,https://i.ibb.co/wryPkBLx/0154.jpg
 0155,Canal TVU,https://i.ibb.co/G3xftLph/0155.jpg
 0156,UESTV,https://i.ibb.co/gb1H66nv/0156.jpg
 0157,UTalca TV,https://i.ibb.co/PGYzBB96/0157.jpg
@@ -68,29 +68,30 @@
 0163,13 Festival,https://i.ibb.co/x8RFSF57/0163.jpg
 0164,13 Teleseries,https://i.ibb.co/9kBZMcGR/0164.jpg
 0165,Nativa TV,https://i.ibb.co/d0hftKZ0/0165.jpg
-0166,Chilevisión Contigo,https://i.ibb.co/4ZD0hh1n/0166.jpg
+0166,Chilevisión Contigo,https://i.ibb.co/mrNcf9hc/0166.jpg
 0167,Marga Marga TV,https://i.ibb.co/96Qhr9k/0167.jpg
 0168,Thema TV,https://i.ibb.co/V07qwRj8/0168.jpg
 0169,Canal 2 Vallenar,https://i.ibb.co/Pvkr9T07/0169.jpg
 0170,TV 2 Choapa,https://i.ibb.co/zV97fd84/0170.jpg
 0171,Girovisual,https://i.ibb.co/G4nWgJGX/0171.jpg
 0172,Vox Populi Chile,https://i.ibb.co/m57Vgdn6/0172.jpg
-0173,En Linea Maule,https://i.ibb.co/G4K7bF4k/0173.jpg
+0173,En Linea Maule,https://i.ibb.co/S2JSPKv/0173.jpg
 0174,TV5 Linares,https://i.ibb.co/gbvLR27J/0174.jpg
 0175,TeleAngol,https://i.ibb.co/2b528kD/0175.jpg
 0176,Pucón TV,https://i.ibb.co/Xfz7dHy1/0176.jpg
 0177,T-ViNet TV Digital,https://i.ibb.co/FSvWtbm/0177.jpg
 0178,Décima TV,https://i.ibb.co/23GR3tJ5/0178.jpg
 0179,Canal 2 Quellón,https://i.ibb.co/mVjtLrCQ/0179.jpg
-0180,CHV de Culto,https://i.ibb.co/dwznwCkD/temp-chvculto.jpg
-0181,Porcel TV,https://i.ibb.co/dwznwCkD/temp-porceltv.jpg
-0182,AE Radio,https://i.ibb.co/dwznwCkD/temp-aeradioduoc.jpg
-0183,Agricultura TV,https://i.ibb.co/dwznwCkD/temp-radioagricultura.jpg
-0184,Canal 15 TV,https://i.ibb.co/dwznwCkD/temp-15tvcl.jpg
-0185,Romántica TV,https://i.ibb.co/dwznwCkD/temp-romantica.jpg
-0186,La Nuestra Radio Streaming,https://i.ibb.co/dwznwCkD/temp-lanuestra.jpg
-0187,Radio Hoy,https://i.ibb.co/dwznwCkD/temp-radiohoy.jpg
-0188,Radio Infinita,https://i.ibb.co/dwznwCkD/temp-radioinfinita.jpg
+0180,CHV de Culto,https://i.ibb.co/W4KCL839/0180.jpg
+0181,Porcel TV,https://i.ibb.co/qLQmQJ0K/0181.jpg
+0182,AE Radio,https://i.ibb.co/pr6djLTs/0182.jpg
+0183,Agricultura TV,https://i.ibb.co/d49gty2k/0183.jpg
+0184,Canal 15 TV,https://i.ibb.co/6RFGPjrd/0184.jpg
+0185,Romántica TV,https://i.ibb.co/VpDRwSJ3/0185.jpg
+0186,La Nuestra Radio Streaming,https://i.ibb.co/fzrz2hSq/0186.jpg
+0187,Radio Hoy,https://i.ibb.co/Rkn4RFnb/0187.jpg
+0188,Radio Infinita,https://i.ibb.co/35sNhXQS/0188.jpg
+0189,La Metro,
 0201,Canal 24 Horas,https://i.ibb.co/pjQGqLxf/0201.jpg
 0202,CNN Chile,https://i.ibb.co/PvtbwMTV/0202.jpg
 0203,BíoBío TV,https://i.ibb.co/DftY9jKN/0203.jpg
@@ -136,8 +137,8 @@
 0311,Disney Junior • Feed 1,https://i.ibb.co/39mvW3sw/0311.jpg
 1311,Disney Junior • Feed 2,https://i.ibb.co/39mvW3sw/1311.jpg
 0312,Pakapaka,https://i.ibb.co/3m7txbcF/0312.jpg
-0313,EnerGeek Retro,https://i.ibb.co/27CYz479/0313.jpg
-0314,EnerGeek FAN,https://i.ibb.co/5gYjyjCc/0314.jpg
+0313,EnerGeek Retro,https://i.ibb.co/QjCJSqSt/0313.jpg
+0314,EnerGeek FAN,https://i.ibb.co/pjcBhJTd/0314.jpg
 0315,Canal Infantil,https://i.ibb.co/sv37V9wX/0315.jpg
 0316,Baby TV,https://i.ibb.co/m5Ny6T6g/0316.jpg
 0317,Plim Plim TV,https://i.ibb.co/7xgHhk53/0317.jpg
@@ -150,7 +151,7 @@
 1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0324,Cartoonito,https://i.ibb.co/zVbsHSfN/0324.jpg
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
-0326,CH0326,https://i.ibb.co/sJwKCk4F/0326.jpg
+0326,CH0326,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0327,Kanade,https://i.ibb.co/WWzvjzjM/0327.jpg
 0328,ZKids,https://i.ibb.co/Xx1NS2gW/0328.jpg
 0329,Fix y Foxi,https://i.ibb.co/FqXcHkfD/0329.jpg
@@ -163,12 +164,12 @@
 0406,BeIN Sports Xtra Español,https://i.ibb.co/XfpJCw0f/0406.jpg
 0407,NBA TV • Feed 1,https://i.ibb.co/mCVpXVxZ/0407.jpg
 1407,NBA TV • Feed 2,https://i.ibb.co/mCVpXVxZ/1407.jpg
-0408,Liga 1 Max • Perú,https://i.ibb.co/ZpYkVb1n/0408.jpg
+0408,Liga 1 Max • Perú,https://i.ibb.co/G6PvHpF/0408.jpg
 0409,TyC Sports • LATAM,https://i.ibb.co/hJDy0t87/0409.jpg
 1409,TyC Sports • Argentina,https://i.ibb.co/hJDy0t87/1409.jpg
 2409,TyC Sports 2,https://i.ibb.co/LXngWfdM/2409.jpg
 3409,TyC Sports 3,https://i.ibb.co/MDGpzWQb/3409.jpg
-0410,Teletrak TV,https://i.ibb.co/NgxHNXks/0410.jpg
+0410,Teletrak TV,https://i.ibb.co/PsmRYcd2/0410.jpg
 0411,ESPN • Chile,https://i.ibb.co/Ts2DxY0/0411.jpg
 1411,ESPN • Argentina,https://i.ibb.co/Ts2DxY0/1411.jpg
 2411,ESPN • Cono Sur,https://i.ibb.co/Ts2DxY0/2411.jpg
@@ -187,7 +188,7 @@
 2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
 0414,ESPN 4 • Cono Sur,https://i.ibb.co/4gC4Sq5B/0414.jpg
 1414,ESPN 4 • México,https://i.ibb.co/4gC4Sq5B/1414.jpg
-2414,ESPN 4 • Centro,
+2414,ESPN 4 • Centro,https://i.ibb.co/4gC4Sq5B/2414.jpg
 0415,ESPN 5 • Chile,https://i.ibb.co/ynRhShH9/0415.jpg
 1415,ESPN 5 • Cono Sur,https://i.ibb.co/ynRhShH9/1415.jpg
 2415,ESPN 5 • Norte,https://i.ibb.co/ynRhShH9/2415.jpg
@@ -203,37 +204,37 @@
 0422,CDO Premium,https://i.ibb.co/B5SZb6M5/0422.jpg
 0423,Adrenalina Sports Network,https://i.ibb.co/wF20dZ7g/0423.jpg
 0424,DAZN F1,https://i.ibb.co/7J978Pbw/0424.jpg
-0425,Sky One,https://i.ibb.co/Q7DpM95C/0425.jpg
+0425,Sky One,https://i.ibb.co/Dfyfy3bY/0425.jpg
 0426,Sky Sports 1 • México,https://i.ibb.co/gLjYfH2v/0426.jpg
 1426,Sky Sports 16 • México,https://i.ibb.co/gLjYfH2v/1426.jpg
 2426,Sky Sports 24 • México,https://i.ibb.co/gLjYfH2v/2426.jpg
 0427,Eurosport 1 • España,https://i.ibb.co/TypqGsR/0427.jpg
 0428,Eurosport 2 • España,https://i.ibb.co/wFp9KyWf/0428.jpg
-0429,Win Sports • Colombia,https://i.ibb.co/dwznwCkD/temp-winsports.jpg
-0430,Win Sports Plus • Colombia,https://i.ibb.co/dwznwCkD/temp-winsportsplus.jpg
+0429,Win Sports • Colombia,https://i.ibb.co/DfqrDYy4/0429.jpg
+0430,Win Sports Plus • Colombia,https://i.ibb.co/WZ5zYCx/0430.jpg
 0431,DSports • América Latina,https://i.ibb.co/xK8kgbqd/0431.jpg
 0432,DSports 2 • América Latina,https://i.ibb.co/YBKtRdVK/0432.jpg
 0433,DSports Plus • América Latina,https://i.ibb.co/wGKHsBM/0433.jpg
 0434,DSports Fight,https://i.ibb.co/C3gKD84M/0434.jpg
 0435,DSports Radio,https://i.ibb.co/gLYw8tKW/0435.jpg
-1436,Fox Sports • Argentina,https://i.ibb.co/hJz37D9d/1436.jpg
-1437,Fox Sports 2 • Argentina,https://i.ibb.co/BKQhfKhS/1437.jpg
-1438,Fox Sports 3 • Argentina,https://i.ibb.co/6Lx9QQC/1438.jpg
-0436,Fox Sports • México,https://i.ibb.co/vxGZ1d1k/0436.jpg
-0437,Fox Sports 2 • México,https://i.ibb.co/rGbpH698/0437.jpg
-0438,Fox Sports 3 • México,https://i.ibb.co/LhttSKKD/0438.jpg
-0439,Fox Sports Premium • México,https://i.ibb.co/PsHnMj9P/0439.jpg
+1436,Fox Sports • Argentina,https://i.ibb.co/tp1LVnFs/1436.jpg
+1437,Fox Sports 2 • Argentina,https://i.ibb.co/0jhPzzDH/1437.jpg
+1438,Fox Sports 3 • Argentina,https://i.ibb.co/4n7HyBfB/1438.jpg
+0436,Fox Sports • México,https://i.ibb.co/SXPv6SXS/0436.jpg
+0437,Fox Sports 2 • México,https://i.ibb.co/Qvt14W5t/0437.jpg
+0438,Fox Sports 3 • México,https://i.ibb.co/NHm0H1Q/0438.jpg
+0439,Fox Sports Premium • México,https://i.ibb.co/mC6tQmGT/0439.jpg
 0440,Fox Deportes • México,https://i.ibb.co/CsNnczy2/0440.jpg
 0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 1441,TUDN • Feed 2,https://i.ibb.co/TMqZ5MQ1/1441.jpg
 0442,Azteca Deportes • México,https://i.ibb.co/XkGhHgrN/0442.jpg
-0443,ViX Deportes,https://i.ibb.co/dwznwCkD/temp-vixdeportes.jpg
-0444,UFC,https://i.ibb.co/dwznwCkD/temp-ufc.jpg
+0443,ViX Deportes,https://i.ibb.co/V0K2nMzj/0443.jpg
+0444,UFC,https://i.ibb.co/8nV8hNqb/0444.jpg
 0445,Tennis Channel • USA,https://i.ibb.co/G4pQ69cv/0445.jpg
 0446,Golf Channel • Latin America,https://i.ibb.co/FbSfZ4Z6/0446.jpg
-0447,RedBull TV,https://i.ibb.co/dwznwCkD/temp-redbulltv.jpg
-0448,DSports Básico,https://i.ibb.co/dwznwCkD/temp-dsportsbasico.jpg
-0449,DSports Premium,https://i.ibb.co/dwznwCkD/temp-dsportspremium.jpg
+0447,RedBull TV,https://i.ibb.co/JjG22bsm/0447.jpg
+0448,DSports Básico,https://i.ibb.co/dwDDWLP8/0448.jpg
+0449,DSports Premium,https://i.ibb.co/BVPP1Ppg/0449.jpg
 0501,Stingray IConcerts,https://i.ibb.co/LzHJxPvN/0501.png
 0502,MTV Latino,https://i.ibb.co/ymD5cY62/0502.png
 0503,Concert Channel,https://i.ibb.co/B2Bd9GRL/0503.jpg
@@ -245,9 +246,9 @@
 0509,Telehit Música Plus,https://i.ibb.co/3ydMKP8w/0509.jpg
 0510,Quiero Música en mi Idioma,https://i.ibb.co/gLG5ky5G/0510.jpg
 0511,MTV Live • USA,https://i.ibb.co/v4G5zqFx/0511.jpg
-0512,CH0512,https://i.ibb.co/RT6nJQc2/0512.jpg
-0513,CH0513,https://i.ibb.co/pjHpVNVJ/0513.jpg
-0514,CH0514,https://i.ibb.co/ZzRCPmSK/0514.jpg
+0512,CH0512,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0513,CH0513,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0514,CH0514,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0515,Teleritmo,https://i.ibb.co/sdjZt2jg/0515.jpg
 0516,Bandamax,https://i.ibb.co/5xrDsx2Q/0516.jpg
 0517,Mi Música Hits,https://i.ibb.co/DPcy18tG/0517.jpg
@@ -256,9 +257,9 @@
 0520,Mi Música Popular,https://i.ibb.co/gHXqhDf/0520.jpg
 0521,Mi Música Reggaetón,https://i.ibb.co/HfX6fjDF/0521.jpg
 0522,Mi Música Salsa,https://i.ibb.co/PZqV0xhY/0522.jpg
-0523,CH0523,https://i.ibb.co/3mCsHT5B/0523.jpg
-0524,CH0524,https://i.ibb.co/3y1dPB4v/0524.jpg
-0525,CH0525,https://i.ibb.co/yc9GXTPR/0525.jpg
+0523,CH0523,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0524,CH0524,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0525,CH0525,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0526,Karavana TV,https://i.ibb.co/JWJ1pDvV/0526.jpg
 0527,Karavana Urbano,https://i.ibb.co/qFF6xsNM/0527.jpg
 0528,OLD Music,https://i.ibb.co/Tz1550x/0528.jpg
@@ -272,10 +273,10 @@
 0536,Carolina TV,https://i.ibb.co/mYFF2kh/0536.jpg
 0537,Carolina TV 2,https://i.ibb.co/Z6VrvXyc/0537.jpg
 0538,Claro Música Sin Límites,https://i.ibb.co/1GsJD9j5/0538.jpg
-0539,OH! Jazz,https://i.ibb.co/394LYYYJ/0539.jpg
+0539,OH! Jazz,https://i.ibb.co/zV6BDgYw/0539.jpg
 0540,Rumba TV,https://i.ibb.co/mFhyn1fY/0540.jpg
 0541,Telenostalgia,https://i.ibb.co/qYbJJ55v/0541.jpg
-0542,TierraMia,https://i.ibb.co/3mW21hZY/0542.jpg
+0542,TierraMia,https://i.ibb.co/wZm0SmT4/0542.jpg
 0543,Music TOP,https://i.ibb.co/QjrcG1Dy/0543.jpg
 0544,Video Rola,https://i.ibb.co/xtvsc5TG/0544.jpg
 0601,Discovery Home and Health • Feed 1,https://i.ibb.co/C3Cw8vLc/0601.jpg
@@ -333,12 +334,12 @@
 0642,UniMás • Feed 1,https://i.ibb.co/LzFk2CLK/0642.jpg
 1642,UniMás • Feed 2,https://i.ibb.co/LzFk2CLK/1642.jpg
 0643,HispanTV,https://i.ibb.co/yT3fqr3/0643.jpg
-0644,Novelísima,https://i.ibb.co/dwznwCkD/temp-novelisima.jpg
-0645,CH0645,https://i.ibb.co/dwznwCkD/0645.jpg
+0644,Novelísima,https://i.ibb.co/mV1drTPQ/0644.jpg
+0645,CH0645,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0646,Universo • Feed 1,https://i.ibb.co/FLm6g4rV/0646.jpg
 1646,Universo • Feed 2,https://i.ibb.co/FLm6g4rV/1646.jpg
 0647,Telemundo Puerto Rico,https://i.ibb.co/nMDKzP1z/0647.jpg
-0648,El Garage TV,https://i.ibb.co/dwznwCkD/temp-garagetv.jpg
+0648,El Garage TV,https://i.ibb.co/HfL6Z1G4/0648.jpg
 0701,Discovery Channel • Feed 1,https://i.ibb.co/TBDTqL1V/0701.jpg
 1701,Discovery Channel • Feed 2,https://i.ibb.co/TBDTqL1V/1701.jpg
 2701,Discovery Channel • Feed 3,https://i.ibb.co/TBDTqL1V/2701.jpg
@@ -364,14 +365,14 @@
 0712,13 Viajes,https://i.ibb.co/Gf69pLHs/0712.jpg
 0713,13 Cocina,https://i.ibb.co/n5C8z3f/0713.jpg
 0714,13 Deportes,https://i.ibb.co/YByfGcJw/0714.jpg
-0715,INTI,https://i.ibb.co/dwznwCkD/temp-inti.jpg
-0716,Teatrix,https://i.ibb.co/vCZ7TtNj/0716.jpg
+0715,INTI,https://i.ibb.co/KBSjN42/0715.jpg
+0716,Teatrix,https://i.ibb.co/JFR8QC6m/0716.jpg
 0801,Star Channel • Feed 1,https://i.ibb.co/60W0dCdh/0801.jpg
 1801,Star Channel • Feed 2,https://i.ibb.co/60W0dCdh/1801.jpg
 2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
 3801,Star Channel • Feed 4,https://i.ibb.co/60W0dCdh/3801.jpg
 0802,Canal DHE,https://i.ibb.co/yn7Qr60C/0802.jpg
-0803,CH0803,https://i.ibb.co/DfNzQWJf/0803.jpg
+0803,CH0803,https://i.ibb.co/dwznwCkD/disponible.jpg
 0804,Universal TV • Feed 1,https://i.ibb.co/N2F312yf/0804.jpg
 1804,Universal TV • Feed 2,https://i.ibb.co/N2F312yf/1804.jpg
 0805,TNT • Feed 1,https://i.ibb.co/JFGJxhnJ/0805.jpg
@@ -479,7 +480,7 @@
 0866,Daystar en Español,https://i.ibb.co/HDq7G2N1/0866.jpg
 0867,De Película Clásico,https://i.ibb.co/fG29CNB5/0867.jpg
 0868,De Película Plus,https://i.ibb.co/7dGrLjjv/0868.jpg
-0869,CH0869,https://i.ibb.co/vCZ7TtNj/0869.jpg
+0869,CH0869,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0870,A3 Cine,https://i.ibb.co/ccFht5DP/0870.jpg
 0901,TV Max • Panamá,https://i.ibb.co/QxWcRmq/0901.jpg
 0902,Caracol TV • Colombia,https://i.ibb.co/99Pj5Z3k/0902.jpg
@@ -507,7 +508,7 @@
 0920,Encuentro • Argentina,https://i.ibb.co/LDZCd9sc/0920.jpg
 0921,PBO • Perú,https://i.ibb.co/5xhJ2t2r/0921.jpg
 0922,IP Noticias • Argentina,https://i.ibb.co/rqfTnzY/0922.jpg
-0923,24-7 Canal de Noticias • Argentina,https://i.ibb.co/dwznwCkD/temp-247canalnoticias.jpg
+0923,24-7 Canal de Noticias • Argentina,https://i.ibb.co/Kjn1fMvg/0923.jpg
 0924,Canal Rural • Argentina,https://i.ibb.co/KcD7Dgzk/0924.jpg
 0925,Telediario • Argentina,https://i.ibb.co/G4D5pxVP/0925.jpg
 0926,T5 Satelital • Argentina,https://i.ibb.co/mCfw9KWN/0926.jpg
@@ -538,31 +539,31 @@
 0951,TV Agro • Colombia,https://i.ibb.co/pjPcFH9P/0951.jpg
 0952,Teleamiga • Colombia,https://i.ibb.co/BKrTq2CT/0952.jpg
 0953,Telemedellín • Colombia,https://i.ibb.co/YTfBbrBN/0953.jpg
-0954,Telelima • Perú,https://i.ibb.co/dwznwCkD/temp-telelima.jpg
+0954,Telelima • Perú,https://i.ibb.co/NnGdf3ty/0954.jpg
 0955,América TV • Perú,https://i.ibb.co/jvtQFKNb/0955.jpg
 0956,ATB • Bolivia,https://i.ibb.co/GQ6NQTnh/0956.jpg
-0957,PAT • Bolivia,https://i.ibb.co/dwznwCkD/temp-patbolivia.jpg
-0958,RTP • Bolivia,https://i.ibb.co/dwznwCkD/temp-rtpbolivia.jpg
+0957,PAT • Bolivia,https://i.ibb.co/mCdyHvsd/0957.jpg
+0958,RTP • Bolivia,https://i.ibb.co/JWtLMPPf/0958.jpg
 0959,Cadena A • Bolivia,https://i.ibb.co/C5srdyGM/0959.jpg
 0960,F10 • Bolivia,https://i.ibb.co/Z340xdc/0960.jpg
-0961,Gigavisión • Bolivia,https://i.ibb.co/dwznwCkD/temp-gigavision.jpg
+0961,Gigavisión • Bolivia,https://i.ibb.co/Pzv0nbZt/0961.jpg
 0962,Canal 14 de Tic • Argentina,https://i.ibb.co/MvWcnBk/0962.jpg
-0963,Bravo TV • Argentina,https://i.ibb.co/dwznwCkD/temp-canalearg.jpg
-0964,Canal E • Argentina,https://i.ibb.co/vCZ7TtNj/0964.jpg
+0963,Bravo TV • Argentina,https://i.ibb.co/kgMcfgYY/0963.jpg
+0964,Canal E • Argentina,https://i.ibb.co/SwzYvm31/0964.jpg
 0965,CH00965,https://i.ibb.co/vCZ7TtNj/0965.jpg
-0966,CH00966,https://i.ibb.co/vCZ7TtNj/0966.jpg
-0967,CH00967,https://i.ibb.co/vCZ7TtNj/0967.jpg
-0968,CH00968,
-0969,CH00969,
-0970,AMERICA2 FEED PY SRC MTVPRGY,
-0971,A24 FEED PY SRC MTVPRGY,
-0972,A24 FEED PY SRC RTV1944,
+0966,CH00966,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0967,CH00967,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0968,CH00968,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0969,CH00969,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0970,AMERICA2 FEED PY SRC MTVPRGY,https://i.ibb.co/jvtQFKNb/0970.jpg
+0971,A24 FEED PY SRC MTVPRGY,https://i.ibb.co/N2y1jHyx/0971.jpg
+0972,A24 FEED PY SRC RTV1944,https://i.ibb.co/N2y1jHyx/0972.jpg
 XXX0,Canal para adultos • Portal adultos,https://i.ibb.co/d4wmsb43/XXX0.jpg
 XXX1,Playboy TV • Adultos Desbloqueado,https://i.ibb.co/fGZ0sYcz/XXX1.jpg
 XXX2,Venus • Adultos Desbloqueado,https://i.ibb.co/RnZr2bk/XXX2.jpg
 XXX3,Sextreme • Adultos Desbloqueado,https://i.ibb.co/Q7S3tZcQ/XXX3.jpg
 XXX4,Hustler TV • Adultos Desbloqueado,https://i.ibb.co/93hLK6gQ/XXX4.jpg
-XXX5,Brazzer TV • Adultos Desbloqueado,https://i.ibb.co/Gy4JbCh/XXX5.jpg
+XXX5,Brazzer TV • Adultos Desbloqueado,https://i.ibb.co/G4pQ34bQ/XXX5.jpg
 XXX6,Juicy • Adultos Desbloqueado,https://i.ibb.co/fVn9KcK1/XXX6.jpg
 XXX7,Penthouse • Adultos Desbloqueado,https://i.ibb.co/KcNGS81G/XXX7.jpg
 XXX8,XTSY • Adultos Desbloqueado,https://i.ibb.co/DfhtnRt5/XXX8.jpg
