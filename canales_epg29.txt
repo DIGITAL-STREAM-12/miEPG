@@ -26,13 +26,11 @@
 678aa0b3680721c77c5035dd,The Walking Dead by AMC,https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png
 5ec5761aabe4690007f6e047,Pluto TV Star Trek,https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG_1753988442904.png
 65662f8a2c46f300088a84cc,Pluto TV Series de Sci-Fi,https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
-67e598e28b99330f75b4c629,Andromeda,https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png
 66b3af1c3a4ad200081c7d03,Z Nation,https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png
 67e5941f0812459cb682d9c6,Relic Hunter,https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
 5dcde1317578340009b751d0,Pluto TV Series,https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
 655f626d57fe4a00085c7c3e,Pluto TV Series de Comedia,https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
 655f636d954b020008c93299,Pluto TV Series de Drama,https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1765466171343.png
-67e5987eef24f48ffca08fd7,Doc Martin,https://images.pluto.tv/channels/67e5987eef24f48ffca08fd7/colorLogoPNG_1745592891380.png
 6806d570c178637410ae4962,Pluto TV Series de Otros Continentes,https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1765466496602.png
 6185a9a88b2ce30007de5128,Pluto TV Dramas Coreanos,https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png
 6661d5424b10960008599fa3,Pluto TV Dramas Coreanos Teen,https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png
@@ -47,6 +45,7 @@
 68a3a97fd8f7693ae3f8575f,Los Pitufos,https://images.pluto.tv/channels/68a3a97fd8f7693ae3f8575f/colorLogoPNG_1760386874134.png
 5dcde0cc2efd2700090b7ff4,Pluto TV Novelas,https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG_1772819701162.png
 686eed4c677f2f98b4a1ccd4,Pluto TV Novelas de Otros Continentes,https://images.pluto.tv/channels/686eed4c677f2f98b4a1ccd4/colorLogoPNG_1765466599084.png
+69b32974814d27f4aed90fdd,Madre,https://images.pluto.tv/channels/69b32974814d27f4aed90fdd/colorLogoPNG_1775832484542.png
 5ddc503ac7ef120009b101a2,Pluto TV Documentales,https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png
 6474a7958e3c0a0008b97cae,Pluto TV Novelas de México,https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG_1765475296297.png
 646ccdd0939a5900088a1980,Corazón,https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
