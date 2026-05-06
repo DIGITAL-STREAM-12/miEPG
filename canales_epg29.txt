@@ -104,7 +104,7 @@
 697c9bc2a7ce9d5a3d83504a,Dr. G,https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png
 5ea71d48af1d0b0007d837f4,The New Detectives,https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png
 5f610042272f68000867685b,Misterios sin Resolver,https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png
-62310d5a5dc9550007c6f580,CBS News,https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1732045727243.png
+62310d5a5dc9550007c6f580,CBS News 24/7,https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png
 619d59b7cbef25000728221c,Euronews Español,https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png
 67d9b0ebc290c9499046e88f,RCN Noticias,https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png
 646ccd3681844c000974d6f4,ADN Noticias,https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG_1761233566409.png
