@@ -103,7 +103,6 @@ I169.95687.schedulesdirect.org,CINEM,https://schedulesdirect-api20141201-logos.s
 I170.16522.schedulesdirect.org,CINPLA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png
 I172.47398.schedulesdirect.org,PLATMPX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16522_dark_360w_270h.png
 I173.101730.schedulesdirect.org,CINELWH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png
-I174.10120.schedulesdirect.org,MAX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10120_dark_360w_270h.png
 I175.16794.schedulesdirect.org,Cinemax Este,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16794_dark_360w_270h.png
 I177.110045.schedulesdirect.org,CLAN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110045_dark_360w_270h.png
 I181.72291.schedulesdirect.org,Claro Sports 1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72291_dark_360w_270h.png
@@ -191,7 +190,6 @@ I310.16350.schedulesdirect.org,EWTNL,https://schedulesdirect-api20141201-logos.s
 I311.47403.schedulesdirect.org,EXATV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png
 I312.82353.schedulesdirect.org,EXCELTV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82353_dark_360w_270h.png
 I313.97187.schedulesdirect.org,EXCELHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82353_dark_360w_270h.png
-I315.91833.schedulesdirect.org,FAS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91833_dark_360w_270h.png
 I317.83458.schedulesdirect.org,FFBOX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83458_dark_360w_270h.png
 I320.78763.schedulesdirect.org,FIGHTBX,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78763_dark_360w_270h.png
 I322.106731.schedulesdirect.org,FAMEXHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87687_dark_360w_270h.png
@@ -214,7 +212,6 @@ I346.123582.schedulesdirect.org,ESPN Premium,https://schedulesdirect-api20141201
 I347.58685.schedulesdirect.org,FRNC24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58685_dark_360w_270h.png
 I348.105781.schedulesdirect.org,France 24 Espa&#241;ol,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105780_dark_360w_270h.png
 I349.70130.schedulesdirect.org,F24EN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70130_dark_360w_270h.png
-I350.82541.schedulesdirect.org,FS1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png
 I354.77617.schedulesdirect.org,FXLHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105689_dark_360w_270h.png
 I355.46442.schedulesdirect.org,FX Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png
 I358.78807.schedulesdirect.org,FXLCEN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46442_dark_360w_270h.png
@@ -315,7 +312,6 @@ I514.16707.schedulesdirect.org,Nick LatinoAmerica HD,https://schedulesdirect-api
 I515.101731.schedulesdirect.org,Nickelodeon Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101208_dark_360w_270h.png
 I516.60295.schedulesdirect.org,NICKJLM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
 I517.84412.schedulesdirect.org,NICKJMH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60295_dark_360w_270h.png
-I518.11006.schedulesdirect.org,NIK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png
 I519.90209.schedulesdirect.org,Nickmusic,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90209_dark_360w_270h.png
 I522.61988.schedulesdirect.org,NTN24,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61988_dark_360w_270h.png
 I523.91644.schedulesdirect.org,NU,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47403_dark_360w_270h.png
@@ -367,7 +363,6 @@ I588.106724.schedulesdirect.org,STARHD,https://schedulesdirect-api20141201-logos
 I636.28751.schedulesdirect.org,STGJUI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28751_dark_360w_270h.png
 I678.90605.schedulesdirect.org,STULMHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90605_dark_360w_270h.png
 I679.29017.schedulesdirect.org,Studio Universal,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png
-I680.11097.schedulesdirect.org,Syfy Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png
 I681.19246.schedulesdirect.org,TCM America Latina,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19246_dark_360w_270h.png
 I682.72294.schedulesdirect.org,Teen Nick LatinoAmerica HD,
 I683.77783.schedulesdirect.org,NIKLAHS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s77783_dark_360w_270h.png
@@ -432,8 +427,8 @@ I769.98111.schedulesdirect.org,Warner Channel Latinoamerica,https://schedulesdir
 I770.80808.schedulesdirect.org,Warner LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003294GF.png_dark_360w_270h.png
 I771.111816.schedulesdirect.org,WIZLT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111815_dark_360w_270h.png
 I772.59014.schedulesdirect.org,WOBI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59014_dark_360w_270h.png
-I1000.55719.schedulesdirect.org,Cartoonito,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png
 I1000.118937.schedulesdirect.org,Claro Sports 2,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s119143_dark_360w_270h.png
+I1000.55719.schedulesdirect.org,Cartoonito,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png
 I1002.15178.schedulesdirect.org,XEIPN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116166_dark_360w_270h.png
 I1002.47627.schedulesdirect.org,TVLOBOS,
 I1004.16461.schedulesdirect.org,Las Estrellas,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png

@@ -17,6 +17,7 @@
 608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1,RCN Más,https://provider-static.plex.tv/epg/cms/production/3536c2ea-de74-421a-8942-642d472cc7c8/rcn-mas.png
 608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13,RCN Más,https://provider-static.plex.tv/epg/cms/production/114ff770-db66-459b-bc19-3ef4bfffe712/rcn-mas.png
 608049aefa2b8ae93c2c3a63-66633339ebeb02ee8bd1597c,FIFA+,https://provider-static.plex.tv/epg/cms/production/754b914b-60f2-4349-89c6-9e744f91bf9f/FIFA__Logo_Rectangle_1500x1000_WHT.png
+608049aefa2b8ae93c2c3a63-69f4f6c2647c1d14cc38677b,NFL Channel,https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png
 608049aefa2b8ae93c2c3a63-668431d0702b9db9f817725e,Runtime,https://provider-static.plex.tv/epg/cms/production/2bb53c0b-9893-4531-8609-e4c811441126/Runtime_LATAM_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-64d79408e5f67b0fab47ff24,Misterios sin Resolver,https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png
 608049aefa2b8ae93c2c3a63-6972759a1f24d187b5b19320,FreeTV Saber Más,https://provider-static.plex.tv/epg/cms/production/faeaeaf7-b920-463e-ba9c-ad010bf29649/FreeTVSaberM_s_Circle_1500x1000_-_Ralph_Campillo.png
@@ -287,3 +288,5 @@
 608049aefa2b8ae93c2c3a63-69814bbff871095eafc65925,Powernation,https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png
 608049aefa2b8ae93c2c3a63-67c2496d45ae99120c071588,Life Down Under,https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png
 608049aefa2b8ae93c2c3a63-69d6d88b1790acff6189dea5,AddictaTV,https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png
+608049aefa2b8ae93c2c3a63-69f52ffb6e5708fb20d36d9c,The Prof G Channel,https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png
+608049aefa2b8ae93c2c3a63-652a8b001b5c74bc83cf727c,Dog Whisperer,https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png
