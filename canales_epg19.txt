@@ -442,6 +442,7 @@
 0839,Multicinema,https://i.ibb.co/xtmPP1fV/0839.jpg
 0840,Cinemax • Feed 1,https://i.ibb.co/7d8mt8mq/0840.jpg
 1840,Cinemax • Feed 2,https://i.ibb.co/7d8mt8mq/1840.jpg
+2840,Cinemax • Feed 3,
 0841,Universal Cinema • Feed 1,https://i.ibb.co/S4271Vcp/0841.png
 1841,Universal Cinema • Feed 2,https://i.ibb.co/S4271Vcp/1841.png
 0842,Universal Crime • Feed 1,https://i.ibb.co/nsdZjzdn/0842.png
@@ -461,6 +462,7 @@
 0849,Rewind,https://i.ibb.co/3yb6d1bw/0849.jpg
 0850,Adult Swim • Feed 1,https://i.ibb.co/qYNcGbJX/0850.jpg
 1850,Adult Swim • Feed 2,https://i.ibb.co/qYNcGbJX/1850.jpg
+2850,Adult Swim • Feed 3,
 0851,Film and Arts • Feed 1,https://i.ibb.co/ZR7MLBr4/0851.jpg
 1851,Film and Arts • Feed 2,https://i.ibb.co/ZR7MLBr4/1851.jpg
 0852,FMH Movies,https://i.ibb.co/MyFGSMNS/0852.jpg
