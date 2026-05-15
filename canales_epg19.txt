@@ -2,7 +2,7 @@
 0000,SIN EPG,https://i.ibb.co/dwznwCkD/0000.jpg
 0001,Programación Variada,https://i.ibb.co/dwznwCkD/0001.jpg
 0002,Eventos,https://i.ibb.co/dwznwCkD/0002.jpg
-0101,Telecanal,https://i.ibb.co/chZPt2fm/0101.jpg
+0101,Telecanal,https://i.ibb.co/6JmJJZqf/0101.jpg
 0102,La Red,https://i.ibb.co/5hSXMSYs/0102.jpg
 0103,TV Más,https://i.ibb.co/PSQd771/0103.jpg
 0104,TVN,https://i.ibb.co/KHyZm2W/0104.jpg
@@ -100,7 +100,7 @@
 0206,France 24 Español,https://i.ibb.co/TpRd2K2/0206.jpg
 0207,CHV Noticias,https://i.ibb.co/FbWYhKT3/0207.jpg
 0208,Meganoticias,https://i.ibb.co/Pvr20cBG/0208.jpg
-0209,RT Español,https://i.ibb.co/zhR7c1YP/0209.png
+0209,RT Español,https://i.ibb.co/C3bgjdPw/0209.png
 0210,CNN en Español,https://i.ibb.co/wFbRmF6w/0210.jpg
 0211,DNews,https://i.ibb.co/s9Js7m5T/0211.jpg
 0212,NTN 24,https://i.ibb.co/rRw5zr2x/0212.jpg
@@ -423,8 +423,8 @@
 0830,De Película • Feed 1,https://i.ibb.co/C3p6gx6x/0830.jpg
 1830,De Película • Feed 2,https://i.ibb.co/C3p6gx6x/1830.jpg
 0831,Clover Channel,https://i.ibb.co/6c2jd8hr/0831.jpg
-0832,Warner Channel • Feed 1,https://i.ibb.co/0RNyXGm7/0832.jpg
-1832,Warner Channel • Feed 2,https://i.ibb.co/0RNyXGm7/1832.jpg
+0832,Warner Channel • Feed 1,https://i.ibb.co/SwpdPqSL/0832.jpg
+1832,Warner Channel • Feed 2,https://i.ibb.co/SwpdPqSL/1832.jpg
 0833,TNT Series • Feed 1,https://i.ibb.co/mFMSJH2g/0833.jpg
 1833,TNT Series • Feed 2,https://i.ibb.co/mFMSJH2g/1833.jpg
 2833,TNT Series • Feed 3,https://i.ibb.co/mFMSJH2g/2833.jpg
