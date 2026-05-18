@@ -555,8 +555,8 @@
 0965,CH00965,https://i.ibb.co/vCZ7TtNj/0965.jpg
 0966,CH00966,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0967,CH00967,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0968,CH00968,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-0969,CH00969,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0968,HOBIKKA TEST,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0969,KNINO TEST,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0970,AMERICA2 FEED PY SRC MTVPRGY,https://i.ibb.co/jvtQFKNb/0970.jpg
 0971,A24 FEED PY SRC MTVPRGY,https://i.ibb.co/N2y1jHyx/0971.jpg
 0972,A24 FEED PY SRC RTV1944,https://i.ibb.co/N2y1jHyx/0972.jpg
