@@ -1,91 +1,57 @@
-# Fuente: https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz
-Canal.A&amp;E.(Ecuador).ec,Canal A&amp;E (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-Canal.AMC.(Ecuador).ec,Canal AMC (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.AXN.(Ecuador).ec,Canal AXN (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
-Canal.Animal.Planet.(Ecuador).ec,Canal Animal Planet (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
-Canal.Antena.3.ec,Canal Antena 3,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
-Canal.BBC.World.News.ec,Canal BBC World News,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
-Canal.Baby.TV.(Latinoamérica).ec,Canal Baby TV (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
-Canal.CNN.Chile.ec,Canal CNN Chile,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_chile-mediano.png
-Canal.CNN.en.Español.ec,Canal CNN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
-Canal.Caracol.Internacional.ec,Canal Caracol Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/caracol_colombia-mediano.png
-Canal.Cartoon.Network.(Ecuador).ec,Canal Cartoon Network (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
-Canal.Cinecanal.(Ecuador).ec,Canal Cinecanal (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
-Canal.Cinelatino.ec,Canal Cinelatino,https://imagenes.gatotv.com/logos/canales/oscuros/cinelatino-mediano.png
-Canal.Cinemax.(Ecuador).ec,Canal Cinemax (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
-Canal.Claro.TV.ec,Canal Claro TV,https://imagenes.gatotv.com/logos/canales/oscuros/claro_tv-mediano.png
-Canal.Comedy.Central.(Ecuador).ec,Canal Comedy Central (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
-Canal.DHE.ec,Canal DHE,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
-Canal.DW.(Latinoamérica).ec,Canal DW (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
-Canal.De.Película.ec,Canal De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
-Canal.Discovery.Home.&amp;.Health.(Ecuador).ec,Canal Discovery Home &amp; Health (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-Canal.Discovery.Kids.(Ecuador).ec,Canal Discovery Kids (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
-Canal.Discovery.Science.(Latinoamérica).ec,Canal Discovery Science (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_science-mediano.png
-Canal.Discovery.Theater.(Latinoamérica).ec,Canal Discovery Theater (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_theater-mediano.png
-Canal.Discovery.Turbo.(Latinoamérica).ec,Canal Discovery Turbo (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_turbo-mediano.png
-Canal.Discovery.World.Latinoamérica.ec,Canal Discovery World Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_world-mediano.png
-Canal.Disney.Channel.(Ecuador).ec,Canal Disney Channel (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
-Canal.Disney.Junior.(Ecuador).ec,Canal Disney Junior (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/disney_junior-mediano.png
-Canal.E!.Entertainment.Television.(Ecuador).ec,Canal E! Entertainment Television (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
-Canal.ESNE.TV.ec,Canal ESNE TV,https://imagenes.gatotv.com/logos/canales/oscuros/esne_tv-mediano.png
-Canal.ESPN.(Ecuador).ec,Canal ESPN (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
-Canal.ESPN.2.(Ecuador).ec,Canal ESPN 2 (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
-Canal.ESPN.3.(Ecuador).ec,Canal ESPN 3 (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
-Canal.ESPN.4.(Ecuador).ec,Canal ESPN 4 (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
-Canal.EWTN.en.Español.ec,Canal EWTN en Español,https://imagenes.gatotv.com/logos/canales/oscuros/ewtn_en_espanol-mediano.png
-Canal.Ecuador.TV.ec,Canal Ecuador TV,https://imagenes.gatotv.com/logos/canales/oscuros/ecuador_tv-mediano.png
-Canal.Ecuavisa.(Ecuador).ec,Canal Ecuavisa (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png
-Canal.Elgourmet.ec,Canal Elgourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
-Canal.Eurochannel.ec,Canal Eurochannel,https://imagenes.gatotv.com/logos/canales/oscuros/eurochannel-mediano.png
-Canal.Europa.Europa.ec,Canal Europa Europa,https://imagenes.gatotv.com/logos/canales/oscuros/europa_europa-mediano.png
-Canal.FX.(Ecuador).ec,Canal FX (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Canal.Film.&amp;.Arts.ec,Canal Film &amp; Arts,https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png
-Canal.Fox.News.ec,Canal Fox News,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
-Canal.Gamavisión.ec,Canal Gamavisión,https://imagenes.gatotv.com/logos/canales/oscuros/gamavision-mediano.png
-Canal.GolTV.Latinoamérica.ec,Canal GolTV Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
-Canal.Golden.(Ecuador).ec,Canal Golden (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
-Canal.HTV.ec,Canal HTV,https://imagenes.gatotv.com/logos/canales/oscuros/htv-mediano.png
-Canal.History.(Chile).ec,Canal History (Chile),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
-Canal.History.2.(Ecuador).ec,Canal History 2 (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
-Canal.Inti.Network.ec,Canal Inti Network,https://imagenes.gatotv.com/logos/canales/oscuros/inti_network-mediano.png
-Canal.Investigation.Discovery.(Ecuador).ec,Canal Investigation Discovery (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Canal.Las.Estrellas.(Ecuador).ec,Canal Las Estrellas (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-Canal.Lifetime.(Ecuador).ec,Canal Lifetime (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
-Canal.MTV.(Ecuador).ec,Canal MTV (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-Canal.MTV.00s.ec,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
-Canal.MTV.Hits.ec,Canal MTV Hits,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png
-Canal.MTV.Live.HD.ec,Canal MTV Live HD,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
-Canal.Multipremier.ec,Canal Multipremier,https://imagenes.gatotv.com/logos/canales/oscuros/multipremier-mediano.png
-Canal.Más.Chic.Latinoamérica.ec,Canal Más Chic Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
-Canal.Nick.Jr..(Ecuador).ec,Canal Nick Jr. (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
-Canal.Nickelodeon.(Ecuador).ec,Canal Nickelodeon (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
-Canal.Paramount.Channel.(Ecuador).ec,Canal Paramount Channel (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Canal.Pasiones.(Latinoamérica).ec,Canal Pasiones (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
-Canal.RAI.International.ec,Canal RAI International,https://imagenes.gatotv.com/logos/canales/oscuros/rai_italia_international-mediano.png
-Canal.RCN.Novelas.ec,Canal RCN Novelas,https://imagenes.gatotv.com/logos/canales/oscuros/rcn_novelas-mediano.png
-Canal.RCN.Nuestra.Tele.(Internacional).ec,Canal RCN Nuestra Tele (Internacional),https://imagenes.gatotv.com/logos/canales/oscuros/rcn_nuestra_tele-mediano.png
-Canal.RTS.ec,Canal RTS,https://imagenes.gatotv.com/logos/canales/oscuros/rts-mediano.png
-Canal.Space.(Ecuador).ec,Canal Space (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
-Canal.Studio.Universal.(Ecuador).ec,Canal Studio Universal (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/studio_universal-mediano.png
-Canal.TC.Televisión.ec,Canal TC Televisión,https://imagenes.gatotv.com/logos/canales/oscuros/tc_television-mediano.png
-Canal.TCM.(Ecuador).ec,Canal TCM (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-Canal.TLC.(Ecuador).ec,Canal TLC (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
-Canal.TLNovelas.(Ecuador).ec,Canal TLNovelas (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/tlnovelas-mediano.png
-Canal.TNT.(Ecuador).ec,Canal TNT (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
-Canal.TNT.Novelas.(Ecuador).ec,Canal TNT Novelas (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
-Canal.TV.Azteca.Mundo.ec,Canal TV Azteca Mundo,https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_mundo-mediano.png
-Canal.TV.Chile.ec,Canal TV Chile,https://imagenes.gatotv.com/logos/canales/oscuros/tv_chile-mediano.png
-Canal.TVE.Internacional.(Televisión.Española).ec,Canal TVE Internacional (Televisión Española),https://imagenes.gatotv.com/logos/canales/oscuros/tve_internacional-mediano.png
-Canal.TeenNick.ec,Canal TeenNick,https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png
-Canal.Teleantioquia.ec,Canal Teleantioquia,https://imagenes.gatotv.com/logos/canales/oscuros/teleantioquia-mediano.png
-Canal.Telefe.Internacional.ec,Canal Telefe Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/telefe_internacional-mediano.png
-Canal.Telehit.ec,Canal Telehit,https://imagenes.gatotv.com/logos/canales/oscuros/telehit-mediano.png
-Canal.Telemundo.(Ecuador).ec,Canal Telemundo (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
-Canal.USA.Network.(Ecuador).ec,Canal USA Network (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
-Canal.Universal.TV.(Ecuador).ec,Canal Universal TV (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
-Canal.Univision.(Ecuador).ec,Canal Univision (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
-Canal.Ve.Plus.(Latinoamérica).ec,Canal Ve Plus (Latinoamérica),https://imagenes.gatotv.com/logos/canales/oscuros/ve_plus-mediano.png
-Canal.Warner.TV.(Ecuador).ec,Canal Warner TV (Ecuador),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
-Canal.Zona.Latina.ec,Canal Zona Latina,https://imagenes.gatotv.com/logos/canales/oscuros/zona_latina-mediano.png
-Canal.ZooMoo.Latinoamérica.ec,Canal ZooMoo Latinoamérica,https://imagenes.gatotv.com/logos/canales/oscuros/zoomoo-mediano.png
-Canal.¡HOLA!.TV.ec,Canal ¡HOLA! TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz
+Canal.2.de.República.Dominicana.(Teleantillas).do,Canal 2 de República Dominicana (Teleantillas),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png
+Canal.5.de.República.Dominicana.(Telemicro).do,Canal 5 de República Dominicana (Telemicro),https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png
+Canal.7.de.Antena.Latina.(República.Dominicana).do,Canal 7 de Antena Latina (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
+Canal.9.de.Color.Visión.(República.Dominicana).do,Canal 9 de Color Visión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png
+Canal.Telesistema.11.(República.Dominicana).do,Canal Telesistema 11 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png
+Canal.Telecentro.(13.de.República.Dominicana).do,Canal Telecentro (13 de República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png
+Canal.15.(Digital.Quince.Telemicro).(República.Dominicana).do,Canal 15 (Digital Quince Telemicro) (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png
+Canal.29.de.TeleUniverso.(República.Dominicana).do,Canal 29 de TeleUniverso (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png
+Canal.37.de.República.Dominicana.(CDN).do,Canal 37 de República Dominicana (CDN),https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png
+Canal.A&amp;E.(República.Dominicana).do,Canal A&amp;E (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+Canal.AMC.(República.Dominicana).do,Canal AMC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
+Canal.Animal.Planet.(República.Dominicana).do,Canal Animal Planet (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
+Canal.AXN.(República.Dominicana).do,Canal AXN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+Canal.Cartoon.Network.(República.Dominicana).do,Canal Cartoon Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica-mediano.png
+Canal.Cartoonito.(República.Dominicana).do,Canal Cartoonito (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cartoonito-mediano.png
+Canal.CDN.Deportes.do,Canal CDN Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/cdn_deportes-mediano.png
+Canal.Cinecanal.(República.Dominicana).do,Canal Cinecanal (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinecanal-mediano.png
+Canal.Cinemax.(República.Dominicana).do,Canal Cinemax (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png
+Canal.Comedy.Central.(República.Dominicana).do,Canal Comedy Central (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png
+Canal.Discovery.Channel.(República.Dominicana).do,Canal Discovery Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
+Canal.Discovery.Home.&amp;.Health.(República.Dominicana).do,Canal Discovery Home &amp; Health (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
+Canal.Discovery.Kids.(República.Dominicana).do,Canal Discovery Kids (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/discovery_kids-mediano.png
+Canal.Disney.Channel.(República.Dominicana).do,Canal Disney Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/disney_channel-mediano.png
+Canal.E!.Entertainment.Television.(República.Dominicana).do,Canal E! Entertainment Television (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/e_-mediano.png
+Canal.ESPN.(República.Dominicana).do,Canal ESPN (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png
+Canal.ESPN.2.(República.Dominicana).do,Canal ESPN 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png
+Canal.ESPN.3.(República.Dominicana).do,Canal ESPN 3 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png
+Canal.ESPN.4.(República.Dominicana).do,Canal ESPN 4 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png
+Canal.ESPN.5.(República.Dominicana).do,Canal ESPN 5 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png
+Canal.ESPN.6.(República.Dominicana).do,Canal ESPN 6 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png
+Canal.FX.(República.Dominicana).do,Canal FX (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
+Canal.Golden.(República.Dominicana).do,Canal Golden (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
+Canal.HBO.(República.Dominicana).do,Canal HBO (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
+Canal.History.(República.Dominicana).do,Canal History (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png
+Canal.History.2.(República.Dominicana).do,Canal History 2 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/history_2-mediano.png
+Canal.Lifetime.(República.Dominicana).do,Canal Lifetime (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
+Canal.MTV.(República.Dominicana).do,Canal MTV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
+Canal.National.Geographic.(República.Dominicana).do,Canal National Geographic (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
+Canal.Nick.Jr..(República.Dominicana).do,Canal Nick Jr. (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nick_jr-mediano.png
+Canal.Nickelodeon.(República.Dominicana).do,Canal Nickelodeon (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/nickelodeon-mediano.png
+Canal.Paramount.Channel.(República.Dominicana).do,Canal Paramount Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
+Canal.Sony.(República.Dominicana).do,Canal Sony (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Canal.Space.(República.Dominicana).do,Canal Space (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
+Canal.Star.Channel.(República.Dominicana).do,Canal Star Channel (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/star_channel-mediano.png
+Canal.TCM.(República.Dominicana).do,Canal TCM (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
+Canal.Telemundo.(República.Dominicana).do,Canal Telemundo (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telemundo-mediano.png
+Canal.Teleunion.(República.Dominicana).do,Canal Teleunion (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/teleunion-mediano.png
+Canal.Televisión.Dominicana.do,Canal Televisión Dominicana,https://imagenes.gatotv.com/logos/canales/oscuros/tv_dominicana-mediano.png
+Canal.TLC.(República.Dominicana).do,Canal TLC (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
+Canal.TNT.(República.Dominicana).do,Canal TNT (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_latinoamerica-mediano.png
+Canal.TNT.Novelas.(República.Dominicana).do,Canal TNT Novelas (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_novelas_latinoamerica-mediano.png
+Canal.TNT.Series.(República.Dominicana).do,Canal TNT Series (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/tnt_series-mediano.png
+Canal.Universal.TV.(República.Dominicana).do,Canal Universal TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/universal_tv-mediano.png
+Canal.Univisión.(República.Dominicana).do,Canal Univisión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/univision-mediano.png
+Canal.USA.Network.(República.Dominicana).do,Canal USA Network (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/usa_network_latinoamerica-mediano.png
+Canal.Warner.TV.(República.Dominicana).do,Canal Warner TV (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/warner_tv-mediano.png
