@@ -527,6 +527,8 @@ VTV+.HD.uy,VTV+.uy
 plex.tv.Grjngo.-.Películas.Del.Oeste.plex,Grjngo Mexico
 ES:.Grjngo.be,Grjngo España
 Starz.Encore.Westerns.SD.us2,Starz Westerns.us
+Cine Western,Cine Western.tf
+RCN Más,RCN Más.tf
 plex.tv.Hallmark.en.Español.plex,Hallmark Español.plex
 plex.tv.Cops.en.Español.plex,Cops Español.plex
 plex.tv.ARTFLIX.-.Movie.Classics.plex,Artflix.plex
