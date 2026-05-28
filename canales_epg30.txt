@@ -66,7 +66,7 @@
 625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
 5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
 6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
-5e3ddbd27091820009f86dd9,MasterChef,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1762358606733.png
+5e3ddbd27091820009f86dd9,MasterChef,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1779913910034.png
 6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
 5e46e64dc73db400094b5f0b,Minuto Para Ganar,https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
 662bf39756fc840008f25cb9,Sony One Escape Perfecto,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png

@@ -90,6 +90,7 @@ Programacion Local,Programacion Local,
 SMRTV Michoacan,SMRTV Michoacan,https://i.imgur.com/z1VIGD7.png
 Solo Stand Up,Solo Stand Up,https://lh3.googleusercontent.com/-vs6bQTy4Dns/X30TqJ-CdrI/AAAAAAAA6M4/WUtqB3d4eiEp7oHE44DkOhh5V0NNTDMSACK8BGAsYHg/s0/2020-10-06.png
 South Park,South Park,
+Teleposadas,Teleposadas,https://i.imgur.com/RUuoMlL.png
 Telesistema,Telesistema,https://i.imgur.com/FhkTl6z.jpg
 Transmedia TV,Transmedia TV,https://i.imgur.com/z1VIGD7.png
 TV Educa Chile,TV Educa Chile,https://cdn.mitvstatic.com/programs/cl_tv-educa_l_l.jpg
