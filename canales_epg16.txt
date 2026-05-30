@@ -449,7 +449,7 @@ WOOHOO.uy,WOOHOO,
 [NGCLA].National.Geographic.uy,[NGCLA] National Geographic,http://dtil.tmsimg.com/assets/s25068_ll_h15_ab.png?w=360&amp;h=270
 [NHKL].NHK.TV.World.Premium.uy,[NHKL] NHK TV World Premium,http://dtil.tmsimg.com/assets/s19733_ll_h9_ab.png?w=360&amp;h=270
 [NICKJLM].Nick.Jr..uy,[NICKJLM] Nick Jr.,http://dtil.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&amp;h=270
-[NICKJMH].Nick.Jr..uy,[NICKJMH] Nick Jr.,http://dtil.tmsimg.com/assets/s60295_h3_aa.png?w=360&amp;h=270
+[NICKJMH].Nick.Jr..uy,[NICKJMH] Nick Jr.,http://dtil.tmsimg.com/assets/s60295_ll_h15_aa.png?w=360&amp;h=270
 [NIKL].Nick.uy,[NIKL] Nick,http://dtil.tmsimg.com/assets/s16707_ll_h15_ac.png?w=360&amp;h=270
 [NTN24].NTN24.uy,[NTN24] NTN24,http://dtil.tmsimg.com/assets/s61988_ll_h15_ac.png?w=360&amp;h=270
 [NUEVOPE].NUEVO.TIEMPO.uy,[NUEVOPE] NUEVO TIEMPO,http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png
