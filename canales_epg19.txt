@@ -917,7 +917,7 @@ I464.75176.schedulesdirect.org,TUDN,https://schedulesdirect-api20141201-logos.s3
 I465.72189.schedulesdirect.org,Fox Sports Deportes,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15377_dark_360w_270h.png
 I466.71914.schedulesdirect.org,ESPN Deportes,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71914_dark_360w_270h.png
 I468.32161.schedulesdirect.org,Goltv,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32161_dark_360w_270h.png
-I469.111046.schedulesdirect.org,TyC Sports,
+I469.111046.schedulesdirect.org,TyC Sports,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0034VR6G.png_dark_360w_270h.png
 I501.10240.schedulesdirect.org,HBO East,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
 I501.19548.schedulesdirect.org,HBO East HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19548_dark_360w_270h.png
 I504.10244.schedulesdirect.org,HBOP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png
