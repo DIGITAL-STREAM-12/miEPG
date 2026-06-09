@@ -52,6 +52,7 @@
 699769fa19ac123965833fd3,Cuando los Ángeles Caen,https://images.pluto.tv/channels/699769fa19ac123965833fd3/colorLogoPNG_1773786938217.png
 604bdf4e6d0abc0007ba77ad,Sin Tetas No Hay Paraíso,https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
 63211ba9cad976000794f988,La Selección,https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
+69de4ad924a6d521f8b0a348,RCN Más,https://images.pluto.tv/channels/69de4ad924a6d521f8b0a348/colorLogoPNG_1776884271790.png
 6474a86917f5e100089a0c1c,Pluto TV Novelas de Venezuela,https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG_1765471713312.png
 698a45156dc3c71eb1ba6599,Pluto TV Amor y Mentiras,https://images.pluto.tv/channels/698a45156dc3c71eb1ba6599/colorLogoPNG_1771861302998.png
 5dcde197f6591d0009839e04,Pluto TV Reality,https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
@@ -66,11 +67,14 @@
 625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
 5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
 6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
-5e3ddbd27091820009f86dd9,MasterChef,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1779913910034.png
+5e3ddbd27091820009f86dd9,MasterChef México,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1780939055727.png
+69fcaa88e022927e1c94c533,MasterChef Argentina,https://images.pluto.tv/channels/69fcaa88e022927e1c94c533/colorLogoPNG_1779731088552.png
+69fcaa71ea95ffff0987f555,MasterChef Colombia,https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png
 6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
 5e46e64dc73db400094b5f0b,Minuto Para Ganar,https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
 662bf39756fc840008f25cb9,Sony One Escape Perfecto,https://images.pluto.tv/channels/662bf39756fc840008f25cb9/colorLogoPNG_1772461215418.png
 5ed6828192e8b3000743ef61,Wipe Out,https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png
+69fca9dd14a5dfae8875a3be,Survivor México,https://images.pluto.tv/channels/69fca9dd14a5dfae8875a3be/colorLogoPNG_1778516804340.png
 6495af324c014a000842e923,Desafío Super Humanos,https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png
 68b784d03e17b7676a0378f7,Shockwave,https://images.pluto.tv/channels/68b784d03e17b7676a0378f7/colorLogoPNG_1760108955019.png
 5dd85eac039bba0009e86d1d,Pluto TV Naturaleza,https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png
@@ -89,6 +93,7 @@
 5f9992c685a2a80007fa414a,Dog el cazarrecompensas,https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
 5f23102d5e239d00074b092a,Empeños a lo bestia,https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
 6109ab25b84d6a0007504886,Pluto TV Mi Obsesión Favorita,https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
+69fcaaa1853a01a827bcd056,I Shouldn't Be Alive,https://images.pluto.tv/channels/69fcaaa1853a01a827bcd056/colorLogoPNG_1778856115341.png
 678533155e0e6a000828cd48,Untold Stories of the ER,https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
 5f230e416b68ff00075b0139,Misterios Medicos,https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png
 63a084934734f30007457b2c,Smithsonian Channel Pluto TV,https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png
@@ -131,6 +136,7 @@
 609ae5cd48d3200007b0a98e,Comedy Central South Park,https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG_1764595225705.png
 62d0895ebe7a970008785244,Daria,https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png
 62d08af527ce19000731eaa0,La Familia del Barrio,https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png
+69fca9f9b9c0f0d444f631ca,Mr. Bean Animated,https://images.pluto.tv/channels/69fca9f9b9c0f0d444f631ca/colorLogoPNG_1778514521886.png
 699763d184235f26d5056002,Enchufe.TV,https://images.pluto.tv/channels/699763d184235f26d5056002/colorLogoPNG_1773231206751.png
 5e8397936791b30007ebb5a7,Pluto TV Humor,https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png
 5ffcc21a432945000762d06b,Comedy Central Pluto TV,https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG_1762352083476.png
