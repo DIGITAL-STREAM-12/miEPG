@@ -1,7 +1,7 @@
 # Fuente: https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz
 Canal.2.de.República.Dominicana.(Teleantillas).do,Canal 2 de República Dominicana (Teleantillas),https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png
 Canal.5.de.República.Dominicana.(Telemicro).do,Canal 5 de República Dominicana (Telemicro),https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png
-Canal.7.de.Antena.Latina.(República.Dominicana).do,Canal 7 de Antena Latina (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
+Canal.7.de.Antena.Latina.(República.Dominicana).do,Canal 7 de Antena Latina (República Dominicana),
 Canal.9.de.Color.Visión.(República.Dominicana).do,Canal 9 de Color Visión (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png
 Canal.Telesistema.11.(República.Dominicana).do,Canal Telesistema 11 (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png
 Canal.Telecentro.(13.de.República.Dominicana).do,Canal Telecentro (13 de República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png

@@ -96,7 +96,11 @@ Transmedia TV,Transmedia TV,https://i.imgur.com/z1VIGD7.png
 TV Educa Chile,TV Educa Chile,https://cdn.mitvstatic.com/programs/cl_tv-educa_l_l.jpg
 TVLuchitas,TVLuchitas,https://static-cdn.jtvnw.net/jtv_user_pictures/58d4bee8-b7ce-45de-baad-a54b06c134bf-profile_image-70x70.png
 Copa America,Copa America,
+Copa Mundial 2026,Copa Mundial 2026,
 Copa Mundial,Copa Mundial,
+Copa 2026,Copa 2026,
+EVENTO 1,EVENTO 1,
+EVENTO 2,EVENTO 2,
 Copa Oro,Copa Oro,
 Eurocopa,Eurocopa,
 Deportes 1,Deportes 1,

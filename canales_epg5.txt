@@ -112,7 +112,7 @@ YOUTUBE.co,YOUTUBE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/37/
 YOUTUBE.KIDS.co,YOUTUBE KIDS,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/37/7379404_75239663FF85A1F6.png
 RCN.HDTV.2.(RCNHD2).co,RCN HDTV 2 (RCNHD2),
 Portal.DIRECTV.Sports(DTVS).co,Portal DIRECTV Sports(DTVS),
-DSPORTS.(COL).(DTSC).co,DSPORTS (COL) (DTSC),
+DSPORTS.(COL).(DTSC).co,DSPORTS (COL) (DTSC),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/610.png
 DSPORTS.2.(DTS2).co,DSPORTS 2 (DTS2),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/612.png
 DSPORTS.+(DTS+).co,DSPORTS +(DTS+),https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/CO/613.png
 DSports.Motor(DSPM).co,DSports Motor(DSPM),

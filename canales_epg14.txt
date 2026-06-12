@@ -39,7 +39,7 @@ Canal.5.de.República.Dominicana.(Telemicro).sv,Canal 5 de República Dominicana
 Canal.6.de.Costa.Rica.sv,Canal 6 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/6_de_costa_rica-mediano.png
 Canal.6.de.El.Salvador.sv,Canal 6 de El Salvador,https://imagenes.gatotv.com/logos/canales/oscuros/6_el_salvador-mediano.png
 Canal.6.de.Puerto.Rico.(WIPR-TV).sv,Canal 6 de Puerto Rico (WIPR-TV),https://imagenes.gatotv.com/logos/canales/oscuros/6_de_puerto_rico-mediano.png
-Canal.7.de.Antena.Latina.(República.Dominicana).sv,Canal 7 de Antena Latina (República Dominicana),https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
+Canal.7.de.Antena.Latina.(República.Dominicana).sv,Canal 7 de Antena Latina (República Dominicana),
 Canal.7.de.Costa.Rica.(Teletica).sv,Canal 7 de Costa Rica (Teletica),https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
 Canal.7.de.Guatemala.sv,Canal 7 de Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_guatemala-mediano.png
 Canal.7.de.Puerto.Rico.(teleisla).sv,Canal 7 de Puerto Rico (teleisla),https://imagenes.gatotv.com/logos/canales/oscuros/7_de_puerto_rico-mediano.png
@@ -55,7 +55,7 @@ Canal.ADN.40.sv,Canal ADN 40,https://imagenes.gatotv.com/logos/canales/oscuros/a
 Canal.AMC.(Colombia).sv,Canal AMC (Colombia),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
 Canal.AMC.(España).sv,Canal AMC (España),https://imagenes.gatotv.com/logos/canales/oscuros/amc_espana-mediano.png
 Canal.AMC.(México).sv,Canal AMC (México),https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-Canal.AMC.Break.sv,Canal AMC Break,https://imagenes.gatotv.com/logos/canales/oscuros/amc_breack-mediano.png
+Canal.AMC.Break.sv,Canal AMC Break,https://imagenes.gatotv.com/logos/canales/oscuros/amc_break-mediano.png
 Canal.AMC.Crime.sv,Canal AMC Crime,https://imagenes.gatotv.com/logos/canales/oscuros/amc_crime-mediano.png
 Canal.ATV.sv,Canal ATV,https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png
 Canal.AXN.(Andes).sv,Canal AXN (Andes),https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
