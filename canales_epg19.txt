@@ -277,7 +277,6 @@ I462.110114.schedulesdirect.org,MARIAIT,https://schedulesdirect-api20141201-logo
 I465.18329.schedulesdirect.org,MCINL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18329_dark_360w_270h.png
 I467.50706.schedulesdirect.org,MEGSPO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83421_dark_360w_270h.png
 I468.43099.schedulesdirect.org,MEGAGDL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s43099_dark_360w_270h.png
-I472.60939.schedulesdirect.org,MTCH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60939_dark_360w_270h.png
 I473.61719.schedulesdirect.org,MILENIO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png
 I474.99566.schedulesdirect.org,MILENHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61719_dark_360w_270h.png
 I478.12712.schedulesdirect.org,MTV Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12712_dark_360w_270h.png

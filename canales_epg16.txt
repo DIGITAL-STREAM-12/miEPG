@@ -165,7 +165,7 @@ HBO.2.HD.uy,HBO 2 HD,
 HBO.FAMILY.HD..uy,HBO FAMILY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2687.svg
 HBO.FAMILY.HD.uy,HBO FAMILY HD,https://www.reportv.com.ar/buscador/img/Logos/13715717.jpg
 HBO.HD..uy,HBO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/875.svg
-HBO.HD.uy,HBO HD,
+HBO.HD.uy,HBO HD,https://www.reportv.com.ar/buscador/img/Logos/1901547.jpg
 HBO.MUNDI.HD..uy,HBO MUNDI HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1448.svg
 HBO.MUNDI.HD.uy,HBO MUNDI HD,
 HBO.PLUS.HD..uy,HBO PLUS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2686.svg
@@ -231,11 +231,11 @@ PLIM.PLIM.uy,PLIM PLIM,
 QUIERO..uy,QUIERO,
 QUIERO.HD.uy,QUIERO HD,
 RAI..uy,RAI,
-RAI.HD.uy,RAI HD,
+RAI.HD.uy,RAI HD,https://www.reportv.com.ar/buscador/img/Logos/9347708.jpg
 RECORD..uy,RECORD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3913.svg
 REDE.RECORD.uy,REDE RECORD,
 REDE.TV..uy,REDE TV,
-REDE.TV.HD.uy,REDE TV HD,
+REDE.TV.HD.uy,REDE TV HD,https://www.reportv.com.ar/buscador/img/Logos/10219720.jpg
 SAETA..uy,SAETA,http://resources.nuevosiglo.com.uy/reportv/img/senales/1387.svg
 SEXTREME..uy,SEXTREME,http://resources.nuevosiglo.com.uy/reportv/img/senales/3293.svg
 SONY..uy,SONY,

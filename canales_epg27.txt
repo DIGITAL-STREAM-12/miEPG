@@ -138,7 +138,7 @@ Telecinco,Telecinco,https://imagenes.gatotv.com/logos/canales/oscuros/telecinco-
 6 de El Salvador,6 de El Salvador,https://imagenes.gatotv.com/logos/canales/oscuros/6_el_salvador-mediano.png
 6 de Puerto Rico WIPR-TV,6 de Puerto Rico WIPR-TV,https://imagenes.gatotv.com/logos/canales/oscuros/6_de_puerto_rico-mediano.png
 La Sexta,La Sexta,https://imagenes.gatotv.com/logos/canales/oscuros/la_sexta-mediano.png
-7 de Antena Latina,7 de Antena Latina,https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png
+7 de Antena Latina,7 de Antena Latina,https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominicana-mediano.png
 7 de Costa Rica Teletica,7 de Costa Rica Teletica,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_costa_rica-mediano.png
 7 de Guatemala,7 de Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_guatemala-mediano.png
 7 de Puerto Rico teleisla,7 de Puerto Rico teleisla,https://imagenes.gatotv.com/logos/canales/oscuros/7_de_puerto_rico-mediano.png
@@ -189,7 +189,7 @@ Agrotendencia TV,Agrotendencia TV,https://imagenes.gatotv.com/logos/canales/oscu
 AMC Colombia,AMC Colombia,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
 AMC España,AMC España,https://imagenes.gatotv.com/logos/canales/oscuros/amc_espana-mediano.png
 AMC,AMC,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
-AMC Break,AMC Break,https://imagenes.gatotv.com/logos/canales/oscuros/amc_breack-mediano.png
+AMC Break,AMC Break,https://imagenes.gatotv.com/logos/canales/oscuros/amc_break-mediano.png
 AMC Crime,AMC Crime,https://imagenes.gatotv.com/logos/canales/oscuros/amc_crime-mediano.png
 América Televisión Perú,América Televisión Perú,https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png
 América TeVé,América TeVé,https://imagenes.gatotv.com/logos/canales/oscuros/america_teve-mediano.png
