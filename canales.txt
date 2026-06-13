@@ -413,6 +413,7 @@ TV.Chile.cl,TV Chile.cl
 0853,FMH Family.pu
 0867,Dpelicula Clasico.pu
 0858,Claro Cinema.pu
+0849,Rewind.pu
 0904,LN+.pu
 0920,Encuentro.pu
 0935,America TV Arg.pu
