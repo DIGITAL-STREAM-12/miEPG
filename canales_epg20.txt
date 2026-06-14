@@ -49,8 +49,8 @@
 0146,Radio América TV La Serena,https://i.ibb.co/VpP35KX4/0146.jpg
 0147,TV USACH,https://i.ibb.co/vCXn4qt2/0147.jpg
 0148,Telecanal Santa Cruz,https://i.ibb.co/6RsjHhPK/0148.jpg
-1149,Canal VTV Quillota,https://i.ibb.co/wFGYwV6K/1149.jpg
 0149,Canal VTV Los Andes,https://i.ibb.co/wFGYwV6K/0149.jpg
+1149,Canal VTV Quillota,https://i.ibb.co/wFGYwV6K/1149.jpg
 0150,Sur TV,https://i.ibb.co/rRH10tBd/0150.jpg
 0151,Calama TV,https://i.ibb.co/NdSCMR5Y/0151.jpg
 0152,TV Más 2,https://i.ibb.co/S4V8Hp83/0152.jpg
@@ -112,32 +112,32 @@
 0216,BBC News,https://i.ibb.co/27VLVcYM/0216.jpg
 0217,Fox News Channel,https://i.ibb.co/B2DP71kq/0217.jpg
 0218,TVE 24h,https://i.ibb.co/WpHvrVLj/0218.jpg
-0219,NHK World,https://i.ibb.co/svpzMcFM/0219.jpg
 1219,NHK World Premium,https://i.ibb.co/zVBKSxNM/1219.jpg
+0219,NHK World,https://i.ibb.co/svpzMcFM/0219.jpg
 0220,Rai Italia,https://i.ibb.co/KcN13Fp2/0220.jpg
 0221,CGTN Español,https://i.ibb.co/QFV1Vh0s/0221.jpg
 0222,América 24,https://i.ibb.co/N2y1jHyx/0222.jpg
-1223,Al Jazeera • Feed 2,https://i.ibb.co/zWG4tnYw/1223.jpg
 0223,Al Jazeera • Feed 1,https://i.ibb.co/zWG4tnYw/0223.jpg
+1223,Al Jazeera • Feed 2,https://i.ibb.co/zWG4tnYw/1223.jpg
 0224,TV5 Monde,https://i.ibb.co/mC5C6Px9/0224.jpg
-0225,Arirang TV • Feed 1,https://i.ibb.co/r28JwFjj/0225.jpg
 1225,Arirang TV • Feed 2,https://i.ibb.co/r28JwFjj/1225.jpg
+0225,Arirang TV • Feed 1,https://i.ibb.co/r28JwFjj/0225.jpg
 0226,Megatiempo,https://i.ibb.co/5WQxQgD3/0226.jpg
 0301,NTV,https://i.ibb.co/LDB3yK7j/0301.jpg
 0302,ETC TV,https://i.ibb.co/hxWJRBwQ/0302.jpg
-0303,Nickelodeon • Feed 1,https://i.ibb.co/JWCRMTg0/0303.jpg
 1303,Nickelodeon • Feed 2,https://i.ibb.co/JWCRMTg0/1303.jpg
-1304,Disney Channel • Feed 2,https://i.ibb.co/VYWKW4Xm/1304.jpg
+0303,Nickelodeon • Feed 1,https://i.ibb.co/JWCRMTg0/0303.jpg
 0304,Disney Channel • Feed 1,https://i.ibb.co/VYWKW4Xm/0304.jpg
-1305,Cartoon Network • Feed 2,https://i.ibb.co/sS4xRkK/1305.jpg
+1304,Disney Channel • Feed 2,https://i.ibb.co/VYWKW4Xm/1304.jpg
 0305,Cartoon Network • Feed 1,https://i.ibb.co/sS4xRkK/0305.jpg
+1305,Cartoon Network • Feed 2,https://i.ibb.co/sS4xRkK/1305.jpg
 0306,ZooMoo,https://i.ibb.co/39FjRnNr/0306.jpg
 0307,Nick Jr,https://i.ibb.co/4hztrwy/0307.jpg
 0308,Tooncast,https://i.ibb.co/tMDX5wDw/0308.jpg
 0309,DreamWorks TV,https://i.ibb.co/CpT58kY5/0309.jpg
 0310,BabyFirst TV,https://i.ibb.co/R8SZz5G/0310.jpg
-1311,Disney Junior • Feed 2,https://i.ibb.co/39mvW3sw/1311.jpg
 0311,Disney Junior • Feed 1,https://i.ibb.co/39mvW3sw/0311.jpg
+1311,Disney Junior • Feed 2,https://i.ibb.co/39mvW3sw/1311.jpg
 0312,Pakapaka,https://i.ibb.co/3m7txbcF/0312.jpg
 0313,EnerGeek Retro,https://i.ibb.co/QjCJSqSt/0313.jpg
 0314,EnerGeek FAN,https://i.ibb.co/pjcBhJTd/0314.jpg
@@ -149,8 +149,8 @@
 0320,Senpai TV,https://i.ibb.co/Z6ZHtqbZ/0320.jpg
 0321,Kidoo,https://i.ibb.co/67PZbQH4/0321.jpg
 0322,Vía X eSports,https://i.ibb.co/N6FTvKKc/0322.jpg
-1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0323,Discovery Kids • Feed 1,https://i.ibb.co/gMhsjXnk/0323.jpg
+1323,Discovery Kids • Feed 2,https://i.ibb.co/gMhsjXnk/1323.jpg
 0324,Cartoonito,https://i.ibb.co/zVbsHSfN/0324.jpg
 0325,FMH Animotion,https://i.ibb.co/N2fgnYnW/0325.jpg
 0326,CH0326,https://i.ibb.co/vCZ7TtNj/disponible.jpg
@@ -164,43 +164,43 @@
 0404,TNT Sports Premium Argentina,https://i.ibb.co/Y4yPxdS0/0404.jpg
 0405,BeIN Sports Español,https://i.ibb.co/C3cN9np0/0405.jpg
 0406,BeIN Sports Xtra Español,https://i.ibb.co/XfpJCw0f/0406.jpg
-0407,NBA TV • Feed 1,https://i.ibb.co/mCVpXVxZ/0407.jpg
 1407,NBA TV • Feed 2,https://i.ibb.co/mCVpXVxZ/1407.jpg
-1408,Liga 1 • Perú,https://i.ibb.co/xtPfS1W7/1408.jpg
+0407,NBA TV • Feed 1,https://i.ibb.co/mCVpXVxZ/0407.jpg
 0408,Liga 1 Max • Perú,https://i.ibb.co/G6PvHpF/0408.jpg
+1408,Liga 1 • Perú,https://i.ibb.co/xtPfS1W7/1408.jpg
 2409,TyC Sports 2,https://i.ibb.co/LXngWfdM/2409.jpg
 0409,TyC Sports • LATAM,https://i.ibb.co/r2kzVGD0/0409.jpg
-1409,TyC Sports • Argentina,https://i.ibb.co/r2kzVGD0/1409.jpg
 3409,TyC Sports 3,https://i.ibb.co/MDGpzWQb/3409.jpg
+1409,TyC Sports • Argentina,https://i.ibb.co/r2kzVGD0/1409.jpg
 0410,Teletrak TV,https://i.ibb.co/cSvfZ3V6/0410.jpg
+4411,ESPN • Centro,https://i.ibb.co/Ts2DxY0/4411.jpg
 1411,ESPN • Argentina,https://i.ibb.co/Ts2DxY0/1411.jpg
 2411,ESPN • Cono Sur,https://i.ibb.co/Ts2DxY0/2411.jpg
+0411,ESPN • Chile,https://i.ibb.co/Ts2DxY0/0411.jpg
 5411,ESPN • México,https://i.ibb.co/Ts2DxY0/5411.jpg
 3411,ESPN • Colombia,https://i.ibb.co/Ts2DxY0/3411.jpg
-0411,ESPN • Chile,https://i.ibb.co/Ts2DxY0/0411.jpg
-4411,ESPN • Centro,https://i.ibb.co/Ts2DxY0/4411.jpg
-1412,ESPN 2 • Argentina,https://i.ibb.co/TMpFPTcj/1412.jpg
-0412,ESPN 2 • Chile,https://i.ibb.co/TMpFPTcj/0412.jpg
-3412,ESPN 2 • Colombia,https://i.ibb.co/TMpFPTcj/3412.jpg
-6412,ESPN 2 • LATAM,https://i.ibb.co/TMpFPTcj/6412.jpg
 5412,ESPN 2 • México,https://i.ibb.co/TMpFPTcj/5412.jpg
+6412,ESPN 2 • LATAM,https://i.ibb.co/TMpFPTcj/6412.jpg
+3412,ESPN 2 • Colombia,https://i.ibb.co/TMpFPTcj/3412.jpg
+0412,ESPN 2 • Chile,https://i.ibb.co/TMpFPTcj/0412.jpg
 4412,ESPN 2 • Norte,https://i.ibb.co/TMpFPTcj/4412.jpg
+1412,ESPN 2 • Argentina,https://i.ibb.co/TMpFPTcj/1412.jpg
 2412,ESPN 2 • Cono Sur,https://i.ibb.co/TMpFPTcj/2412.jpg
 1413,ESPN 3 • Norte,https://i.ibb.co/7dFHm7cM/1413.jpg
-2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
 0413,ESPN 3 • Cono Sur,https://i.ibb.co/7dFHm7cM/0413.jpg
-2414,ESPN 4 • Centro,https://i.ibb.co/4gC4Sq5B/2414.jpg
-1414,ESPN 4 • México,https://i.ibb.co/4gC4Sq5B/1414.jpg
+2413,ESPN 3 • Argentina,https://i.ibb.co/7dFHm7cM/2413.jpg
 0414,ESPN 4 • Cono Sur,https://i.ibb.co/4gC4Sq5B/0414.jpg
+1414,ESPN 4 • México,https://i.ibb.co/4gC4Sq5B/1414.jpg
+2414,ESPN 4 • Centro,https://i.ibb.co/4gC4Sq5B/2414.jpg
 1415,ESPN 5 • Cono Sur,https://i.ibb.co/ynRhShH9/1415.jpg
-2415,ESPN 5 • Norte,https://i.ibb.co/ynRhShH9/2415.jpg
 0415,ESPN 5 • Chile,https://i.ibb.co/ynRhShH9/0415.jpg
 3415,ESPN 5 • LATAM,https://i.ibb.co/ynRhShH9/3415.jpg
+2415,ESPN 5 • Norte,https://i.ibb.co/ynRhShH9/2415.jpg
 0416,ESPN 6 • América Latina,https://i.ibb.co/jvYjkKm1/0416.jpg
 0417,ESPN 7 • América Latina,https://i.ibb.co/mFGmjNC8/0417.jpg
-0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
-2418,ESPN Deportes,https://i.ibb.co/wNCg6nG8/2418.jpg
 1418,ESPN Premium • Argentina,https://i.ibb.co/20hxZhgQ/1418.jpg
+2418,ESPN Deportes,https://i.ibb.co/wNCg6nG8/2418.jpg
+0418,ESPN Premium • Chile,https://i.ibb.co/20hxZhgQ/0418.jpg
 0419,Claro Sports • América Latina,https://i.ibb.co/vCh5cZbH/0419.jpg
 0420,Claro Sports 2,https://i.ibb.co/Wv2Pvgxb/0420.jpg
 0421,CDO 2,https://i.ibb.co/YFnDG8G4/0421.jpg
@@ -218,11 +218,11 @@
 3431,DSports • Colombia,https://i.ibb.co/xK8kgbqd/3431.jpg
 0431,DSports • América Latina,https://i.ibb.co/xK8kgbqd/0431.jpg
 2431,DSports • Chile,https://i.ibb.co/xK8kgbqd/2431.jpg
+3432,DSports 2 • Colombia,https://i.ibb.co/YBKtRdVK/3432.jpg
 0432,DSports 2 • América Latina,https://i.ibb.co/YBKtRdVK/0432.jpg
 2432,DSports 2 • Chile,https://i.ibb.co/YBKtRdVK/2432.jpg
-3432,DSports 2 • Colombia,https://i.ibb.co/YBKtRdVK/3432.jpg
-2433,DSports Plus • Chile,https://i.ibb.co/wGKHsBM/2433.jpg
 0433,DSports Plus • América Latina,https://i.ibb.co/wGKHsBM/0433.jpg
+2433,DSports Plus • Chile,https://i.ibb.co/wGKHsBM/2433.jpg
 3433,DSports Plus • Colombia,https://i.ibb.co/wGKHsBM/3433.jpg
 0434,Cazé TV,https://i.ibb.co/RkvVC7kK/0434.jpg
 0435,CH0435,https://i.ibb.co/vCZ7TtNj/disponible.jpg
@@ -230,12 +230,12 @@
 0436,Fox Sports • México,https://i.ibb.co/SXPv6SXS/0436.jpg
 0437,Fox Sports 2 • México,https://i.ibb.co/Qvt14W5t/0437.jpg
 1437,Fox Sports 2 • Argentina,https://i.ibb.co/0jhPzzDH/1437.jpg
-0438,Fox Sports 3 • México,https://i.ibb.co/NHm0H1Q/0438.jpg
 1438,Fox Sports 3 • Argentina,https://i.ibb.co/4n7HyBfB/1438.jpg
+0438,Fox Sports 3 • México,https://i.ibb.co/NHm0H1Q/0438.jpg
 0439,Fox Sports Premium • México,https://i.ibb.co/mC6tQmGT/0439.jpg
 0440,Fox Deportes • México,https://i.ibb.co/CsNnczy2/0440.jpg
-0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 1441,TUDN • Feed 2,https://i.ibb.co/TMqZ5MQ1/1441.jpg
+0441,TUDN • Feed 1,https://i.ibb.co/TMqZ5MQ1/0441.jpg
 0442,Azteca Deportes • México,https://i.ibb.co/XkGhHgrN/0442.jpg
 0443,ViX Deportes,https://i.ibb.co/V0K2nMzj/0443.jpg
 0444,UFC,https://i.ibb.co/8nV8hNqb/0444.jpg
@@ -289,14 +289,14 @@
 0542,TierraMia,https://i.ibb.co/wZm0SmT4/0542.jpg
 0543,Music TOP,https://i.ibb.co/QjrcG1Dy/0543.jpg
 0544,Video Rola,https://i.ibb.co/xtvsc5TG/0544.jpg
-0601,Discovery Home and Health • Feed 1,https://i.ibb.co/C3Cw8vLc/0601.jpg
 1601,Discovery Home and Health • Feed 2,https://i.ibb.co/C3Cw8vLc/1601.jpg
 2601,Discovery Home and Health • Feed 3,https://i.ibb.co/C3Cw8vLc/2601.jpg
+0601,Discovery Home and Health • Feed 1,https://i.ibb.co/C3Cw8vLc/0601.jpg
 0602,Discovery Turbo,https://i.ibb.co/j98Mc97j/0602.jpg
 0603,HGTV,https://i.ibb.co/rGdJ1JJS/0603.jpg
-0604,Investigation Discovery • Feed 1,https://i.ibb.co/HptbDdQd/0604.jpg
-2604,Investigation Discovery • Feed 3,https://i.ibb.co/HptbDdQd/2604.jpg
 1604,Investigation Discovery • Feed 2,https://i.ibb.co/HptbDdQd/1604.jpg
+2604,Investigation Discovery • Feed 3,https://i.ibb.co/HptbDdQd/2604.jpg
+0604,Investigation Discovery • Feed 1,https://i.ibb.co/HptbDdQd/0604.jpg
 0605,Love Nature,https://i.ibb.co/G4HQz8k5/0605.jpg
 0606,E! Entertainment TV,https://i.ibb.co/Wpn7TCss/0606.jpg
 0607,Discovery World,https://i.ibb.co/K4Q2TN9/0607.jpg
@@ -305,26 +305,26 @@
 0609,Lifetime • Feed 1,https://i.ibb.co/rKjS3kPg/0609.jpg
 0610,El Gourmet • Feed 1,https://i.ibb.co/1G5qcSd6/0610.jpg
 1610,El Gourmet • Feed 2,https://i.ibb.co/1G5qcSd6/1610.jpg
-0611,Tlnovelas • Feed 1,https://i.ibb.co/7J436KTZ/0611.jpg
 1611,Tlnovelas • Feed 2,https://i.ibb.co/7J436KTZ/1611.jpg
+0611,Tlnovelas • Feed 1,https://i.ibb.co/7J436KTZ/0611.jpg
 0612,Kanal D Drama,https://i.ibb.co/607yQgmh/0612.png
-1613,Pasiones • Feed 2,https://i.ibb.co/ZzfbpHKL/1613.jpg
 0613,Pasiones • Feed 1,https://i.ibb.co/ZzfbpHKL/0613.jpg
+1613,Pasiones • Feed 2,https://i.ibb.co/ZzfbpHKL/1613.jpg
 0614,Sun Channel,https://i.ibb.co/j93dHBYt/0614.jpg
 1615,Telemundo Internacional • Feed 2,https://i.ibb.co/nMDKzP1z/1615.jpg
 0615,Telemundo Internacional • Feed 1,https://i.ibb.co/fdphxKmy/0615.jpg
 0616,Univisión,https://i.ibb.co/xK9DqjWd/0616.jpg
 0617,Galavisión,https://i.ibb.co/svVXcvBH/0617.jpg
-0618,Atreseries • Feed 1,https://i.ibb.co/QF230yLz/0618.jpg
 1618,Atreseries • Feed 2,https://i.ibb.co/QF230yLz/1618.jpg
+0618,Atreseries • Feed 1,https://i.ibb.co/QF230yLz/0618.jpg
 0619,AMC Series,https://i.ibb.co/8LjJx6Lc/0619.jpg
 0620,ARTV,https://i.ibb.co/8tfGK4d/0620.jpg
 0621,Eurochannel,https://i.ibb.co/R4Zs2qJr/0621.jpg
 0622,Europa Europa,https://i.ibb.co/67kXDysG/0622.jpg
 0623,Enlace,https://i.ibb.co/bjm6mRwc/0623.jpg
 0624,Enlace Juvenil,https://i.ibb.co/vGwGj02/0624.jpg
-0625,EWTN • Feed 1,https://i.ibb.co/vCPHGNfm/0625.jpg
 1625,EWTN • Feed 2,https://i.ibb.co/vCPHGNfm/1625.jpg
+0625,EWTN • Feed 1,https://i.ibb.co/vCPHGNfm/0625.jpg
 0626,Nuevo Tiempo,https://i.ibb.co/d0wcn550/0626.jpg
 0627,MaríaVisión,https://i.ibb.co/NnJYH5sp/0627.jpg
 0628,Bethel,https://i.ibb.co/jZfxNNZS/0628.jpg
@@ -341,21 +341,21 @@
 0639,Cristovisión,https://i.ibb.co/sJ3PR2jL/0639.jpg
 0640,Unife,https://i.ibb.co/whGWj351/0640.jpg
 0641,Discovery Familia,https://i.ibb.co/vvY2Fctm/0641.jpg
-0642,UniMás • Feed 1,https://i.ibb.co/LzFk2CLK/0642.jpg
 1642,UniMás • Feed 2,https://i.ibb.co/LzFk2CLK/1642.jpg
+0642,UniMás • Feed 1,https://i.ibb.co/LzFk2CLK/0642.jpg
 0643,HispanTV,https://i.ibb.co/yT3fqr3/0643.jpg
 0644,Novelísima,https://i.ibb.co/mV1drTPQ/0644.jpg
 0645,CH0645,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-1646,Universo • Feed 2,https://i.ibb.co/FLm6g4rV/1646.jpg
 0646,Universo • Feed 1,https://i.ibb.co/FLm6g4rV/0646.jpg
+1646,Universo • Feed 2,https://i.ibb.co/FLm6g4rV/1646.jpg
 0647,Telemundo Puerto Rico,https://i.ibb.co/nMDKzP1z/0647.jpg
 0648,El Garage TV,https://i.ibb.co/HfL6Z1G4/0648.jpg
 3701,Discovery Channel • Feed 4,https://i.ibb.co/TBDTqL1V/3701.jpg
-2701,Discovery Channel • Feed 3,https://i.ibb.co/TBDTqL1V/2701.jpg
-1701,Discovery Channel • Feed 2,https://i.ibb.co/TBDTqL1V/1701.jpg
 0701,Discovery Channel • Feed 1,https://i.ibb.co/TBDTqL1V/0701.jpg
-0702,National Geographic • Feed 1,https://i.ibb.co/QF1YVzrX/0702.jpg
+1701,Discovery Channel • Feed 2,https://i.ibb.co/TBDTqL1V/1701.jpg
+2701,Discovery Channel • Feed 3,https://i.ibb.co/TBDTqL1V/2701.jpg
 2702,National Geographic • Feed 2,https://i.ibb.co/QF1YVzrX/2702.jpg
+0702,National Geographic • Feed 1,https://i.ibb.co/QF1YVzrX/0702.jpg
 0703,Discovery Science,https://i.ibb.co/KzDqgfDx/0703.jpg
 0704,Discovery Theater,https://i.ibb.co/B5nWF59W/0704.jpg
 0705,Animal Planet • Feed 1,https://i.ibb.co/Lzmx581L/0705.jpg
@@ -364,10 +364,10 @@
 1706,History • Feed 2,https://i.ibb.co/MyDXRYXk/1706.jpg
 0706,History • Feed 1,https://i.ibb.co/MyDXRYXk/0706.jpg
 0707,History 2,https://i.ibb.co/VYJXxLsm/0707.jpg
-2708,TLC • Feed 3,https://i.ibb.co/9mzvw8tH/2708.jpg
-1708,TLC • Feed 2,https://i.ibb.co/9mzvw8tH/1708.jpg
-0708,TLC • Feed 1,https://i.ibb.co/9mzvw8tH/0708.jpg
 3708,TLC • Feed 4,https://i.ibb.co/9mzvw8tH/3708.jpg
+1708,TLC • Feed 2,https://i.ibb.co/9mzvw8tH/1708.jpg
+2708,TLC • Feed 3,https://i.ibb.co/9mzvw8tH/2708.jpg
+0708,TLC • Feed 1,https://i.ibb.co/9mzvw8tH/0708.jpg
 0709,Atlas,https://i.ibb.co/FcCDyPf/0709.jpg
 1710,¡Hola! TV • Feed 2,https://i.ibb.co/20xc82Zt/1710.jpg
 0710,¡Hola! TV • Feed 1,https://i.ibb.co/20xc82Zt/0710.jpg
@@ -377,38 +377,38 @@
 0714,13 Deportes,https://i.ibb.co/YByfGcJw/0714.jpg
 0715,INTI,https://i.ibb.co/KBSjN42/0715.jpg
 0716,Teatrix,https://i.ibb.co/JFR8QC6m/0716.jpg
-2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
 0801,Star Channel • Feed 1,https://i.ibb.co/60W0dCdh/0801.jpg
 1801,Star Channel • Feed 2,https://i.ibb.co/60W0dCdh/1801.jpg
+2801,Star Channel • Feed 3,https://i.ibb.co/60W0dCdh/2801.jpg
 3801,Star Channel • Feed 4,https://i.ibb.co/60W0dCdh/3801.jpg
 0802,Canal DHE,https://i.ibb.co/yn7Qr60C/0802.jpg
 0803,CH0803,https://i.ibb.co/vCZ7TtNj/disponible.jpg
-1804,Universal TV • Feed 2,https://i.ibb.co/N2F312yf/1804.jpg
 0804,Universal TV • Feed 1,https://i.ibb.co/N2F312yf/0804.jpg
+1804,Universal TV • Feed 2,https://i.ibb.co/N2F312yf/1804.jpg
 1805,TNT • Feed 2,https://i.ibb.co/JFGJxhnJ/1805.jpg
-2805,TNT • Feed 3,https://i.ibb.co/JFGJxhnJ/2805.jpg
-0805,TNT • Feed 1,https://i.ibb.co/JFGJxhnJ/0805.jpg
 3805,TNT • Feed 4,https://i.ibb.co/JFGJxhnJ/3805.jpg
-3806,Sony Channel • Feed 4,https://i.ibb.co/hJvYVDyR/3806.jpg
-0806,Sony Channel • Feed 1,https://i.ibb.co/hJvYVDyR/0806.jpg
+0805,TNT • Feed 1,https://i.ibb.co/JFGJxhnJ/0805.jpg
+2805,TNT • Feed 3,https://i.ibb.co/JFGJxhnJ/2805.jpg
 1806,Sony Channel • Feed 2,https://i.ibb.co/hJvYVDyR/1806.jpg
+0806,Sony Channel • Feed 1,https://i.ibb.co/hJvYVDyR/0806.jpg
 2806,Sony Channel • Feed 3,https://i.ibb.co/hJvYVDyR/2806.jpg
+3806,Sony Channel • Feed 4,https://i.ibb.co/hJvYVDyR/3806.jpg
 0807,TCM,https://i.ibb.co/fYz5J5sp/0807.jpg
-1808,A and E • Feed 2,https://i.ibb.co/q3xnrxv0/1808.jpg
 0808,A and E • Feed 1,https://i.ibb.co/q3xnrxv0/0808.jpg
+1808,A and E • Feed 2,https://i.ibb.co/q3xnrxv0/1808.jpg
 0809,USA Network,https://i.ibb.co/bgpd5W4Q/0809.jpg
-0810,Sony Movies • Feed 1,https://i.ibb.co/sdTHCGb5/0810.jpg
-1810,Sony Movies • Feed 2,https://i.ibb.co/sdTHCGb5/1810.jpg
 2810,Sony Movies • Feed 3,https://i.ibb.co/sdTHCGb5/2810.jpg
+1810,Sony Movies • Feed 2,https://i.ibb.co/sdTHCGb5/1810.jpg
+0810,Sony Movies • Feed 1,https://i.ibb.co/sdTHCGb5/0810.jpg
 1811,FX • Feed 2,https://i.ibb.co/pBx0p0Wj/1811.jpg
 0811,FX • Feed 1,https://i.ibb.co/pBx0p0Wj/0811.jpg
 0812,Comedy Central,https://i.ibb.co/whSxCCVB/0812.jpg
 1813,HBO • Feed 2,https://i.ibb.co/Zpnt5HXH/1813.jpg
-0813,HBO • Feed 1,https://i.ibb.co/Zpnt5HXH/0813.jpg
 3813,HBO • Feed 4,https://i.ibb.co/Zpnt5HXH/3813.jpg
+0813,HBO • Feed 1,https://i.ibb.co/Zpnt5HXH/0813.jpg
 2813,HBO • Feed 3,https://i.ibb.co/Zpnt5HXH/2813.jpg
-1814,HBO 2 • Feed 2,https://i.ibb.co/XrP5SQfv/1814.jpg
 0814,HBO 2 • Feed 1,https://i.ibb.co/XrP5SQfv/0814.jpg
+1814,HBO 2 • Feed 2,https://i.ibb.co/XrP5SQfv/1814.jpg
 0815,HBO Plus,https://i.ibb.co/93CjsY4g/0815.jpg
 0816,HBO Family,https://i.ibb.co/gLYjY3w5/0816.jpg
 0817,HBO Signature,https://i.ibb.co/8LwQCJHw/0817.jpg
@@ -419,42 +419,42 @@
 2821,Golden • Feed 3,https://i.ibb.co/fzBCYn1Q/2821.jpg
 0821,Golden • Feed 1,https://i.ibb.co/fzBCYn1Q/0821.jpg
 0822,Golden Plus,https://i.ibb.co/RkmYW7NZ/0822.jpg
-1823,Golden Edge • Feed 2,https://i.ibb.co/Dg9z31tn/1823.jpg
 0823,Golden Edge • Feed 1,https://i.ibb.co/Dg9z31tn/0823.jpg
+1823,Golden Edge • Feed 2,https://i.ibb.co/Dg9z31tn/1823.jpg
 1824,Golden Premier 2,https://i.ibb.co/1t14hHLp/1824.jpg
 0824,Golden Premier,https://i.ibb.co/M5SDryXL/0824.jpg
 0825,Cine Familiar,https://i.ibb.co/fVYxH8x7/0825.jpg
 0826,Cine Hispano,https://i.ibb.co/ns91pp3H/0826.jpg
 0827,Cine Premium,https://i.ibb.co/Jj8SD9TR/0827.jpg
 0828,Cine Latino,https://i.ibb.co/zc2gFwp/0828.jpg
-1829,Space • Feed 2,https://i.ibb.co/tfPHg58/1829.jpg
 3829,Space • Feed 3,https://i.ibb.co/tfPHg58/3829.jpg
 0829,Space • Feed 1,https://i.ibb.co/tfPHg58/0829.jpg
-1830,De Película • Feed 2,https://i.ibb.co/C3p6gx6x/1830.jpg
+1829,Space • Feed 2,https://i.ibb.co/tfPHg58/1829.jpg
 0830,De Película • Feed 1,https://i.ibb.co/C3p6gx6x/0830.jpg
+1830,De Película • Feed 2,https://i.ibb.co/C3p6gx6x/1830.jpg
 0831,Clover Channel,https://i.ibb.co/6c2jd8hr/0831.jpg
-0832,Warner Channel • Feed 1,https://i.ibb.co/SwpdPqSL/0832.jpg
 1832,Warner Channel • Feed 2,https://i.ibb.co/SwpdPqSL/1832.jpg
+0832,Warner Channel • Feed 1,https://i.ibb.co/SwpdPqSL/0832.jpg
 0833,TNT Series • Feed 1,https://i.ibb.co/mFMSJH2g/0833.jpg
-2833,TNT Series • Feed 3,https://i.ibb.co/mFMSJH2g/2833.jpg
 1833,TNT Series • Feed 2,https://i.ibb.co/mFMSJH2g/1833.jpg
-1834,Studio Universal • Feed 2,https://i.ibb.co/39qmWjjS/1834.jpg
+2833,TNT Series • Feed 3,https://i.ibb.co/mFMSJH2g/2833.jpg
 2834,Studio Universal • Feed 3,https://i.ibb.co/39qmWjjS/2834.jpg
 0834,Studio Universal • Feed 1,https://i.ibb.co/39qmWjjS/0834.jpg
+1834,Studio Universal • Feed 2,https://i.ibb.co/39qmWjjS/1834.jpg
 0835,TNT Novelas,https://i.ibb.co/dZhMn98/0835.jpg
 1836,AMC • Feed 2,https://i.ibb.co/D6Wq8Xj/1836.jpg
 0836,AMC • Feed 1,https://i.ibb.co/D6Wq8Xj/0836.jpg
+3837,Las Estrellas • Feed 4,https://i.ibb.co/23LFV4TL/3837.jpg
+0837,Las Estrellas • Feed 1,https://i.ibb.co/23LFV4TL/0837.jpg
 1837,Las Estrellas • Feed 2,https://i.ibb.co/23LFV4TL/1837.jpg
 2837,Las Estrellas • Feed 3,https://i.ibb.co/23LFV4TL/2837.jpg
-0837,Las Estrellas • Feed 1,https://i.ibb.co/23LFV4TL/0837.jpg
-3837,Las Estrellas • Feed 4,https://i.ibb.co/23LFV4TL/3837.jpg
 0838,MultiPremier,https://i.ibb.co/5XJv0ZDq/0838.jpg
 0839,Multicinema,https://i.ibb.co/xtmPP1fV/0839.jpg
-0840,Cinemax • Feed 1,https://i.ibb.co/7d8mt8mq/0840.jpg
 2840,Cinemax • Feed 3,https://i.ibb.co/7d8mt8mq/2840.jpg
+0840,Cinemax • Feed 1,https://i.ibb.co/7d8mt8mq/0840.jpg
 1840,Cinemax • Feed 2,https://i.ibb.co/7d8mt8mq/1840.jpg
-0841,Universal Cinema • Feed 1,https://i.ibb.co/S4271Vcp/0841.png
 1841,Universal Cinema • Feed 2,https://i.ibb.co/S4271Vcp/1841.png
+0841,Universal Cinema • Feed 1,https://i.ibb.co/S4271Vcp/0841.png
 1842,Universal Crime • Feed 2,https://i.ibb.co/nsdZjzdn/1842.png
 0842,Universal Crime • Feed 1,https://i.ibb.co/nsdZjzdn/0842.png
 0843,Universal Reality,https://i.ibb.co/fGyxdCrL/0843.png
@@ -464,17 +464,17 @@
 0845,Universal Comedy • Feed 1,https://i.ibb.co/Tx1xY1p2/0845.png
 1846,Cinecanal • Feed 2,https://i.ibb.co/JRR54swk/1846.jpg
 0846,Cinecanal • Feed 1,https://i.ibb.co/JRR54swk/0846.jpg
-0847,AXN • Feed 1,https://i.ibb.co/0jJwkWZz/0847.jpg
 2847,AXN • Feed 3,https://i.ibb.co/0jJwkWZz/2847.jpg
+0847,AXN • Feed 1,https://i.ibb.co/0jJwkWZz/0847.jpg
 1847,AXN • Feed 2,https://i.ibb.co/0jJwkWZz/1847.jpg
 3847,AXN • Feed 4,https://i.ibb.co/0jJwkWZz/3847.jpg
 0848,Az Cinema,https://i.ibb.co/Q7MgYXFT/0848.jpg
 0849,Rewind,https://i.ibb.co/3yb6d1bw/0849.jpg
-0850,Adult Swim • Feed 1,https://i.ibb.co/qYNcGbJX/0850.jpg
-1850,Adult Swim • Feed 2,https://i.ibb.co/qYNcGbJX/1850.jpg
 2850,Adult Swim • Feed 3,https://i.ibb.co/qYNcGbJX/2850.jpg
-1851,Film and Arts • Feed 2,https://i.ibb.co/ZR7MLBr4/1851.jpg
+1850,Adult Swim • Feed 2,https://i.ibb.co/qYNcGbJX/1850.jpg
+0850,Adult Swim • Feed 1,https://i.ibb.co/qYNcGbJX/0850.jpg
 0851,Film and Arts • Feed 1,https://i.ibb.co/ZR7MLBr4/0851.jpg
+1851,Film and Arts • Feed 2,https://i.ibb.co/ZR7MLBr4/1851.jpg
 0852,FMH Movies,https://i.ibb.co/MyFGSMNS/0852.jpg
 0853,FMH Family,https://i.ibb.co/PsG7ybn7/0853.jpg
 0854,FMH Kids,https://i.ibb.co/HTsQmZvr/0854.jpg
@@ -502,11 +502,11 @@
 0906,TV Globo • Brasil,https://i.ibb.co/ynJH97z1/0906.jpg
 0907,Multivisión Federal • Argentina,https://i.ibb.co/Q3z2B56K/0907.jpg
 0908,Tele 10 • Argentina,https://i.ibb.co/4RHPh00G/0908.jpg
-1909,Telefe • Córdoba, Argentina,https://i.ibb.co/0RQzLTx3/1909.jpg
-4909,Telefe • Internacional,https://i.ibb.co/V0CX1s5m/4909.jpg
 3909,Telefe • Santa Fe, Argentina,https://i.ibb.co/7J17ZHyG/3909.jpg
+4909,Telefe • Internacional,https://i.ibb.co/V0CX1s5m/4909.jpg
 0909,Telefe • Buenos Aires, Argentina,https://i.ibb.co/7J17ZHyG/0909.jpg
 2909,Telefe • Rosario, Argentina,https://i.ibb.co/N24WhfkK/2909.jpg
+1909,Telefe • Córdoba, Argentina,https://i.ibb.co/0RQzLTx3/1909.jpg
 0910,Latina • Perú,https://i.ibb.co/nqgp93Vg/0910.jpg
 0911,Canal 11 de Salta • Argentina,https://i.ibb.co/vfsN62q/0911.jpg
 0912,Argentinísima Satelital • Argentina,https://i.ibb.co/B2bTKYJ2/0912.jpg
