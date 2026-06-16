@@ -151,6 +151,7 @@
 68224482c5d53e1351aaf2f2,Canal Claro,https://images.pluto.tv/channels/68224482c5d53e1351aaf2f2/colorLogoPNG_1751655767455.png
 68ba0910e1d03fec7d5c084f,Al Ritmo del Jaripeo,https://images.pluto.tv/channels/68ba0910e1d03fec7d5c084f/colorLogoPNG_1760471497704.png
 68b88712e777774982269ce9,Tastemade Viajes,https://images.pluto.tv/channels/68b88712e777774982269ce9/colorLogoPNG_1759784097851.png
+69fcdc73488e575cff213adc,Hermanos a la Obra,https://images.pluto.tv/channels/69fcdc73488e575cff213adc/colorLogoPNG_1778601459828.png
 64fb1f6e6625510008c00848,Homeful,https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
 68b887c2e77777498226a0de,Tastemade Hogar,https://images.pluto.tv/channels/68b887c2e77777498226a0de/colorLogoPNG_1759784264793.png
 5dcde0657444a40009cd2422,Pluto TV Estilo de Vida,https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG_1778796418782.png
