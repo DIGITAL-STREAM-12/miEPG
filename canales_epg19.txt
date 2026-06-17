@@ -85,7 +85,6 @@ I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api2014120
 I143.88517.schedulesdirect.org,SENTTVH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
 I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
 I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
-I148.12631.schedulesdirect.org,TOONI,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
 I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
 I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
 I154.93334.schedulesdirect.org,CCTVI,
@@ -239,7 +238,6 @@ I386.16795.schedulesdirect.org,HBOLW,https://schedulesdirect-api20141201-logos.s
 I387.12288.schedulesdirect.org,HBO East LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12288_dark_360w_270h.png
 I390.68140.schedulesdirect.org,HBO 2 East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png
 I391.34879.schedulesdirect.org,HBO Family Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
-I392.80550.schedulesdirect.org,HBO Family East Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
 I393.80118.schedulesdirect.org,HBO Family West Latino HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34879_dark_360w_270h.png
 I401.70545.schedulesdirect.org,POPLEH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png
 I402.68301.schedulesdirect.org,HBO pop HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68134_dark_360w_270h.png
