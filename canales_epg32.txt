@@ -98,6 +98,7 @@
 608049aefa2b8ae93c2c3a63-66a2e90994b6a49cb5054d7d,Mr. Bean,https://provider-static.plex.tv/epg/cms/production/e8270acf-b6fc-4708-9e35-e45dfc3a4110/MrBean_Logo_Light_1500x1000_-_Harry_Marshall.png
 608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916,Death Valley Days,https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png
 608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e,COPS,https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png
+608049aefa2b8ae93c2c3a63-64ac687b4192b4e1bab96279,PokerGO,https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png
 608049aefa2b8ae93c2c3a63-6041643175c115002dc51259,Toon Goggles en Español,https://provider-static.plex.tv/epg/cms/production/24926664-9f0e-4df6-ad7d-d4b1d8be9dd1/Untitled_TG_corrrect_final.png
 608049aefa2b8ae93c2c3a63-68c98e7460586565cc56baab,Crime Beat TV,https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png
 608049aefa2b8ae93c2c3a63-60afc726623f2f002c5bb49f,Poker Night TV,https://provider-static.plex.tv/epg/cms/production/e081c886-d798-4438-855b-2f1fb10c50ee/poker-night-tv.png
