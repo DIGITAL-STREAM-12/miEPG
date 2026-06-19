@@ -241,7 +241,6 @@ Guatevisión,Guatevisión,https://imagenes.gatotv.com/logos/canales/oscuros/guat
 29 de TeleUniverso República Dominicana,29 de TeleUniverso República Dominicana,https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png
 Azteca Guatemala,Azteca Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_guate-mediano.png
 37 de República Dominicana CDN,37 de República Dominicana CDN,https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png
-ADN 40,ADN 40,https://imagenes.gatotv.com/logos/canales/oscuros/adn_40-mediano.png
 Extra TV 42 de Costa Rica,Extra TV 42 de Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/extra_tv-mediano.png
 #Vamos,#Vamos,https://imagenes.gatotv.com/logos/canales/oscuros/m_vamos-mediano.png
 Hola TV,Hola TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-mediano.png
@@ -253,6 +252,9 @@ A&amp;E Chile,A&amp;E Chile,https://imagenes.gatotv.com/logos/canales/oscuros/a_
 A&amp;E,A&amp;E,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
 A&amp;E Panregional,A&amp;E Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
 a+,a+,https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png
+A+ Guate,A+ Guate,https://imagenes.gatotv.com/logos/canales/oscuros/a_mas_guate-mediano.png
+ADN Noticias,ADN Noticias,https://imagenes.gatotv.com/logos/canales/oscuros/adn_noticias-mediano.png
+Adult Swim Panregional,Adult Swim Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/adult_swim-mediano.png
 Adrenalina Sports Network,Adrenalina Sports Network,https://imagenes.gatotv.com/logos/canales/oscuros/adrenalina_sports_network-mediano.png
 Agrotendencia TV,Agrotendencia TV,https://imagenes.gatotv.com/logos/canales/oscuros/agrotendencia_tv-mediano.png
 AMC Colombia,AMC Colombia,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
@@ -260,6 +262,7 @@ AMC España,AMC España,https://imagenes.gatotv.com/logos/canales/oscuros/amc_es
 AMC,AMC,https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png
 AMC Break,AMC Break,https://imagenes.gatotv.com/logos/canales/oscuros/amc_break-mediano.png
 AMC Crime,AMC Crime,https://imagenes.gatotv.com/logos/canales/oscuros/amc_crime-mediano.png
+AMC Living España,AMC Living España,https://imagenes.gatotv.com/logos/canales/oscuros/amc_living_espana-mediano.png
 América Televisión Perú,América Televisión Perú,https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png
 América TeVé,América TeVé,https://imagenes.gatotv.com/logos/canales/oscuros/america_teve-mediano.png
 America TV Argentina,America TV Argentina,https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina-mediano.png
@@ -268,7 +271,6 @@ Animal Planet Panregional,Animal Planet Panregional,https://imagenes.gatotv.com/
 Animal Planet Sur,Animal Planet Sur,https://imagenes.gatotv.com/logos/canales/oscuros/animal_planet_latinoamerica-mediano.png
 Antena 3,Antena 3,https://imagenes.gatotv.com/logos/canales/oscuros/antena_3-mediano.png
 Antigua Guatemala,Antigua Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/antigua-mediano.png
-Aprende,Aprende,https://imagenes.gatotv.com/logos/canales/oscuros/aprende_tv-mediano.png
 Atreseries,Atreseries,https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
 Atreseries Internacional,Atreseries Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/atreseries-mediano.png
 ATV,ATV,https://imagenes.gatotv.com/logos/canales/oscuros/atv-mediano.png
@@ -277,12 +279,13 @@ AXN España,AXN España,https://imagenes.gatotv.com/logos/canales/oscuros/axn-me
 AXN,AXN,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
 AXN Sur,AXN Sur,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
 AXN Venezuela,AXN Venezuela,https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png
+AXN Movies España,AXN Movies España,https://imagenes.gatotv.com/logos/canales/oscuros/axn_movies_espana-mediano.png
 AYM Sports,AYM Sports,https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png
 Baby TV,Baby TV,https://imagenes.gatotv.com/logos/canales/oscuros/baby_latinoamerica-mediano.png
 BabyFirst TV,BabyFirst TV,https://imagenes.gatotv.com/logos/canales/oscuros/babyfirst_tv-mediano.png
 Bandamax,Bandamax,https://imagenes.gatotv.com/logos/canales/oscuros/bandamax-mediano.png
 Barça TV,Barça TV,https://imagenes.gatotv.com/logos/canales/oscuros/barca_tv-mediano.png
-BBC World News,BBC World News,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
+BBC News International,BBC News International,https://imagenes.gatotv.com/logos/canales/oscuros/bbc_world_news-mediano.png
 Be Mad,Be Mad,https://imagenes.gatotv.com/logos/canales/oscuros/be_mad-mediano.png
 beIN Sport en Español,beIN Sport en Español,https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png
 BET Jams,BET Jams,https://imagenes.gatotv.com/logos/canales/oscuros/bet_jams-mediano.png
@@ -337,7 +340,6 @@ Canal De Las Estrellas -1 Hora,Canal De Las Estrellas -1 Hora,https://imagenes.g
 Canal De Las Estrellas -2 Hora,Canal De Las Estrellas -2 Hora,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
 De Película,De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
 De Película Clásico,De Película Clásico,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_clasico-mediano.png
-Decasa,Decasa,https://imagenes.gatotv.com/logos/canales/oscuros/decasa-mediano.png
 Deutsche Welle,Deutsche Welle,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
 DHE,DHE,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
 Discovery Channel Chile,Discovery Channel Chile,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png
@@ -370,7 +372,6 @@ Ecuavisa Ecuador,Ecuavisa Ecuador,https://imagenes.gatotv.com/logos/canales/oscu
 Ecuavisa Internacional,Ecuavisa Internacional,https://imagenes.gatotv.com/logos/canales/oscuros/ecuavisa-mediano.png
 Efekto TV Efekto Noticias,Efekto TV Efekto Noticias,https://imagenes.gatotv.com/logos/canales/oscuros/efekto_tv-mediano.png
 El Financiero TV,El Financiero TV,https://imagenes.gatotv.com/logos/canales/oscuros/el_financiero_tv-mediano.png
-El Heraldo TV,El Heraldo TV,https://imagenes.gatotv.com/logos/canales/oscuros/heraldo_tv-mediano.png
 Elgourmet,Elgourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
 Energy,Energy,https://imagenes.gatotv.com/logos/canales/oscuros/energy-mediano.png
 Enlace TBN,Enlace TBN,https://imagenes.gatotv.com/logos/canales/oscuros/enlace-mediano.png
@@ -419,20 +420,25 @@ Exa TV,Exa TV,https://imagenes.gatotv.com/logos/canales/oscuros/exa_tv-mediano.p
 Excelsior TV,Excelsior TV,https://imagenes.gatotv.com/logos/canales/oscuros/excelsior_tv-mediano.png
 Film &amp; Arts,Film &amp; Arts,https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png
 Foro TV,Foro TV,https://imagenes.gatotv.com/logos/canales/oscuros/foro_tv-mediano.png
+Fox Costa Rica,Fox Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
+Fox El Salvador,Fox El Salvador,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
+Fox Guatemala,Fox Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
+Fox Honduras,Fox Honduras,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
+Fox Nicaragua,Fox Nicaragua,https://imagenes.gatotv.com/logos/canales/oscuros/fox-mediano.png
 Fox Deportes,Fox Deportes,https://imagenes.gatotv.com/logos/canales/oscuros/fox_deportes-mediano.png
 Fox News,Fox News,https://imagenes.gatotv.com/logos/canales/oscuros/fox_news-mediano.png
 Fox Sports Cono Norte,Fox Sports Cono Norte,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
 Fox Sports,Fox Sports,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
 Fox Sports 2,Fox Sports 2,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png
 Fox Sports 3,Fox Sports 3,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png
+FOX+ Centroamérica,FOX+ Centroamérica,https://imagenes.gatotv.com/logos/canales/oscuros/fox_plus-mediano.png
 Frecuencia Latina,Frecuencia Latina,https://imagenes.gatotv.com/logos/canales/oscuros/frecuencia_latina-mediano.png
 FUTV,FUTV,https://imagenes.gatotv.com/logos/canales/oscuros/fut_tv-mediano.png
 FX Centro,FX Centro,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
 FX Chile,FX Chile,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
 FX,FX,https://imagenes.gatotv.com/logos/canales/oscuros/fx-mediano.png
-Gamavisión,Gamavisión,https://imagenes.gatotv.com/logos/canales/oscuros/gamavision-mediano.png
+Galicia TV,Galicia TV,https://imagenes.gatotv.com/logos/canales/oscuros/gamavision-mediano.png
 Gol Play,Gol Play,https://imagenes.gatotv.com/logos/canales/oscuros/gol_play_espana-mediano.png
-Gol TV,Gol TV,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
 Golden,Golden,https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
 Golden Panregional,Golden Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/golden-mediano.png
 Golden Edge,Golden Edge,https://imagenes.gatotv.com/logos/canales/oscuros/golden_edge-mediano.png
@@ -441,7 +447,6 @@ Golden Plus,Golden Plus,https://imagenes.gatotv.com/logos/canales/oscuros/golden
 Golden Premier,Golden Premier,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
 Golden Premier 2,Golden Premier 2,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
 Golf Channel,Golf Channel,https://imagenes.gatotv.com/logos/canales/oscuros/golf_channel-mediano.png
-GolTV,GolTV,https://imagenes.gatotv.com/logos/canales/oscuros/gol_tv_estados_unidos-mediano.png
 HBO Chile,HBO Chile,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
 HBO,HBO,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_latinoamerica-mediano.png
 HBO 2,HBO 2,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png
@@ -469,7 +474,6 @@ Institucional Colombia,Institucional Colombia,https://imagenes.gatotv.com/logos/
 Inti Network,Inti Network,https://imagenes.gatotv.com/logos/canales/oscuros/inti_network-mediano.png
 Investigation Discovery,Investigation Discovery,https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
 Investigation Discovery Panregional,Investigation Discovery Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/investigation_discovery_latinoamerica-mediano.png
-Justicia TV,Justicia TV,https://imagenes.gatotv.com/logos/canales/oscuros/justicia_tv-mediano.png
 La Red Chile,La Red Chile,https://imagenes.gatotv.com/logos/canales/oscuros/la_red_chile-mediano.png
 La Red TV Guatemala,La Red TV Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/la_red_tv_guatemala-mediano.png
 La Tele Paraguay,La Tele Paraguay,https://imagenes.gatotv.com/logos/canales/oscuros/la_tele_paraguay-mediano.png
@@ -479,7 +483,6 @@ Lifetime,Lifetime,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_lat
 Lifetime Panregional,Lifetime Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/lifetime_latinoamerica-mediano.png
 M+ Acción,M+ Acción,https://imagenes.gatotv.com/logos/canales/oscuros/accion_por_movistar_plus-mediano.png
 María Visión,María Visión,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
-Más Chic,Más Chic,https://imagenes.gatotv.com/logos/canales/oscuros/mas_chic-mediano.png
 MC,MC,https://imagenes.gatotv.com/logos/canales/oscuros/mc-mediano.png
 Mega,Mega,https://imagenes.gatotv.com/logos/canales/oscuros/mega_chile-mediano.png
 Mega España,Mega España,https://imagenes.gatotv.com/logos/canales/oscuros/mega_espana-mediano.png
@@ -492,10 +495,6 @@ MTV Centro,MTV Centro,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-medi
 MTV España,MTV España,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
 MTV,MTV,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
 MTV Sur,MTV Sur,https://imagenes.gatotv.com/logos/canales/oscuros/mtv-mediano.png
-MTV 00s,MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
-MTV 80s,MTV 80s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_80s-mediano.png
-MTV Hits,MTV Hits,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_hits-mediano.png
-MTV Live HD,MTV Live HD,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_live_hd-mediano.png
 Multimedios Costa Rica,Multimedios Costa Rica,https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_costa_rica-mediano.png
 Multimedios Plus,Multimedios Plus,https://imagenes.gatotv.com/logos/canales/oscuros/multimedios_plus-mediano.png
 National Geographic Centro,National Geographic Centro,https://imagenes.gatotv.com/logos/canales/oscuros/national_geographic_latinoamerica-mediano.png
@@ -518,8 +517,6 @@ Pakapaka,Pakapaka,https://imagenes.gatotv.com/logos/canales/oscuros/paka_paka-me
 Panamericana,Panamericana,https://imagenes.gatotv.com/logos/canales/oscuros/panamerikan_television-mediano.png
 Pánico,Pánico,https://imagenes.gatotv.com/logos/canales/oscuros/panico-mediano.png
 Paraguay TV,Paraguay TV,https://imagenes.gatotv.com/logos/canales/oscuros/paraguay_tv-mediano.png
-Paramount Channel,Paramount Channel,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
-Paramount,Paramount,https://imagenes.gatotv.com/logos/canales/oscuros/paramount_channel-mediano.png
 Paravisión,Paravisión,https://imagenes.gatotv.com/logos/canales/oscuros/paravision-mediano.png
 Pasiones Estados Unidos,Pasiones Estados Unidos,https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
 Pasiones,Pasiones,https://imagenes.gatotv.com/logos/canales/oscuros/pasiones-mediano.png
@@ -542,6 +539,7 @@ SNT Paraguay,SNT Paraguay,https://imagenes.gatotv.com/logos/canales/oscuros/snt_
 Sony Chile,Sony Chile,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
 Sony,Sony,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
 Sony Centro,Sony Centro,https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png
+Sony Movies,Sony Movies,https://imagenes.gatotv.com/logos/canales/oscuros/sony_movies-mediano.png
 Sorpresa,Sorpresa,https://imagenes.gatotv.com/logos/canales/oscuros/sorpresa-mediano.png
 Space Chile,Space Chile,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
 Space,Space,https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png
@@ -562,7 +560,6 @@ Sur TV Itapúa Paraguay,Sur TV Itapúa Paraguay,https://imagenes.gatotv.com/logo
 Syfy,Syfy,https://imagenes.gatotv.com/logos/canales/oscuros/syfy-mediano.png
 TCM España,TCM España,https://imagenes.gatotv.com/logos/canales/oscuros/tcm_espana-mediano.png
 TCM,TCM,https://imagenes.gatotv.com/logos/canales/oscuros/tcm-mediano.png
-TeenNick,TeenNick,https://imagenes.gatotv.com/logos/canales/oscuros/teen_nick-mediano.png
 Teleamazonas,Teleamazonas,https://imagenes.gatotv.com/logos/canales/oscuros/teleamazonas-mediano.png
 Teleantioquia,Teleantioquia,https://imagenes.gatotv.com/logos/canales/oscuros/teleantioquia-mediano.png
 Telecafé,Telecafé,https://imagenes.gatotv.com/logos/canales/oscuros/telecafe-mediano.png
@@ -587,7 +584,6 @@ Teleunion República Dominicana,Teleunion República Dominicana,https://imagenes
 Televisión Canaria,Televisión Canaria,https://imagenes.gatotv.com/logos/canales/oscuros/television_canaria-mediano.png
 Televisión Dominicana,Televisión Dominicana,https://imagenes.gatotv.com/logos/canales/oscuros/tv_dominicana-mediano.png
 Televisión Pública Argentina,Televisión Pública Argentina,https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina-mediano.png
-Tigo Sports,Tigo Sports,https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png
 Tigo Sports El Salvador,Tigo Sports El Salvador,https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png
 Tigo Sports Guatemala,Tigo Sports Guatemala,https://imagenes.gatotv.com/logos/canales/oscuros/tigo_sports-mediano.png
 TLC,TLC,https://imagenes.gatotv.com/logos/canales/oscuros/tlc-mediano.png
@@ -656,13 +652,3 @@ WOBI,WOBI,https://imagenes.gatotv.com/logos/canales/oscuros/wobi-mediano.png
 Zona Latina,Zona Latina,https://imagenes.gatotv.com/logos/canales/oscuros/zona_latina-mediano.png
 ZOOM,ZOOM,https://imagenes.gatotv.com/logos/canales/oscuros/zoom_colombia-mediano.png
 ZooMoo,ZooMoo,https://imagenes.gatotv.com/logos/canales/oscuros/zoomoo-mediano.png
-MariaVision,MariaVision,https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png
-El gourmet,El gourmet,https://imagenes.gatotv.com/logos/canales/oscuros/elgourmet-mediano.png
-HBO +,HBO +,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_plus-mediano.png
-AYM Sport,AYM Sport,https://imagenes.gatotv.com/logos/canales/oscuros/aym_sports-mediano.png
-Fox Sport,Fox Sport,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png
-Fox Sport 2,Fox Sport 2,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2-mediano.png
-Fox Sport 3,Fox Sport 3,https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3-mediano.png
-13 C,13 C,https://imagenes.gatotv.com/logos/canales/oscuros/13_de_chile-mediano.png
-Discovery H&amp;H,Discovery H&amp;H,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_home_and_health_latinoamerica-mediano.png
-CNN Español,CNN Español,https://imagenes.gatotv.com/logos/canales/oscuros/cnn_en_espanol-mediano.png
