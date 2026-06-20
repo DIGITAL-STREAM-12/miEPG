@@ -173,14 +173,11 @@ EVENTO 2,EVENTO 2,
 Copa Oro,Copa Oro,
 Eurocopa,Eurocopa,
 Deportes 1,Deportes 1,
-Invasiva TV,Invasiva TV,
 EnerGeek Retro,EnerGeek Retro,https://i.imgur.com/2HZW3E2.png
 Fanpop TV,Fanpop TV,https://i.imgur.com/eKGk5FD.jpg
 CCP Radio,CCP Radio,https://i.imgur.com/WzKFh03.png
 Anipop TV,Anipop TV,https://i.imgur.com/PzEK6DI.png
 EnerGeek Radio TV,EnerGeek Radio TV,https://i.imgur.com/GmzkMUQ.jpg
-Locomotion,Locomotion,http://locomotiontv.com/locomotion/logo.png
-AZTV,AZTV,http://locomotiontv.com/locomotion/aztv_logo.png
 1 Colombia,1 Colombia,https://imagenes.gatotv.com/logos/canales/oscuros/1_colombia-mediano.png
 Azteca Uno,Azteca Uno,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png
 Azteca Uno -1 Hora,Azteca Uno -1 Hora,https://imagenes.gatotv.com/logos/canales/oscuros/azteca_uno-mediano.png

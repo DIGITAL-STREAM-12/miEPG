@@ -62,7 +62,7 @@ I84.46504.schedulesdirect.org,POP40,https://schedulesdirect-api20141201-logos.s3
 I86.39428.schedulesdirect.org,DLABEAT,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s38800_dark_360w_270h.png
 I87.72534.schedulesdirect.org,AXN LatinoAmerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72534_dark_360w_270h.png
 I88.17484.schedulesdirect.org,AXN Series US,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17484_dark_360w_270h.png
-I89.34863.schedulesdirect.org,AYM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34863_dark_360w_270h.png
+I89.34863.schedulesdirect.org,AYM,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0036Y9JX.png_dark_360w_270h.png
 I92.56276.schedulesdirect.org,AZ24HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png
 I99.46607.schedulesdirect.org,AZDELAY,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46607_dark_360w_270h.png
 I104.56036.schedulesdirect.org,Baby TV Latino,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56036_dark_360w_270h.png
@@ -266,7 +266,7 @@ I438.98718.schedulesdirect.org,IZZIHD,
 I440.100795.schedulesdirect.org,JCNET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100795_dark_360w_270h.png
 I446.52300.schedulesdirect.org,⚽ [LaLiga] La Liga TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 I447.105747.schedulesdirect.org,LAMEJOR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105747_dark_360w_270h.png
-I448.67632.schedulesdirect.org,LATAMSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67632_dark_360w_270h.png
+I448.67632.schedulesdirect.org,LATAMSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0036Y9JY.png_dark_360w_270h.png
 I451.16257.schedulesdirect.org,ESTRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png
 I455.90682.schedulesdirect.org,Lifetime Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
 I456.106095.schedulesdirect.org,LIFEMXH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
