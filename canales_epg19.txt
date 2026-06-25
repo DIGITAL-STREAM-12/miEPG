@@ -266,7 +266,6 @@ I438.98718.schedulesdirect.org,IZZIHD,
 I440.100795.schedulesdirect.org,JCNET,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s100795_dark_360w_270h.png
 I446.52300.schedulesdirect.org,⚽ [LaLiga] La Liga TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52300_dark_360w_270h.png
 I447.105747.schedulesdirect.org,LAMEJOR,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105747_dark_360w_270h.png
-I448.67632.schedulesdirect.org,LATAMSP,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0036Y9JY.png_dark_360w_270h.png
 I451.16257.schedulesdirect.org,ESTRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16257_dark_360w_270h.png
 I455.90682.schedulesdirect.org,Lifetime Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
 I456.106095.schedulesdirect.org,LIFEMXH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89197_dark_360w_270h.png
