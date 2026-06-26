@@ -561,10 +561,11 @@ I1000.61179.schedulesdirect.org,SKY Cinema Drama,https://schedulesdirect-api2014
 I1000.110540.schedulesdirect.org,UK - BBC Scotland HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110540_dark_360w_270h.png
 I1000.49609.schedulesdirect.org,Sky Sports Main Event,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49609_dark_360w_270h.png
 I1001.104327.schedulesdirect.org,Sky Sports Football,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png
+I1001.48021.schedulesdirect.org,UK - Pick,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48021_dark_360w_270h.png
 I1002.61177.schedulesdirect.org,SKY Cinema Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61177_dark_360w_270h.png
-I1003.50059.schedulesdirect.org,UK - BBC TWO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50059_dark_360w_270h.png
-I1003.49453.schedulesdirect.org,Sky Cinema Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49453_dark_360w_270h.png
 I1003.24032.schedulesdirect.org,SKY Drama,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24032_dark_360w_270h.png
+I1003.49453.schedulesdirect.org,Sky Cinema Hits,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49453_dark_360w_270h.png
+I1003.50059.schedulesdirect.org,UK - BBC TWO,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50059_dark_360w_270h.png
 I1004.46306.schedulesdirect.org,UK - Great Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027ESGV.png_dark_360w_270h.png
 I1005.50176.schedulesdirect.org,Sky Cinema Thriller,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50176_dark_360w_270h.png
 I1005.24040.schedulesdirect.org,SKY Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24040_dark_360w_270h.png
@@ -575,8 +576,8 @@ I1008.59691.schedulesdirect.org,Sky Cinema Premiere,https://schedulesdirect-api2
 I1009.24341.schedulesdirect.org,UK - Boomerang,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24341_dark_360w_270h.png
 I1009.61181.schedulesdirect.org,SKY Cinema Family,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61181_dark_360w_270h.png
 I1010.61180.schedulesdirect.org,SKY Cinema Greats,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61180_dark_360w_270h.png
-I1011.21107.schedulesdirect.org,SCINPRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png
 I1011.61182.schedulesdirect.org,SKY Cinema Comedy,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61182_dark_360w_270h.png
+I1011.21107.schedulesdirect.org,SCINPRE,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21107_dark_360w_270h.png
 I1014.122089.schedulesdirect.org,UK - BBC Three HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122089_dark_360w_270h.png
 I1015.49139.schedulesdirect.org,SCINSEL,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49139_dark_360w_270h.png
 I1017.105776.schedulesdirect.org,UK - Gold,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002JG6DK.png_dark_360w_270h.png
@@ -599,7 +600,6 @@ I1046.131428.schedulesdirect.org,PBS America,https://schedulesdirect-api20141201
 I1049.16234.schedulesdirect.org,SKY News,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png
 I1053.138444.schedulesdirect.org,UK - U&amp;Yesterday,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138444_dark_360w_270h.png
 I1056.35806.schedulesdirect.org,UKd&#58; Eden,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35806_dark_360w_270h.png
-I1063.16235.schedulesdirect.org,UK - Sky Showcase,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16235_dark_360w_270h.png
 I1074.104322.schedulesdirect.org,Sky Sports Arena,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032Y4GN.png_dark_360w_270h.png
 I1079.51204.schedulesdirect.org,Sky Sports Cricket,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51204_dark_360w_270h.png
 I1081.87578.schedulesdirect.org,SKY Sports F1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87578_dark_360w_270h.png
