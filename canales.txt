@@ -341,6 +341,7 @@ Norte Informativo TV,Norte Informativo.ms
 Canal.Extra.TV.42.de.Costa.Rica.sv,Extra tv 42
 Exa TV,Exa TV.ms
 Sky Sports 1,Sky Sports 1.ms
+fox_sports_mas_hd,Fox Sports plus.ga
 Tigo Sports,Tigo Sports.ms
 Tigo Sports El Salvador,Tigo Sp Salvador
 Tigo Sports Guatemala,Tigo Sp Guate.ms
