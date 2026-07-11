@@ -10,7 +10,7 @@ A24.HD.uy,A24 HD,https://www.reportv.com.ar/buscador/img/Logos/48806494.jpg
 A3CINE..uy,A3CINE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3627.svg
 ADRENALINA.SPORTS.NETWORK.HD.uy,ADRENALINA SPORTS NETWORK HD,
 ALLEGRO.HD..uy,ALLEGRO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3154.svg
-ALLEGRO.HD.uy,ALLEGRO HD,
+ALLEGRO.HD.uy,ALLEGRO HD,https://www.reportv.com.ar/buscador/img/Logos/1901324.jpg
 AMC..uy,AMC,
 AMC.HD..uy,AMC HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1250.svg
 AMC.HD.uy,AMC HD,
@@ -98,7 +98,7 @@ DISNEY..uy,DISNEY,
 DISNEY.HD..uy,DISNEY HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4367.svg
 DISNEY.JR..uy,DISNEY JR,
 DISNEY.JR.HD.uy,DISNEY JR HD,
-DISNEY.uy,DISNEY,
+DISNEY.uy,DISNEY,https://www.reportv.com.ar/buscador/img/Logos/1949431670.jpg
 DISTRITO.COMEDIA.HD.uy,DISTRITO COMEDIA HD,https://www.reportv.com.ar/buscador/img/Logos/8372303.jpg
 DW.ESPAÑOL.HD.uy,DW ESPAÑOL HD,https://www.reportv.com.ar/buscador/img/Logos/8939523.jpg
 EL.GOURMET..uy,EL GOURMET,
@@ -186,13 +186,13 @@ HOLA.TV..uy,HOLA TV,
 HOLA.TV.HD.uy,HOLA TV HD,
 HOME.AND.HEALTH..uy,HOME AND HEALTH,http://resources.nuevosiglo.com.uy/reportv/img/senales/340.svg
 HOME.AND.HEALTH.HD..uy,HOME AND HEALTH HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2218.svg
-HTV.uy,HTV,
+HTV.uy,HTV,https://www.reportv.com.ar/buscador/img/Logos/1901397.jpg
 KANAL.D.DRAMA..uy,KANAL D DRAMA,http://resources.nuevosiglo.com.uy/reportv/img/senales/4694.svg
-KANAL.D.HD.uy,KANAL D HD,
+KANAL.D.HD.uy,KANAL D HD,https://www.reportv.com.ar/buscador/img/Logos/8373892.jpg
 LA.NACION.HD.uy,LA NACION HD,https://www.reportv.com.ar/buscador/img/Logos/2804005.jpg
-LA.RED.uy,LA RED,
+LA.RED.uy,LA RED,https://www.reportv.com.ar/buscador/img/Logos/12045151.jpg
 LAS.ESTRELLAS.HD..uy,LAS ESTRELLAS HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2235.svg
-LAS.ESTRELLAS.HD.uy,LAS ESTRELLAS HD,
+LAS.ESTRELLAS.HD.uy,LAS ESTRELLAS HD,https://www.reportv.com.ar/buscador/img/Logos/11599965.jpg
 LIFETIME..uy,LIFETIME,
 LIFETIME.HD.uy,LIFETIME HD,
 LN+..uy,LN+,http://resources.nuevosiglo.com.uy/reportv/img/senales/3644.svg
@@ -225,11 +225,11 @@ PARAMOUNT.NETWORK..uy,PARAMOUNT NETWORK,http://resources.nuevosiglo.com.uy/repor
 PARAMOUNT.NETWORK.HD..uy,PARAMOUNT NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2908.svg
 PENTHOUSE..uy,PENTHOUSE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3291.svg
 PLAYBOY..uy,PLAYBOY,
-PLAYBOY.ETIQUETA.uy,PLAYBOY ETIQUETA,
+PLAYBOY.ETIQUETA.uy,PLAYBOY ETIQUETA,https://www.reportv.com.ar/buscador/img/Logos/11084112.jpg
 PLIM.PLIM..uy,PLIM PLIM,http://resources.nuevosiglo.com.uy/reportv/img/senales/8010.svg
 PLIM.PLIM.uy,PLIM PLIM,
 QUIERO..uy,QUIERO,
-QUIERO.HD.uy,QUIERO HD,
+QUIERO.HD.uy,QUIERO HD,https://www.reportv.com.ar/buscador/img/Logos/9332822.jpg
 RAI..uy,RAI,
 RAI.HD.uy,RAI HD,https://www.reportv.com.ar/buscador/img/Logos/9347708.jpg
 RECORD..uy,RECORD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3913.svg
@@ -257,9 +257,9 @@ TELEDOCE..uy,TELEDOCE,http://resources.nuevosiglo.com.uy/reportv/img/senales/483
 TELEDOCE.HD..uy,TELEDOCE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2862.svg
 TELEFE.INTER..uy,TELEFE INTER,http://resources.nuevosiglo.com.uy/reportv/img/senales/149.svg
 TELEFE.INTERNACIONAL.HD.uy,TELEFE INTERNACIONAL HD,https://www.reportv.com.ar/buscador/img/Logos/8567050.jpg
-TELEHIT.HD.uy,TELEHIT HD,
-TELEHIT.MÚSICA.HD.uy,TELEHIT MÚSICA HD,
-TELEHIT.MÚSICA.PLUS.HD.uy,TELEHIT MÚSICA PLUS HD,
+TELEHIT.HD.uy,TELEHIT HD,https://www.reportv.com.ar/buscador/img/Logos/12251538.jpg
+TELEHIT.MÚSICA.HD.uy,TELEHIT MÚSICA HD,https://www.reportv.com.ar/buscador/img/Logos/12164247.jpg
+TELEHIT.MÚSICA.PLUS.HD.uy,TELEHIT MÚSICA PLUS HD,https://www.reportv.com.ar/buscador/img/Logos/12164256.jpg
 TELEMUNDO..uy,TELEMUNDO,
 TELEMUNDO.HD..uy,TELEMUNDO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3070.svg
 TELEMUNDO.HD.uy,TELEMUNDO HD,https://www.reportv.com.ar/buscador/img/Logos/1901828.jpg
@@ -272,12 +272,12 @@ TNT..uy,TNT,
 TNT.HD..uy,TNT HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/4054.svg
 TNT.HD.uy,TNT HD,
 TNT.NOVELAS..uy,TNT NOVELAS,http://resources.nuevosiglo.com.uy/reportv/img/senales/8200.svg
-TNT.NOVELAS.uy,TNT NOVELAS,
+TNT.NOVELAS.uy,TNT NOVELAS,https://www.reportv.com.ar/buscador/img/Logos/1948575507.jpg
 TNT.SERIES..uy,TNT SERIES,
 TNT.SERIES.HD..uy,TNT SERIES HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3421.svg
 TNT.SERIES.HD.uy,TNT SERIES HD,
 TOONCAST..uy,TOONCAST,
-TOONCAST.HD.uy,TOONCAST HD,
+TOONCAST.HD.uy,TOONCAST HD,https://www.reportv.com.ar/buscador/img/Logos/1901890.jpg
 TV.5.MONDE.HD..uy,TV 5 MONDE HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/5215.svg
 TV.5.uy,TV 5,https://www.reportv.com.ar/buscador/img/Logos/1949436887.jpg
 TV.CIUDAD..uy,TV CIUDAD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1290.svg
@@ -309,9 +309,9 @@ UNIVERSAL.REALITY.HD.uy,UNIVERSAL REALITY HD,
 UNIVISION.HD.uy,UNIVISION HD,https://www.reportv.com.ar/buscador/img/Logos/11290216.jpg
 USA.NETWORK..uy,USA NETWORK,
 USA.NETWORK.HD..uy,USA NETWORK HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/8328.svg
-USA.NETWORK.HD.uy,USA NETWORK HD,
+USA.NETWORK.HD.uy,USA NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/29510821.jpg
 VENUS..uy,VENUS,
-VENUS.ETIQUETA.uy,VENUS ETIQUETA,
+VENUS.ETIQUETA.uy,VENUS ETIQUETA,https://www.reportv.com.ar/buscador/img/Logos/11276175.jpg
 VTV+.HD.uy,VTV+ HD,
 VTV..uy,VTV,
 VTV.HD..uy,VTV HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/2925.svg
@@ -322,7 +322,7 @@ WARNER..uy,WARNER,
 WARNER.HD..uy,WARNER HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3787.svg
 WARNER.HD.uy,WARNER HD,
 WOOHOO.uy,WOOHOO,
-[ADCOHOL].DMX.Adult.Contemporary.Holiday.uy,[ADCOHOL] DMX Adult Contemporary Holiday,http://dtil.tmsimg.com/assets/s50415_h3_aa.png?w=360&amp;h=270
+[ADCOHOL].DMX.Adult.Contemporary.Holiday.uy,[ADCOHOL] DMX Adult Contemporary Holiday,http://dtil.tmsimg.com/assets/s50415_ll_h9_aa.png?w=360&amp;h=270
 [ADSLA].Adult.Swim.uy,[ADSLA] Adult Swim,http://dtil.tmsimg.com/assets/s16496_ll_h15_ad.png?w=360&amp;h=270
 [AEMX].A&amp;E.uy,[AEMX] A&amp;E,http://dtil.tmsimg.com/assets/s10035_ll_h15_ab.png?w=360&amp;h=270
 [ALATINA].AUDIO.DLA.LATINA.uy,[ALATINA] AUDIO DLA LATINA,http://dtil.tmsimg.com/assets/s38800_ll_h15_aa.png?w=360&amp;h=270
@@ -407,7 +407,7 @@ WOOHOO.uy,WOOHOO,
 [FIGHTNO].Fight.Sports.uy,[FIGHTNO] Fight Sports,http://dtil.tmsimg.com/assets/s100285_ll_h9_aa.png?w=360&amp;h=270
 [FOODLA].Food.Network.uy,[FOODLA] Food Network,http://dtil.tmsimg.com/assets/s91919_ll_h15_aa.png?w=360&amp;h=270
 [FXL].FX.uy,[FXL] FX,http://dtil.tmsimg.com/assets/s46442_ll_h15_aa.png?w=360&amp;h=270
-[GLDENEH].Golden.uy,[GLDENEH] Golden,http://dtil.tmsimg.com/assets/s50709_h3_aa.png?w=360&amp;h=270
+[GLDENEH].Golden.uy,[GLDENEH] Golden,http://dtil.tmsimg.com/assets/s50709_ll_h15_aa.png?w=360&amp;h=270
 [GOLDEDG].Golden.Edge.uy,[GOLDEDG] Golden Edge,http://dtil.tmsimg.com/assets/s16423_ll_h15_ac.png?w=360&amp;h=270
 [GOLFLA].The.Golf.Channel.Latinoamerica.uy,[GOLFLA] The Golf Channel Latinoamerica,http://dtil.tmsimg.com/assets/s61033_ll_h15_ab.png?w=360&amp;h=270
 [GOLF].Golf.Channel.uy,[GOLF] Golf Channel,http://dtil.tmsimg.com/assets/GNLZZGG002RFK1J.png?w=360&amp;h=270

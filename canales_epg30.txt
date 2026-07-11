@@ -67,7 +67,7 @@
 625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
 5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
 6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
-5e3ddbd27091820009f86dd9,MasterChef México,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1780939055727.png
+5e3ddbd27091820009f86dd9,MasterChef México,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png
 69fcaa88e022927e1c94c533,MasterChef Argentina,https://images.pluto.tv/channels/69fcaa88e022927e1c94c533/colorLogoPNG_1779731088552.png
 69fcaa71ea95ffff0987f555,MasterChef Colombia,https://images.pluto.tv/channels/69fcaa71ea95ffff0987f555/colorLogoPNG_1779730748951.png
 6095ad97351eb0000754c1e6,Hells Kitchen,https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
