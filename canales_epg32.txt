@@ -8,6 +8,7 @@
 608049aefa2b8ae93c2c3a63-646d06c9b09f13b2d8af68d8,Azteca Internacional,https://provider-static.plex.tv/epg/cms/production/1088747e-b11d-466c-b652-ca6b291ceae5/azteca_internacional_white_1500x1000.png
 608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3,Runtime Acción,https://provider-static.plex.tv/epg/cms/production/9da5683e-30e8-4b78-99b5-a30c8f665f63/Runtime_ES_Accion_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-657222390c7d9b1f1ebc515d,Survivor Mexico,https://provider-static.plex.tv/epg/cms/production/06b112af-4009-4830-9313-6e393ee8e579/SurvivorMexico_Logo_Light_1500x1000_-_Harry_Marshall.png
+608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0,Deal Or No Deal,https://provider-static.plex.tv/epg/cms/production/14bef4ec-a974-42e7-b499-474a71978f65/DOND_Logo_White_1500x1000_-_Harry_Marshall__1_.png
 608049aefa2b8ae93c2c3a63-67db3546d66f778a752f7eaa,PeliMex,https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png
 608049aefa2b8ae93c2c3a63-65ec577c39fd1025c2acd277,FilmRise Crimenes Verdaderos,https://provider-static.plex.tv/epg/cms/production/80f31fb0-3481-4e89-877a-3d2f0bb80215/FilmRise_CrimenesVerdaderos_1500x1000_Light_Logo.png
 608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a,Spark TV Luz y Amor,https://provider-static.plex.tv/epg/cms/production/46beb261-d92b-4f86-965f-3ec3bd222f7a/Plex_SparkTV_key-art_Spanish-RDX.png
