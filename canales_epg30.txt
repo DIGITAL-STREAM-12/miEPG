@@ -64,6 +64,7 @@
 5e98a911c881310007d7aae2,MTV Ridiculousness,https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png
 620fd9f4afb9a80007a9c6d5,MTV Teen Mom,https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png
 625461ef01f27a0007976ad1,MTV Catfish,https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
+6851b909954170e0128bc71d,MTV Ink Master,https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1783961514793.png
 5dd6d935d000120009bc1132,Pluto TV  Competencias,https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
 6647c02422494d000804b13a,Sony One Shark Tank México,https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG_1772461055527.png
 5e3ddbd27091820009f86dd9,MasterChef México,https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1783712159843.png
