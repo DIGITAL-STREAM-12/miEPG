@@ -493,7 +493,7 @@
 0866,Daystar en Español,https://i.ibb.co/HDq7G2N1/0866.jpg
 0867,De Película Clásico,https://i.ibb.co/fG29CNB5/0867.jpg
 0868,De Película Plus,https://i.ibb.co/7dGrLjjv/0868.jpg
-0869,CH0869,https://i.ibb.co/vCZ7TtNj/disponible.jpg
+0869,Sony Cine,https://i.ibb.co/vCZ7TtNj/disponible.jpg
 0870,A3 Cine,https://i.ibb.co/ccFht5DP/0870.jpg
 0901,TV Max • Panamá,https://i.ibb.co/QxWcRmq/0901.jpg
 0902,Caracol TV • Colombia,https://i.ibb.co/99Pj5Z3k/0902.jpg
@@ -580,3 +580,4 @@ XXX5,Brazzer TV • Adultos Desbloqueado,https://i.ibb.co/G4pQ34bQ/XXX5.jpg
 XXX6,Juicy • Adultos Desbloqueado,https://i.ibb.co/fVn9KcK1/XXX6.jpg
 XXX7,Penthouse • Adultos Desbloqueado,https://i.ibb.co/KcNGS81G/XXX7.jpg
 XXX8,XTSY • Adultos Desbloqueado,https://i.ibb.co/DfhtnRt5/XXX8.jpg
+XXX9,Sexy Hot • Adultos Desbloqueado,
