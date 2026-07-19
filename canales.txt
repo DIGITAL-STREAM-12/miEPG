@@ -223,6 +223,7 @@ Canal.Distrito.Comedia.sv,Distrito Comedia.sv
 Canal.E!.Entertainment.Television.(Panregional).sv,E!.Entertainment.sv
 Canal.Elgourmet.sv,Elgourmet.sv
 Canal.Azteca.7..(México).sv,Azteca 7.sv
+0929,Azteca 7.pu
 Canal.TV.Azteca.Corazón.sv,Az Corazón.sv
 0845,Univ. Comedy.pu,https://imagenes.gatotv.com/logos/canales/oscuros/universal_comedy-mediano.png,-3
 0843,Univ. Reality.pu
