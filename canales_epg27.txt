@@ -327,8 +327,8 @@ Congreso Colombia,Congreso Colombia,https://imagenes.gatotv.com/logos/canales/os
 Cosmopolitan,Cosmopolitan,https://imagenes.gatotv.com/logos/canales/oscuros/cosmopolitan_espana-mediano.png
 Canal De Las Estrellas -1 Hora,Canal De Las Estrellas -1 Hora,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
 Canal De Las Estrellas -2 Hora,Canal De Las Estrellas -2 Hora,https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png
-De Película,De Película,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
-De Película Clásico,De Película Clásico,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_clasico-mediano.png
+De Pelicula,De Pelicula,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png
+De Pelicula Clasico,De Pelicula Clasico,https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula_clasico-mediano.png
 Deutsche Welle,Deutsche Welle,https://imagenes.gatotv.com/logos/canales/oscuros/deutsche_welle-mediano.png
 DHE,DHE,https://imagenes.gatotv.com/logos/canales/oscuros/dhe-mediano.png
 Discovery Channel Chile,Discovery Channel Chile,https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png

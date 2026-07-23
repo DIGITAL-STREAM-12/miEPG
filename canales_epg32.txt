@@ -45,7 +45,6 @@
 608049aefa2b8ae93c2c3a63-688d32e9a6fe30698ab42005,Vive Kanal D Drama,https://provider-static.plex.tv/epg/cms/production/edace34e-ac45-44b7-a562-265977557817/Vive_KDD_LOGO-DarkBG_-_Alejandro_N.png
 608049aefa2b8ae93c2c3a63-63f0ca427b78030ed9990309,CombaTV,https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png
 608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c,Corazón,https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png
-608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529,Canela.TV Narco-Drama,https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-66843672a017b7e51aeb28d5,Runtime Familia,https://provider-static.plex.tv/epg/cms/production/d1688b0a-fa63-4b15-8f80-634dd473cf23/Runtime_ES_Familia_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-64fba469bb3e0baa5dcc0947,Canela.TV Clásicos,https://provider-static.plex.tv/epg/cms/production/3b35a0b8-05da-4dcb-ab8d-4155a92274eb/CM-Plex-dark_logo-CanelaTV-clasicos_-_Natalia_Rodriguez.png
 608049aefa2b8ae93c2c3a63-61d73ab0a7b7c7f703418516,Bloomberg TV,https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png
