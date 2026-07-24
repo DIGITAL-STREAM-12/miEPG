@@ -29,6 +29,7 @@
 608049aefa2b8ae93c2c3a63-63489eff90b96ef5e0eb3282,Grjngo - Películas Del Oeste,https://provider-static.plex.tv/epg/cms/production/76964e60-8756-4551-8748-dbd7852bd0bd/Grjngo-Westernfilme_logo_light_-_Toni_Newesil__1_.png
 608049aefa2b8ae93c2c3a63-67db0a3892cb453db28ab020,Cine Romántico,https://provider-static.plex.tv/epg/cms/production/2ab2cd76-5edc-40f5-bcc2-d8da795c0d9b/1500x1000.Cine_Romantico_Logo_All_White.png
 608049aefa2b8ae93c2c3a63-66ccac69fdf9cd3a568ef135,UFC,https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png
+608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f,Azteca Deportes Network,https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png
 608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a,Nosey Escándalos,https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png
 608049aefa2b8ae93c2c3a63-66843849a017b7e51aeb28d7,Runtime Comedia,https://provider-static.plex.tv/epg/cms/production/c3208e7c-cc1c-4e9a-9304-5070368a7cc7/Runtime_ES_Comedia_Dark_Mode_Logordx.png
 608049aefa2b8ae93c2c3a63-60240f57676235002df19f49,FreeTV Familia,https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png
