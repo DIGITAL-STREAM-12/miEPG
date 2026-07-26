@@ -159,7 +159,7 @@ Hola TV,Hola TV,https://imagenes.gatotv.com/logos/canales/oscuros/hola_tv-median
 4 de Monterrey,4 de Monterrey,https://imagenes.gatotv.com/logos/canales/oscuros/4_de_monterrey-mediano.png
 A&amp;E Chile,A&amp;E Chile,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
 A&amp;E,A&amp;E,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
-A&amp;Panregional,A&amp;Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
+A&amp;E Panregional,A&amp;E Panregional,https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png
 a+,a+,https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png
 A+ Gua,A+ Gua,https://imagenes.gatotv.com/logos/canales/oscuros/a_mas_guate-mediano.png
 ADN Noticias,ADN Noticias,https://imagenes.gatotv.com/logos/canales/oscuros/adn_noticias-mediano.png
