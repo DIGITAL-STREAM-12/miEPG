@@ -209,7 +209,7 @@
 608049aefa2b8ae93c2c3a63-60db63d29ec966002c9ea6f0,Made In Hollywood,https://provider-static.plex.tv/epg/cms/production/cd2f9be3-7222-4b75-9653-1c9a988258dc/WHITE_LOGO_Made_Mona_Lapides.png
 608049aefa2b8ae93c2c3a63-652875586425fdb1f32d2169,World Surf League 24/7,https://provider-static.plex.tv/epg/cms/production/b4cf623f-e45e-4706-ba5c-fdf92a9e1e44/WSL_WHITE_LOGO.png
 608049aefa2b8ae93c2c3a63-60b0f65c0c8ffb002c821a75,Qwest TV,https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png
-608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,GoUSA TV,https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png
+608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c,Journy,https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png
 608049aefa2b8ae93c2c3a63-63504925a97bd70eaef54f01,ACL Cornhole TV,https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png
 608049aefa2b8ae93c2c3a63-6970fdabbde579fb71262401,Bowling TV,https://provider-static.plex.tv/epg/cms/production/573ed04e-775e-41c9-a367-81b9597eff00/Channel_Logo_Color_Evann_D___AdamoRDX_WHT_LETTERS.png
 608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb,Cirque du Soleil,https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png
