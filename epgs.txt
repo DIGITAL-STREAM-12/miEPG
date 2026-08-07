@@ -32,3 +32,4 @@ https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/es
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/mx.xml
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/us.xml
 https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml.gz
+https://epg.programadorx.cl/mdiaz/gratis.xml
