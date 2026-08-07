@@ -420,6 +420,7 @@ TV.Chile.cl,TV Chile.cl
 0904,LN+.pu
 0920,Encuentro.pu
 0935,America TV Arg.pu
+660,Memorias Series.md
 América Televisión Perú,America Perú.pe
 ATV,ATV.ga
 ATV+.(ATV+).pe,ATV+.pe
