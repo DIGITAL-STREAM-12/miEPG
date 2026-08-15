@@ -123,6 +123,7 @@ Star TVE HD,Star TVE 720
 Sky Sports 16,Sky Sports 16 720
 Atrescine,Atrescine 720
 TUDN (Estados Unidos),TUDN USA 720
+BBC Series,BBC Series 720
 TUDN.us2,TUDN USA.us
 Canal.TUDN.(México).mx,TUDN MX.mx
 4 de Costa Rica,Repretel 4
