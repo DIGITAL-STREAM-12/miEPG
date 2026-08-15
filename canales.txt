@@ -299,8 +299,8 @@ Canal.Fox.Sports.(México).mx,Fox Sports MX.mx
 Canal.Fox.Sports.2.(México).mx,Fox Sports 2 MX.mx
 Canal.Fox.Sports.3.(México).mx,Fox Sports 3 MX.mx
 Canal.Fox.Sports.(Cono.Sur).sv,Fox Sports Sur.sv,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGNB2l7S7C0IokqAMit3hmv5tmlfTdu7fq1Q&s
-FOX SPORTS 2 AR,Fox Sports 2 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
-FOX SPORTS 3 AR,Fox Sports 3 Sur.ms,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
+1437,Fox Sports 2 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-2-argentina-us-ar.png
+1438,Fox Sports 3 Sur.pu,https://www.lyngsat.com/logo/tv/ff/fox-sports-3-argentina-us-ar.png
 Fox.Deportes.HD.us2,Fox Deportes.us
 Fox.Soccer.Plus.HD.us2,Fox Soccer+.us
 Sky.Sport.Premier.League.de,Sky Premier League.de
