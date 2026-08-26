@@ -135,7 +135,12 @@ Canal.11.de.Costa.Rica.sv,Repretel 11
 Canal.13.de.Costa.Rica.sv,Sinart canal 13
 FUTV,FUTV.ms
 Canal.FUTV.sv,Canal FUTV.sv
-Canal.Tigo.Sports.(Costa.Rica).sv,Tigo Sports.sv
+Fox Costa Rica,Fox CR.ms
+FOX+ Centroamerica,Fox + Centro.ms
+Fox El Salvador,Fox El Salvador.ms
+Fox Guatemala,Fox Guatemala.ms
+Fox Honduras,Fox Honduras.ms
+Fox Nicaragua,Fox Nicaragua.ms
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,11 de Guatemala.sv
