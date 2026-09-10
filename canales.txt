@@ -272,7 +272,7 @@ Tro,Canal Tro.ga
 ZOOM Colombia,ZOOM Colombia.ga
 Win.Sports.co,Win Sports.co
 0430,Win Sports+.pu
-Caracol.co,Caracol.co
+0902,Caracol.vi
 CARACOL.INTERNATIONAL.us2,Caracol Internacional.us
 RCN.co,RCN.co
 RCN.HDTV.2.(RCNHD2).co,RCN HD 2.co
