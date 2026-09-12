@@ -81,6 +81,7 @@ Odisea,Odisea 720
 AMC HD,AMC 720
 AMC Crime,AMC Crime 720
 Historia,Historia 720
+Historia y Vida,Historia y Vida 720
 XTRM,XTRM 720
 Canal Hollywood HD,Canal Hollywood 720
 VinTV,VinTV 720
