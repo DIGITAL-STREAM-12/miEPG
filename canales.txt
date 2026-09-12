@@ -142,6 +142,9 @@ Fox El Salvador,Fox El Salvador.ms
 Fox Guatemala,Fox Guatemala.ms
 Fox Honduras,Fox Honduras.ms
 Fox Nicaragua,Fox Nicaragua.ms
+cv-FOX.mx,FOX One.ru
+rv-MERIDIANOTV.uy,Meridiano TV.ru
+rv-TELEVEN.uy,Televen.ru
 Canal.3.de.Guatemala.sv,3 de Guatemala.sv
 Canal.7.de.Guatemala.sv,7 de Guatemala.sv
 Canal.11.de.Guatemala.sv,11 de Guatemala.sv
