@@ -88,4 +88,4 @@ Canal.MTV.Live.HD.cl,Canal MTV Live HD,https://imagenes.gatotv.com/logos/canales
 Canal.MTV.00s.cl,Canal MTV 00s,https://imagenes.gatotv.com/logos/canales/oscuros/mtv_00s-mediano.png
 Canal.Golden.Premier.cl,Canal Golden Premier,https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png
 Canal.HBO.Pop.cl,Canal HBO Pop,https://imagenes.gatotv.com/logos/canales/oscuros/hbo_pop-mediano.png
-TV.Chile.cl,TV Chile,https://cdn.tvpassport.com/image/station/240x135/v2/s16046_h15_ab.png
+TV.Chile.cl,TV Chile,
