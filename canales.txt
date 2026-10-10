@@ -578,6 +578,7 @@ plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
 608049aefa2b8ae93c2c3a63-64704954e536e0faaf10be9f,Just For Laughs.plex
 608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto TV.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
+608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7,Master Chef Mx.plex
 USBD2500022U5,Cine Retro.sam
 USBD2700005KL,Cine de Oro.sam
 ES2300005G7,Cine Western.sam
