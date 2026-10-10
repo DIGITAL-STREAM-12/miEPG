@@ -131,7 +131,7 @@ Canal.TUDN.(México).mx,TUDN MX.mx
 6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
 7 de Costa Rica Teletica,Teletica.ms
-Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
+Multimedios Costa Rica,Multimedios 8.ms
 Canal.11.de.Costa.Rica.sv,Repretel 11
 13 de Costa Rica,Sinart canal 13.ms
 FUTV,FUTV.ms
@@ -255,6 +255,7 @@ Canal.TLNovelas.(Latinoamérica).sv,TLNovelas.sv
 0835,TNT Novelas.pu
 Canal.Warner.TV.(Panregional).sv,Warner Latam.sv
 Canal.Estrella.TV.sv,Estrella TV.sv
+Comedy Central Centro,Comedy Central.ms
 0812,Comedy Central.pu
 Comedy.Central.co,Comedy Central.co
 Canal.1.co,Canal 1.co
