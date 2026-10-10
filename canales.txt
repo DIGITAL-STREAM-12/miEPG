@@ -130,10 +130,10 @@ Canal.TUDN.(México).mx,TUDN MX.mx
 4 de Costa Rica,Repretel 4
 6 de Costa Rica,Repretel o4
 Canal.6.de.Costa.Rica.sv,Repretel 6
-Canal.7.de.Costa.Rica.(Teletica).sv,Teletica
+7 de Costa Rica Teletica,Teletica.ms
 Canal.Multimedios.(Costa.Rica).sv,Multimedios 8
 Canal.11.de.Costa.Rica.sv,Repretel 11
-Canal.13.de.Costa.Rica.sv,Sinart canal 13
+13 de Costa Rica,Sinart canal 13.ms
 FUTV,FUTV.ms
 Canal.FUTV.sv,Canal FUTV.sv
 Fox Costa Rica,Fox CR.ms
@@ -579,6 +579,7 @@ plex.tv.Ideas.En.5.Minutos.plex,Ideas en 5 Minutos.plex
 608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6,Conflicto TV.plex
 608049aefa2b8ae93c2c3a63-6477b95b7ba9c0d593859bfc,Cops Español.plex
 608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7,Master Chef Mx.plex
+608049aefa2b8ae93c2c3a63-644c446d7472b186783f359e,Todo Cine.plex
 USBD2500022U5,Cine Retro.sam
 USBD2700005KL,Cine de Oro.sam
 ES2300005G7,Cine Western.sam
