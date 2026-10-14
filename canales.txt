@@ -409,6 +409,7 @@ TV.Chile.cl,TV Chile.cl
 0420,Claro Sports 2.pu
 0432,Dsports2.pu
 0442,AzDeportes.pu
+ECDFHD.ec,ECDF.gl
 0443,ECDF.pu
 0508,Zoomback TV.pu
 0509,OLD Music.pu
