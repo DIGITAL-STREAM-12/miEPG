@@ -28,7 +28,7 @@ Grupo Cadena Media,Grupo Cadena Media,https://media.tvup.cloud/canales/color_lg_
 2Cat,2Cat,https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png
 Anime Visión,Anime Visión,https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png
 Todo Pasión,Todo Pasión,https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png
-Oficios perdidos,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_6499789683eadd42faa1bb63.png
+Oficios perdidos,Oficios perdidos,https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
 TRECE,TRECE,https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png
 AXN,AXN,https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png
 AMC,AMC,https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png
@@ -92,7 +92,7 @@ Historia y Vida,Historia y Vida,https://media.tvup.cloud/canales/color_lg_668507
 Love The Planet,Love The Planet,https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png
 El Mueble,El Mueble,https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png
 EscapaTV,EscapaTV,https://media.tvup.cloud/canales/color_lg_667eb39f46a1b3c800aa90cd_1775745272122.png
-Oficios perdidos (dial 93),Oficios perdidos (dial 93),https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png
+Oficios perdidos (dial 93),Oficios perdidos (dial 93),https://media.tvup.cloud/canales/color_lg_6499789683eadd42faa1bb63.png
 ZenLIFE,ZenLIFE,https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png
 Love Wine,Love Wine,https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png
 Trailers,Trailers,https://media.tvup.cloud/canales/color_lg_64f9b2e2aae0260ae8e34fed.png
@@ -180,6 +180,7 @@ Record News,Record News,https://media.tvup.cloud/canales/color_lg_6523b7b6fd971d
 Ecuavisa,Ecuavisa,https://media.tvup.cloud/canales/color_lg_67370b261e1c3816fa9569c1_1738687237781.png
 Daystar,Daystar,https://media.tvup.cloud/canales/color_lg_67dc515bd0b0cf2397ebee56_1742495177522.png
 Caracol Mix,Caracol Mix,https://media.tvup.cloud/canales/color_lg_69299750b210457d13ff20f9_1772119274027.png
+Latino Circuit TV,Latino Circuit TV,https://media.tvup.cloud/channels/6a7da1f572415c345fd1317blogoColor.png
 Bloomberg Television,Bloomberg Television,https://media.tvup.cloud/canales/color_lg_6731ef639767b3f9ec43808d_1737111455971.png
 BBC World News,BBC World News,https://media.tvup.cloud/canales/5b02d6c5c5895a2dc7b5d07blogoColor.png
 Al Jazeera,Al Jazeera,https://media.tvup.cloud/canales/color_lg_5b02d73ec5895a2dc7b5d07c.png
@@ -228,12 +229,12 @@ Vinx TV,Vinx TV,https://media.tvup.cloud/channels/69f3591feaa0de5140851995logoCo
 TeleVitoria,TeleVitoria,https://media.tvup.cloud/channels/6a9e7336d9677bb9ed68e6d2logoColor.png
 TeleDonosti,TeleDonosti,https://media.tvup.cloud/channels/6a9e75194fc08aaba4f562ddlogoColor.png
 Nós Televisión,Nós Televisión,https://media.tvup.cloud/channels/6aab9f0a9d5fda4125d8d480logoColor.png
+Arabí Yecla TV,Arabí Yecla TV,https://media.tvup.cloud/channels/6ad0b979eb28b5dfa8a07925logoColor.png
 VOTV,VOTV,https://media.tvup.cloud/canales/5b042f54b63af22346518c50logoColor.png
 Canal 4 Televisió,Canal 4 Televisió,https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png
 Vallès Visió,Vallès Visió,https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png
 Televisió L'Hospitalet,Televisió L'Hospitalet,https://media.tvup.cloud/canales/color_lg_5ffff9413f2376002503bb2c.png
 BDN Televisió,BDN Televisió,https://media.tvup.cloud/canales/color_lg_6007eebf9ee9270031e56568.png
-TAC 12,TAC 12,https://media.tvup.cloud/canales/color_lg_618bac9b0cf6f10021217b45.png
 TV Ripollès,TV Ripollès,https://media.tvup.cloud/canales/color_lg_5cfa47f9e1553f0057b85fd6.png
 Canal Terrassa,Canal Terrassa,https://media.tvup.cloud/canales/color_lg_69a6cc7a6535201300cb941a_1773130701192.png
 Fibwi TV Autonómica,Fibwi TV Autonómica,https://media.tvup.cloud/canales/color_lg_5bb5d815968944004b1fb4fd.png
