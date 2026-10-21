@@ -608,8 +608,8 @@ I137.47425.schedulesdirect.org,CLOCAL,
 I141.70312.schedulesdirect.org,Sony Movies,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70312_dark_360w_270h.png
 I142.19385.schedulesdirect.org,Sony Movies HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
 I143.88517.schedulesdirect.org,SENTTVH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19385_dark_360w_270h.png
-I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
-I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59562_dark_360w_270h.png
+I146.16141.schedulesdirect.org,Cartoon Network Latinoamerica,
+I147.101735.schedulesdirect.org,Cartoon Network LatinoAmerica HD,
 I149.60048.schedulesdirect.org,TOONHD,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60048_dark_360w_270h.png
 I152.10098.schedulesdirect.org,CBS,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png
 I156.44479.schedulesdirect.org,CGTN Español,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44479_dark_360w_270h.png
@@ -1247,7 +1247,6 @@ I428.49882.gracenote.com,Sportsnet Pittsburgh,https://zpmc.tmsimg.com/h3/NowShow
 I432.59607.gracenote.com,Masn,https://zpmc.tmsimg.com/h3/NowShowing/59607/GNLZZGG002QC98G.png
 I434.35038.gracenote.com,NESN,https://zpmc.tmsimg.com/h3/NowShowing/35038/s35038_ll_h15_ac.png
 I438.73565.gracenote.com,NBC Sports California,https://zpmc.tmsimg.com/h3/NowShowing/73565/s45540_ll_h15_ad.png
-I835.10239.gracenote.com,Telemundo East,https://zpmc.tmsimg.com/h3/NowShowing/10239/s10239_ll_h15_ab.png
 I70.60222.schedulesdirect.org,QVC,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0037GYJC.png_dark_360w_270h.png
 I70.62077.schedulesdirect.org,HSN,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62077_dark_360w_270h.png
 I77.70436.schedulesdirect.org,Me TV,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png
