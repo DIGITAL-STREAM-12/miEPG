@@ -961,7 +961,6 @@ I1236.89973.schedulesdirect.org,ZOOMOSP,https://schedulesdirect-api20141201-logo
 I9.89562.schedulesdirect.org,4SEVENH,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89562_dark_360w_270h.png
 I12.109246.schedulesdirect.org,UK - 5 Action,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s109246_dark_360w_270h.png
 I15.52336.schedulesdirect.org,UK - 5 Star,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52336_dark_360w_270h.png
-I18.56888.schedulesdirect.org,UK - 5 Select,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56888_dark_360w_270h.png
 I22.52335.schedulesdirect.org,UK - 5 USA,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52335_dark_360w_270h.png
 I23.56890.schedulesdirect.org,UK - 5 USA +1,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56890_dark_360w_270h.png
 I28.56894.schedulesdirect.org,UK - AJ TAK,https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56894_dark_360w_270h.png
