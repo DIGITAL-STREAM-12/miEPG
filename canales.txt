@@ -206,6 +206,14 @@ Canal.HBO.Family.Latinoamérica.sv,HBO Family.sv
 Canal.HBO.Signature.Latinoamérica.sv,HBO Signature.sv
 Canal.TCM.(Panregional).sv,TCM.sv
 Space Panregional,Space.ga
+ENT Channel,ENT Channel
+ENT Family,ENT Family
+ENT Extreme,ENT Extreme
+ENT Movies,ENT Movies
+ENT Comedy,ENT Comedy
+ENT Drama,ENT Drama
+ENT Classic,ENT Classic
+ENT Life,ENT Life
 HITN,HITN.ga
 La Tele Paraguay,La Tele Paraguay.ga
 Unicanal,Unicanal PY.ga
