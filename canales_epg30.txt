@@ -1,9 +1,14 @@
-# Fuente: https://raw.githubusercontent.com/iamsaamu32/epg_channel/refs/heads/main/guia.xml
-ENT Channel,ENT Channel,
-ENT Family,ENT Family,
-ENT Extreme,ENT Extreme,
-ENT Movies,ENT Movies,
-ENT Comedy,ENT Comedy,
-ENT Drama,ENT Drama,
-ENT Classic,ENT Classic,
-ENT Life,ENT Life,
+# Fuente: https://api.40mediagroup.com/xmltv/programacion/todos/xmltv.xml
+ENTMain.40mediaGroup,ENT Channel,https://api.40mediagroup.com/xmltv/img/channels/ent-channel/branding/logo-092603050519.png
+ENTFamily.40mediaGroup,ENT Family,https://api.40mediagroup.com/xmltv/img/channels/ent-family/branding/logo-64cdff2b6d56.png
+ENTMovies.40mediaGroup,ENT Movies,https://api.40mediagroup.com/xmltv/img/channels/ent-movies/branding/logo-011b49ac48c4.png
+ENTDrama.40mediaGroup,ENT Drama,https://api.40mediagroup.com/xmltv/img/channels/ent-drama/branding/logo-c67d1d9a1ec2.png
+ENTClassic.40mediaGroup,ENT Classic,https://api.40mediagroup.com/xmltv/img/channels/ent-classic/branding/logo-560d0ceb7f6b.png
+ENTLife.40mediaGroup,ENT Life,https://api.40mediagroup.com/xmltv/img/channels/ent-life/branding/logo-4875dfa3c69b.png
+ENTExtreme.40mediaGroup,ENT Extreme,https://api.40mediagroup.com/xmltv/img/channels/ent-extreme/branding/logo-f29aac765502.png
+ENTComedy.40mediaGroup,ENT Comedy,https://api.40mediagroup.com/xmltv/img/channels/ent-comedy/branding/logo-23186f41aae9.png
+TMC.40mediaGroup,Totalmusic,https://api.40mediagroup.com/xmltv/img/channels/totalmusic-main/branding/logo-ae220a185bff.png
+TMC80s.40mediaGroup,Totalmusic 80s,https://api.40mediagroup.com/xmltv/img/channels/totalmusic-80s/branding/logo-03807b27a048.png
+TMC2000s.40mediaGroup,Totalmusic 2000s,https://api.40mediagroup.com/xmltv/img/channels/totalmusic-00s/branding/logo-160a95e5a701.png
+TMCConcerts.40mediaGroup,Totalmusic Concerts,https://api.40mediagroup.com/xmltv/img/channels/totalmusic-concerts/branding/logo-cb5d8bdaea31.png
+TMCDance.40mediaGroup,Totalmusic Dance,https://api.40mediagroup.com/xmltv/img/channels/totalmusic-dance/branding/logo-d2b373c69bdf.png
