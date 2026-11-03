@@ -10,7 +10,7 @@ A24.HD.uy,A24 HD,https://www.reportv.com.ar/buscador/img/Logos/48806494.jpg
 A3CINE..uy,A3CINE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3627.svg
 ADRENALINA.SPORTS.NETWORK.HD.uy,ADRENALINA SPORTS NETWORK HD,https://www.reportv.com.ar/buscador/img/Logos/8808830.jpg
 ALLEGRO.HD..uy,ALLEGRO HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/3154.svg
-ALLEGRO.HD.uy,ALLEGRO HD,
+ALLEGRO.HD.uy,ALLEGRO HD,https://www.reportv.com.ar/buscador/img/Logos/1901324.jpg
 AMC..uy,AMC,
 AMC.HD..uy,AMC HD,http://resources.nuevosiglo.com.uy/reportv/img/senales/1250.svg
 AMC.HD.uy,AMC HD,https://www.reportv.com.ar/buscador/img/Logos/1901668.jpg
@@ -40,7 +40,7 @@ CANAL.24.HS.uy,CANAL 24 HS,https://www.reportv.com.ar/buscador/img/Logos/3061075
 CANAL.33.uy,CANAL 33,
 CANAL.4.MONTECARLO..uy,CANAL 4 MONTECARLO,http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg
 CANAL.5..uy,CANAL 5,http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg
-CANAL.7.HD.uy,CANAL 7 HD,
+CANAL.7.HD.uy,CANAL 7 HD,https://www.reportv.com.ar/buscador/img/Logos/5751935.jpg
 CANAL.A.HD.uy,CANAL A HD,https://www.reportv.com.ar/buscador/img/Logos/4855914.jpg
 CANAL.EVENTOS.1001.uy,CANAL EVENTOS 1001,
 CANAL.EVENTOS.32.uy,CANAL EVENTOS 32,
@@ -227,7 +227,7 @@ PENTHOUSE..uy,PENTHOUSE,http://resources.nuevosiglo.com.uy/reportv/img/senales/3
 PLAYBOY..uy,PLAYBOY,
 PLAYBOY.ETIQUETA.uy,PLAYBOY ETIQUETA,https://www.reportv.com.ar/buscador/img/Logos/11084112.jpg
 PLIM.PLIM..uy,PLIM PLIM,http://resources.nuevosiglo.com.uy/reportv/img/senales/8010.svg
-PLIM.PLIM.uy,PLIM PLIM,
+PLIM.PLIM.uy,PLIM PLIM,https://www.reportv.com.ar/buscador/img/Logos/26835698.jpg
 QUIERO..uy,QUIERO,
 QUIERO.HD.uy,QUIERO HD,https://www.reportv.com.ar/buscador/img/Logos/9332822.jpg
 RAI..uy,RAI,
